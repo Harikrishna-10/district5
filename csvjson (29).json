@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 0,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 10,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 10,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 10,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 10,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 10,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 13,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 13,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 22,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 26,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 26,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 26,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 26,
+    "Recovered": 13,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 28,
+    "Recovered": 13,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 28,
+    "Recovered": 13,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 28,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 28,
+    "Recovered": 25,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 28,
+    "Recovered": 25,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 28,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 31,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 31,
+    "Recovered": 27,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 31,
+    "Recovered": 27,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 32,
+    "Recovered": 28,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 33,
+    "Recovered": 28,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 34,
+    "Recovered": 28,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 35,
+    "Recovered": 28,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 35,
+    "Recovered": 29,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 34,
+    "Recovered": 30,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 35,
+    "Recovered": 30,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 35,
+    "Recovered": 30,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 35,
+    "Recovered": 30,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 42,
+    "Recovered": 32,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 42,
+    "Recovered": 32,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 44,
+    "Recovered": 35,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 50,
+    "Recovered": 33,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 62,
+    "Recovered": 39,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 75,
+    "Recovered": 39,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 90,
+    "Recovered": 39,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 57,
+    "Recovered": 40,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 55,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 65,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 72,
+    "Recovered": 45,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5400
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 80,
+    "Recovered": 49,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 7012
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 95,
+    "Recovered": 49,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 75,
+    "Recovered": 49,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 103,
+    "Recovered": 53,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 103,
+    "Recovered": 53,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 110,
+    "Recovered": 58,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 135,
+    "Recovered": 61,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 130,
+    "Recovered": 71,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 157,
+    "Recovered": 61,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 168,
+    "Recovered": 62,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 189,
+    "Recovered": 62,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 241,
+    "Recovered": 87,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 268,
+    "Recovered": 86,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 331,
+    "Recovered": 96,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 376,
+    "Recovered": 118,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 425,
+    "Recovered": 161,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 512,
+    "Recovered": 178,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 564,
+    "Recovered": 217,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 576,
+    "Recovered": 281,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 611,
+    "Recovered": 348,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 675,
+    "Recovered": 409,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 720,
+    "Recovered": 425,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 786,
+    "Recovered": 472,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 862,
+    "Recovered": 513,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 891,
+    "Recovered": 537,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1003,
+    "Recovered": 551,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1103,
+    "Recovered": 578,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1188,
+    "Recovered": 610,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1260,
+    "Recovered": 629,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1438,
+    "Recovered": 646,
+    "Deceased": 24,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1531,
+    "Recovered": 690,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1612,
+    "Recovered": 714,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1687,
+    "Recovered": 778,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1760,
+    "Recovered": 842,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 7156
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1824,
+    "Recovered": 872,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1906,
+    "Recovered": 982,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 1991,
+    "Recovered": 1159,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2079,
+    "Recovered": 1415,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2123,
+    "Recovered": 1586,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2182,
+    "Recovered": 1657,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2226,
+    "Recovered": 1726,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2301,
+    "Recovered": 1789,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2365,
+    "Recovered": 1872,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2426,
+    "Recovered": 1957,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2471,
+    "Recovered": 2037,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2534,
+    "Recovered": 2078,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2677,
+    "Recovered": 2129,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2742,
+    "Recovered": 2176,
+    "Deceased": 55,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2768,
+    "Recovered": 2253,
+    "Deceased": 55,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2832,
+    "Recovered": 2315,
+    "Deceased": 56,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2887,
+    "Recovered": 2375,
+    "Deceased": 61,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2936,
+    "Recovered": 2422,
+    "Deceased": 65,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 2996,
+    "Recovered": 2482,
+    "Deceased": 68,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3053,
+    "Recovered": 2614,
+    "Deceased": 70,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3139,
+    "Recovered": 2681,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3203,
+    "Recovered": 2707,
+    "Deceased": 72,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3271,
+    "Recovered": 2775,
+    "Deceased": 75,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3320,
+    "Recovered": 2828,
+    "Deceased": 78,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3374,
+    "Recovered": 2874,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3423,
+    "Recovered": 2932,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3478,
+    "Recovered": 2986,
+    "Deceased": 87,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3545,
+    "Recovered": 2987,
+    "Deceased": 90,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3593,
+    "Recovered": 3143,
+    "Deceased": 92,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3630,
+    "Recovered": 3213,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3691,
+    "Recovered": 3262,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3734,
+    "Recovered": 3314,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3783,
+    "Recovered": 3369,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3826,
+    "Recovered": 3420,
+    "Deceased": 103,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3841,
+    "Recovered": 3488,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3907,
+    "Recovered": 3514,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3962,
+    "Recovered": 3552,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 3995,
+    "Recovered": 3610,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4028,
+    "Recovered": 3651,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4053,
+    "Recovered": 3698,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4089,
+    "Recovered": 3739,
+    "Deceased": 108,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4114,
+    "Recovered": 3756,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4145,
+    "Recovered": 3818,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4191,
+    "Recovered": 3879,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4225,
+    "Recovered": 3914,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4256,
+    "Recovered": 3945,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4297,
+    "Recovered": 3969,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4345,
+    "Recovered": 4006,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4382,
+    "Recovered": 4031,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4399,
+    "Recovered": 4061,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4424,
+    "Recovered": 4106,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4475,
+    "Recovered": 4140,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4521,
+    "Recovered": 4171,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4557,
+    "Recovered": 4210,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4585,
+    "Recovered": 4238,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4625,
+    "Recovered": 4268,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4669,
+    "Recovered": 4288,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4701,
+    "Recovered": 4312,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4738,
+    "Recovered": 4362,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4799,
+    "Recovered": 4406,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4840,
+    "Recovered": 4445,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4878,
+    "Recovered": 4473,
+    "Deceased": 118,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4922,
+    "Recovered": 4508,
+    "Deceased": 117,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 4964,
+    "Recovered": 4549,
+    "Deceased": 117,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5012,
+    "Recovered": 4586,
+    "Deceased": 118,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5040,
+    "Recovered": 4623,
+    "Deceased": 119,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5070,
+    "Recovered": 4682,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5109,
+    "Recovered": 4725,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5145,
+    "Recovered": 4763,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5172,
+    "Recovered": 4806,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5204,
+    "Recovered": 4844,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5230,
+    "Recovered": 4892,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5268,
+    "Recovered": 4917,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5304,
+    "Recovered": 4946,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5336,
+    "Recovered": 4982,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5356,
+    "Recovered": 5028,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5392,
+    "Recovered": 5052,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5408,
+    "Recovered": 5085,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5434,
+    "Recovered": 5111,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5473,
+    "Recovered": 5146,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5499,
+    "Recovered": 5179,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5524,
+    "Recovered": 5213,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5543,
+    "Recovered": 5240,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5557,
+    "Recovered": 5270,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5583,
+    "Recovered": 5290,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5602,
+    "Recovered": 5316,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5625,
+    "Recovered": 5352,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5651,
+    "Recovered": 5378,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5674,
+    "Recovered": 5402,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5697,
+    "Recovered": 5417,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5715,
+    "Recovered": 5431,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5730,
+    "Recovered": 5456,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5747,
+    "Recovered": 5476,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5768,
+    "Recovered": 5503,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5791,
+    "Recovered": 5527,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5814,
+    "Recovered": 5554,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5833,
+    "Recovered": 5576,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5850,
+    "Recovered": 5593,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5865,
+    "Recovered": 5608,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5882,
+    "Recovered": 5618,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5901,
+    "Recovered": 5637,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5912,
+    "Recovered": 5662,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5922,
+    "Recovered": 5693,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5935,
+    "Recovered": 5702,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5959,
+    "Recovered": 5706,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5971,
+    "Recovered": 5719,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 5989,
+    "Recovered": 5737,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6013,
+    "Recovered": 5754,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6036,
+    "Recovered": 5760,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6054,
+    "Recovered": 5793,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6072,
+    "Recovered": 5805,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6093,
+    "Recovered": 5820,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6113,
+    "Recovered": 5840,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6127,
+    "Recovered": 5849,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6138,
+    "Recovered": 5870,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6149,
+    "Recovered": 5880,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6156,
+    "Recovered": 5897,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6162,
+    "Recovered": 5919,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6173,
+    "Recovered": 5943,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6187,
+    "Recovered": 5967,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6192,
+    "Recovered": 5987,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6205,
+    "Recovered": 6011,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6220,
+    "Recovered": 6023,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6230,
+    "Recovered": 6036,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6248,
+    "Recovered": 6040,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6258,
+    "Recovered": 6047,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6268,
+    "Recovered": 6058,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6280,
+    "Recovered": 6066,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6290,
+    "Recovered": 6079,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6301,
+    "Recovered": 6089,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6312,
+    "Recovered": 6101,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6322,
+    "Recovered": 6114,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6329,
+    "Recovered": 6125,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6345,
+    "Recovered": 6139,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6351,
+    "Recovered": 6153,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6354,
+    "Recovered": 6161,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6361,
+    "Recovered": 6171,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6367,
+    "Recovered": 6176,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6380,
+    "Recovered": 6189,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6386,
+    "Recovered": 6200,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6394,
+    "Recovered": 6214,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6396,
+    "Recovered": 6226,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6407,
+    "Recovered": 6231,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6413,
+    "Recovered": 6238,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6422,
+    "Recovered": 6243,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6427,
+    "Recovered": 6246,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6437,
+    "Recovered": 6256,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6444,
+    "Recovered": 6260,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6450,
+    "Recovered": 6264,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6456,
+    "Recovered": 6273,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6457,
+    "Recovered": 6279,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6461,
+    "Recovered": 6284,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6467,
+    "Recovered": 6292,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6470,
+    "Recovered": 6301,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6476,
+    "Recovered": 6306,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6481,
+    "Recovered": 6314,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6494,
+    "Recovered": 6319,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6505,
+    "Recovered": 6328,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6515,
+    "Recovered": 6329,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6523,
+    "Recovered": 6333,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6532,
+    "Recovered": 6337,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6535,
+    "Recovered": 6344,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6539,
+    "Recovered": 6346,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6543,
+    "Recovered": 6352,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6546,
+    "Recovered": 6362,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6551,
+    "Recovered": 6373,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6557,
+    "Recovered": 6379,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6560,
+    "Recovered": 6390,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6562,
+    "Recovered": 6402,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6569,
+    "Recovered": 6410,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6576,
+    "Recovered": 6411,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6579,
+    "Recovered": 6414,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6582,
+    "Recovered": 6416,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6588,
+    "Recovered": 6418,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6593,
+    "Recovered": 6422,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6600,
+    "Recovered": 6429,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6604,
+    "Recovered": 6433,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6610,
+    "Recovered": 6436,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6613,
+    "Recovered": 6440,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6614,
+    "Recovered": 6445,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6618,
+    "Recovered": 6454,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6620,
+    "Recovered": 6461,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6624,
+    "Recovered": 6465,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6629,
+    "Recovered": 6470,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6633,
+    "Recovered": 6476,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6638,
+    "Recovered": 6482,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6645,
+    "Recovered": 6486,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6647,
+    "Recovered": 6491,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6652,
+    "Recovered": 6497,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6651,
+    "Recovered": 6500,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6653,
+    "Recovered": 6504,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6657,
+    "Recovered": 6506,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6657,
+    "Recovered": 6507,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6660,
+    "Recovered": 6509,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6665,
+    "Recovered": 6515,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6672,
+    "Recovered": 6520,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6677,
+    "Recovered": 6523,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6677,
+    "Recovered": 6528,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6681,
+    "Recovered": 6530,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6681,
+    "Recovered": 6531,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6680,
+    "Recovered": 6533,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6679,
+    "Recovered": 6534,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6689,
+    "Recovered": 6538,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6693,
+    "Recovered": 6544,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6697,
+    "Recovered": 6548,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6704,
+    "Recovered": 6550,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6710,
+    "Recovered": 6551,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6717,
+    "Recovered": 6553,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6721,
+    "Recovered": 6554,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6731,
+    "Recovered": 6557,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6739,
+    "Recovered": 6559,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6740,
+    "Recovered": 6566,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6749,
+    "Recovered": 6574,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6756,
+    "Recovered": 6580,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6764,
+    "Recovered": 6585,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6769,
+    "Recovered": 6590,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6771,
+    "Recovered": 6597,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6774,
+    "Recovered": 6603,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6774,
+    "Recovered": 6608,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6779,
+    "Recovered": 6611,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6786,
+    "Recovered": 6615,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6791,
+    "Recovered": 6621,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6796,
+    "Recovered": 6628,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6801,
+    "Recovered": 6636,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6800,
+    "Recovered": 6642,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6802,
+    "Recovered": 6646,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6806,
+    "Recovered": 6650,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6808,
+    "Recovered": 6653,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6807,
+    "Recovered": 6657,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6809,
+    "Recovered": 6660,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6813,
+    "Recovered": 6665,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6818,
+    "Recovered": 6669,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6822,
+    "Recovered": 6672,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6830,
+    "Recovered": 6674,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6833,
+    "Recovered": 6676,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6841,
+    "Recovered": 6677,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6849,
+    "Recovered": 6679,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6854,
+    "Recovered": 6682,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6854,
+    "Recovered": 6684,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6857,
+    "Recovered": 6685,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6864,
+    "Recovered": 6688,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6875,
+    "Recovered": 6692,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6887,
+    "Recovered": 6697,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6894,
+    "Recovered": 6705,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6899,
+    "Recovered": 6711,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6909,
+    "Recovered": 6717,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6921,
+    "Recovered": 6721,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6940,
+    "Recovered": 6729,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6950,
+    "Recovered": 6736,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6962,
+    "Recovered": 6744,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6983,
+    "Recovered": 6755,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 6998,
+    "Recovered": 6764,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7016,
+    "Recovered": 6770,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7045,
+    "Recovered": 6780,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7063,
+    "Recovered": 6792,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7086,
+    "Recovered": 6809,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7097,
+    "Recovered": 6822,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7126,
+    "Recovered": 6834,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7136,
+    "Recovered": 6855,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7181,
+    "Recovered": 6870,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7239,
+    "Recovered": 6873,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7278,
+    "Recovered": 6886,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7338,
+    "Recovered": 6911,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7410,
+    "Recovered": 6929,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7435,
+    "Recovered": 6954,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7474,
+    "Recovered": 6966,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7529,
+    "Recovered": 6997,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7570,
+    "Recovered": 7029,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7633,
+    "Recovered": 7069,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7680,
+    "Recovered": 7103,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7719,
+    "Recovered": 7145,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7761,
+    "Recovered": 7201,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7821,
+    "Recovered": 7270,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7866,
+    "Recovered": 7309,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 7945,
+    "Recovered": 7345,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8019,
+    "Recovered": 7401,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8089,
+    "Recovered": 7466,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8191,
+    "Recovered": 7541,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8264,
+    "Recovered": 7569,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8340,
+    "Recovered": 7647,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8441,
+    "Recovered": 7711,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8567,
+    "Recovered": 7750,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8677,
+    "Recovered": 7817,
+    "Deceased": 133,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8801,
+    "Recovered": 7903,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 8928,
+    "Recovered": 8058,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 9058,
+    "Recovered": 8166,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 9201,
+    "Recovered": 8256,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 9334,
+    "Recovered": 8359,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 9441,
+    "Recovered": 8485,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 9580,
+    "Recovered": 8645,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 9707,
+    "Recovered": 8806,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 9908,
+    "Recovered": 8916,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 10123,
+    "Recovered": 9047,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 10315,
+    "Recovered": 9125,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 10529,
+    "Recovered": 9190,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 10752,
+    "Recovered": 9303,
+    "Deceased": 141,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 10995,
+    "Recovered": 9433,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 11221,
+    "Recovered": 9572,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 11448,
+    "Recovered": 9744,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 11627,
+    "Recovered": 9966,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 11842,
+    "Recovered": 10164,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12074,
+    "Recovered": 10378,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12287,
+    "Recovered": 10562,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12450,
+    "Recovered": 10793,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12665,
+    "Recovered": 10913,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 12880,
+    "Recovered": 10998,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 13198,
+    "Recovered": 11084,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 13433,
+    "Recovered": 11257,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 13599,
+    "Recovered": 11428,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 13814,
+    "Recovered": 11616,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 14018,
+    "Recovered": 11844,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 14236,
+    "Recovered": 12100,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 14394,
+    "Recovered": 12252,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 14626,
+    "Recovered": 12455,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 14838,
+    "Recovered": 12685,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 15000,
+    "Recovered": 12889,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 15187,
+    "Recovered": 13153,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 15333,
+    "Recovered": 13358,
+    "Deceased": 168,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 15461,
+    "Recovered": 13542,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 15569,
+    "Recovered": 13729,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 15709,
+    "Recovered": 13937,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 15825,
+    "Recovered": 14083,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 15929,
+    "Recovered": 14231,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16046,
+    "Recovered": 14446,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16191,
+    "Recovered": 14627,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16329,
+    "Recovered": 14972,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16421,
+    "Recovered": 15209,
+    "Deceased": 182,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16499,
+    "Recovered": 15352,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16603,
+    "Recovered": 15440,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16688,
+    "Recovered": 15576,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16767,
+    "Recovered": 15670,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16842,
+    "Recovered": 15752,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16922,
+    "Recovered": 15917,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 16996,
+    "Recovered": 16088,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17090,
+    "Recovered": 16183,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17176,
+    "Recovered": 16274,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17262,
+    "Recovered": 16369,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17350,
+    "Recovered": 16450,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17430,
+    "Recovered": 16563,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17500,
+    "Recovered": 16667,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17566,
+    "Recovered": 16749,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17624,
+    "Recovered": 16816,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17689,
+    "Recovered": 16878,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17751,
+    "Recovered": 16934,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17813,
+    "Recovered": 17008,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17870,
+    "Recovered": 17097,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17925,
+    "Recovered": 17183,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 17975,
+    "Recovered": 17257,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18022,
+    "Recovered": 17324,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18065,
+    "Recovered": 17385,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18104,
+    "Recovered": 17438,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18156,
+    "Recovered": 17479,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18202,
+    "Recovered": 17526,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18242,
+    "Recovered": 17561,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18277,
+    "Recovered": 17600,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18318,
+    "Recovered": 17649,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18365,
+    "Recovered": 17702,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18395,
+    "Recovered": 17753,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18431,
+    "Recovered": 17802,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18465,
+    "Recovered": 17857,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18493,
+    "Recovered": 17903,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18515,
+    "Recovered": 17934,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18543,
+    "Recovered": 17960,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18563,
+    "Recovered": 17978,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18582,
+    "Recovered": 17999,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18607,
+    "Recovered": 18022,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18624,
+    "Recovered": 18051,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18645,
+    "Recovered": 18073,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18665,
+    "Recovered": 18091,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18696,
+    "Recovered": 18115,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18719,
+    "Recovered": 18148,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18747,
+    "Recovered": 18174,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18767,
+    "Recovered": 18208,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18789,
+    "Recovered": 18248,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18812,
+    "Recovered": 18305,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18836,
+    "Recovered": 18353,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18862,
+    "Recovered": 18396,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18880,
+    "Recovered": 18424,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18902,
+    "Recovered": 18450,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18928,
+    "Recovered": 18474,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18944,
+    "Recovered": 18496,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18963,
+    "Recovered": 18521,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 18980,
+    "Recovered": 18545,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19001,
+    "Recovered": 18570,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19022,
+    "Recovered": 18594,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19041,
+    "Recovered": 18620,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19056,
+    "Recovered": 18642,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19077,
+    "Recovered": 18660,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19102,
+    "Recovered": 18676,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19121,
+    "Recovered": 18697,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19140,
+    "Recovered": 18720,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19160,
+    "Recovered": 18741,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19176,
+    "Recovered": 18765,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19195,
+    "Recovered": 18793,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19217,
+    "Recovered": 18816,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19236,
+    "Recovered": 18835,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19254,
+    "Recovered": 18854,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19270,
+    "Recovered": 18866,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19292,
+    "Recovered": 18880,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19308,
+    "Recovered": 18898,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19325,
+    "Recovered": 18912,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19341,
+    "Recovered": 18925,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19356,
+    "Recovered": 18935,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19367,
+    "Recovered": 18947,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19379,
+    "Recovered": 18962,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19391,
+    "Recovered": 18976,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19407,
+    "Recovered": 18996,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19418,
+    "Recovered": 19020,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19440,
+    "Recovered": 19041,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19454,
+    "Recovered": 19065,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19464,
+    "Recovered": 19092,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19484,
+    "Recovered": 19120,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19502,
+    "Recovered": 19151,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19512,
+    "Recovered": 19175,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19528,
+    "Recovered": 19192,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19557,
+    "Recovered": 19204,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19576,
+    "Recovered": 19218,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19591,
+    "Recovered": 19234,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19610,
+    "Recovered": 19243,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19622,
+    "Recovered": 19251,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19631,
+    "Recovered": 19257,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19641,
+    "Recovered": 19261,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19655,
+    "Recovered": 19267,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19668,
+    "Recovered": 19276,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19676,
+    "Recovered": 19291,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19696,
+    "Recovered": 19310,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19712,
+    "Recovered": 19336,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19728,
+    "Recovered": 19357,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19748,
+    "Recovered": 19380,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19768,
+    "Recovered": 19401,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19785,
+    "Recovered": 19421,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19803,
+    "Recovered": 19439,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19820,
+    "Recovered": 19451,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19835,
+    "Recovered": 19459,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19848,
+    "Recovered": 19466,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19863,
+    "Recovered": 19475,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19875,
+    "Recovered": 19486,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19890,
+    "Recovered": 19503,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19901,
+    "Recovered": 19523,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19912,
+    "Recovered": 19540,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19921,
+    "Recovered": 19559,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19929,
+    "Recovered": 19576,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19944,
+    "Recovered": 19591,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19953,
+    "Recovered": 19608,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19964,
+    "Recovered": 19620,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19972,
+    "Recovered": 19635,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19983,
+    "Recovered": 19647,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 19991,
+    "Recovered": 19657,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20005,
+    "Recovered": 19666,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20018,
+    "Recovered": 19677,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20028,
+    "Recovered": 19687,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20039,
+    "Recovered": 19696,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20050,
+    "Recovered": 19708,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20060,
+    "Recovered": 19721,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20071,
+    "Recovered": 19736,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20087,
+    "Recovered": 19748,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20100,
+    "Recovered": 19759,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20105,
+    "Recovered": 19769,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20113,
+    "Recovered": 19776,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20122,
+    "Recovered": 19784,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20134,
+    "Recovered": 19796,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20148,
+    "Recovered": 19809,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20158,
+    "Recovered": 19824,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20171,
+    "Recovered": 19838,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 25824
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Sivaganga",
+    "cases": 20182,
+    "Recovered": 19845,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 25824
+  }
+]
