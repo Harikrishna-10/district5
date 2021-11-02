@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75,
+    "Recovered": 8,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 79,
+    "Recovered": 8,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 79,
+    "Recovered": 36,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 79,
+    "Recovered": 40,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 84,
+    "Recovered": 40,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 87,
+    "Recovered": 42,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 88,
+    "Recovered": 42,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 90,
+    "Recovered": 43,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 91,
+    "Recovered": 43,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 92,
+    "Recovered": 43,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 112,
+    "Recovered": 48,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 112,
+    "Recovered": 54,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 114,
+    "Recovered": 54,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 114,
+    "Recovered": 70,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 118,
+    "Recovered": 73,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 122,
+    "Recovered": 73,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 122,
+    "Recovered": 73,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 124,
+    "Recovered": 83,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 132,
+    "Recovered": 83,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 143,
+    "Recovered": 87,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 147,
+    "Recovered": 89,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 160,
+    "Recovered": 107,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 163,
+    "Recovered": 108,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 163,
+    "Recovered": 108,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 172,
+    "Recovered": 108,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 191,
+    "Recovered": 109,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 224,
+    "Recovered": 111,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 226,
+    "Recovered": 113,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 232,
+    "Recovered": 115,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 232,
+    "Recovered": 118,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 234,
+    "Recovered": 122,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 241,
+    "Recovered": 140,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 249,
+    "Recovered": 153,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 249,
+    "Recovered": 153,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 268,
+    "Recovered": 158,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 278,
+    "Recovered": 164,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 278,
+    "Recovered": 165,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 279,
+    "Recovered": 174,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 286,
+    "Recovered": 177,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 283,
+    "Recovered": 193,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 292,
+    "Recovered": 196,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 298,
+    "Recovered": 229,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 312,
+    "Recovered": 235,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 317,
+    "Recovered": 240,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 333,
+    "Recovered": 241,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 343,
+    "Recovered": 241,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 363,
+    "Recovered": 254,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 394,
+    "Recovered": 265,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 409,
+    "Recovered": 271,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 426,
+    "Recovered": 277,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 442,
+    "Recovered": 291,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 464,
+    "Recovered": 301,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 493,
+    "Recovered": 323,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 495,
+    "Recovered": 330,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14102
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 550,
+    "Recovered": 345,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 21461
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 636,
+    "Recovered": 367,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 705,
+    "Recovered": 381,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 849,
+    "Recovered": 389,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 988,
+    "Recovered": 405,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 1073,
+    "Recovered": 423,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 1279,
+    "Recovered": 448,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 1477,
+    "Recovered": 520,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 1703,
+    "Recovered": 548,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 1995,
+    "Recovered": 591,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 2302,
+    "Recovered": 609,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 2557,
+    "Recovered": 817,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 2858,
+    "Recovered": 878,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 3133,
+    "Recovered": 887,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 3423,
+    "Recovered": 967,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 3776,
+    "Recovered": 994,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 4085,
+    "Recovered": 1048,
+    "Deceased": 62,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 4338,
+    "Recovered": 1070,
+    "Deceased": 69,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 4674,
+    "Recovered": 1111,
+    "Deceased": 77,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 5057,
+    "Recovered": 1160,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 5299,
+    "Recovered": 1203,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 5482,
+    "Recovered": 1250,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 5757,
+    "Recovered": 1803,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 6078,
+    "Recovered": 2590,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 6539,
+    "Recovered": 2616,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 6990,
+    "Recovered": 2667,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 7331,
+    "Recovered": 3855,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 7597,
+    "Recovered": 4534,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 7858,
+    "Recovered": 4677,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 8044,
+    "Recovered": 4758,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 8251,
+    "Recovered": 4823,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 8357,
+    "Recovered": 4934,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 8517,
+    "Recovered": 5070,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 8705,
+    "Recovered": 5515,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 23092
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 8984,
+    "Recovered": 5965,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 9302,
+    "Recovered": 6448,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 9595,
+    "Recovered": 7394,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 9805,
+    "Recovered": 7643,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 10057,
+    "Recovered": 7809,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 10392,
+    "Recovered": 7882,
+    "Deceased": 222,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 10618,
+    "Recovered": 7995,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 10838,
+    "Recovered": 8221,
+    "Deceased": 233,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 11009,
+    "Recovered": 8423,
+    "Deceased": 237,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 11175,
+    "Recovered": 8631,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 11352,
+    "Recovered": 8745,
+    "Deceased": 253,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 11455,
+    "Recovered": 8787,
+    "Deceased": 257,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 11487,
+    "Recovered": 8984,
+    "Deceased": 261,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 11593,
+    "Recovered": 9219,
+    "Deceased": 267,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 11689,
+    "Recovered": 9549,
+    "Deceased": 276,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 11797,
+    "Recovered": 9733,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 11898,
+    "Recovered": 9989,
+    "Deceased": 282,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12005,
+    "Recovered": 10452,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12104,
+    "Recovered": 10750,
+    "Deceased": 293,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12195,
+    "Recovered": 11028,
+    "Deceased": 297,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12366,
+    "Recovered": 11054,
+    "Deceased": 303,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12515,
+    "Recovered": 11151,
+    "Deceased": 308,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12561,
+    "Recovered": 11195,
+    "Deceased": 309,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12643,
+    "Recovered": 11300,
+    "Deceased": 315,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12764,
+    "Recovered": 11404,
+    "Deceased": 321,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12888,
+    "Recovered": 11424,
+    "Deceased": 324,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 12955,
+    "Recovered": 11571,
+    "Deceased": 327,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13067,
+    "Recovered": 11660,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13149,
+    "Recovered": 11765,
+    "Deceased": 330,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13237,
+    "Recovered": 11903,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13328,
+    "Recovered": 12075,
+    "Deceased": 332,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13433,
+    "Recovered": 12123,
+    "Deceased": 335,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13508,
+    "Recovered": 12191,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13590,
+    "Recovered": 12249,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13621,
+    "Recovered": 12343,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13685,
+    "Recovered": 12446,
+    "Deceased": 345,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13788,
+    "Recovered": 12570,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 13894,
+    "Recovered": 12684,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14030,
+    "Recovered": 12813,
+    "Deceased": 357,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14152,
+    "Recovered": 12931,
+    "Deceased": 358,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14279,
+    "Recovered": 13021,
+    "Deceased": 358,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14386,
+    "Recovered": 13222,
+    "Deceased": 360,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14455,
+    "Recovered": 13282,
+    "Deceased": 360,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14575,
+    "Recovered": 13334,
+    "Deceased": 364,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14674,
+    "Recovered": 13376,
+    "Deceased": 364,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14775,
+    "Recovered": 13423,
+    "Deceased": 366,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14881,
+    "Recovered": 13468,
+    "Deceased": 367,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 14988,
+    "Recovered": 13555,
+    "Deceased": 368,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15051,
+    "Recovered": 13622,
+    "Deceased": 369,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15118,
+    "Recovered": 13757,
+    "Deceased": 369,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15169,
+    "Recovered": 13850,
+    "Deceased": 371,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15238,
+    "Recovered": 13959,
+    "Deceased": 371,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15310,
+    "Recovered": 14043,
+    "Deceased": 375,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15394,
+    "Recovered": 14330,
+    "Deceased": 372,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15477,
+    "Recovered": 14371,
+    "Deceased": 374,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15578,
+    "Recovered": 14405,
+    "Deceased": 374,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15647,
+    "Recovered": 14452,
+    "Deceased": 377,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15724,
+    "Recovered": 14617,
+    "Deceased": 377,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15792,
+    "Recovered": 14655,
+    "Deceased": 377,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15878,
+    "Recovered": 14790,
+    "Deceased": 378,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 15963,
+    "Recovered": 14792,
+    "Deceased": 379,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16024,
+    "Recovered": 14885,
+    "Deceased": 380,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16103,
+    "Recovered": 14959,
+    "Deceased": 380,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16175,
+    "Recovered": 15040,
+    "Deceased": 381,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16216,
+    "Recovered": 15117,
+    "Deceased": 383,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16287,
+    "Recovered": 15181,
+    "Deceased": 385,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16359,
+    "Recovered": 15235,
+    "Deceased": 386,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16442,
+    "Recovered": 15359,
+    "Deceased": 387,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16540,
+    "Recovered": 15409,
+    "Deceased": 389,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16629,
+    "Recovered": 15515,
+    "Deceased": 389,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16706,
+    "Recovered": 15595,
+    "Deceased": 389,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16773,
+    "Recovered": 15677,
+    "Deceased": 391,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16830,
+    "Recovered": 15766,
+    "Deceased": 391,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16914,
+    "Recovered": 15813,
+    "Deceased": 393,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 16970,
+    "Recovered": 15916,
+    "Deceased": 394,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17044,
+    "Recovered": 15960,
+    "Deceased": 394,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17130,
+    "Recovered": 16038,
+    "Deceased": 393,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17214,
+    "Recovered": 16105,
+    "Deceased": 395,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17310,
+    "Recovered": 16164,
+    "Deceased": 396,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17395,
+    "Recovered": 16252,
+    "Deceased": 397,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17486,
+    "Recovered": 16312,
+    "Deceased": 398,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17574,
+    "Recovered": 16376,
+    "Deceased": 398,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17636,
+    "Recovered": 16444,
+    "Deceased": 399,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17710,
+    "Recovered": 16505,
+    "Deceased": 402,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17790,
+    "Recovered": 16595,
+    "Deceased": 402,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17874,
+    "Recovered": 16668,
+    "Deceased": 402,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 17943,
+    "Recovered": 16752,
+    "Deceased": 404,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18018,
+    "Recovered": 16840,
+    "Deceased": 405,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18084,
+    "Recovered": 16916,
+    "Deceased": 409,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18140,
+    "Recovered": 16986,
+    "Deceased": 410,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18204,
+    "Recovered": 17056,
+    "Deceased": 412,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18256,
+    "Recovered": 17101,
+    "Deceased": 413,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18323,
+    "Recovered": 17190,
+    "Deceased": 413,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18391,
+    "Recovered": 17282,
+    "Deceased": 414,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18448,
+    "Recovered": 17396,
+    "Deceased": 414,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18513,
+    "Recovered": 17492,
+    "Deceased": 415,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18564,
+    "Recovered": 17550,
+    "Deceased": 417,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18611,
+    "Recovered": 17630,
+    "Deceased": 417,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18659,
+    "Recovered": 17686,
+    "Deceased": 417,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18691,
+    "Recovered": 17749,
+    "Deceased": 418,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18736,
+    "Recovered": 17809,
+    "Deceased": 419,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18778,
+    "Recovered": 17873,
+    "Deceased": 419,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18813,
+    "Recovered": 17919,
+    "Deceased": 420,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18854,
+    "Recovered": 17969,
+    "Deceased": 420,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18900,
+    "Recovered": 18049,
+    "Deceased": 422,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18943,
+    "Recovered": 18097,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 18978,
+    "Recovered": 18150,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19016,
+    "Recovered": 18180,
+    "Deceased": 424,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19051,
+    "Recovered": 18231,
+    "Deceased": 424,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19095,
+    "Recovered": 18260,
+    "Deceased": 424,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19136,
+    "Recovered": 18287,
+    "Deceased": 424,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19171,
+    "Recovered": 18341,
+    "Deceased": 424,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19202,
+    "Recovered": 18372,
+    "Deceased": 426,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19246,
+    "Recovered": 18414,
+    "Deceased": 426,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19283,
+    "Recovered": 18478,
+    "Deceased": 427,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19318,
+    "Recovered": 18527,
+    "Deceased": 429,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19349,
+    "Recovered": 18571,
+    "Deceased": 432,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19371,
+    "Recovered": 18621,
+    "Deceased": 432,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19402,
+    "Recovered": 18663,
+    "Deceased": 432,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19424,
+    "Recovered": 18696,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19457,
+    "Recovered": 18748,
+    "Deceased": 436,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19479,
+    "Recovered": 18779,
+    "Deceased": 436,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19509,
+    "Recovered": 18809,
+    "Deceased": 436,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19533,
+    "Recovered": 18851,
+    "Deceased": 437,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19565,
+    "Recovered": 18893,
+    "Deceased": 437,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19587,
+    "Recovered": 18933,
+    "Deceased": 437,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19615,
+    "Recovered": 18957,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19637,
+    "Recovered": 18975,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19664,
+    "Recovered": 18994,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19691,
+    "Recovered": 19010,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19723,
+    "Recovered": 19041,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19748,
+    "Recovered": 19073,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19769,
+    "Recovered": 19103,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19799,
+    "Recovered": 19134,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19832,
+    "Recovered": 19160,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19856,
+    "Recovered": 19185,
+    "Deceased": 441,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19871,
+    "Recovered": 19211,
+    "Deceased": 441,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19911,
+    "Recovered": 19243,
+    "Deceased": 441,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19934,
+    "Recovered": 19276,
+    "Deceased": 442,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19971,
+    "Recovered": 19306,
+    "Deceased": 443,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 19999,
+    "Recovered": 19333,
+    "Deceased": 443,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20047,
+    "Recovered": 19361,
+    "Deceased": 443,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20089,
+    "Recovered": 19384,
+    "Deceased": 444,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20119,
+    "Recovered": 19400,
+    "Deceased": 444,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20142,
+    "Recovered": 19420,
+    "Deceased": 445,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20164,
+    "Recovered": 19443,
+    "Deceased": 446,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20189,
+    "Recovered": 19464,
+    "Deceased": 446,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20215,
+    "Recovered": 19481,
+    "Deceased": 447,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20254,
+    "Recovered": 19493,
+    "Deceased": 447,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20274,
+    "Recovered": 19521,
+    "Deceased": 448,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20302,
+    "Recovered": 19553,
+    "Deceased": 448,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20329,
+    "Recovered": 19591,
+    "Deceased": 448,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20348,
+    "Recovered": 19639,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20374,
+    "Recovered": 19685,
+    "Deceased": 450,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20392,
+    "Recovered": 19719,
+    "Deceased": 450,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20420,
+    "Recovered": 19746,
+    "Deceased": 450,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20438,
+    "Recovered": 19781,
+    "Deceased": 450,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20452,
+    "Recovered": 19808,
+    "Deceased": 450,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20471,
+    "Recovered": 19830,
+    "Deceased": 451,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20497,
+    "Recovered": 19859,
+    "Deceased": 452,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20519,
+    "Recovered": 19890,
+    "Deceased": 452,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20532,
+    "Recovered": 19918,
+    "Deceased": 453,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20548,
+    "Recovered": 19939,
+    "Deceased": 453,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20573,
+    "Recovered": 19959,
+    "Deceased": 453,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20592,
+    "Recovered": 19976,
+    "Deceased": 453,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20612,
+    "Recovered": 19996,
+    "Deceased": 453,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20627,
+    "Recovered": 20012,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20645,
+    "Recovered": 20028,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20667,
+    "Recovered": 20049,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20690,
+    "Recovered": 20059,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20707,
+    "Recovered": 20074,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20717,
+    "Recovered": 20097,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20736,
+    "Recovered": 20116,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20747,
+    "Recovered": 20140,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20761,
+    "Recovered": 20151,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20774,
+    "Recovered": 20170,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20788,
+    "Recovered": 20193,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20803,
+    "Recovered": 20218,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20816,
+    "Recovered": 20241,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20830,
+    "Recovered": 20260,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20839,
+    "Recovered": 20267,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20849,
+    "Recovered": 20281,
+    "Deceased": 456,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20871,
+    "Recovered": 20296,
+    "Deceased": 456,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20901,
+    "Recovered": 20308,
+    "Deceased": 456,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20912,
+    "Recovered": 20321,
+    "Deceased": 456,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20923,
+    "Recovered": 20337,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20935,
+    "Recovered": 20354,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20941,
+    "Recovered": 20369,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20953,
+    "Recovered": 20386,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20966,
+    "Recovered": 20398,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20975,
+    "Recovered": 20405,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 20992,
+    "Recovered": 20419,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21003,
+    "Recovered": 20437,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21011,
+    "Recovered": 20458,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21025,
+    "Recovered": 20471,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21033,
+    "Recovered": 20486,
+    "Deceased": 458,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21046,
+    "Recovered": 20494,
+    "Deceased": 458,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21055,
+    "Recovered": 20505,
+    "Deceased": 458,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21076,
+    "Recovered": 20517,
+    "Deceased": 459,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21084,
+    "Recovered": 20528,
+    "Deceased": 459,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21089,
+    "Recovered": 20540,
+    "Deceased": 459,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21093,
+    "Recovered": 20549,
+    "Deceased": 459,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21093,
+    "Recovered": 20560,
+    "Deceased": 459,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21106,
+    "Recovered": 20575,
+    "Deceased": 459,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21118,
+    "Recovered": 20587,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21137,
+    "Recovered": 20598,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21157,
+    "Recovered": 20608,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21156,
+    "Recovered": 20615,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21166,
+    "Recovered": 20625,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21173,
+    "Recovered": 20634,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21175,
+    "Recovered": 20642,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21181,
+    "Recovered": 20649,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21186,
+    "Recovered": 20657,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21193,
+    "Recovered": 20669,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21200,
+    "Recovered": 20680,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21206,
+    "Recovered": 20689,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21212,
+    "Recovered": 20697,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21220,
+    "Recovered": 20706,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21225,
+    "Recovered": 20714,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21233,
+    "Recovered": 20723,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21241,
+    "Recovered": 20731,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21249,
+    "Recovered": 20738,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21263,
+    "Recovered": 20743,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21270,
+    "Recovered": 20751,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21274,
+    "Recovered": 20758,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21284,
+    "Recovered": 20767,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21289,
+    "Recovered": 20773,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21294,
+    "Recovered": 20777,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21302,
+    "Recovered": 20780,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21307,
+    "Recovered": 20786,
+    "Deceased": 461,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21318,
+    "Recovered": 20795,
+    "Deceased": 461,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21324,
+    "Recovered": 20805,
+    "Deceased": 461,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21334,
+    "Recovered": 20812,
+    "Deceased": 461,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21348,
+    "Recovered": 20820,
+    "Deceased": 461,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21360,
+    "Recovered": 20829,
+    "Deceased": 461,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21376,
+    "Recovered": 20836,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21389,
+    "Recovered": 20845,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21408,
+    "Recovered": 20853,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21418,
+    "Recovered": 20859,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21433,
+    "Recovered": 20866,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21446,
+    "Recovered": 20874,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21467,
+    "Recovered": 20881,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21498,
+    "Recovered": 20885,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21538,
+    "Recovered": 20897,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21564,
+    "Recovered": 20912,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21608,
+    "Recovered": 20920,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21626,
+    "Recovered": 20944,
+    "Deceased": 463,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21661,
+    "Recovered": 20970,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21691,
+    "Recovered": 20993,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21729,
+    "Recovered": 21012,
+    "Deceased": 465,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21778,
+    "Recovered": 21027,
+    "Deceased": 465,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21814,
+    "Recovered": 21048,
+    "Deceased": 465,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21859,
+    "Recovered": 21075,
+    "Deceased": 466,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 21964,
+    "Recovered": 21108,
+    "Deceased": 466,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 22030,
+    "Recovered": 21134,
+    "Deceased": 467,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 22086,
+    "Recovered": 21141,
+    "Deceased": 467,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 22173,
+    "Recovered": 21161,
+    "Deceased": 468,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 22290,
+    "Recovered": 21173,
+    "Deceased": 468,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 22364,
+    "Recovered": 21188,
+    "Deceased": 469,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 22475,
+    "Recovered": 21217,
+    "Deceased": 469,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 22617,
+    "Recovered": 21252,
+    "Deceased": 470,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 22813,
+    "Recovered": 21294,
+    "Deceased": 470,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 22986,
+    "Recovered": 21339,
+    "Deceased": 471,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 23208,
+    "Recovered": 21392,
+    "Deceased": 471,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 23451,
+    "Recovered": 21483,
+    "Deceased": 472,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 23645,
+    "Recovered": 21582,
+    "Deceased": 472,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 23880,
+    "Recovered": 21688,
+    "Deceased": 473,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 24051,
+    "Recovered": 21804,
+    "Deceased": 474,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 24286,
+    "Recovered": 21942,
+    "Deceased": 476,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 24560,
+    "Recovered": 22072,
+    "Deceased": 478,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 24891,
+    "Recovered": 22179,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 25262,
+    "Recovered": 22412,
+    "Deceased": 481,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 25723,
+    "Recovered": 22694,
+    "Deceased": 482,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 26225,
+    "Recovered": 22960,
+    "Deceased": 487,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 26728,
+    "Recovered": 23180,
+    "Deceased": 486,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 27332,
+    "Recovered": 23416,
+    "Deceased": 491,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 27936,
+    "Recovered": 23720,
+    "Deceased": 496,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 28460,
+    "Recovered": 24031,
+    "Deceased": 500,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 29005,
+    "Recovered": 24430,
+    "Deceased": 502,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 29494,
+    "Recovered": 24952,
+    "Deceased": 504,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 30117,
+    "Recovered": 25520,
+    "Deceased": 512,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 30819,
+    "Recovered": 26095,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 31519,
+    "Recovered": 26757,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 32398,
+    "Recovered": 27392,
+    "Deceased": 524,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 32883,
+    "Recovered": 27899,
+    "Deceased": 540,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 33669,
+    "Recovered": 28539,
+    "Deceased": 545,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 34631,
+    "Recovered": 29232,
+    "Deceased": 553,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 35638,
+    "Recovered": 29947,
+    "Deceased": 558,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 36716,
+    "Recovered": 30741,
+    "Deceased": 572,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 37940,
+    "Recovered": 31566,
+    "Deceased": 579,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 39018,
+    "Recovered": 32409,
+    "Deceased": 593,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 40040,
+    "Recovered": 33256,
+    "Deceased": 607,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 41065,
+    "Recovered": 33884,
+    "Deceased": 620,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 42237,
+    "Recovered": 34534,
+    "Deceased": 627,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 43581,
+    "Recovered": 35340,
+    "Deceased": 636,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 44832,
+    "Recovered": 36086,
+    "Deceased": 647,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 46060,
+    "Recovered": 36705,
+    "Deceased": 664,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 47159,
+    "Recovered": 37239,
+    "Deceased": 674,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 48441,
+    "Recovered": 37918,
+    "Deceased": 690,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 49452,
+    "Recovered": 38630,
+    "Deceased": 705,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 50610,
+    "Recovered": 38765,
+    "Deceased": 719,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 51881,
+    "Recovered": 39393,
+    "Deceased": 730,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 53243,
+    "Recovered": 40180,
+    "Deceased": 757,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 54588,
+    "Recovered": 40928,
+    "Deceased": 785,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 55726,
+    "Recovered": 41837,
+    "Deceased": 798,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 57182,
+    "Recovered": 42752,
+    "Deceased": 814,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 58536,
+    "Recovered": 43679,
+    "Deceased": 823,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 60074,
+    "Recovered": 44142,
+    "Deceased": 836,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 61478,
+    "Recovered": 44831,
+    "Deceased": 846,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 62603,
+    "Recovered": 45659,
+    "Deceased": 858,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 63419,
+    "Recovered": 46512,
+    "Deceased": 869,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 64207,
+    "Recovered": 47504,
+    "Deceased": 888,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 64895,
+    "Recovered": 48402,
+    "Deceased": 902,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 65512,
+    "Recovered": 49395,
+    "Deceased": 920,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 66056,
+    "Recovered": 50621,
+    "Deceased": 931,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 66571,
+    "Recovered": 51404,
+    "Deceased": 943,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 67052,
+    "Recovered": 52963,
+    "Deceased": 948,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 67520,
+    "Recovered": 53944,
+    "Deceased": 960,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 67930,
+    "Recovered": 55513,
+    "Deceased": 974,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 68324,
+    "Recovered": 56677,
+    "Deceased": 981,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 68684,
+    "Recovered": 58025,
+    "Deceased": 988,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 69049,
+    "Recovered": 59280,
+    "Deceased": 1003,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 69320,
+    "Recovered": 60457,
+    "Deceased": 1009,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 69597,
+    "Recovered": 61517,
+    "Deceased": 1016,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 69880,
+    "Recovered": 62937,
+    "Deceased": 1022,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 70097,
+    "Recovered": 63710,
+    "Deceased": 1029,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 70315,
+    "Recovered": 64987,
+    "Deceased": 1038,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 70503,
+    "Recovered": 65888,
+    "Deceased": 1043,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 70685,
+    "Recovered": 66512,
+    "Deceased": 1048,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 70842,
+    "Recovered": 67451,
+    "Deceased": 1050,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 70997,
+    "Recovered": 68211,
+    "Deceased": 1060,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 71142,
+    "Recovered": 68846,
+    "Deceased": 1063,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 71299,
+    "Recovered": 69408,
+    "Deceased": 1068,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 71443,
+    "Recovered": 69617,
+    "Deceased": 1073,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 71566,
+    "Recovered": 69802,
+    "Deceased": 1075,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 71684,
+    "Recovered": 69957,
+    "Deceased": 1075,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 71793,
+    "Recovered": 70085,
+    "Deceased": 1077,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 71894,
+    "Recovered": 70197,
+    "Deceased": 1078,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 71984,
+    "Recovered": 70284,
+    "Deceased": 1081,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72066,
+    "Recovered": 70360,
+    "Deceased": 1084,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72144,
+    "Recovered": 70421,
+    "Deceased": 1093,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72211,
+    "Recovered": 70479,
+    "Deceased": 1105,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72279,
+    "Recovered": 70535,
+    "Deceased": 1108,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72377,
+    "Recovered": 70583,
+    "Deceased": 1109,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72460,
+    "Recovered": 70620,
+    "Deceased": 1113,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72537,
+    "Recovered": 70684,
+    "Deceased": 1119,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72610,
+    "Recovered": 70765,
+    "Deceased": 1120,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72681,
+    "Recovered": 70863,
+    "Deceased": 1125,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72746,
+    "Recovered": 70954,
+    "Deceased": 1129,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72805,
+    "Recovered": 71037,
+    "Deceased": 1134,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72852,
+    "Recovered": 71111,
+    "Deceased": 1138,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72897,
+    "Recovered": 71172,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72956,
+    "Recovered": 71220,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 72993,
+    "Recovered": 71263,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73026,
+    "Recovered": 71314,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73057,
+    "Recovered": 71357,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73087,
+    "Recovered": 71404,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73121,
+    "Recovered": 71457,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73148,
+    "Recovered": 71526,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73172,
+    "Recovered": 71590,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73199,
+    "Recovered": 71651,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73224,
+    "Recovered": 71707,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73252,
+    "Recovered": 71754,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73282,
+    "Recovered": 71797,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73307,
+    "Recovered": 71838,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73330,
+    "Recovered": 71871,
+    "Deceased": 1140,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73355,
+    "Recovered": 71900,
+    "Deceased": 1141,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73377,
+    "Recovered": 71923,
+    "Deceased": 1142,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73396,
+    "Recovered": 71944,
+    "Deceased": 1142,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73424,
+    "Recovered": 71967,
+    "Deceased": 1143,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73443,
+    "Recovered": 71995,
+    "Deceased": 1143,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73461,
+    "Recovered": 72017,
+    "Deceased": 1143,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73476,
+    "Recovered": 72042,
+    "Deceased": 1143,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73492,
+    "Recovered": 72065,
+    "Deceased": 1144,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73516,
+    "Recovered": 72094,
+    "Deceased": 1145,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73540,
+    "Recovered": 72130,
+    "Deceased": 1145,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73562,
+    "Recovered": 72158,
+    "Deceased": 1145,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73588,
+    "Recovered": 72189,
+    "Deceased": 1145,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73615,
+    "Recovered": 72223,
+    "Deceased": 1146,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73635,
+    "Recovered": 72244,
+    "Deceased": 1146,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73655,
+    "Recovered": 72271,
+    "Deceased": 1147,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73672,
+    "Recovered": 72295,
+    "Deceased": 1147,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73694,
+    "Recovered": 72315,
+    "Deceased": 1147,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73714,
+    "Recovered": 72336,
+    "Deceased": 1147,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73729,
+    "Recovered": 72354,
+    "Deceased": 1147,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73747,
+    "Recovered": 72369,
+    "Deceased": 1148,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73769,
+    "Recovered": 72390,
+    "Deceased": 1148,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73786,
+    "Recovered": 72416,
+    "Deceased": 1148,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73797,
+    "Recovered": 72441,
+    "Deceased": 1148,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73808,
+    "Recovered": 72460,
+    "Deceased": 1148,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73820,
+    "Recovered": 72478,
+    "Deceased": 1148,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73834,
+    "Recovered": 72494,
+    "Deceased": 1149,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73848,
+    "Recovered": 72512,
+    "Deceased": 1149,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73860,
+    "Recovered": 72533,
+    "Deceased": 1149,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73872,
+    "Recovered": 72550,
+    "Deceased": 1149,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73884,
+    "Recovered": 72571,
+    "Deceased": 1149,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73894,
+    "Recovered": 72588,
+    "Deceased": 1150,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73908,
+    "Recovered": 72602,
+    "Deceased": 1150,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73917,
+    "Recovered": 72620,
+    "Deceased": 1151,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73932,
+    "Recovered": 72635,
+    "Deceased": 1152,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73946,
+    "Recovered": 72647,
+    "Deceased": 1153,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73957,
+    "Recovered": 72661,
+    "Deceased": 1154,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73969,
+    "Recovered": 72672,
+    "Deceased": 1154,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 73986,
+    "Recovered": 72685,
+    "Deceased": 1154,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74003,
+    "Recovered": 72697,
+    "Deceased": 1154,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74016,
+    "Recovered": 72707,
+    "Deceased": 1154,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74025,
+    "Recovered": 72721,
+    "Deceased": 1155,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74035,
+    "Recovered": 72734,
+    "Deceased": 1155,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74050,
+    "Recovered": 72750,
+    "Deceased": 1155,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74069,
+    "Recovered": 72769,
+    "Deceased": 1157,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74089,
+    "Recovered": 72784,
+    "Deceased": 1157,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74110,
+    "Recovered": 72798,
+    "Deceased": 1157,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74127,
+    "Recovered": 72809,
+    "Deceased": 1158,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74132,
+    "Recovered": 72823,
+    "Deceased": 1158,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74149,
+    "Recovered": 72832,
+    "Deceased": 1159,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74169,
+    "Recovered": 72840,
+    "Deceased": 1159,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74182,
+    "Recovered": 72857,
+    "Deceased": 1159,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74201,
+    "Recovered": 72872,
+    "Deceased": 1161,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74227,
+    "Recovered": 72888,
+    "Deceased": 1161,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74243,
+    "Recovered": 72901,
+    "Deceased": 1161,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74257,
+    "Recovered": 72916,
+    "Deceased": 1162,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74277,
+    "Recovered": 72930,
+    "Deceased": 1162,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74294,
+    "Recovered": 72943,
+    "Deceased": 1162,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74309,
+    "Recovered": 72959,
+    "Deceased": 1163,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74335,
+    "Recovered": 72973,
+    "Deceased": 1163,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74362,
+    "Recovered": 72981,
+    "Deceased": 1163,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74385,
+    "Recovered": 72995,
+    "Deceased": 1163,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74417,
+    "Recovered": 73008,
+    "Deceased": 1163,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74445,
+    "Recovered": 73026,
+    "Deceased": 1163,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74470,
+    "Recovered": 73053,
+    "Deceased": 1164,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74502,
+    "Recovered": 73084,
+    "Deceased": 1164,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74526,
+    "Recovered": 73111,
+    "Deceased": 1164,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74549,
+    "Recovered": 73136,
+    "Deceased": 1164,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74573,
+    "Recovered": 73159,
+    "Deceased": 1164,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74599,
+    "Recovered": 73178,
+    "Deceased": 1164,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74624,
+    "Recovered": 73192,
+    "Deceased": 1164,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74658,
+    "Recovered": 73208,
+    "Deceased": 1164,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74687,
+    "Recovered": 73221,
+    "Deceased": 1164,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74716,
+    "Recovered": 73240,
+    "Deceased": 1166,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74745,
+    "Recovered": 73266,
+    "Deceased": 1166,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74771,
+    "Recovered": 73296,
+    "Deceased": 1166,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74794,
+    "Recovered": 73328,
+    "Deceased": 1166,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74814,
+    "Recovered": 73355,
+    "Deceased": 1166,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74832,
+    "Recovered": 73380,
+    "Deceased": 1166,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74847,
+    "Recovered": 73399,
+    "Deceased": 1167,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74866,
+    "Recovered": 73421,
+    "Deceased": 1167,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74884,
+    "Recovered": 73445,
+    "Deceased": 1168,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74902,
+    "Recovered": 73472,
+    "Deceased": 1168,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74924,
+    "Recovered": 73496,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74943,
+    "Recovered": 73524,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74961,
+    "Recovered": 73549,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74979,
+    "Recovered": 73572,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 74999,
+    "Recovered": 73597,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75015,
+    "Recovered": 73623,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75041,
+    "Recovered": 73647,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75061,
+    "Recovered": 73665,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75080,
+    "Recovered": 73685,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75101,
+    "Recovered": 73709,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75116,
+    "Recovered": 73731,
+    "Deceased": 1169,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75129,
+    "Recovered": 73749,
+    "Deceased": 1170,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75143,
+    "Recovered": 73763,
+    "Deceased": 1171,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75155,
+    "Recovered": 73776,
+    "Deceased": 1172,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75170,
+    "Recovered": 73795,
+    "Deceased": 1172,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75188,
+    "Recovered": 73818,
+    "Deceased": 1172,
+    "Other": 0,
+    "Tested": 97279
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Madurai",
+    "cases": 75202,
+    "Recovered": 73836,
+    "Deceased": 1172,
+    "Other": 0,
+    "Tested": 97279
+  }
+]
