@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 13,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 13,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 13,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 14,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 14,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 14,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 16,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 16,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 16,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23,
+    "Recovered": 16,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 29,
+    "Recovered": 16,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 30,
+    "Recovered": 16,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 30,
+    "Recovered": 17,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 30,
+    "Recovered": 17,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 33,
+    "Recovered": 17,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 34,
+    "Recovered": 18,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 35,
+    "Recovered": 18,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 35,
+    "Recovered": 20,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 34,
+    "Recovered": 20,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 34,
+    "Recovered": 20,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 35,
+    "Recovered": 21,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 35,
+    "Recovered": 22,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 35,
+    "Recovered": 22,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 35,
+    "Recovered": 26,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 35,
+    "Recovered": 26,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 36,
+    "Recovered": 28,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 39,
+    "Recovered": 28,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 39,
+    "Recovered": 31,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 39,
+    "Recovered": 31,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 39,
+    "Recovered": 31,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 42,
+    "Recovered": 31,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 40,
+    "Recovered": 33,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 42,
+    "Recovered": 33,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 42,
+    "Recovered": 33,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 42,
+    "Recovered": 33,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 43,
+    "Recovered": 34,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47,
+    "Recovered": 34,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47,
+    "Recovered": 34,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 51,
+    "Recovered": 37,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 52,
+    "Recovered": 38,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 55,
+    "Recovered": 38,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 55,
+    "Recovered": 38,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 64,
+    "Recovered": 38,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 95,
+    "Recovered": 38,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 111,
+    "Recovered": 41,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 122,
+    "Recovered": 43,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 131,
+    "Recovered": 43,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 129,
+    "Recovered": 48,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 142,
+    "Recovered": 49,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 152,
+    "Recovered": 50,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 173,
+    "Recovered": 56,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 179,
+    "Recovered": 56,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 194,
+    "Recovered": 68,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 248,
+    "Recovered": 78,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 16279
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 354,
+    "Recovered": 81,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 21123
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 389,
+    "Recovered": 103,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 477,
+    "Recovered": 106,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 491,
+    "Recovered": 111,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 526,
+    "Recovered": 114,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 580,
+    "Recovered": 153,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 750,
+    "Recovered": 168,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 901,
+    "Recovered": 214,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1011,
+    "Recovered": 193,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1095,
+    "Recovered": 246,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1241,
+    "Recovered": 286,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1308,
+    "Recovered": 340,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1384,
+    "Recovered": 345,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1521,
+    "Recovered": 380,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1667,
+    "Recovered": 443,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1752,
+    "Recovered": 537,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1932,
+    "Recovered": 579,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 1980,
+    "Recovered": 687,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 2097,
+    "Recovered": 771,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 2258,
+    "Recovered": 818,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 2344,
+    "Recovered": 897,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 2486,
+    "Recovered": 982,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 2622,
+    "Recovered": 1034,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 2772,
+    "Recovered": 1038,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 2902,
+    "Recovered": 1072,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 3098,
+    "Recovered": 1344,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 3191,
+    "Recovered": 1533,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 3445,
+    "Recovered": 1779,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 3628,
+    "Recovered": 1999,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 3814,
+    "Recovered": 2113,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 3948,
+    "Recovered": 2248,
+    "Deceased": 27,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 4068,
+    "Recovered": 2453,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 4226,
+    "Recovered": 2742,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 4359,
+    "Recovered": 2880,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 21909
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 4472,
+    "Recovered": 3123,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 4646,
+    "Recovered": 3352,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 4854,
+    "Recovered": 3682,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 5050,
+    "Recovered": 3836,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 5236,
+    "Recovered": 3992,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 5385,
+    "Recovered": 4045,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 5492,
+    "Recovered": 4191,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 5677,
+    "Recovered": 4365,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 5875,
+    "Recovered": 4464,
+    "Deceased": 61,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 6069,
+    "Recovered": 4617,
+    "Deceased": 63,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 6242,
+    "Recovered": 4848,
+    "Deceased": 65,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 6376,
+    "Recovered": 5094,
+    "Deceased": 65,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 6526,
+    "Recovered": 5225,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 6705,
+    "Recovered": 5320,
+    "Deceased": 74,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 6897,
+    "Recovered": 5440,
+    "Deceased": 81,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 7056,
+    "Recovered": 5651,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 7206,
+    "Recovered": 5831,
+    "Deceased": 88,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 7355,
+    "Recovered": 6036,
+    "Deceased": 93,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 7546,
+    "Recovered": 6237,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 7723,
+    "Recovered": 6328,
+    "Deceased": 100,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 7770,
+    "Recovered": 6491,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 7915,
+    "Recovered": 6577,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 8078,
+    "Recovered": 6664,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 8236,
+    "Recovered": 7010,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 8498,
+    "Recovered": 7214,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 8554,
+    "Recovered": 7292,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 8641,
+    "Recovered": 7303,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 8822,
+    "Recovered": 7537,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 8932,
+    "Recovered": 7674,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 9133,
+    "Recovered": 7894,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 9377,
+    "Recovered": 8017,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 9556,
+    "Recovered": 8236,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 9715,
+    "Recovered": 8415,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 9850,
+    "Recovered": 8481,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 10008,
+    "Recovered": 8622,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 10167,
+    "Recovered": 8809,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 10320,
+    "Recovered": 8937,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 10507,
+    "Recovered": 9232,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 10671,
+    "Recovered": 9418,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 10785,
+    "Recovered": 9579,
+    "Deceased": 165,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 10919,
+    "Recovered": 9730,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 11081,
+    "Recovered": 9837,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 11217,
+    "Recovered": 9947,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 11352,
+    "Recovered": 10085,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 11517,
+    "Recovered": 10241,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 11668,
+    "Recovered": 10391,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 11815,
+    "Recovered": 10519,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 11949,
+    "Recovered": 10663,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 12089,
+    "Recovered": 10900,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 12234,
+    "Recovered": 11022,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 12416,
+    "Recovered": 11139,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 12543,
+    "Recovered": 11280,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 12629,
+    "Recovered": 11503,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 12765,
+    "Recovered": 11567,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 12899,
+    "Recovered": 11626,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 13019,
+    "Recovered": 11742,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 13162,
+    "Recovered": 11987,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 13274,
+    "Recovered": 12122,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 13420,
+    "Recovered": 12253,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 13516,
+    "Recovered": 12403,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 13651,
+    "Recovered": 12526,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 13746,
+    "Recovered": 12640,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 13889,
+    "Recovered": 12739,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 14015,
+    "Recovered": 12870,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 14141,
+    "Recovered": 13025,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 14277,
+    "Recovered": 13169,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 14397,
+    "Recovered": 13268,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 14535,
+    "Recovered": 13421,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 14655,
+    "Recovered": 13560,
+    "Deceased": 238,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 14792,
+    "Recovered": 13702,
+    "Deceased": 242,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 14939,
+    "Recovered": 13826,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 15072,
+    "Recovered": 13975,
+    "Deceased": 246,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 15207,
+    "Recovered": 14103,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 15337,
+    "Recovered": 14248,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 15480,
+    "Recovered": 14378,
+    "Deceased": 250,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 15585,
+    "Recovered": 14512,
+    "Deceased": 253,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 15738,
+    "Recovered": 14617,
+    "Deceased": 254,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 15868,
+    "Recovered": 14724,
+    "Deceased": 261,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 16009,
+    "Recovered": 14882,
+    "Deceased": 266,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 16139,
+    "Recovered": 15049,
+    "Deceased": 267,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 16274,
+    "Recovered": 15212,
+    "Deceased": 270,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 16403,
+    "Recovered": 15355,
+    "Deceased": 274,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 16500,
+    "Recovered": 15496,
+    "Deceased": 276,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 16615,
+    "Recovered": 15631,
+    "Deceased": 279,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 16731,
+    "Recovered": 15707,
+    "Deceased": 280,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 16852,
+    "Recovered": 15827,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 16944,
+    "Recovered": 15927,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17033,
+    "Recovered": 16037,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17125,
+    "Recovered": 16127,
+    "Deceased": 293,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17205,
+    "Recovered": 16211,
+    "Deceased": 294,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17279,
+    "Recovered": 16335,
+    "Deceased": 297,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17343,
+    "Recovered": 16532,
+    "Deceased": 297,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17398,
+    "Recovered": 16615,
+    "Deceased": 298,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17466,
+    "Recovered": 16696,
+    "Deceased": 300,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17511,
+    "Recovered": 16787,
+    "Deceased": 302,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17567,
+    "Recovered": 16840,
+    "Deceased": 303,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17635,
+    "Recovered": 16894,
+    "Deceased": 303,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17714,
+    "Recovered": 16973,
+    "Deceased": 304,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17771,
+    "Recovered": 17051,
+    "Deceased": 305,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17834,
+    "Recovered": 17116,
+    "Deceased": 305,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17899,
+    "Recovered": 17187,
+    "Deceased": 305,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 17972,
+    "Recovered": 17276,
+    "Deceased": 307,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18037,
+    "Recovered": 17325,
+    "Deceased": 308,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18096,
+    "Recovered": 17393,
+    "Deceased": 309,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18150,
+    "Recovered": 17462,
+    "Deceased": 311,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18210,
+    "Recovered": 17524,
+    "Deceased": 312,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18241,
+    "Recovered": 17582,
+    "Deceased": 313,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18293,
+    "Recovered": 17647,
+    "Deceased": 315,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18351,
+    "Recovered": 17716,
+    "Deceased": 317,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18402,
+    "Recovered": 17772,
+    "Deceased": 317,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18453,
+    "Recovered": 17844,
+    "Deceased": 317,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18549,
+    "Recovered": 17913,
+    "Deceased": 319,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18607,
+    "Recovered": 17985,
+    "Deceased": 320,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18633,
+    "Recovered": 18062,
+    "Deceased": 320,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18681,
+    "Recovered": 18116,
+    "Deceased": 321,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18724,
+    "Recovered": 18173,
+    "Deceased": 322,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18769,
+    "Recovered": 18211,
+    "Deceased": 322,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18804,
+    "Recovered": 18269,
+    "Deceased": 322,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18875,
+    "Recovered": 18330,
+    "Deceased": 323,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18926,
+    "Recovered": 18371,
+    "Deceased": 324,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 18979,
+    "Recovered": 18371,
+    "Deceased": 324,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19024,
+    "Recovered": 18459,
+    "Deceased": 326,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19062,
+    "Recovered": 18506,
+    "Deceased": 327,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19096,
+    "Recovered": 18559,
+    "Deceased": 328,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19128,
+    "Recovered": 18611,
+    "Deceased": 330,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19172,
+    "Recovered": 18659,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19201,
+    "Recovered": 18709,
+    "Deceased": 330,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19244,
+    "Recovered": 18756,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19278,
+    "Recovered": 18782,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19317,
+    "Recovered": 18829,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19354,
+    "Recovered": 18844,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19396,
+    "Recovered": 18847,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19420,
+    "Recovered": 18861,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19451,
+    "Recovered": 18871,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19485,
+    "Recovered": 18885,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19521,
+    "Recovered": 18900,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19571,
+    "Recovered": 18919,
+    "Deceased": 333,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19615,
+    "Recovered": 18938,
+    "Deceased": 333,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19641,
+    "Recovered": 18976,
+    "Deceased": 335,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19674,
+    "Recovered": 19002,
+    "Deceased": 336,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19718,
+    "Recovered": 19028,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19739,
+    "Recovered": 19056,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19771,
+    "Recovered": 19088,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19805,
+    "Recovered": 19131,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19830,
+    "Recovered": 19178,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19851,
+    "Recovered": 19214,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19886,
+    "Recovered": 19247,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19909,
+    "Recovered": 19282,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19932,
+    "Recovered": 19313,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19961,
+    "Recovered": 19347,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 19992,
+    "Recovered": 19384,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20019,
+    "Recovered": 19415,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20042,
+    "Recovered": 19458,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20071,
+    "Recovered": 19499,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20094,
+    "Recovered": 19538,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20109,
+    "Recovered": 19569,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20124,
+    "Recovered": 19589,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20148,
+    "Recovered": 19602,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20165,
+    "Recovered": 19623,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20179,
+    "Recovered": 19656,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20192,
+    "Recovered": 19677,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20220,
+    "Recovered": 19696,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20243,
+    "Recovered": 19720,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20266,
+    "Recovered": 19741,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20283,
+    "Recovered": 19767,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20298,
+    "Recovered": 19792,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20309,
+    "Recovered": 19816,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20339,
+    "Recovered": 19831,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20369,
+    "Recovered": 19848,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20396,
+    "Recovered": 19870,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20412,
+    "Recovered": 19887,
+    "Deceased": 343,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20430,
+    "Recovered": 19910,
+    "Deceased": 343,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20449,
+    "Recovered": 19931,
+    "Deceased": 343,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20471,
+    "Recovered": 19950,
+    "Deceased": 343,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20494,
+    "Recovered": 19961,
+    "Deceased": 343,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20519,
+    "Recovered": 19980,
+    "Deceased": 344,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20536,
+    "Recovered": 20002,
+    "Deceased": 344,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20548,
+    "Recovered": 20021,
+    "Deceased": 344,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20565,
+    "Recovered": 20036,
+    "Deceased": 344,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20579,
+    "Recovered": 20050,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20590,
+    "Recovered": 20069,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20608,
+    "Recovered": 20097,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20620,
+    "Recovered": 20133,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20634,
+    "Recovered": 20161,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20642,
+    "Recovered": 20185,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20659,
+    "Recovered": 20198,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20663,
+    "Recovered": 20214,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20674,
+    "Recovered": 20229,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20690,
+    "Recovered": 20238,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20694,
+    "Recovered": 20250,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20712,
+    "Recovered": 20260,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20724,
+    "Recovered": 20270,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20743,
+    "Recovered": 20285,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20751,
+    "Recovered": 20299,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20759,
+    "Recovered": 20310,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20769,
+    "Recovered": 20319,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20778,
+    "Recovered": 20335,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20784,
+    "Recovered": 20346,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20795,
+    "Recovered": 20362,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20809,
+    "Recovered": 20376,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20821,
+    "Recovered": 20392,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20826,
+    "Recovered": 20406,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20833,
+    "Recovered": 20412,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20845,
+    "Recovered": 20420,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20861,
+    "Recovered": 20426,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20870,
+    "Recovered": 20434,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20878,
+    "Recovered": 20446,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20886,
+    "Recovered": 20461,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20893,
+    "Recovered": 20472,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20899,
+    "Recovered": 20486,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20910,
+    "Recovered": 20499,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20917,
+    "Recovered": 20510,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20922,
+    "Recovered": 20517,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20929,
+    "Recovered": 20525,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20941,
+    "Recovered": 20538,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20949,
+    "Recovered": 20548,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20956,
+    "Recovered": 20557,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20962,
+    "Recovered": 20565,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20965,
+    "Recovered": 20575,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20975,
+    "Recovered": 20581,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20984,
+    "Recovered": 20586,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 20995,
+    "Recovered": 20590,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21002,
+    "Recovered": 20596,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21011,
+    "Recovered": 20603,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21022,
+    "Recovered": 20612,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21038,
+    "Recovered": 20619,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21048,
+    "Recovered": 20624,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21055,
+    "Recovered": 20631,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21061,
+    "Recovered": 20640,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21069,
+    "Recovered": 20647,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21080,
+    "Recovered": 20655,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21097,
+    "Recovered": 20664,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21112,
+    "Recovered": 20671,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21125,
+    "Recovered": 20682,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21137,
+    "Recovered": 20694,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21150,
+    "Recovered": 20703,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21164,
+    "Recovered": 20709,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21175,
+    "Recovered": 20716,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21192,
+    "Recovered": 20724,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21204,
+    "Recovered": 20736,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21222,
+    "Recovered": 20747,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21237,
+    "Recovered": 20761,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21247,
+    "Recovered": 20777,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21274,
+    "Recovered": 20831,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21300,
+    "Recovered": 20840,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21326,
+    "Recovered": 20852,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21357,
+    "Recovered": 20859,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21376,
+    "Recovered": 20870,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21399,
+    "Recovered": 20883,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21419,
+    "Recovered": 20896,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21455,
+    "Recovered": 20918,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21490,
+    "Recovered": 20939,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21532,
+    "Recovered": 20971,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21569,
+    "Recovered": 20996,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21601,
+    "Recovered": 21023,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21644,
+    "Recovered": 21041,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21678,
+    "Recovered": 21066,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21772,
+    "Recovered": 21094,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21838,
+    "Recovered": 21125,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 21912,
+    "Recovered": 21157,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 22021,
+    "Recovered": 21233,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 22107,
+    "Recovered": 21252,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 22201,
+    "Recovered": 21272,
+    "Deceased": 357,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 22271,
+    "Recovered": 21294,
+    "Deceased": 358,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 22383,
+    "Recovered": 21406,
+    "Deceased": 358,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 22494,
+    "Recovered": 21468,
+    "Deceased": 359,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 22624,
+    "Recovered": 21500,
+    "Deceased": 359,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 22786,
+    "Recovered": 21642,
+    "Deceased": 360,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 22961,
+    "Recovered": 21791,
+    "Deceased": 361,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23190,
+    "Recovered": 21870,
+    "Deceased": 361,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23356,
+    "Recovered": 21941,
+    "Deceased": 361,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23570,
+    "Recovered": 22045,
+    "Deceased": 362,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 23860,
+    "Recovered": 22152,
+    "Deceased": 365,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 24151,
+    "Recovered": 22268,
+    "Deceased": 366,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 24451,
+    "Recovered": 22362,
+    "Deceased": 368,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 24755,
+    "Recovered": 22427,
+    "Deceased": 371,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 25100,
+    "Recovered": 22536,
+    "Deceased": 374,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 25397,
+    "Recovered": 22756,
+    "Deceased": 377,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 25807,
+    "Recovered": 23031,
+    "Deceased": 373,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 26169,
+    "Recovered": 23346,
+    "Deceased": 382,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 26533,
+    "Recovered": 23683,
+    "Deceased": 384,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 26917,
+    "Recovered": 24022,
+    "Deceased": 383,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 27294,
+    "Recovered": 24420,
+    "Deceased": 386,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 27802,
+    "Recovered": 24783,
+    "Deceased": 395,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 28061,
+    "Recovered": 25090,
+    "Deceased": 398,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 28534,
+    "Recovered": 25492,
+    "Deceased": 409,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 29109,
+    "Recovered": 25938,
+    "Deceased": 415,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 29738,
+    "Recovered": 26409,
+    "Deceased": 417,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 30333,
+    "Recovered": 26926,
+    "Deceased": 417,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 30910,
+    "Recovered": 27491,
+    "Deceased": 422,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 31502,
+    "Recovered": 28031,
+    "Deceased": 437,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 31809,
+    "Recovered": 28244,
+    "Deceased": 442,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 32481,
+    "Recovered": 28428,
+    "Deceased": 446,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 33044,
+    "Recovered": 28657,
+    "Deceased": 454,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 33692,
+    "Recovered": 29419,
+    "Deceased": 454,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 34249,
+    "Recovered": 30010,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 34794,
+    "Recovered": 30587,
+    "Deceased": 473,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 35302,
+    "Recovered": 31158,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 35525,
+    "Recovered": 31683,
+    "Deceased": 521,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 36049,
+    "Recovered": 32046,
+    "Deceased": 532,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 36654,
+    "Recovered": 32415,
+    "Deceased": 544,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 37216,
+    "Recovered": 32954,
+    "Deceased": 575,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 37581,
+    "Recovered": 33528,
+    "Deceased": 588,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 38161,
+    "Recovered": 33680,
+    "Deceased": 601,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 38712,
+    "Recovered": 33768,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 39126,
+    "Recovered": 34213,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 39609,
+    "Recovered": 34403,
+    "Deceased": 646,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 40033,
+    "Recovered": 35299,
+    "Deceased": 661,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 40488,
+    "Recovered": 35916,
+    "Deceased": 665,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 40958,
+    "Recovered": 36493,
+    "Deceased": 690,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 41366,
+    "Recovered": 37135,
+    "Deceased": 704,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 41760,
+    "Recovered": 37534,
+    "Deceased": 725,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 42168,
+    "Recovered": 38329,
+    "Deceased": 742,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 42577,
+    "Recovered": 38827,
+    "Deceased": 751,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 42907,
+    "Recovered": 38965,
+    "Deceased": 777,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 43177,
+    "Recovered": 39269,
+    "Deceased": 794,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 43448,
+    "Recovered": 39866,
+    "Deceased": 806,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 43696,
+    "Recovered": 40265,
+    "Deceased": 819,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 43959,
+    "Recovered": 40866,
+    "Deceased": 846,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 44154,
+    "Recovered": 41279,
+    "Deceased": 845,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 44433,
+    "Recovered": 41691,
+    "Deceased": 852,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 44691,
+    "Recovered": 42089,
+    "Deceased": 862,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 44905,
+    "Recovered": 42472,
+    "Deceased": 877,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 45112,
+    "Recovered": 42784,
+    "Deceased": 886,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 45299,
+    "Recovered": 43010,
+    "Deceased": 906,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 45486,
+    "Recovered": 43257,
+    "Deceased": 906,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 45628,
+    "Recovered": 43530,
+    "Deceased": 913,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 45768,
+    "Recovered": 43822,
+    "Deceased": 925,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 45899,
+    "Recovered": 44328,
+    "Deceased": 932,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46016,
+    "Recovered": 44771,
+    "Deceased": 940,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46108,
+    "Recovered": 44890,
+    "Deceased": 955,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46197,
+    "Recovered": 45015,
+    "Deceased": 957,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46290,
+    "Recovered": 45099,
+    "Deceased": 962,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46377,
+    "Recovered": 45139,
+    "Deceased": 975,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46453,
+    "Recovered": 45167,
+    "Deceased": 982,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46523,
+    "Recovered": 45194,
+    "Deceased": 991,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46596,
+    "Recovered": 45225,
+    "Deceased": 1000,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46663,
+    "Recovered": 45254,
+    "Deceased": 1014,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46721,
+    "Recovered": 45277,
+    "Deceased": 1031,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46776,
+    "Recovered": 45298,
+    "Deceased": 1033,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46826,
+    "Recovered": 45317,
+    "Deceased": 1035,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46876,
+    "Recovered": 45343,
+    "Deceased": 1042,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46919,
+    "Recovered": 45365,
+    "Deceased": 1047,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46961,
+    "Recovered": 45381,
+    "Deceased": 1054,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 46998,
+    "Recovered": 45416,
+    "Deceased": 1055,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47043,
+    "Recovered": 45470,
+    "Deceased": 1056,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47092,
+    "Recovered": 45526,
+    "Deceased": 1060,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47140,
+    "Recovered": 45590,
+    "Deceased": 1059,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47183,
+    "Recovered": 45662,
+    "Deceased": 1061,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47234,
+    "Recovered": 45730,
+    "Deceased": 1063,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47279,
+    "Recovered": 45794,
+    "Deceased": 1066,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47326,
+    "Recovered": 45855,
+    "Deceased": 1070,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47364,
+    "Recovered": 45907,
+    "Deceased": 1072,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47402,
+    "Recovered": 45944,
+    "Deceased": 1076,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47437,
+    "Recovered": 45967,
+    "Deceased": 1077,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47468,
+    "Recovered": 45988,
+    "Deceased": 1077,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47506,
+    "Recovered": 46012,
+    "Deceased": 1078,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47546,
+    "Recovered": 46033,
+    "Deceased": 1078,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47586,
+    "Recovered": 46056,
+    "Deceased": 1082,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47618,
+    "Recovered": 46082,
+    "Deceased": 1085,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47648,
+    "Recovered": 46113,
+    "Deceased": 1086,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47681,
+    "Recovered": 46149,
+    "Deceased": 1087,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47716,
+    "Recovered": 46190,
+    "Deceased": 1088,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47754,
+    "Recovered": 46236,
+    "Deceased": 1090,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47792,
+    "Recovered": 46287,
+    "Deceased": 1091,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47827,
+    "Recovered": 46336,
+    "Deceased": 1092,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47861,
+    "Recovered": 46379,
+    "Deceased": 1094,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47895,
+    "Recovered": 46418,
+    "Deceased": 1094,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47921,
+    "Recovered": 46453,
+    "Deceased": 1094,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47955,
+    "Recovered": 46489,
+    "Deceased": 1094,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 47987,
+    "Recovered": 46528,
+    "Deceased": 1094,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48015,
+    "Recovered": 46559,
+    "Deceased": 1094,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48035,
+    "Recovered": 46593,
+    "Deceased": 1094,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48057,
+    "Recovered": 46624,
+    "Deceased": 1095,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48081,
+    "Recovered": 46653,
+    "Deceased": 1095,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48111,
+    "Recovered": 46685,
+    "Deceased": 1095,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48136,
+    "Recovered": 46716,
+    "Deceased": 1095,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48159,
+    "Recovered": 46746,
+    "Deceased": 1095,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48176,
+    "Recovered": 46781,
+    "Deceased": 1095,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48202,
+    "Recovered": 46812,
+    "Deceased": 1096,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48227,
+    "Recovered": 46840,
+    "Deceased": 1096,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48247,
+    "Recovered": 46868,
+    "Deceased": 1096,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48287,
+    "Recovered": 46891,
+    "Deceased": 1096,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48317,
+    "Recovered": 46924,
+    "Deceased": 1096,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48356,
+    "Recovered": 46951,
+    "Deceased": 1097,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48386,
+    "Recovered": 46973,
+    "Deceased": 1098,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48423,
+    "Recovered": 46990,
+    "Deceased": 1098,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48447,
+    "Recovered": 47004,
+    "Deceased": 1101,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48462,
+    "Recovered": 47016,
+    "Deceased": 1103,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48486,
+    "Recovered": 47034,
+    "Deceased": 1103,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48511,
+    "Recovered": 47048,
+    "Deceased": 1104,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48536,
+    "Recovered": 47066,
+    "Deceased": 1105,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48558,
+    "Recovered": 47085,
+    "Deceased": 1106,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48586,
+    "Recovered": 47107,
+    "Deceased": 1106,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48610,
+    "Recovered": 47132,
+    "Deceased": 1106,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48636,
+    "Recovered": 47171,
+    "Deceased": 1106,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48676,
+    "Recovered": 47201,
+    "Deceased": 1106,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48716,
+    "Recovered": 47243,
+    "Deceased": 1106,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48752,
+    "Recovered": 47290,
+    "Deceased": 1106,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48775,
+    "Recovered": 47326,
+    "Deceased": 1106,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48789,
+    "Recovered": 47367,
+    "Deceased": 1107,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48804,
+    "Recovered": 47395,
+    "Deceased": 1108,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48813,
+    "Recovered": 47412,
+    "Deceased": 1108,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48828,
+    "Recovered": 47422,
+    "Deceased": 1109,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48855,
+    "Recovered": 47439,
+    "Deceased": 1109,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48872,
+    "Recovered": 47464,
+    "Deceased": 1109,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48892,
+    "Recovered": 47490,
+    "Deceased": 1111,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48903,
+    "Recovered": 47521,
+    "Deceased": 1111,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48919,
+    "Recovered": 47549,
+    "Deceased": 1111,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48928,
+    "Recovered": 47584,
+    "Deceased": 1111,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48938,
+    "Recovered": 47621,
+    "Deceased": 1111,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48955,
+    "Recovered": 47649,
+    "Deceased": 1112,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48969,
+    "Recovered": 47675,
+    "Deceased": 1112,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 48988,
+    "Recovered": 47692,
+    "Deceased": 1112,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49007,
+    "Recovered": 47706,
+    "Deceased": 1112,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49028,
+    "Recovered": 47718,
+    "Deceased": 1114,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49044,
+    "Recovered": 47734,
+    "Deceased": 1114,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49072,
+    "Recovered": 47754,
+    "Deceased": 1115,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49099,
+    "Recovered": 47779,
+    "Deceased": 1117,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49105,
+    "Recovered": 47795,
+    "Deceased": 1117,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49127,
+    "Recovered": 47806,
+    "Deceased": 1117,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49146,
+    "Recovered": 47816,
+    "Deceased": 1118,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49162,
+    "Recovered": 47825,
+    "Deceased": 1118,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49170,
+    "Recovered": 47832,
+    "Deceased": 1118,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49190,
+    "Recovered": 47840,
+    "Deceased": 1118,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49218,
+    "Recovered": 47851,
+    "Deceased": 1118,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49238,
+    "Recovered": 47867,
+    "Deceased": 1118,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49258,
+    "Recovered": 47881,
+    "Deceased": 1118,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49277,
+    "Recovered": 47902,
+    "Deceased": 1119,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49294,
+    "Recovered": 47925,
+    "Deceased": 1120,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49314,
+    "Recovered": 47951,
+    "Deceased": 1120,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49343,
+    "Recovered": 47975,
+    "Deceased": 1120,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49360,
+    "Recovered": 47997,
+    "Deceased": 1121,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49377,
+    "Recovered": 48014,
+    "Deceased": 1121,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49396,
+    "Recovered": 48030,
+    "Deceased": 1121,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49417,
+    "Recovered": 48047,
+    "Deceased": 1121,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49430,
+    "Recovered": 48062,
+    "Deceased": 1123,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49439,
+    "Recovered": 48081,
+    "Deceased": 1123,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49456,
+    "Recovered": 48098,
+    "Deceased": 1123,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49468,
+    "Recovered": 48120,
+    "Deceased": 1123,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49480,
+    "Recovered": 48144,
+    "Deceased": 1123,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49496,
+    "Recovered": 48167,
+    "Deceased": 1123,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49511,
+    "Recovered": 48188,
+    "Deceased": 1123,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49526,
+    "Recovered": 48206,
+    "Deceased": 1124,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49541,
+    "Recovered": 48221,
+    "Deceased": 1126,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49557,
+    "Recovered": 48234,
+    "Deceased": 1126,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49585,
+    "Recovered": 48250,
+    "Deceased": 1125,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49597,
+    "Recovered": 48264,
+    "Deceased": 1125,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49616,
+    "Recovered": 48279,
+    "Deceased": 1126,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49635,
+    "Recovered": 48297,
+    "Deceased": 1126,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49644,
+    "Recovered": 48313,
+    "Deceased": 1126,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49660,
+    "Recovered": 48325,
+    "Deceased": 1128,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49676,
+    "Recovered": 48338,
+    "Deceased": 1129,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49686,
+    "Recovered": 48356,
+    "Deceased": 1129,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49702,
+    "Recovered": 48368,
+    "Deceased": 1129,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49710,
+    "Recovered": 48376,
+    "Deceased": 1129,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49721,
+    "Recovered": 48386,
+    "Deceased": 1129,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49735,
+    "Recovered": 48402,
+    "Deceased": 1129,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49747,
+    "Recovered": 48425,
+    "Deceased": 1130,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49759,
+    "Recovered": 48450,
+    "Deceased": 1130,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49783,
+    "Recovered": 48473,
+    "Deceased": 1130,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49805,
+    "Recovered": 48498,
+    "Deceased": 1130,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49820,
+    "Recovered": 48519,
+    "Deceased": 1130,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49830,
+    "Recovered": 48536,
+    "Deceased": 1131,
+    "Other": 0,
+    "Tested": 47936
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Vellore",
+    "cases": 49852,
+    "Recovered": 48549,
+    "Deceased": 1131,
+    "Other": 0,
+    "Tested": 47936
+  }
+]
