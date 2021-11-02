@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 51,
+    "Recovered": 22,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 52,
+    "Recovered": 22,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 52,
+    "Recovered": 22,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 54,
+    "Recovered": 23,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 54,
+    "Recovered": 23,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 55,
+    "Recovered": 26,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 57,
+    "Recovered": 27,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 90,
+    "Recovered": 27,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 139,
+    "Recovered": 29,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 164,
+    "Recovered": 29,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 169,
+    "Recovered": 29,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 214,
+    "Recovered": 32,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 235,
+    "Recovered": 32,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 302,
+    "Recovered": 35,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 308,
+    "Recovered": 42,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 308,
+    "Recovered": 48,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 309,
+    "Recovered": 53,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 316,
+    "Recovered": 53,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 306,
+    "Recovered": 53,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 306,
+    "Recovered": 128,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 308,
+    "Recovered": 153,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 308,
+    "Recovered": 276,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 312,
+    "Recovered": 276,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 312,
+    "Recovered": 278,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 319,
+    "Recovered": 278,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 323,
+    "Recovered": 294,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 323,
+    "Recovered": 296,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 327,
+    "Recovered": 300,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 327,
+    "Recovered": 300,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 327,
+    "Recovered": 300,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 327,
+    "Recovered": 303,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 339,
+    "Recovered": 305,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 342,
+    "Recovered": 305,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 343,
+    "Recovered": 307,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 366,
+    "Recovered": 315,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 367,
+    "Recovered": 318,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 375,
+    "Recovered": 318,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 376,
+    "Recovered": 323,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 377,
+    "Recovered": 323,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 356,
+    "Recovered": 323,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 363,
+    "Recovered": 323,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 369,
+    "Recovered": 323,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 380,
+    "Recovered": 325,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 384,
+    "Recovered": 327,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 385,
+    "Recovered": 327,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 392,
+    "Recovered": 329,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 399,
+    "Recovered": 333,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 408,
+    "Recovered": 344,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 421,
+    "Recovered": 345,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 437,
+    "Recovered": 363,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 440,
+    "Recovered": 364,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 458,
+    "Recovered": 371,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 478,
+    "Recovered": 371,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 505,
+    "Recovered": 376,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9795
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 528,
+    "Recovered": 384,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 17772
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 551,
+    "Recovered": 387,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 581,
+    "Recovered": 390,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 606,
+    "Recovered": 391,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 617,
+    "Recovered": 396,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 654,
+    "Recovered": 424,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 695,
+    "Recovered": 433,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 712,
+    "Recovered": 434,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 765,
+    "Recovered": 452,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 814,
+    "Recovered": 466,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 867,
+    "Recovered": 490,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 915,
+    "Recovered": 499,
+    "Deceased": 15,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 944,
+    "Recovered": 576,
+    "Deceased": 15,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 986,
+    "Recovered": 582,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1020,
+    "Recovered": 601,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1077,
+    "Recovered": 604,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1186,
+    "Recovered": 604,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1232,
+    "Recovered": 607,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1233,
+    "Recovered": 728,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1339,
+    "Recovered": 760,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1370,
+    "Recovered": 781,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1411,
+    "Recovered": 883,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1455,
+    "Recovered": 921,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1459,
+    "Recovered": 954,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1602,
+    "Recovered": 993,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1723,
+    "Recovered": 1034,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1820,
+    "Recovered": 1077,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 1926,
+    "Recovered": 1197,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 2039,
+    "Recovered": 1235,
+    "Deceased": 26,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 2136,
+    "Recovered": 1266,
+    "Deceased": 27,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 2212,
+    "Recovered": 1403,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 2299,
+    "Recovered": 1493,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 2396,
+    "Recovered": 1641,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 2501,
+    "Recovered": 1762,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 18440
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 2613,
+    "Recovered": 1832,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 2766,
+    "Recovered": 1985,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 2923,
+    "Recovered": 2100,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 3131,
+    "Recovered": 2223,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 3270,
+    "Recovered": 2275,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 3361,
+    "Recovered": 2356,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 3499,
+    "Recovered": 2504,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 3594,
+    "Recovered": 2640,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 3764,
+    "Recovered": 2795,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 3923,
+    "Recovered": 2902,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4022,
+    "Recovered": 3007,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4112,
+    "Recovered": 3257,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4162,
+    "Recovered": 3308,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4239,
+    "Recovered": 3380,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4316,
+    "Recovered": 3473,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4390,
+    "Recovered": 3602,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4463,
+    "Recovered": 3879,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4530,
+    "Recovered": 4034,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4620,
+    "Recovered": 4077,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4713,
+    "Recovered": 4144,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4811,
+    "Recovered": 4209,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 4906,
+    "Recovered": 4268,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 5033,
+    "Recovered": 4330,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 5117,
+    "Recovered": 4375,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 5248,
+    "Recovered": 4442,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 5387,
+    "Recovered": 4561,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 5504,
+    "Recovered": 4694,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 5573,
+    "Recovered": 4811,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 5648,
+    "Recovered": 5032,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 5771,
+    "Recovered": 5108,
+    "Deceased": 54,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 5897,
+    "Recovered": 5166,
+    "Deceased": 58,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 6057,
+    "Recovered": 5261,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 6213,
+    "Recovered": 5332,
+    "Deceased": 62,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 6398,
+    "Recovered": 5392,
+    "Deceased": 63,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 6595,
+    "Recovered": 5507,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 6742,
+    "Recovered": 5682,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 6896,
+    "Recovered": 5865,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 7069,
+    "Recovered": 6010,
+    "Deceased": 65,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 7253,
+    "Recovered": 6186,
+    "Deceased": 65,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 7429,
+    "Recovered": 6372,
+    "Deceased": 66,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 7595,
+    "Recovered": 6469,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 7821,
+    "Recovered": 6515,
+    "Deceased": 70,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 7971,
+    "Recovered": 6575,
+    "Deceased": 72,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 8119,
+    "Recovered": 6954,
+    "Deceased": 77,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 8264,
+    "Recovered": 7146,
+    "Deceased": 77,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 8395,
+    "Recovered": 7168,
+    "Deceased": 79,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 8534,
+    "Recovered": 7445,
+    "Deceased": 79,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 8660,
+    "Recovered": 7769,
+    "Deceased": 82,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 8799,
+    "Recovered": 7966,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 8990,
+    "Recovered": 8136,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 9151,
+    "Recovered": 8234,
+    "Deceased": 85,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 9312,
+    "Recovered": 8342,
+    "Deceased": 85,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 9441,
+    "Recovered": 8474,
+    "Deceased": 87,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 9571,
+    "Recovered": 8618,
+    "Deceased": 85,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 9705,
+    "Recovered": 8779,
+    "Deceased": 85,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 9847,
+    "Recovered": 8889,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 9981,
+    "Recovered": 9032,
+    "Deceased": 88,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 10121,
+    "Recovered": 9103,
+    "Deceased": 89,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 10266,
+    "Recovered": 9227,
+    "Deceased": 91,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 10394,
+    "Recovered": 9314,
+    "Deceased": 92,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 10525,
+    "Recovered": 9449,
+    "Deceased": 92,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 10616,
+    "Recovered": 9620,
+    "Deceased": 93,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 10721,
+    "Recovered": 9767,
+    "Deceased": 94,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 10876,
+    "Recovered": 9878,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 11044,
+    "Recovered": 10004,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 11205,
+    "Recovered": 10138,
+    "Deceased": 96,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 11350,
+    "Recovered": 10250,
+    "Deceased": 97,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 11483,
+    "Recovered": 10389,
+    "Deceased": 97,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 11586,
+    "Recovered": 10524,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 11701,
+    "Recovered": 10624,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 11836,
+    "Recovered": 10771,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 11936,
+    "Recovered": 10924,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 11983,
+    "Recovered": 11082,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12042,
+    "Recovered": 11206,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12129,
+    "Recovered": 11346,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12215,
+    "Recovered": 11450,
+    "Deceased": 99,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12258,
+    "Recovered": 11560,
+    "Deceased": 100,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12311,
+    "Recovered": 11704,
+    "Deceased": 100,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12371,
+    "Recovered": 11789,
+    "Deceased": 100,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12459,
+    "Recovered": 11867,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12545,
+    "Recovered": 11923,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12624,
+    "Recovered": 12005,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12712,
+    "Recovered": 12090,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12792,
+    "Recovered": 12137,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12859,
+    "Recovered": 12188,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 12949,
+    "Recovered": 12271,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13031,
+    "Recovered": 12353,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13109,
+    "Recovered": 12430,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13185,
+    "Recovered": 12524,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13228,
+    "Recovered": 12597,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13293,
+    "Recovered": 12664,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13355,
+    "Recovered": 12727,
+    "Deceased": 105,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13409,
+    "Recovered": 12810,
+    "Deceased": 105,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13445,
+    "Recovered": 12874,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13498,
+    "Recovered": 12933,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13544,
+    "Recovered": 12983,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13587,
+    "Recovered": 13084,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13620,
+    "Recovered": 13175,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13668,
+    "Recovered": 13220,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13710,
+    "Recovered": 13270,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13746,
+    "Recovered": 13309,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13775,
+    "Recovered": 13358,
+    "Deceased": 108,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13821,
+    "Recovered": 13403,
+    "Deceased": 108,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13848,
+    "Recovered": 13442,
+    "Deceased": 108,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13891,
+    "Recovered": 13523,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13949,
+    "Recovered": 13576,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 13987,
+    "Recovered": 13627,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14028,
+    "Recovered": 13665,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14075,
+    "Recovered": 13705,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14143,
+    "Recovered": 13731,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14157,
+    "Recovered": 13773,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14197,
+    "Recovered": 13809,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14229,
+    "Recovered": 13846,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14247,
+    "Recovered": 13883,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14272,
+    "Recovered": 13932,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14301,
+    "Recovered": 13966,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14323,
+    "Recovered": 13997,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14346,
+    "Recovered": 14036,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14363,
+    "Recovered": 14077,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14387,
+    "Recovered": 14130,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14414,
+    "Recovered": 14155,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14446,
+    "Recovered": 14195,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14462,
+    "Recovered": 14218,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14490,
+    "Recovered": 14235,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14513,
+    "Recovered": 14270,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14531,
+    "Recovered": 14288,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14543,
+    "Recovered": 14311,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14565,
+    "Recovered": 14337,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14586,
+    "Recovered": 14353,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14606,
+    "Recovered": 14373,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14623,
+    "Recovered": 14382,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14635,
+    "Recovered": 14403,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14643,
+    "Recovered": 14416,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14654,
+    "Recovered": 14436,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14675,
+    "Recovered": 14456,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14678,
+    "Recovered": 14478,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14701,
+    "Recovered": 14499,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14719,
+    "Recovered": 14518,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14734,
+    "Recovered": 14541,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14743,
+    "Recovered": 14552,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14751,
+    "Recovered": 14563,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14766,
+    "Recovered": 14572,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14770,
+    "Recovered": 14577,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14787,
+    "Recovered": 14581,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14796,
+    "Recovered": 14587,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14807,
+    "Recovered": 14600,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14811,
+    "Recovered": 14613,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14826,
+    "Recovered": 14628,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14842,
+    "Recovered": 14649,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14857,
+    "Recovered": 14661,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14873,
+    "Recovered": 14670,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14877,
+    "Recovered": 14679,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14892,
+    "Recovered": 14687,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14905,
+    "Recovered": 14707,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14916,
+    "Recovered": 14722,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14928,
+    "Recovered": 14731,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14941,
+    "Recovered": 14744,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14952,
+    "Recovered": 14751,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14962,
+    "Recovered": 14761,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14970,
+    "Recovered": 14768,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14981,
+    "Recovered": 14774,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 14995,
+    "Recovered": 14781,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15012,
+    "Recovered": 14791,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15023,
+    "Recovered": 14804,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15035,
+    "Recovered": 14821,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15047,
+    "Recovered": 14830,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15055,
+    "Recovered": 14846,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15058,
+    "Recovered": 14861,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15058,
+    "Recovered": 14872,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15068,
+    "Recovered": 14887,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15077,
+    "Recovered": 14903,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15079,
+    "Recovered": 14910,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15080,
+    "Recovered": 14920,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15084,
+    "Recovered": 14927,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15087,
+    "Recovered": 14932,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15098,
+    "Recovered": 14943,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15103,
+    "Recovered": 14947,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15109,
+    "Recovered": 14950,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15113,
+    "Recovered": 14956,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15115,
+    "Recovered": 14961,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15120,
+    "Recovered": 14970,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15126,
+    "Recovered": 14974,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15137,
+    "Recovered": 14982,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15143,
+    "Recovered": 14990,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15149,
+    "Recovered": 14995,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15152,
+    "Recovered": 15001,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15164,
+    "Recovered": 15003,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15165,
+    "Recovered": 15008,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15172,
+    "Recovered": 15015,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15175,
+    "Recovered": 15021,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15176,
+    "Recovered": 15023,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15180,
+    "Recovered": 15027,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15184,
+    "Recovered": 15034,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15191,
+    "Recovered": 15039,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15195,
+    "Recovered": 15048,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15197,
+    "Recovered": 15053,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15197,
+    "Recovered": 15053,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15199,
+    "Recovered": 15059,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15203,
+    "Recovered": 15063,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15206,
+    "Recovered": 15065,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15210,
+    "Recovered": 15070,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15215,
+    "Recovered": 15077,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15218,
+    "Recovered": 15082,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15220,
+    "Recovered": 15084,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15223,
+    "Recovered": 15087,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15226,
+    "Recovered": 15089,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15230,
+    "Recovered": 15092,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15234,
+    "Recovered": 15094,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15237,
+    "Recovered": 15097,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15240,
+    "Recovered": 15099,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15242,
+    "Recovered": 15102,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15245,
+    "Recovered": 15107,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15245,
+    "Recovered": 15109,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15247,
+    "Recovered": 15112,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15251,
+    "Recovered": 15116,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15254,
+    "Recovered": 15119,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15255,
+    "Recovered": 15121,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15256,
+    "Recovered": 15124,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15258,
+    "Recovered": 15126,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15261,
+    "Recovered": 15129,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15265,
+    "Recovered": 15131,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15268,
+    "Recovered": 15132,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15272,
+    "Recovered": 15136,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15274,
+    "Recovered": 15142,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15275,
+    "Recovered": 15146,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15278,
+    "Recovered": 15149,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15281,
+    "Recovered": 15151,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15285,
+    "Recovered": 15152,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15286,
+    "Recovered": 15154,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15291,
+    "Recovered": 15158,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15297,
+    "Recovered": 15160,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15299,
+    "Recovered": 15163,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15301,
+    "Recovered": 15165,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15303,
+    "Recovered": 15167,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15306,
+    "Recovered": 15168,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15310,
+    "Recovered": 15170,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15313,
+    "Recovered": 15174,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15318,
+    "Recovered": 15177,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15322,
+    "Recovered": 15181,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15330,
+    "Recovered": 15184,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15335,
+    "Recovered": 15188,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15343,
+    "Recovered": 15191,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15358,
+    "Recovered": 15193,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15364,
+    "Recovered": 15195,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15368,
+    "Recovered": 15202,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15386,
+    "Recovered": 15207,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15402,
+    "Recovered": 15220,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15424,
+    "Recovered": 15228,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15444,
+    "Recovered": 15238,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15471,
+    "Recovered": 15254,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15485,
+    "Recovered": 15271,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15507,
+    "Recovered": 15288,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15533,
+    "Recovered": 15309,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15561,
+    "Recovered": 15314,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15587,
+    "Recovered": 15322,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15609,
+    "Recovered": 15324,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15655,
+    "Recovered": 15342,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15668,
+    "Recovered": 15356,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15721,
+    "Recovered": 15370,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15739,
+    "Recovered": 15396,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15820,
+    "Recovered": 15422,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15889,
+    "Recovered": 15448,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15952,
+    "Recovered": 15474,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 15999,
+    "Recovered": 15493,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16025,
+    "Recovered": 15539,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16125,
+    "Recovered": 15581,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16173,
+    "Recovered": 15598,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16229,
+    "Recovered": 15617,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16335,
+    "Recovered": 15700,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16473,
+    "Recovered": 15768,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16591,
+    "Recovered": 15821,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16642,
+    "Recovered": 15887,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16753,
+    "Recovered": 15914,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 16907,
+    "Recovered": 16000,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 17069,
+    "Recovered": 16056,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 17277,
+    "Recovered": 16119,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 17480,
+    "Recovered": 16220,
+    "Deceased": 118,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 17680,
+    "Recovered": 16353,
+    "Deceased": 119,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 17887,
+    "Recovered": 16474,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 18182,
+    "Recovered": 16586,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 18551,
+    "Recovered": 16718,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 18935,
+    "Recovered": 16923,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 19290,
+    "Recovered": 17137,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 19642,
+    "Recovered": 17370,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 20038,
+    "Recovered": 17579,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 20239,
+    "Recovered": 17829,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 20688,
+    "Recovered": 18077,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 21166,
+    "Recovered": 18443,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 21703,
+    "Recovered": 18822,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 22031,
+    "Recovered": 19245,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 22424,
+    "Recovered": 19672,
+    "Deceased": 141,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 22809,
+    "Recovered": 20162,
+    "Deceased": 144,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 23248,
+    "Recovered": 20585,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 23819,
+    "Recovered": 21070,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 24400,
+    "Recovered": 21603,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 25082,
+    "Recovered": 21850,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 25603,
+    "Recovered": 22183,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 26098,
+    "Recovered": 22600,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 26452,
+    "Recovered": 22936,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 26700,
+    "Recovered": 23136,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 27249,
+    "Recovered": 23714,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 27788,
+    "Recovered": 24096,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 28282,
+    "Recovered": 24774,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 28806,
+    "Recovered": 25293,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 29310,
+    "Recovered": 25631,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 29778,
+    "Recovered": 25990,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 30394,
+    "Recovered": 26348,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 31149,
+    "Recovered": 27015,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 31954,
+    "Recovered": 27541,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 32514,
+    "Recovered": 27781,
+    "Deceased": 234,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 33183,
+    "Recovered": 28108,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 33802,
+    "Recovered": 28700,
+    "Deceased": 246,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 34443,
+    "Recovered": 29196,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 35042,
+    "Recovered": 29672,
+    "Deceased": 253,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 35647,
+    "Recovered": 30160,
+    "Deceased": 259,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 36234,
+    "Recovered": 30819,
+    "Deceased": 262,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 36755,
+    "Recovered": 31502,
+    "Deceased": 270,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 37226,
+    "Recovered": 32077,
+    "Deceased": 276,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 37646,
+    "Recovered": 32430,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 38035,
+    "Recovered": 33006,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 38480,
+    "Recovered": 33655,
+    "Deceased": 295,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 38872,
+    "Recovered": 34338,
+    "Deceased": 298,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 39278,
+    "Recovered": 34935,
+    "Deceased": 302,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 39665,
+    "Recovered": 35544,
+    "Deceased": 304,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 40038,
+    "Recovered": 36121,
+    "Deceased": 309,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 40341,
+    "Recovered": 36645,
+    "Deceased": 308,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 40604,
+    "Recovered": 37118,
+    "Deceased": 311,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 40850,
+    "Recovered": 37530,
+    "Deceased": 312,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 41034,
+    "Recovered": 37920,
+    "Deceased": 315,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 41198,
+    "Recovered": 38365,
+    "Deceased": 318,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 41355,
+    "Recovered": 38759,
+    "Deceased": 321,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 41504,
+    "Recovered": 39549,
+    "Deceased": 321,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 41632,
+    "Recovered": 39922,
+    "Deceased": 323,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 41747,
+    "Recovered": 40228,
+    "Deceased": 324,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 41850,
+    "Recovered": 40532,
+    "Deceased": 325,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 41946,
+    "Recovered": 40760,
+    "Deceased": 326,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42043,
+    "Recovered": 40964,
+    "Deceased": 326,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42133,
+    "Recovered": 41162,
+    "Deceased": 326,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42208,
+    "Recovered": 41294,
+    "Deceased": 328,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42278,
+    "Recovered": 41425,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42346,
+    "Recovered": 41537,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42399,
+    "Recovered": 41609,
+    "Deceased": 330,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42464,
+    "Recovered": 41673,
+    "Deceased": 330,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42535,
+    "Recovered": 41728,
+    "Deceased": 330,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42603,
+    "Recovered": 41779,
+    "Deceased": 332,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42672,
+    "Recovered": 41821,
+    "Deceased": 332,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42738,
+    "Recovered": 41866,
+    "Deceased": 332,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42798,
+    "Recovered": 41907,
+    "Deceased": 333,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42857,
+    "Recovered": 41976,
+    "Deceased": 333,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42911,
+    "Recovered": 42029,
+    "Deceased": 333,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 42951,
+    "Recovered": 42088,
+    "Deceased": 334,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43013,
+    "Recovered": 42135,
+    "Deceased": 334,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43069,
+    "Recovered": 42173,
+    "Deceased": 334,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43119,
+    "Recovered": 42204,
+    "Deceased": 334,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43171,
+    "Recovered": 42242,
+    "Deceased": 334,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43216,
+    "Recovered": 42281,
+    "Deceased": 334,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43261,
+    "Recovered": 42324,
+    "Deceased": 334,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43301,
+    "Recovered": 42372,
+    "Deceased": 335,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43347,
+    "Recovered": 42424,
+    "Deceased": 335,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43369,
+    "Recovered": 42478,
+    "Deceased": 336,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43387,
+    "Recovered": 42527,
+    "Deceased": 336,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43418,
+    "Recovered": 42574,
+    "Deceased": 336,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43442,
+    "Recovered": 42612,
+    "Deceased": 337,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43476,
+    "Recovered": 42644,
+    "Deceased": 337,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43514,
+    "Recovered": 42682,
+    "Deceased": 337,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43554,
+    "Recovered": 42723,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43593,
+    "Recovered": 42771,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43638,
+    "Recovered": 42813,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43681,
+    "Recovered": 42851,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43720,
+    "Recovered": 42893,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43764,
+    "Recovered": 42946,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43794,
+    "Recovered": 42995,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43823,
+    "Recovered": 43051,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43851,
+    "Recovered": 43098,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43878,
+    "Recovered": 43139,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43907,
+    "Recovered": 43183,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43933,
+    "Recovered": 43222,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 43967,
+    "Recovered": 43263,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44005,
+    "Recovered": 43305,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44035,
+    "Recovered": 43340,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44064,
+    "Recovered": 43376,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44100,
+    "Recovered": 43408,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44137,
+    "Recovered": 43439,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44168,
+    "Recovered": 43473,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44205,
+    "Recovered": 43506,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44234,
+    "Recovered": 43546,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44249,
+    "Recovered": 43582,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44280,
+    "Recovered": 43613,
+    "Deceased": 343,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44314,
+    "Recovered": 43640,
+    "Deceased": 344,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44348,
+    "Recovered": 43671,
+    "Deceased": 345,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44376,
+    "Recovered": 43697,
+    "Deceased": 345,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44413,
+    "Recovered": 43722,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44447,
+    "Recovered": 43749,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44479,
+    "Recovered": 43779,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44522,
+    "Recovered": 43813,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44556,
+    "Recovered": 43857,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44587,
+    "Recovered": 43906,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44616,
+    "Recovered": 43939,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44648,
+    "Recovered": 43963,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44678,
+    "Recovered": 43988,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44710,
+    "Recovered": 44023,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44738,
+    "Recovered": 44053,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44765,
+    "Recovered": 44082,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44796,
+    "Recovered": 44105,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44823,
+    "Recovered": 44134,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44844,
+    "Recovered": 44167,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44860,
+    "Recovered": 44197,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44887,
+    "Recovered": 44223,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44914,
+    "Recovered": 44253,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44937,
+    "Recovered": 44286,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44959,
+    "Recovered": 44320,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 44978,
+    "Recovered": 44355,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45001,
+    "Recovered": 44398,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45023,
+    "Recovered": 44426,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45047,
+    "Recovered": 44460,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45066,
+    "Recovered": 44488,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45083,
+    "Recovered": 44514,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45104,
+    "Recovered": 44536,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45121,
+    "Recovered": 44559,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45141,
+    "Recovered": 44578,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45161,
+    "Recovered": 44595,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45182,
+    "Recovered": 44615,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45202,
+    "Recovered": 44631,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45229,
+    "Recovered": 44650,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45251,
+    "Recovered": 44671,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45272,
+    "Recovered": 44697,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45289,
+    "Recovered": 44722,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45315,
+    "Recovered": 44740,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45338,
+    "Recovered": 44759,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45362,
+    "Recovered": 44777,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45378,
+    "Recovered": 44796,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45393,
+    "Recovered": 44813,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45414,
+    "Recovered": 44829,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45437,
+    "Recovered": 44843,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45456,
+    "Recovered": 44861,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45474,
+    "Recovered": 44885,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45491,
+    "Recovered": 44913,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45506,
+    "Recovered": 44935,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45519,
+    "Recovered": 44958,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45533,
+    "Recovered": 44977,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45553,
+    "Recovered": 44998,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45573,
+    "Recovered": 45016,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45589,
+    "Recovered": 45036,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45601,
+    "Recovered": 45059,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45615,
+    "Recovered": 45075,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45629,
+    "Recovered": 45094,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45642,
+    "Recovered": 45117,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45653,
+    "Recovered": 45135,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45663,
+    "Recovered": 45149,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45675,
+    "Recovered": 45164,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45688,
+    "Recovered": 45173,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45699,
+    "Recovered": 45181,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45711,
+    "Recovered": 45192,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45720,
+    "Recovered": 45201,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45732,
+    "Recovered": 45219,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45745,
+    "Recovered": 45242,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45756,
+    "Recovered": 45261,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45767,
+    "Recovered": 45281,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45778,
+    "Recovered": 45299,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45791,
+    "Recovered": 45313,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45803,
+    "Recovered": 45324,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45817,
+    "Recovered": 45334,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45828,
+    "Recovered": 45350,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45838,
+    "Recovered": 45362,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 52064
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Viluppuram",
+    "cases": 45847,
+    "Recovered": 45371,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 52064
+  }
+]
