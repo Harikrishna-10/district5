@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 38,
+    "Recovered": 32,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 38,
+    "Recovered": 32,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 38,
+    "Recovered": 32,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 38,
+    "Recovered": 33,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39,
+    "Recovered": 33,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39,
+    "Recovered": 33,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39,
+    "Recovered": 34,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39,
+    "Recovered": 34,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42,
+    "Recovered": 34,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42,
+    "Recovered": 34,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42,
+    "Recovered": 37,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 49,
+    "Recovered": 37,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 49,
+    "Recovered": 37,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 59,
+    "Recovered": 38,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 65,
+    "Recovered": 38,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 66,
+    "Recovered": 38,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 75,
+    "Recovered": 39,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 75,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 76,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 78,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 81,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 81,
+    "Recovered": 46,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 83,
+    "Recovered": 46,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 84,
+    "Recovered": 46,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 84,
+    "Recovered": 58,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 88,
+    "Recovered": 60,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 89,
+    "Recovered": 60,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 90,
+    "Recovered": 61,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 92,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 96,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 97,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 96,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 97,
+    "Recovered": 80,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 97,
+    "Recovered": 83,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 97,
+    "Recovered": 84,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 98,
+    "Recovered": 84,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 103,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 103,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 108,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 108,
+    "Recovered": 92,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 122,
+    "Recovered": 92,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 120,
+    "Recovered": 94,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 130,
+    "Recovered": 94,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 138,
+    "Recovered": 94,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 139,
+    "Recovered": 94,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 164,
+    "Recovered": 95,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 185,
+    "Recovered": 99,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 189,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 191,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 197,
+    "Recovered": 107,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 234,
+    "Recovered": 113,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 311,
+    "Recovered": 113,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 381,
+    "Recovered": 116,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 404,
+    "Recovered": 121,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 5480
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 409,
+    "Recovered": 122,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 6757
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 468,
+    "Recovered": 159,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 470,
+    "Recovered": 160,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 525,
+    "Recovered": 291,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 551,
+    "Recovered": 297,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 545,
+    "Recovered": 301,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 567,
+    "Recovered": 302,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 620,
+    "Recovered": 318,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 719,
+    "Recovered": 363,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 730,
+    "Recovered": 363,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 730,
+    "Recovered": 364,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 754,
+    "Recovered": 451,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 762,
+    "Recovered": 462,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 891,
+    "Recovered": 462,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 978,
+    "Recovered": 535,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1083,
+    "Recovered": 537,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1148,
+    "Recovered": 537,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1193,
+    "Recovered": 538,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1312,
+    "Recovered": 604,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1325,
+    "Recovered": 661,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1404,
+    "Recovered": 661,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1415,
+    "Recovered": 681,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1463,
+    "Recovered": 693,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1509,
+    "Recovered": 725,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1635,
+    "Recovered": 725,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1645,
+    "Recovered": 796,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1711,
+    "Recovered": 914,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1858,
+    "Recovered": 1010,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 1915,
+    "Recovered": 1065,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 2022,
+    "Recovered": 1065,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 2087,
+    "Recovered": 1121,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 2196,
+    "Recovered": 1174,
+    "Deceased": 15,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 2370,
+    "Recovered": 1420,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 2784,
+    "Recovered": 1483,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 6879
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 3001,
+    "Recovered": 1520,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 3223,
+    "Recovered": 1520,
+    "Deceased": 24,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 3467,
+    "Recovered": 1615,
+    "Deceased": 24,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 3834,
+    "Recovered": 1804,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 4107,
+    "Recovered": 2201,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 4306,
+    "Recovered": 2619,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 4491,
+    "Recovered": 2802,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 4769,
+    "Recovered": 3014,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 5130,
+    "Recovered": 3251,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 5300,
+    "Recovered": 3492,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 5469,
+    "Recovered": 3751,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 5852,
+    "Recovered": 3945,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 5930,
+    "Recovered": 4094,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 6073,
+    "Recovered": 4352,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 6342,
+    "Recovered": 4567,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 6597,
+    "Recovered": 4921,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 6744,
+    "Recovered": 5287,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 6964,
+    "Recovered": 5513,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 7151,
+    "Recovered": 5708,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 7487,
+    "Recovered": 5904,
+    "Deceased": 56,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 7729,
+    "Recovered": 6044,
+    "Deceased": 61,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 7786,
+    "Recovered": 6203,
+    "Deceased": 63,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 7963,
+    "Recovered": 6546,
+    "Deceased": 66,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 8217,
+    "Recovered": 6547,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 8358,
+    "Recovered": 6795,
+    "Deceased": 73,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 8512,
+    "Recovered": 7100,
+    "Deceased": 79,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 8647,
+    "Recovered": 7385,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 8772,
+    "Recovered": 7516,
+    "Deceased": 96,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 8914,
+    "Recovered": 7684,
+    "Deceased": 97,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 9091,
+    "Recovered": 7733,
+    "Deceased": 100,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 9184,
+    "Recovered": 8005,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 9339,
+    "Recovered": 8186,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 9460,
+    "Recovered": 8298,
+    "Deceased": 108,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 9646,
+    "Recovered": 8384,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 9768,
+    "Recovered": 8504,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 9931,
+    "Recovered": 8610,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 10069,
+    "Recovered": 8902,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 10189,
+    "Recovered": 9144,
+    "Deceased": 117,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 10385,
+    "Recovered": 9411,
+    "Deceased": 118,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 10513,
+    "Recovered": 9610,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 10702,
+    "Recovered": 9700,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 10796,
+    "Recovered": 9804,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 10949,
+    "Recovered": 9861,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 11065,
+    "Recovered": 10045,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 11174,
+    "Recovered": 10231,
+    "Deceased": 131,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 11315,
+    "Recovered": 10388,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 11441,
+    "Recovered": 10499,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 11567,
+    "Recovered": 10588,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 11675,
+    "Recovered": 10761,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 11783,
+    "Recovered": 10864,
+    "Deceased": 140,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 11875,
+    "Recovered": 10981,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 11952,
+    "Recovered": 11159,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12093,
+    "Recovered": 11258,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12195,
+    "Recovered": 11403,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12287,
+    "Recovered": 11505,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12364,
+    "Recovered": 11623,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12465,
+    "Recovered": 11723,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12519,
+    "Recovered": 11799,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12582,
+    "Recovered": 11919,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12616,
+    "Recovered": 11974,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12695,
+    "Recovered": 12003,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12783,
+    "Recovered": 12064,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12872,
+    "Recovered": 12112,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 12970,
+    "Recovered": 12268,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13037,
+    "Recovered": 12386,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13094,
+    "Recovered": 12482,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13170,
+    "Recovered": 12571,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13211,
+    "Recovered": 12655,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13306,
+    "Recovered": 12709,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13390,
+    "Recovered": 12779,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13477,
+    "Recovered": 12860,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13553,
+    "Recovered": 12901,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13600,
+    "Recovered": 12992,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13670,
+    "Recovered": 13052,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13705,
+    "Recovered": 13140,
+    "Deceased": 163,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13764,
+    "Recovered": 13208,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13841,
+    "Recovered": 13310,
+    "Deceased": 165,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13906,
+    "Recovered": 13394,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 13963,
+    "Recovered": 13469,
+    "Deceased": 170,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14054,
+    "Recovered": 13533,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14129,
+    "Recovered": 13611,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14186,
+    "Recovered": 13678,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14246,
+    "Recovered": 13704,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14287,
+    "Recovered": 13758,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14326,
+    "Recovered": 13801,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14383,
+    "Recovered": 13865,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14447,
+    "Recovered": 13920,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14513,
+    "Recovered": 13987,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14560,
+    "Recovered": 14067,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14589,
+    "Recovered": 14137,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14609,
+    "Recovered": 14186,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14637,
+    "Recovered": 14216,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14669,
+    "Recovered": 14232,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14682,
+    "Recovered": 14243,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14703,
+    "Recovered": 14257,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14718,
+    "Recovered": 14271,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14738,
+    "Recovered": 14297,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14761,
+    "Recovered": 14322,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14787,
+    "Recovered": 14342,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14822,
+    "Recovered": 14402,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14874,
+    "Recovered": 14476,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14904,
+    "Recovered": 14522,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14942,
+    "Recovered": 14532,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 14972,
+    "Recovered": 14536,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15008,
+    "Recovered": 14576,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15015,
+    "Recovered": 14580,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15062,
+    "Recovered": 14601,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15100,
+    "Recovered": 14634,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15131,
+    "Recovered": 14664,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15154,
+    "Recovered": 14719,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15173,
+    "Recovered": 14742,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15194,
+    "Recovered": 14765,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15221,
+    "Recovered": 14799,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15276,
+    "Recovered": 14864,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15300,
+    "Recovered": 14962,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15336,
+    "Recovered": 14984,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15361,
+    "Recovered": 15020,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15391,
+    "Recovered": 15060,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15414,
+    "Recovered": 15096,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15443,
+    "Recovered": 15121,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15461,
+    "Recovered": 15140,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15480,
+    "Recovered": 15160,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15489,
+    "Recovered": 15180,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15508,
+    "Recovered": 15208,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15522,
+    "Recovered": 15231,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15538,
+    "Recovered": 15271,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15556,
+    "Recovered": 15302,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15570,
+    "Recovered": 15308,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15576,
+    "Recovered": 15343,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15587,
+    "Recovered": 15349,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15603,
+    "Recovered": 15357,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15621,
+    "Recovered": 15360,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15640,
+    "Recovered": 15394,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15646,
+    "Recovered": 15407,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15659,
+    "Recovered": 15418,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15671,
+    "Recovered": 15430,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15684,
+    "Recovered": 15433,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15694,
+    "Recovered": 15439,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15700,
+    "Recovered": 15447,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15712,
+    "Recovered": 15460,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15720,
+    "Recovered": 15470,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15733,
+    "Recovered": 15479,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15748,
+    "Recovered": 15484,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15759,
+    "Recovered": 15490,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15771,
+    "Recovered": 15499,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15778,
+    "Recovered": 15514,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15791,
+    "Recovered": 15529,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15802,
+    "Recovered": 15538,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15807,
+    "Recovered": 15546,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15814,
+    "Recovered": 15557,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15817,
+    "Recovered": 15569,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15828,
+    "Recovered": 15584,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15836,
+    "Recovered": 15599,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15846,
+    "Recovered": 15605,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15857,
+    "Recovered": 15612,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15864,
+    "Recovered": 15616,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15872,
+    "Recovered": 15630,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15882,
+    "Recovered": 15641,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15888,
+    "Recovered": 15656,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15896,
+    "Recovered": 15661,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15903,
+    "Recovered": 15666,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15911,
+    "Recovered": 15672,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15919,
+    "Recovered": 15680,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15927,
+    "Recovered": 15691,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15935,
+    "Recovered": 15697,
+    "Deceased": 182,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15944,
+    "Recovered": 15702,
+    "Deceased": 182,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15954,
+    "Recovered": 15705,
+    "Deceased": 182,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15972,
+    "Recovered": 15712,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15981,
+    "Recovered": 15718,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 15994,
+    "Recovered": 15722,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16001,
+    "Recovered": 15731,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16007,
+    "Recovered": 15737,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16013,
+    "Recovered": 15744,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16018,
+    "Recovered": 15753,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16022,
+    "Recovered": 15766,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16028,
+    "Recovered": 15777,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16032,
+    "Recovered": 15786,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16038,
+    "Recovered": 15797,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16042,
+    "Recovered": 15809,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16045,
+    "Recovered": 15824,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16049,
+    "Recovered": 15839,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16057,
+    "Recovered": 15843,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16061,
+    "Recovered": 15846,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16064,
+    "Recovered": 15852,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16076,
+    "Recovered": 15852,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16085,
+    "Recovered": 15855,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16091,
+    "Recovered": 15862,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16097,
+    "Recovered": 15864,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16102,
+    "Recovered": 15867,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16107,
+    "Recovered": 15873,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16110,
+    "Recovered": 15877,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16114,
+    "Recovered": 15883,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16122,
+    "Recovered": 15891,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16125,
+    "Recovered": 15896,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16131,
+    "Recovered": 15902,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16134,
+    "Recovered": 15912,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16140,
+    "Recovered": 15914,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16143,
+    "Recovered": 15918,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16144,
+    "Recovered": 15921,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16146,
+    "Recovered": 15923,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16150,
+    "Recovered": 15933,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16153,
+    "Recovered": 15935,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16155,
+    "Recovered": 15939,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16162,
+    "Recovered": 15941,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16172,
+    "Recovered": 15945,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16181,
+    "Recovered": 15951,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16187,
+    "Recovered": 15960,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16192,
+    "Recovered": 15967,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16192,
+    "Recovered": 15970,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16197,
+    "Recovered": 15974,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16200,
+    "Recovered": 15977,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16201,
+    "Recovered": 15982,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16202,
+    "Recovered": 15985,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16204,
+    "Recovered": 15991,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16209,
+    "Recovered": 15998,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16210,
+    "Recovered": 16004,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16218,
+    "Recovered": 16008,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16220,
+    "Recovered": 16013,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16234,
+    "Recovered": 16019,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16239,
+    "Recovered": 16023,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16241,
+    "Recovered": 16028,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16242,
+    "Recovered": 16032,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16245,
+    "Recovered": 16038,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16246,
+    "Recovered": 16043,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16249,
+    "Recovered": 16046,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16250,
+    "Recovered": 16052,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16252,
+    "Recovered": 16054,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16255,
+    "Recovered": 16055,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16256,
+    "Recovered": 16056,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16260,
+    "Recovered": 16058,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16262,
+    "Recovered": 16059,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16264,
+    "Recovered": 16060,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16270,
+    "Recovered": 16062,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16272,
+    "Recovered": 16064,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16274,
+    "Recovered": 16066,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16276,
+    "Recovered": 16068,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16279,
+    "Recovered": 16070,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16280,
+    "Recovered": 16073,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16280,
+    "Recovered": 16074,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16290,
+    "Recovered": 16076,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16295,
+    "Recovered": 16079,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16305,
+    "Recovered": 16082,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16320,
+    "Recovered": 16084,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16327,
+    "Recovered": 16096,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16339,
+    "Recovered": 16100,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16355,
+    "Recovered": 16100,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16378,
+    "Recovered": 16100,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16401,
+    "Recovered": 16110,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16419,
+    "Recovered": 16119,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16444,
+    "Recovered": 16131,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16453,
+    "Recovered": 16141,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16475,
+    "Recovered": 16149,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16490,
+    "Recovered": 16156,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16517,
+    "Recovered": 16165,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16541,
+    "Recovered": 16172,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16563,
+    "Recovered": 16174,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16600,
+    "Recovered": 16174,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16623,
+    "Recovered": 16174,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16658,
+    "Recovered": 16206,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16684,
+    "Recovered": 16252,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16779,
+    "Recovered": 16285,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16868,
+    "Recovered": 16285,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 16959,
+    "Recovered": 16316,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 17029,
+    "Recovered": 16345,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 17086,
+    "Recovered": 16399,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 17177,
+    "Recovered": 16399,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 17273,
+    "Recovered": 16437,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 17449,
+    "Recovered": 16481,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 17642,
+    "Recovered": 16529,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 17752,
+    "Recovered": 16623,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 17928,
+    "Recovered": 16715,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 18039,
+    "Recovered": 16798,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 18239,
+    "Recovered": 16871,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 18414,
+    "Recovered": 16986,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 18642,
+    "Recovered": 17067,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 18893,
+    "Recovered": 17117,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 19180,
+    "Recovered": 17292,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 19410,
+    "Recovered": 17543,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 19684,
+    "Recovered": 17773,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 19984,
+    "Recovered": 18011,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 20323,
+    "Recovered": 18225,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 20671,
+    "Recovered": 18407,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 20921,
+    "Recovered": 18638,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 21335,
+    "Recovered": 18889,
+    "Deceased": 217,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 21727,
+    "Recovered": 19144,
+    "Deceased": 219,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 22461,
+    "Recovered": 19518,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 22666,
+    "Recovered": 19909,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 22953,
+    "Recovered": 20317,
+    "Deceased": 235,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 23405,
+    "Recovered": 20746,
+    "Deceased": 240,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 23736,
+    "Recovered": 21183,
+    "Deceased": 241,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 24140,
+    "Recovered": 21647,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 24582,
+    "Recovered": 22307,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 24997,
+    "Recovered": 22584,
+    "Deceased": 251,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 25190,
+    "Recovered": 22836,
+    "Deceased": 255,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 25622,
+    "Recovered": 23049,
+    "Deceased": 264,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 26225,
+    "Recovered": 23214,
+    "Deceased": 267,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 26667,
+    "Recovered": 23344,
+    "Deceased": 271,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 26911,
+    "Recovered": 23658,
+    "Deceased": 277,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 27336,
+    "Recovered": 24141,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 27877,
+    "Recovered": 24591,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 28217,
+    "Recovered": 24793,
+    "Deceased": 295,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 28949,
+    "Recovered": 25258,
+    "Deceased": 310,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 29587,
+    "Recovered": 26008,
+    "Deceased": 322,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 30095,
+    "Recovered": 26210,
+    "Deceased": 330,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 30808,
+    "Recovered": 26454,
+    "Deceased": 337,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 31173,
+    "Recovered": 26673,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 31611,
+    "Recovered": 26890,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 32154,
+    "Recovered": 27236,
+    "Deceased": 367,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 32718,
+    "Recovered": 27818,
+    "Deceased": 390,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 33280,
+    "Recovered": 28219,
+    "Deceased": 408,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 33780,
+    "Recovered": 28592,
+    "Deceased": 428,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 34132,
+    "Recovered": 28730,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 34541,
+    "Recovered": 29457,
+    "Deceased": 469,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 34935,
+    "Recovered": 31045,
+    "Deceased": 490,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 35356,
+    "Recovered": 31373,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 35691,
+    "Recovered": 32009,
+    "Deceased": 528,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 35997,
+    "Recovered": 32554,
+    "Deceased": 531,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 36280,
+    "Recovered": 33121,
+    "Deceased": 535,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 36554,
+    "Recovered": 33596,
+    "Deceased": 554,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 36962,
+    "Recovered": 33970,
+    "Deceased": 560,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 37297,
+    "Recovered": 34383,
+    "Deceased": 569,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 37626,
+    "Recovered": 34797,
+    "Deceased": 576,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 37894,
+    "Recovered": 35223,
+    "Deceased": 585,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 38146,
+    "Recovered": 35543,
+    "Deceased": 588,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 38384,
+    "Recovered": 35852,
+    "Deceased": 598,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 38567,
+    "Recovered": 36137,
+    "Deceased": 617,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 38863,
+    "Recovered": 36415,
+    "Deceased": 624,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39130,
+    "Recovered": 36808,
+    "Deceased": 636,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39348,
+    "Recovered": 37144,
+    "Deceased": 640,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39520,
+    "Recovered": 37478,
+    "Deceased": 641,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39683,
+    "Recovered": 37744,
+    "Deceased": 651,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39842,
+    "Recovered": 37994,
+    "Deceased": 654,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 39987,
+    "Recovered": 38231,
+    "Deceased": 657,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40119,
+    "Recovered": 38416,
+    "Deceased": 664,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40238,
+    "Recovered": 38703,
+    "Deceased": 668,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40344,
+    "Recovered": 38873,
+    "Deceased": 671,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40442,
+    "Recovered": 39011,
+    "Deceased": 687,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40533,
+    "Recovered": 39126,
+    "Deceased": 692,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40623,
+    "Recovered": 39230,
+    "Deceased": 700,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40702,
+    "Recovered": 39325,
+    "Deceased": 704,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40780,
+    "Recovered": 39411,
+    "Deceased": 710,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40848,
+    "Recovered": 39484,
+    "Deceased": 717,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40912,
+    "Recovered": 39537,
+    "Deceased": 720,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 40970,
+    "Recovered": 39578,
+    "Deceased": 723,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41031,
+    "Recovered": 39640,
+    "Deceased": 725,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41079,
+    "Recovered": 39727,
+    "Deceased": 725,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41130,
+    "Recovered": 39809,
+    "Deceased": 725,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41183,
+    "Recovered": 39893,
+    "Deceased": 727,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41238,
+    "Recovered": 39981,
+    "Deceased": 729,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41290,
+    "Recovered": 40055,
+    "Deceased": 731,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41337,
+    "Recovered": 40122,
+    "Deceased": 732,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41381,
+    "Recovered": 40178,
+    "Deceased": 733,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41425,
+    "Recovered": 40223,
+    "Deceased": 732,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41464,
+    "Recovered": 40257,
+    "Deceased": 732,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41500,
+    "Recovered": 40298,
+    "Deceased": 732,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41534,
+    "Recovered": 40344,
+    "Deceased": 732,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41564,
+    "Recovered": 40386,
+    "Deceased": 732,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41591,
+    "Recovered": 40430,
+    "Deceased": 732,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41611,
+    "Recovered": 40476,
+    "Deceased": 734,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41641,
+    "Recovered": 40509,
+    "Deceased": 734,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41660,
+    "Recovered": 40546,
+    "Deceased": 736,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41678,
+    "Recovered": 40577,
+    "Deceased": 737,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41705,
+    "Recovered": 40605,
+    "Deceased": 738,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41732,
+    "Recovered": 40638,
+    "Deceased": 738,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41758,
+    "Recovered": 40674,
+    "Deceased": 739,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41781,
+    "Recovered": 40705,
+    "Deceased": 739,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41806,
+    "Recovered": 40740,
+    "Deceased": 739,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41836,
+    "Recovered": 40766,
+    "Deceased": 739,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41863,
+    "Recovered": 40793,
+    "Deceased": 739,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41886,
+    "Recovered": 40824,
+    "Deceased": 739,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41904,
+    "Recovered": 40861,
+    "Deceased": 739,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41926,
+    "Recovered": 40895,
+    "Deceased": 740,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41946,
+    "Recovered": 40926,
+    "Deceased": 741,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41964,
+    "Recovered": 40955,
+    "Deceased": 741,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41982,
+    "Recovered": 40981,
+    "Deceased": 742,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 41998,
+    "Recovered": 41010,
+    "Deceased": 742,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42013,
+    "Recovered": 41036,
+    "Deceased": 742,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42028,
+    "Recovered": 41060,
+    "Deceased": 743,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42051,
+    "Recovered": 41087,
+    "Deceased": 743,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42067,
+    "Recovered": 41109,
+    "Deceased": 743,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42087,
+    "Recovered": 41130,
+    "Deceased": 743,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42103,
+    "Recovered": 41149,
+    "Deceased": 744,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42119,
+    "Recovered": 41166,
+    "Deceased": 745,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42147,
+    "Recovered": 41186,
+    "Deceased": 745,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42169,
+    "Recovered": 41208,
+    "Deceased": 745,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42189,
+    "Recovered": 41234,
+    "Deceased": 745,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42206,
+    "Recovered": 41261,
+    "Deceased": 745,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42229,
+    "Recovered": 41283,
+    "Deceased": 746,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42252,
+    "Recovered": 41300,
+    "Deceased": 746,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42275,
+    "Recovered": 41318,
+    "Deceased": 746,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42297,
+    "Recovered": 41338,
+    "Deceased": 747,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42318,
+    "Recovered": 41361,
+    "Deceased": 747,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42344,
+    "Recovered": 41378,
+    "Deceased": 747,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42366,
+    "Recovered": 41390,
+    "Deceased": 748,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42387,
+    "Recovered": 41408,
+    "Deceased": 749,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42405,
+    "Recovered": 41423,
+    "Deceased": 749,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42429,
+    "Recovered": 41444,
+    "Deceased": 749,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42447,
+    "Recovered": 41463,
+    "Deceased": 749,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42467,
+    "Recovered": 41485,
+    "Deceased": 750,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42482,
+    "Recovered": 41513,
+    "Deceased": 751,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42498,
+    "Recovered": 41532,
+    "Deceased": 752,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42516,
+    "Recovered": 41554,
+    "Deceased": 753,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42531,
+    "Recovered": 41572,
+    "Deceased": 754,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42546,
+    "Recovered": 41593,
+    "Deceased": 755,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42560,
+    "Recovered": 41611,
+    "Deceased": 755,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42578,
+    "Recovered": 41627,
+    "Deceased": 755,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42590,
+    "Recovered": 41649,
+    "Deceased": 755,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42601,
+    "Recovered": 41674,
+    "Deceased": 756,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42614,
+    "Recovered": 41697,
+    "Deceased": 756,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42632,
+    "Recovered": 41714,
+    "Deceased": 756,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42651,
+    "Recovered": 41733,
+    "Deceased": 756,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42669,
+    "Recovered": 41754,
+    "Deceased": 756,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42683,
+    "Recovered": 41777,
+    "Deceased": 757,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42703,
+    "Recovered": 41795,
+    "Deceased": 758,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42722,
+    "Recovered": 41811,
+    "Deceased": 758,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42741,
+    "Recovered": 41821,
+    "Deceased": 758,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42756,
+    "Recovered": 41831,
+    "Deceased": 759,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42769,
+    "Recovered": 41840,
+    "Deceased": 759,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42781,
+    "Recovered": 41851,
+    "Deceased": 760,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42799,
+    "Recovered": 41866,
+    "Deceased": 760,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42814,
+    "Recovered": 41885,
+    "Deceased": 760,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42828,
+    "Recovered": 41902,
+    "Deceased": 760,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42841,
+    "Recovered": 41921,
+    "Deceased": 761,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42860,
+    "Recovered": 41939,
+    "Deceased": 761,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42874,
+    "Recovered": 41961,
+    "Deceased": 761,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42895,
+    "Recovered": 41977,
+    "Deceased": 761,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42911,
+    "Recovered": 41995,
+    "Deceased": 763,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42924,
+    "Recovered": 42007,
+    "Deceased": 765,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42935,
+    "Recovered": 42021,
+    "Deceased": 765,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42960,
+    "Recovered": 42037,
+    "Deceased": 765,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42979,
+    "Recovered": 42054,
+    "Deceased": 765,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 42993,
+    "Recovered": 42073,
+    "Deceased": 765,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43012,
+    "Recovered": 42087,
+    "Deceased": 765,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43028,
+    "Recovered": 42098,
+    "Deceased": 767,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43046,
+    "Recovered": 42109,
+    "Deceased": 767,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43060,
+    "Recovered": 42119,
+    "Deceased": 768,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43081,
+    "Recovered": 42133,
+    "Deceased": 768,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43100,
+    "Recovered": 42151,
+    "Deceased": 768,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43117,
+    "Recovered": 42166,
+    "Deceased": 768,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43130,
+    "Recovered": 42177,
+    "Deceased": 768,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43143,
+    "Recovered": 42192,
+    "Deceased": 769,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43156,
+    "Recovered": 42212,
+    "Deceased": 769,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43175,
+    "Recovered": 42223,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43191,
+    "Recovered": 42237,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43205,
+    "Recovered": 42255,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43218,
+    "Recovered": 42271,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43229,
+    "Recovered": 42284,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43243,
+    "Recovered": 42299,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43252,
+    "Recovered": 42315,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43262,
+    "Recovered": 42327,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43278,
+    "Recovered": 42344,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43290,
+    "Recovered": 42359,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43304,
+    "Recovered": 42378,
+    "Deceased": 771,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43318,
+    "Recovered": 42399,
+    "Deceased": 771,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43329,
+    "Recovered": 42422,
+    "Deceased": 771,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43342,
+    "Recovered": 42446,
+    "Deceased": 771,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43353,
+    "Recovered": 42463,
+    "Deceased": 771,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43361,
+    "Recovered": 42476,
+    "Deceased": 772,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43367,
+    "Recovered": 42484,
+    "Deceased": 773,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43375,
+    "Recovered": 42490,
+    "Deceased": 773,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43381,
+    "Recovered": 42500,
+    "Deceased": 774,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43389,
+    "Recovered": 42511,
+    "Deceased": 774,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43401,
+    "Recovered": 42523,
+    "Deceased": 774,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43412,
+    "Recovered": 42531,
+    "Deceased": 774,
+    "Other": 0,
+    "Tested": 20118
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Ranipet",
+    "cases": 43422,
+    "Recovered": 42543,
+    "Deceased": 775,
+    "Other": 0,
+    "Tested": 20118
+  }
+]
