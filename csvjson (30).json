@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 35,
+    "Recovered": 2,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 35,
+    "Recovered": 2,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 35,
+    "Recovered": 2,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 35,
+    "Recovered": 5,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 35,
+    "Recovered": 5,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 35,
+    "Recovered": 8,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 35,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 37,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 46,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 47,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 48,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 48,
+    "Recovered": 15,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 49,
+    "Recovered": 16,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 49,
+    "Recovered": 16,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 49,
+    "Recovered": 21,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 49,
+    "Recovered": 21,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 50,
+    "Recovered": 30,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 50,
+    "Recovered": 32,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 54,
+    "Recovered": 34,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 56,
+    "Recovered": 34,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 61,
+    "Recovered": 35,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 64,
+    "Recovered": 40,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 70,
+    "Recovered": 40,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 72,
+    "Recovered": 44,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 75,
+    "Recovered": 48,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 83,
+    "Recovered": 50,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 83,
+    "Recovered": 51,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 85,
+    "Recovered": 52,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 85,
+    "Recovered": 52,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 85,
+    "Recovered": 52,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 85,
+    "Recovered": 53,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 85,
+    "Recovered": 54,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 85,
+    "Recovered": 56,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 85,
+    "Recovered": 61,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 86,
+    "Recovered": 61,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 86,
+    "Recovered": 63,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 88,
+    "Recovered": 65,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 90,
+    "Recovered": 68,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 94,
+    "Recovered": 73,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 96,
+    "Recovered": 77,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 98,
+    "Recovered": 77,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 100,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 103,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 106,
+    "Recovered": 88,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 106,
+    "Recovered": 88,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 106,
+    "Recovered": 88,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 111,
+    "Recovered": 88,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 115,
+    "Recovered": 89,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 118,
+    "Recovered": 90,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 134,
+    "Recovered": 90,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 144,
+    "Recovered": 90,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 157,
+    "Recovered": 93,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 162,
+    "Recovered": 97,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 196,
+    "Recovered": 98,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 7163
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 210,
+    "Recovered": 98,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 218,
+    "Recovered": 107,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 241,
+    "Recovered": 108,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 261,
+    "Recovered": 108,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 272,
+    "Recovered": 110,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 277,
+    "Recovered": 110,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 286,
+    "Recovered": 110,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 294,
+    "Recovered": 111,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 303,
+    "Recovered": 111,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 332,
+    "Recovered": 111,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 335,
+    "Recovered": 153,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 347,
+    "Recovered": 179,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 368,
+    "Recovered": 182,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 387,
+    "Recovered": 204,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 391,
+    "Recovered": 207,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 408,
+    "Recovered": 207,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 448,
+    "Recovered": 207,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 468,
+    "Recovered": 256,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 530,
+    "Recovered": 256,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 558,
+    "Recovered": 299,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 589,
+    "Recovered": 299,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 598,
+    "Recovered": 299,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 665,
+    "Recovered": 299,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 683,
+    "Recovered": 325,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 721,
+    "Recovered": 325,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 824,
+    "Recovered": 325,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 842,
+    "Recovered": 325,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 859,
+    "Recovered": 325,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 926,
+    "Recovered": 325,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1019,
+    "Recovered": 336,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1096,
+    "Recovered": 415,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1200,
+    "Recovered": 433,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1259,
+    "Recovered": 435,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1344,
+    "Recovered": 450,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 11804
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1412,
+    "Recovered": 450,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1506,
+    "Recovered": 450,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1607,
+    "Recovered": 837,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1682,
+    "Recovered": 869,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1794,
+    "Recovered": 869,
+    "Deceased": 15,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1844,
+    "Recovered": 937,
+    "Deceased": 15,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1911,
+    "Recovered": 944,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 1968,
+    "Recovered": 962,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 2032,
+    "Recovered": 986,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 2210,
+    "Recovered": 1173,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 2315,
+    "Recovered": 1191,
+    "Deceased": 27,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 2397,
+    "Recovered": 1236,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 2443,
+    "Recovered": 1622,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 2564,
+    "Recovered": 1662,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 2629,
+    "Recovered": 1720,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 2748,
+    "Recovered": 1828,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 2952,
+    "Recovered": 1876,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 3132,
+    "Recovered": 1915,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 3246,
+    "Recovered": 1964,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 3382,
+    "Recovered": 2026,
+    "Deceased": 54,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 3481,
+    "Recovered": 2055,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 3632,
+    "Recovered": 2152,
+    "Deceased": 61,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 3725,
+    "Recovered": 2313,
+    "Deceased": 65,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 3814,
+    "Recovered": 2380,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 3905,
+    "Recovered": 2650,
+    "Deceased": 69,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 4052,
+    "Recovered": 2779,
+    "Deceased": 72,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 4146,
+    "Recovered": 2899,
+    "Deceased": 74,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 4214,
+    "Recovered": 3134,
+    "Deceased": 78,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 4355,
+    "Recovered": 3200,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 4473,
+    "Recovered": 3261,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 4603,
+    "Recovered": 3359,
+    "Deceased": 88,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 4751,
+    "Recovered": 3620,
+    "Deceased": 91,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 4840,
+    "Recovered": 3863,
+    "Deceased": 94,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 4926,
+    "Recovered": 3916,
+    "Deceased": 96,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5037,
+    "Recovered": 4006,
+    "Deceased": 99,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5099,
+    "Recovered": 4029,
+    "Deceased": 100,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5157,
+    "Recovered": 4112,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5233,
+    "Recovered": 4167,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5318,
+    "Recovered": 4264,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5416,
+    "Recovered": 4344,
+    "Deceased": 103,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5465,
+    "Recovered": 4425,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5547,
+    "Recovered": 4701,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5606,
+    "Recovered": 4841,
+    "Deceased": 105,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5695,
+    "Recovered": 4963,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5755,
+    "Recovered": 4999,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5812,
+    "Recovered": 5021,
+    "Deceased": 108,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5877,
+    "Recovered": 5143,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 5959,
+    "Recovered": 5185,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6019,
+    "Recovered": 5225,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6092,
+    "Recovered": 5315,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6142,
+    "Recovered": 5466,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6224,
+    "Recovered": 5502,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6260,
+    "Recovered": 5591,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6344,
+    "Recovered": 5638,
+    "Deceased": 118,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6400,
+    "Recovered": 5664,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6467,
+    "Recovered": 5800,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6540,
+    "Recovered": 5895,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6638,
+    "Recovered": 5943,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6703,
+    "Recovered": 6037,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6794,
+    "Recovered": 6068,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6861,
+    "Recovered": 6095,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6915,
+    "Recovered": 6150,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 6961,
+    "Recovered": 6273,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7016,
+    "Recovered": 6344,
+    "Deceased": 131,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7073,
+    "Recovered": 6384,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7137,
+    "Recovered": 6487,
+    "Deceased": 133,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7167,
+    "Recovered": 6566,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7215,
+    "Recovered": 6637,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7283,
+    "Recovered": 6699,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7322,
+    "Recovered": 6768,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7375,
+    "Recovered": 6837,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7411,
+    "Recovered": 6879,
+    "Deceased": 140,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7444,
+    "Recovered": 6937,
+    "Deceased": 140,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7483,
+    "Recovered": 6991,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7523,
+    "Recovered": 7054,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7540,
+    "Recovered": 7098,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7550,
+    "Recovered": 7134,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7558,
+    "Recovered": 7174,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7572,
+    "Recovered": 7211,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7596,
+    "Recovered": 7256,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7614,
+    "Recovered": 7280,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7630,
+    "Recovered": 7301,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7661,
+    "Recovered": 7323,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7669,
+    "Recovered": 7343,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7690,
+    "Recovered": 7357,
+    "Deceased": 149,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7705,
+    "Recovered": 7372,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7716,
+    "Recovered": 7409,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7718,
+    "Recovered": 7414,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7740,
+    "Recovered": 7434,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7748,
+    "Recovered": 7453,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7759,
+    "Recovered": 7459,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7766,
+    "Recovered": 7465,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7777,
+    "Recovered": 7474,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7784,
+    "Recovered": 7486,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7788,
+    "Recovered": 7494,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7791,
+    "Recovered": 7513,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7798,
+    "Recovered": 7542,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7802,
+    "Recovered": 7545,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7810,
+    "Recovered": 7586,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7814,
+    "Recovered": 7607,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7823,
+    "Recovered": 7639,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7826,
+    "Recovered": 7645,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7830,
+    "Recovered": 7648,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7849,
+    "Recovered": 7651,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7868,
+    "Recovered": 7653,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7873,
+    "Recovered": 7656,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7876,
+    "Recovered": 7658,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7882,
+    "Recovered": 7665,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7891,
+    "Recovered": 7666,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7895,
+    "Recovered": 7671,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7901,
+    "Recovered": 7677,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7915,
+    "Recovered": 7681,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7922,
+    "Recovered": 7686,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7926,
+    "Recovered": 7691,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7930,
+    "Recovered": 7696,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7937,
+    "Recovered": 7709,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7939,
+    "Recovered": 7711,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7949,
+    "Recovered": 7717,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7955,
+    "Recovered": 7734,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7962,
+    "Recovered": 7748,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7968,
+    "Recovered": 7766,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7972,
+    "Recovered": 7771,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 7996,
+    "Recovered": 7782,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8008,
+    "Recovered": 7786,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8011,
+    "Recovered": 7792,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8022,
+    "Recovered": 7794,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8033,
+    "Recovered": 7796,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8044,
+    "Recovered": 7802,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8056,
+    "Recovered": 7808,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8073,
+    "Recovered": 7813,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8077,
+    "Recovered": 7823,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8082,
+    "Recovered": 7833,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8091,
+    "Recovered": 7838,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8103,
+    "Recovered": 7847,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8117,
+    "Recovered": 7858,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8125,
+    "Recovered": 7871,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8131,
+    "Recovered": 7880,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8137,
+    "Recovered": 7889,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8144,
+    "Recovered": 7897,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8147,
+    "Recovered": 7903,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8152,
+    "Recovered": 7917,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8159,
+    "Recovered": 7932,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8163,
+    "Recovered": 7955,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8168,
+    "Recovered": 7976,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8171,
+    "Recovered": 7980,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8172,
+    "Recovered": 7985,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8182,
+    "Recovered": 7990,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8188,
+    "Recovered": 7995,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8192,
+    "Recovered": 7999,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8196,
+    "Recovered": 8004,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8203,
+    "Recovered": 8007,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8208,
+    "Recovered": 8011,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8211,
+    "Recovered": 8020,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8215,
+    "Recovered": 8021,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8223,
+    "Recovered": 8023,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8228,
+    "Recovered": 8026,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8231,
+    "Recovered": 8033,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8238,
+    "Recovered": 8036,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8250,
+    "Recovered": 8043,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8259,
+    "Recovered": 8049,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8261,
+    "Recovered": 8052,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8263,
+    "Recovered": 8056,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8272,
+    "Recovered": 8064,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8277,
+    "Recovered": 8070,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8285,
+    "Recovered": 8071,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8291,
+    "Recovered": 8076,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8298,
+    "Recovered": 8086,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8303,
+    "Recovered": 8099,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8308,
+    "Recovered": 8104,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8313,
+    "Recovered": 8107,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8319,
+    "Recovered": 8112,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8323,
+    "Recovered": 8118,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8325,
+    "Recovered": 8123,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8328,
+    "Recovered": 8128,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8332,
+    "Recovered": 8139,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8337,
+    "Recovered": 8143,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8341,
+    "Recovered": 8149,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8346,
+    "Recovered": 8154,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8347,
+    "Recovered": 8157,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8352,
+    "Recovered": 8159,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8354,
+    "Recovered": 8166,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8363,
+    "Recovered": 8170,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8367,
+    "Recovered": 8174,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8380,
+    "Recovered": 8177,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8389,
+    "Recovered": 8184,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8391,
+    "Recovered": 8189,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8397,
+    "Recovered": 8191,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8402,
+    "Recovered": 8196,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8409,
+    "Recovered": 8200,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8413,
+    "Recovered": 8207,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8414,
+    "Recovered": 8210,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8416,
+    "Recovered": 8216,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8420,
+    "Recovered": 8224,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8429,
+    "Recovered": 8233,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8431,
+    "Recovered": 8239,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8435,
+    "Recovered": 8244,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8438,
+    "Recovered": 8248,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8439,
+    "Recovered": 8255,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8440,
+    "Recovered": 8256,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8449,
+    "Recovered": 8258,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8449,
+    "Recovered": 8262,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8455,
+    "Recovered": 8268,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8464,
+    "Recovered": 8273,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8467,
+    "Recovered": 8276,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8480,
+    "Recovered": 8278,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8486,
+    "Recovered": 8281,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8491,
+    "Recovered": 8284,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8493,
+    "Recovered": 8286,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8493,
+    "Recovered": 8289,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8499,
+    "Recovered": 8291,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8501,
+    "Recovered": 8294,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8504,
+    "Recovered": 8301,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8506,
+    "Recovered": 8307,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8507,
+    "Recovered": 8314,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8512,
+    "Recovered": 8319,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8516,
+    "Recovered": 8323,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8521,
+    "Recovered": 8326,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8532,
+    "Recovered": 8331,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8542,
+    "Recovered": 8335,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8545,
+    "Recovered": 8341,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8547,
+    "Recovered": 8344,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8550,
+    "Recovered": 8350,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8556,
+    "Recovered": 8354,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8560,
+    "Recovered": 8360,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8563,
+    "Recovered": 8365,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8567,
+    "Recovered": 8371,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8569,
+    "Recovered": 8379,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8574,
+    "Recovered": 8386,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8576,
+    "Recovered": 8390,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8579,
+    "Recovered": 8395,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8579,
+    "Recovered": 8399,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8581,
+    "Recovered": 8402,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8582,
+    "Recovered": 8404,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8583,
+    "Recovered": 8407,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8584,
+    "Recovered": 8410,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8585,
+    "Recovered": 8412,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8588,
+    "Recovered": 8414,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8590,
+    "Recovered": 8416,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8594,
+    "Recovered": 8419,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8599,
+    "Recovered": 8421,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8602,
+    "Recovered": 8422,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8616,
+    "Recovered": 8424,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8636,
+    "Recovered": 8426,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8646,
+    "Recovered": 8427,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8656,
+    "Recovered": 8432,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8660,
+    "Recovered": 8435,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8666,
+    "Recovered": 8438,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8674,
+    "Recovered": 8439,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8683,
+    "Recovered": 8443,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8690,
+    "Recovered": 8448,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8699,
+    "Recovered": 8459,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8717,
+    "Recovered": 8467,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8731,
+    "Recovered": 8476,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8749,
+    "Recovered": 8483,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8766,
+    "Recovered": 8487,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8802,
+    "Recovered": 8494,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8824,
+    "Recovered": 8499,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8843,
+    "Recovered": 8503,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8868,
+    "Recovered": 8509,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8889,
+    "Recovered": 8520,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8930,
+    "Recovered": 8544,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 8980,
+    "Recovered": 8551,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9012,
+    "Recovered": 8556,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9087,
+    "Recovered": 8577,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9199,
+    "Recovered": 8588,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9273,
+    "Recovered": 8596,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9340,
+    "Recovered": 8645,
+    "Deceased": 163,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9412,
+    "Recovered": 8706,
+    "Deceased": 163,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9509,
+    "Recovered": 8779,
+    "Deceased": 163,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9634,
+    "Recovered": 8793,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9799,
+    "Recovered": 8806,
+    "Deceased": 165,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 9903,
+    "Recovered": 8835,
+    "Deceased": 165,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 10021,
+    "Recovered": 8857,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 10300,
+    "Recovered": 8931,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 10478,
+    "Recovered": 9051,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 10651,
+    "Recovered": 9221,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 10912,
+    "Recovered": 9333,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 11156,
+    "Recovered": 9482,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 11281,
+    "Recovered": 9638,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 11464,
+    "Recovered": 9795,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 11695,
+    "Recovered": 10002,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 11831,
+    "Recovered": 10232,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 12074,
+    "Recovered": 10468,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 12261,
+    "Recovered": 10729,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 12392,
+    "Recovered": 11000,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 12518,
+    "Recovered": 11227,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 12740,
+    "Recovered": 11479,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 13026,
+    "Recovered": 11655,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 13340,
+    "Recovered": 11863,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 13460,
+    "Recovered": 12077,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 13847,
+    "Recovered": 12275,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 14161,
+    "Recovered": 12366,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 14400,
+    "Recovered": 12518,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 14734,
+    "Recovered": 12680,
+    "Deceased": 218,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 15092,
+    "Recovered": 12813,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 15535,
+    "Recovered": 13084,
+    "Deceased": 235,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 15959,
+    "Recovered": 13267,
+    "Deceased": 236,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 16416,
+    "Recovered": 13414,
+    "Deceased": 241,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 16788,
+    "Recovered": 13843,
+    "Deceased": 242,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 17131,
+    "Recovered": 14085,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 17558,
+    "Recovered": 14210,
+    "Deceased": 245,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 18011,
+    "Recovered": 14466,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 18448,
+    "Recovered": 14728,
+    "Deceased": 251,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 19002,
+    "Recovered": 15029,
+    "Deceased": 260,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 19341,
+    "Recovered": 15200,
+    "Deceased": 271,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 19797,
+    "Recovered": 15545,
+    "Deceased": 274,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 20185,
+    "Recovered": 15874,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 20518,
+    "Recovered": 16133,
+    "Deceased": 290,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 20995,
+    "Recovered": 16552,
+    "Deceased": 304,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 21400,
+    "Recovered": 17013,
+    "Deceased": 308,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 21768,
+    "Recovered": 17380,
+    "Deceased": 327,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 22168,
+    "Recovered": 17850,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 22472,
+    "Recovered": 18323,
+    "Deceased": 335,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 22768,
+    "Recovered": 18744,
+    "Deceased": 342,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 23074,
+    "Recovered": 19020,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 23378,
+    "Recovered": 19295,
+    "Deceased": 360,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 23604,
+    "Recovered": 19648,
+    "Deceased": 361,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 23895,
+    "Recovered": 20139,
+    "Deceased": 372,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 24118,
+    "Recovered": 20419,
+    "Deceased": 387,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 24348,
+    "Recovered": 20693,
+    "Deceased": 387,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 24546,
+    "Recovered": 21214,
+    "Deceased": 397,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 24738,
+    "Recovered": 21891,
+    "Deceased": 406,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 24973,
+    "Recovered": 22606,
+    "Deceased": 414,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 25171,
+    "Recovered": 22994,
+    "Deceased": 419,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 25354,
+    "Recovered": 23223,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 25516,
+    "Recovered": 23439,
+    "Deceased": 432,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 25650,
+    "Recovered": 23511,
+    "Deceased": 432,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 25769,
+    "Recovered": 23699,
+    "Deceased": 436,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 25871,
+    "Recovered": 23910,
+    "Deceased": 441,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 25964,
+    "Recovered": 24509,
+    "Deceased": 442,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26047,
+    "Recovered": 24612,
+    "Deceased": 444,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26154,
+    "Recovered": 24773,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26228,
+    "Recovered": 24952,
+    "Deceased": 454,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26279,
+    "Recovered": 25100,
+    "Deceased": 454,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26319,
+    "Recovered": 25273,
+    "Deceased": 454,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26370,
+    "Recovered": 25415,
+    "Deceased": 454,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26400,
+    "Recovered": 25541,
+    "Deceased": 458,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26388,
+    "Recovered": 25580,
+    "Deceased": 458,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26374,
+    "Recovered": 25604,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26413,
+    "Recovered": 25630,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26363,
+    "Recovered": 25647,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26399,
+    "Recovered": 25666,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26427,
+    "Recovered": 25681,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26422,
+    "Recovered": 25691,
+    "Deceased": 465,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26438,
+    "Recovered": 25702,
+    "Deceased": 466,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26474,
+    "Recovered": 25715,
+    "Deceased": 468,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26500,
+    "Recovered": 25730,
+    "Deceased": 468,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26512,
+    "Recovered": 25743,
+    "Deceased": 468,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26532,
+    "Recovered": 25772,
+    "Deceased": 470,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26532,
+    "Recovered": 25809,
+    "Deceased": 471,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26559,
+    "Recovered": 25843,
+    "Deceased": 474,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26567,
+    "Recovered": 25871,
+    "Deceased": 476,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26584,
+    "Recovered": 25894,
+    "Deceased": 476,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26604,
+    "Recovered": 25921,
+    "Deceased": 476,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26619,
+    "Recovered": 25949,
+    "Deceased": 476,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26627,
+    "Recovered": 25970,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26641,
+    "Recovered": 25988,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26652,
+    "Recovered": 26000,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26662,
+    "Recovered": 26010,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26677,
+    "Recovered": 26021,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26685,
+    "Recovered": 26033,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26696,
+    "Recovered": 26048,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26697,
+    "Recovered": 26065,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26709,
+    "Recovered": 26079,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26720,
+    "Recovered": 26092,
+    "Deceased": 478,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26731,
+    "Recovered": 26103,
+    "Deceased": 478,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26739,
+    "Recovered": 26117,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26751,
+    "Recovered": 26128,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26777,
+    "Recovered": 26141,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26798,
+    "Recovered": 26159,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26816,
+    "Recovered": 26180,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26828,
+    "Recovered": 26195,
+    "Deceased": 480,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26844,
+    "Recovered": 26213,
+    "Deceased": 480,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26856,
+    "Recovered": 26223,
+    "Deceased": 480,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26861,
+    "Recovered": 26231,
+    "Deceased": 480,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26868,
+    "Recovered": 26242,
+    "Deceased": 480,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26876,
+    "Recovered": 26250,
+    "Deceased": 481,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26885,
+    "Recovered": 26259,
+    "Deceased": 483,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26893,
+    "Recovered": 26265,
+    "Deceased": 483,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26898,
+    "Recovered": 26274,
+    "Deceased": 483,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26904,
+    "Recovered": 26288,
+    "Deceased": 483,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26908,
+    "Recovered": 26297,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26914,
+    "Recovered": 26308,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26919,
+    "Recovered": 26321,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26928,
+    "Recovered": 26332,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26935,
+    "Recovered": 26346,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26944,
+    "Recovered": 26364,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26944,
+    "Recovered": 26377,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26951,
+    "Recovered": 26388,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26960,
+    "Recovered": 26396,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26965,
+    "Recovered": 26408,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26972,
+    "Recovered": 26417,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26979,
+    "Recovered": 26423,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26988,
+    "Recovered": 26430,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 26996,
+    "Recovered": 26439,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27002,
+    "Recovered": 26445,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27004,
+    "Recovered": 26449,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27009,
+    "Recovered": 26453,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27018,
+    "Recovered": 26458,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27028,
+    "Recovered": 26464,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27039,
+    "Recovered": 26474,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27049,
+    "Recovered": 26483,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27068,
+    "Recovered": 26489,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27081,
+    "Recovered": 26497,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27094,
+    "Recovered": 26506,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27105,
+    "Recovered": 26512,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27112,
+    "Recovered": 26516,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27117,
+    "Recovered": 26522,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27120,
+    "Recovered": 26527,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27129,
+    "Recovered": 26534,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27139,
+    "Recovered": 26542,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27144,
+    "Recovered": 26553,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27150,
+    "Recovered": 26565,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27155,
+    "Recovered": 26578,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27159,
+    "Recovered": 26589,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27167,
+    "Recovered": 26604,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27176,
+    "Recovered": 26617,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27191,
+    "Recovered": 26625,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27196,
+    "Recovered": 26632,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27204,
+    "Recovered": 26637,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27214,
+    "Recovered": 26640,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27221,
+    "Recovered": 26646,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27224,
+    "Recovered": 26654,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27231,
+    "Recovered": 26665,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27237,
+    "Recovered": 26673,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27240,
+    "Recovered": 26678,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27245,
+    "Recovered": 26681,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27251,
+    "Recovered": 26686,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27255,
+    "Recovered": 26695,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27259,
+    "Recovered": 26700,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27263,
+    "Recovered": 26709,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27268,
+    "Recovered": 26717,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27275,
+    "Recovered": 26728,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27277,
+    "Recovered": 26734,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27282,
+    "Recovered": 26739,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27285,
+    "Recovered": 26745,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27287,
+    "Recovered": 26752,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27288,
+    "Recovered": 26758,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27290,
+    "Recovered": 26765,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27293,
+    "Recovered": 26771,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27298,
+    "Recovered": 26776,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27299,
+    "Recovered": 26780,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27300,
+    "Recovered": 26785,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27303,
+    "Recovered": 26789,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27305,
+    "Recovered": 26791,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27306,
+    "Recovered": 26792,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27307,
+    "Recovered": 26794,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27309,
+    "Recovered": 26796,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27310,
+    "Recovered": 26799,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27314,
+    "Recovered": 26801,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27316,
+    "Recovered": 26805,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27318,
+    "Recovered": 26808,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27317,
+    "Recovered": 26809,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27321,
+    "Recovered": 26812,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27324,
+    "Recovered": 26813,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27329,
+    "Recovered": 26816,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27329,
+    "Recovered": 26817,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27330,
+    "Recovered": 26818,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27332,
+    "Recovered": 26820,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27337,
+    "Recovered": 26821,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27343,
+    "Recovered": 26822,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27347,
+    "Recovered": 26824,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27348,
+    "Recovered": 26826,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27350,
+    "Recovered": 26827,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tenkasi",
+    "cases": 27353,
+    "Recovered": 26830,
+    "Deceased": 484,
+    "Other": 0,
+    "Tested": 26338
+  }
+]
