@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 112,
+    "Recovered": 83,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 112,
+    "Recovered": 83,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 112,
+    "Recovered": 83,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 112,
+    "Recovered": 91,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 112,
+    "Recovered": 103,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 112,
+    "Recovered": 105,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 108,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 108,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 109,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 112,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 112,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 112,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 112,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 112,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 112,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 112,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 114,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 115,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 115,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 116,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 117,
+    "Recovered": 114,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 117,
+    "Recovered": 115,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 116,
+    "Recovered": 115,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 120,
+    "Recovered": 115,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8153
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 119,
+    "Recovered": 115,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12089
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 119,
+    "Recovered": 116,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 123,
+    "Recovered": 116,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 122,
+    "Recovered": 116,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 120,
+    "Recovered": 116,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 121,
+    "Recovered": 116,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 128,
+    "Recovered": 116,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 141,
+    "Recovered": 117,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 147,
+    "Recovered": 117,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 150,
+    "Recovered": 117,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 160,
+    "Recovered": 117,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 180,
+    "Recovered": 117,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 188,
+    "Recovered": 117,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 194,
+    "Recovered": 117,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 197,
+    "Recovered": 124,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 198,
+    "Recovered": 125,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 204,
+    "Recovered": 125,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 220,
+    "Recovered": 129,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 237,
+    "Recovered": 141,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 262,
+    "Recovered": 150,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 265,
+    "Recovered": 156,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 288,
+    "Recovered": 156,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 294,
+    "Recovered": 167,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 297,
+    "Recovered": 177,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 308,
+    "Recovered": 177,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 319,
+    "Recovered": 185,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 342,
+    "Recovered": 186,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 381,
+    "Recovered": 193,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 409,
+    "Recovered": 203,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 433,
+    "Recovered": 212,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 473,
+    "Recovered": 216,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 507,
+    "Recovered": 252,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 541,
+    "Recovered": 266,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 567,
+    "Recovered": 285,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 12536
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 600,
+    "Recovered": 300,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 617,
+    "Recovered": 325,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 668,
+    "Recovered": 355,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 700,
+    "Recovered": 380,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 737,
+    "Recovered": 387,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 757,
+    "Recovered": 443,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 795,
+    "Recovered": 472,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 827,
+    "Recovered": 501,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 873,
+    "Recovered": 555,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 909,
+    "Recovered": 581,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 949,
+    "Recovered": 597,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 994,
+    "Recovered": 617,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1000,
+    "Recovered": 653,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1024,
+    "Recovered": 675,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1059,
+    "Recovered": 712,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1089,
+    "Recovered": 750,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1106,
+    "Recovered": 776,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1154,
+    "Recovered": 801,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1197,
+    "Recovered": 815,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1233,
+    "Recovered": 829,
+    "Deceased": 27,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1315,
+    "Recovered": 846,
+    "Deceased": 34,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1379,
+    "Recovered": 896,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1431,
+    "Recovered": 932,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1495,
+    "Recovered": 991,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1531,
+    "Recovered": 1027,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1601,
+    "Recovered": 1052,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1647,
+    "Recovered": 1108,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1707,
+    "Recovered": 1151,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1774,
+    "Recovered": 1205,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1875,
+    "Recovered": 1226,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 1947,
+    "Recovered": 1284,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2020,
+    "Recovered": 1338,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2099,
+    "Recovered": 1374,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2143,
+    "Recovered": 1431,
+    "Deceased": 54,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2241,
+    "Recovered": 1613,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2337,
+    "Recovered": 1644,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2458,
+    "Recovered": 1710,
+    "Deceased": 62,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2557,
+    "Recovered": 1736,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2649,
+    "Recovered": 1789,
+    "Deceased": 65,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2719,
+    "Recovered": 1861,
+    "Deceased": 65,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2812,
+    "Recovered": 1883,
+    "Deceased": 66,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 2904,
+    "Recovered": 1941,
+    "Deceased": 69,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 3018,
+    "Recovered": 1993,
+    "Deceased": 72,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 3109,
+    "Recovered": 2065,
+    "Deceased": 74,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 3305,
+    "Recovered": 2161,
+    "Deceased": 76,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 3459,
+    "Recovered": 2300,
+    "Deceased": 80,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 3653,
+    "Recovered": 2348,
+    "Deceased": 82,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 3792,
+    "Recovered": 2425,
+    "Deceased": 82,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 3912,
+    "Recovered": 2545,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 4066,
+    "Recovered": 2650,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 4190,
+    "Recovered": 2757,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 4446,
+    "Recovered": 2833,
+    "Deceased": 84,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 4748,
+    "Recovered": 2946,
+    "Deceased": 85,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 4938,
+    "Recovered": 3030,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 5200,
+    "Recovered": 3321,
+    "Deceased": 87,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 5349,
+    "Recovered": 3625,
+    "Deceased": 87,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 5544,
+    "Recovered": 3700,
+    "Deceased": 90,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 5727,
+    "Recovered": 3889,
+    "Deceased": 92,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 5890,
+    "Recovered": 4037,
+    "Deceased": 93,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 6059,
+    "Recovered": 4161,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 6220,
+    "Recovered": 4535,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 6589,
+    "Recovered": 4929,
+    "Deceased": 97,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 6836,
+    "Recovered": 5068,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 7024,
+    "Recovered": 5237,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 7202,
+    "Recovered": 5395,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 7390,
+    "Recovered": 5553,
+    "Deceased": 118,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 7681,
+    "Recovered": 5888,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 7867,
+    "Recovered": 6105,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 8023,
+    "Recovered": 6309,
+    "Deceased": 131,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 8180,
+    "Recovered": 6452,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 8373,
+    "Recovered": 6621,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 8530,
+    "Recovered": 6780,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 8698,
+    "Recovered": 7066,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 8852,
+    "Recovered": 7307,
+    "Deceased": 144,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 8989,
+    "Recovered": 7459,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 9151,
+    "Recovered": 7713,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 9329,
+    "Recovered": 8031,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 9499,
+    "Recovered": 8189,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 9659,
+    "Recovered": 8386,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 9859,
+    "Recovered": 8587,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 10032,
+    "Recovered": 8710,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 10219,
+    "Recovered": 8762,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 10367,
+    "Recovered": 8878,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 10537,
+    "Recovered": 8982,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 10690,
+    "Recovered": 9242,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 10839,
+    "Recovered": 9471,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 10994,
+    "Recovered": 9664,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 11165,
+    "Recovered": 9797,
+    "Deceased": 165,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 11305,
+    "Recovered": 9999,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 11436,
+    "Recovered": 10178,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 11558,
+    "Recovered": 10279,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 11727,
+    "Recovered": 10531,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 11858,
+    "Recovered": 10623,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 11964,
+    "Recovered": 10746,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 12079,
+    "Recovered": 10917,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 12188,
+    "Recovered": 11031,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 12286,
+    "Recovered": 11123,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 12397,
+    "Recovered": 11234,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 12497,
+    "Recovered": 11348,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 12644,
+    "Recovered": 11448,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 12745,
+    "Recovered": 11569,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 12837,
+    "Recovered": 11683,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 12992,
+    "Recovered": 11758,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 13093,
+    "Recovered": 11875,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 13215,
+    "Recovered": 11981,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 13325,
+    "Recovered": 12098,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 13445,
+    "Recovered": 12220,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 13559,
+    "Recovered": 12326,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 13680,
+    "Recovered": 12425,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 13794,
+    "Recovered": 12550,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 13886,
+    "Recovered": 12700,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 13983,
+    "Recovered": 12802,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14065,
+    "Recovered": 12903,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14148,
+    "Recovered": 13059,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14224,
+    "Recovered": 13152,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14298,
+    "Recovered": 13333,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14368,
+    "Recovered": 13448,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14433,
+    "Recovered": 13535,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14513,
+    "Recovered": 13638,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14608,
+    "Recovered": 13710,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14690,
+    "Recovered": 13809,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14763,
+    "Recovered": 13907,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14835,
+    "Recovered": 13994,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14903,
+    "Recovered": 14073,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 14962,
+    "Recovered": 14145,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15041,
+    "Recovered": 14218,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15115,
+    "Recovered": 14293,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15172,
+    "Recovered": 14361,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15238,
+    "Recovered": 14456,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15318,
+    "Recovered": 14535,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15393,
+    "Recovered": 14617,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15457,
+    "Recovered": 14700,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15515,
+    "Recovered": 14787,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15578,
+    "Recovered": 14848,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15638,
+    "Recovered": 14903,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15704,
+    "Recovered": 14963,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15776,
+    "Recovered": 15029,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15851,
+    "Recovered": 15100,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15924,
+    "Recovered": 15164,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 15972,
+    "Recovered": 15214,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16025,
+    "Recovered": 15276,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16074,
+    "Recovered": 15332,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16142,
+    "Recovered": 15400,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16204,
+    "Recovered": 15471,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16253,
+    "Recovered": 15535,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16322,
+    "Recovered": 15569,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16395,
+    "Recovered": 15616,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16445,
+    "Recovered": 15673,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16489,
+    "Recovered": 15721,
+    "Deceased": 213,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16531,
+    "Recovered": 15781,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16584,
+    "Recovered": 15851,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16646,
+    "Recovered": 15925,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16688,
+    "Recovered": 16001,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16742,
+    "Recovered": 16074,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16787,
+    "Recovered": 16157,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16818,
+    "Recovered": 16229,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16861,
+    "Recovered": 16292,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16904,
+    "Recovered": 16334,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16946,
+    "Recovered": 16383,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 16984,
+    "Recovered": 16437,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17017,
+    "Recovered": 16482,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17055,
+    "Recovered": 16530,
+    "Deceased": 217,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17102,
+    "Recovered": 16581,
+    "Deceased": 217,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17144,
+    "Recovered": 16633,
+    "Deceased": 219,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17170,
+    "Recovered": 16668,
+    "Deceased": 219,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17210,
+    "Recovered": 16699,
+    "Deceased": 219,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17237,
+    "Recovered": 16731,
+    "Deceased": 219,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17265,
+    "Recovered": 16768,
+    "Deceased": 219,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17292,
+    "Recovered": 16798,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17326,
+    "Recovered": 16834,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17355,
+    "Recovered": 16871,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17382,
+    "Recovered": 16910,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17408,
+    "Recovered": 16941,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17431,
+    "Recovered": 16971,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17455,
+    "Recovered": 16999,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17479,
+    "Recovered": 17036,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17506,
+    "Recovered": 17060,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17521,
+    "Recovered": 17083,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17542,
+    "Recovered": 17109,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17564,
+    "Recovered": 17134,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17585,
+    "Recovered": 17163,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17607,
+    "Recovered": 17201,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17639,
+    "Recovered": 17239,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17668,
+    "Recovered": 17279,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17698,
+    "Recovered": 17313,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17734,
+    "Recovered": 17337,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17767,
+    "Recovered": 17364,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17781,
+    "Recovered": 17385,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17804,
+    "Recovered": 17408,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17829,
+    "Recovered": 17429,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17850,
+    "Recovered": 17452,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17872,
+    "Recovered": 17468,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17893,
+    "Recovered": 17477,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17920,
+    "Recovered": 17488,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17943,
+    "Recovered": 17512,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17965,
+    "Recovered": 17531,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17983,
+    "Recovered": 17555,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 17996,
+    "Recovered": 17584,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18014,
+    "Recovered": 17619,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18027,
+    "Recovered": 17651,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18049,
+    "Recovered": 17672,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18058,
+    "Recovered": 17699,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18077,
+    "Recovered": 17720,
+    "Deceased": 222,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18091,
+    "Recovered": 17742,
+    "Deceased": 222,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18106,
+    "Recovered": 17759,
+    "Deceased": 222,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18121,
+    "Recovered": 17777,
+    "Deceased": 222,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18140,
+    "Recovered": 17798,
+    "Deceased": 222,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18162,
+    "Recovered": 17817,
+    "Deceased": 222,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18174,
+    "Recovered": 17834,
+    "Deceased": 222,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18185,
+    "Recovered": 17853,
+    "Deceased": 223,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18198,
+    "Recovered": 17867,
+    "Deceased": 223,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18214,
+    "Recovered": 17879,
+    "Deceased": 223,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18231,
+    "Recovered": 17889,
+    "Deceased": 223,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18245,
+    "Recovered": 17898,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18259,
+    "Recovered": 17912,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18271,
+    "Recovered": 17927,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18286,
+    "Recovered": 17945,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18303,
+    "Recovered": 17962,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18322,
+    "Recovered": 17978,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18336,
+    "Recovered": 17990,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18347,
+    "Recovered": 18008,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18361,
+    "Recovered": 18021,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18376,
+    "Recovered": 18036,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18394,
+    "Recovered": 18048,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18414,
+    "Recovered": 18064,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18439,
+    "Recovered": 18085,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18459,
+    "Recovered": 18115,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18474,
+    "Recovered": 18137,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18493,
+    "Recovered": 18156,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18509,
+    "Recovered": 18174,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18537,
+    "Recovered": 18189,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18559,
+    "Recovered": 18203,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18590,
+    "Recovered": 18216,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18617,
+    "Recovered": 18227,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18652,
+    "Recovered": 18244,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18683,
+    "Recovered": 18260,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18706,
+    "Recovered": 18274,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18728,
+    "Recovered": 18289,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18763,
+    "Recovered": 18306,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18792,
+    "Recovered": 18325,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18823,
+    "Recovered": 18349,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18858,
+    "Recovered": 18376,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18899,
+    "Recovered": 18405,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18931,
+    "Recovered": 18448,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 18976,
+    "Recovered": 18482,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19008,
+    "Recovered": 18519,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19046,
+    "Recovered": 18549,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19105,
+    "Recovered": 18587,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19167,
+    "Recovered": 18629,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19216,
+    "Recovered": 18656,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19269,
+    "Recovered": 18692,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19324,
+    "Recovered": 18733,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19384,
+    "Recovered": 18762,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19465,
+    "Recovered": 18801,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19544,
+    "Recovered": 18851,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19653,
+    "Recovered": 18893,
+    "Deceased": 227,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19757,
+    "Recovered": 18939,
+    "Deceased": 227,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 19860,
+    "Recovered": 18982,
+    "Deceased": 227,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 20001,
+    "Recovered": 19038,
+    "Deceased": 228,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 20155,
+    "Recovered": 19093,
+    "Deceased": 228,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 20303,
+    "Recovered": 19163,
+    "Deceased": 228,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 20457,
+    "Recovered": 19227,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 20639,
+    "Recovered": 19304,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 20803,
+    "Recovered": 19340,
+    "Deceased": 230,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 20968,
+    "Recovered": 19420,
+    "Deceased": 230,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 21197,
+    "Recovered": 19509,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 21427,
+    "Recovered": 19623,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 21647,
+    "Recovered": 19721,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 21922,
+    "Recovered": 19825,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 22217,
+    "Recovered": 19956,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 22516,
+    "Recovered": 20103,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 22729,
+    "Recovered": 20262,
+    "Deceased": 232,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 22973,
+    "Recovered": 20506,
+    "Deceased": 233,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 23191,
+    "Recovered": 20771,
+    "Deceased": 234,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 23478,
+    "Recovered": 21074,
+    "Deceased": 234,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 23798,
+    "Recovered": 21271,
+    "Deceased": 234,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 24174,
+    "Recovered": 21536,
+    "Deceased": 234,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 24562,
+    "Recovered": 21813,
+    "Deceased": 234,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 25111,
+    "Recovered": 22281,
+    "Deceased": 235,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 25612,
+    "Recovered": 22687,
+    "Deceased": 236,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 25979,
+    "Recovered": 22870,
+    "Deceased": 238,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 26409,
+    "Recovered": 23138,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 26850,
+    "Recovered": 23443,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 27230,
+    "Recovered": 23855,
+    "Deceased": 241,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 27716,
+    "Recovered": 24374,
+    "Deceased": 242,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 28213,
+    "Recovered": 24924,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 28861,
+    "Recovered": 25520,
+    "Deceased": 246,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 29311,
+    "Recovered": 26138,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 29865,
+    "Recovered": 26794,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 30529,
+    "Recovered": 27245,
+    "Deceased": 252,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 31177,
+    "Recovered": 27706,
+    "Deceased": 253,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 31931,
+    "Recovered": 28022,
+    "Deceased": 255,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 32525,
+    "Recovered": 28352,
+    "Deceased": 261,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 33180,
+    "Recovered": 28602,
+    "Deceased": 264,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 33886,
+    "Recovered": 28867,
+    "Deceased": 266,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 34661,
+    "Recovered": 29210,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 35671,
+    "Recovered": 29759,
+    "Deceased": 273,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 36592,
+    "Recovered": 30292,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 37480,
+    "Recovered": 30921,
+    "Deceased": 280,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 39037,
+    "Recovered": 31662,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 40610,
+    "Recovered": 32237,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 42192,
+    "Recovered": 32864,
+    "Deceased": 290,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 44000,
+    "Recovered": 33568,
+    "Deceased": 300,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 45472,
+    "Recovered": 34326,
+    "Deceased": 323,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 46927,
+    "Recovered": 35089,
+    "Deceased": 334,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 48697,
+    "Recovered": 35647,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 50554,
+    "Recovered": 36383,
+    "Deceased": 364,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 52438,
+    "Recovered": 37150,
+    "Deceased": 379,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 54524,
+    "Recovered": 38059,
+    "Deceased": 413,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 56354,
+    "Recovered": 39035,
+    "Deceased": 425,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 58054,
+    "Recovered": 39980,
+    "Deceased": 446,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 59563,
+    "Recovered": 41065,
+    "Deceased": 463,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 60947,
+    "Recovered": 42177,
+    "Deceased": 475,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 62296,
+    "Recovered": 43219,
+    "Deceased": 483,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 63552,
+    "Recovered": 44302,
+    "Deceased": 507,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 64835,
+    "Recovered": 45371,
+    "Deceased": 521,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 65996,
+    "Recovered": 46958,
+    "Deceased": 537,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 67100,
+    "Recovered": 47798,
+    "Deceased": 548,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 68180,
+    "Recovered": 48765,
+    "Deceased": 556,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 69211,
+    "Recovered": 49795,
+    "Deceased": 567,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 70213,
+    "Recovered": 50659,
+    "Deceased": 585,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 71129,
+    "Recovered": 52170,
+    "Deceased": 600,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 72037,
+    "Recovered": 53940,
+    "Deceased": 612,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 72899,
+    "Recovered": 54776,
+    "Deceased": 625,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 73751,
+    "Recovered": 56553,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 74582,
+    "Recovered": 58123,
+    "Deceased": 634,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 75369,
+    "Recovered": 60340,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 76101,
+    "Recovered": 62717,
+    "Deceased": 646,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 76702,
+    "Recovered": 64685,
+    "Deceased": 656,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 77266,
+    "Recovered": 65562,
+    "Deceased": 665,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 77754,
+    "Recovered": 68153,
+    "Deceased": 684,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 78243,
+    "Recovered": 71049,
+    "Deceased": 688,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 78724,
+    "Recovered": 73567,
+    "Deceased": 696,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 79182,
+    "Recovered": 75142,
+    "Deceased": 699,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 79621,
+    "Recovered": 76061,
+    "Deceased": 712,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 80039,
+    "Recovered": 76918,
+    "Deceased": 720,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 80426,
+    "Recovered": 77456,
+    "Deceased": 723,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 80789,
+    "Recovered": 77918,
+    "Deceased": 736,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 81125,
+    "Recovered": 78366,
+    "Deceased": 738,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 81442,
+    "Recovered": 78787,
+    "Deceased": 744,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 81821,
+    "Recovered": 79235,
+    "Deceased": 747,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 82103,
+    "Recovered": 79631,
+    "Deceased": 750,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 82373,
+    "Recovered": 79952,
+    "Deceased": 757,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 82723,
+    "Recovered": 80294,
+    "Deceased": 763,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 83046,
+    "Recovered": 80632,
+    "Deceased": 766,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 83354,
+    "Recovered": 80940,
+    "Deceased": 769,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 83579,
+    "Recovered": 81214,
+    "Deceased": 773,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 83886,
+    "Recovered": 81448,
+    "Deceased": 773,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 84171,
+    "Recovered": 81653,
+    "Deceased": 781,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 84457,
+    "Recovered": 81911,
+    "Deceased": 781,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 84703,
+    "Recovered": 82208,
+    "Deceased": 784,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 84975,
+    "Recovered": 82527,
+    "Deceased": 792,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 85228,
+    "Recovered": 82823,
+    "Deceased": 798,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 85453,
+    "Recovered": 83101,
+    "Deceased": 800,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 85673,
+    "Recovered": 83329,
+    "Deceased": 801,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 85897,
+    "Recovered": 83515,
+    "Deceased": 806,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 86044,
+    "Recovered": 83679,
+    "Deceased": 808,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 86184,
+    "Recovered": 83813,
+    "Deceased": 810,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 86346,
+    "Recovered": 83939,
+    "Deceased": 810,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 86476,
+    "Recovered": 84060,
+    "Deceased": 811,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 86597,
+    "Recovered": 84179,
+    "Deceased": 813,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 86709,
+    "Recovered": 84281,
+    "Deceased": 814,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 86818,
+    "Recovered": 84407,
+    "Deceased": 815,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 86916,
+    "Recovered": 84539,
+    "Deceased": 815,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87015,
+    "Recovered": 84665,
+    "Deceased": 815,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87111,
+    "Recovered": 84805,
+    "Deceased": 815,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87210,
+    "Recovered": 84948,
+    "Deceased": 815,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87305,
+    "Recovered": 85099,
+    "Deceased": 815,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87398,
+    "Recovered": 85261,
+    "Deceased": 816,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87487,
+    "Recovered": 85415,
+    "Deceased": 817,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87570,
+    "Recovered": 85563,
+    "Deceased": 818,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87650,
+    "Recovered": 85706,
+    "Deceased": 821,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87723,
+    "Recovered": 85833,
+    "Deceased": 825,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87801,
+    "Recovered": 85966,
+    "Deceased": 831,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87895,
+    "Recovered": 86095,
+    "Deceased": 836,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 87985,
+    "Recovered": 86211,
+    "Deceased": 841,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88072,
+    "Recovered": 86335,
+    "Deceased": 846,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88161,
+    "Recovered": 86441,
+    "Deceased": 847,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88261,
+    "Recovered": 86535,
+    "Deceased": 852,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88354,
+    "Recovered": 86626,
+    "Deceased": 857,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88441,
+    "Recovered": 86714,
+    "Deceased": 860,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88520,
+    "Recovered": 86793,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88596,
+    "Recovered": 86875,
+    "Deceased": 869,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88676,
+    "Recovered": 86954,
+    "Deceased": 874,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88754,
+    "Recovered": 87021,
+    "Deceased": 876,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88841,
+    "Recovered": 87083,
+    "Deceased": 880,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 88937,
+    "Recovered": 87148,
+    "Deceased": 883,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89029,
+    "Recovered": 87224,
+    "Deceased": 885,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89115,
+    "Recovered": 87312,
+    "Deceased": 890,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89199,
+    "Recovered": 87393,
+    "Deceased": 894,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89268,
+    "Recovered": 87481,
+    "Deceased": 896,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89363,
+    "Recovered": 87567,
+    "Deceased": 900,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89451,
+    "Recovered": 87659,
+    "Deceased": 903,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89528,
+    "Recovered": 87757,
+    "Deceased": 908,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89606,
+    "Recovered": 87844,
+    "Deceased": 911,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89676,
+    "Recovered": 87916,
+    "Deceased": 913,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89750,
+    "Recovered": 87984,
+    "Deceased": 915,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89815,
+    "Recovered": 88057,
+    "Deceased": 920,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89880,
+    "Recovered": 88122,
+    "Deceased": 922,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 89957,
+    "Recovered": 88191,
+    "Deceased": 924,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90021,
+    "Recovered": 88265,
+    "Deceased": 927,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90085,
+    "Recovered": 88344,
+    "Deceased": 927,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90164,
+    "Recovered": 88426,
+    "Deceased": 928,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90236,
+    "Recovered": 88520,
+    "Deceased": 929,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90305,
+    "Recovered": 88607,
+    "Deceased": 931,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90380,
+    "Recovered": 88699,
+    "Deceased": 932,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90470,
+    "Recovered": 88794,
+    "Deceased": 932,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90570,
+    "Recovered": 88882,
+    "Deceased": 932,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90657,
+    "Recovered": 88973,
+    "Deceased": 932,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90741,
+    "Recovered": 89055,
+    "Deceased": 932,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90828,
+    "Recovered": 89126,
+    "Deceased": 933,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90900,
+    "Recovered": 89188,
+    "Deceased": 934,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 90982,
+    "Recovered": 89239,
+    "Deceased": 935,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91069,
+    "Recovered": 89281,
+    "Deceased": 935,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91189,
+    "Recovered": 89337,
+    "Deceased": 936,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91285,
+    "Recovered": 89409,
+    "Deceased": 937,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91371,
+    "Recovered": 89492,
+    "Deceased": 937,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91462,
+    "Recovered": 89568,
+    "Deceased": 939,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91543,
+    "Recovered": 89651,
+    "Deceased": 941,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91626,
+    "Recovered": 89749,
+    "Deceased": 943,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91744,
+    "Recovered": 89858,
+    "Deceased": 944,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91841,
+    "Recovered": 89982,
+    "Deceased": 946,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 91937,
+    "Recovered": 90089,
+    "Deceased": 946,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92033,
+    "Recovered": 90186,
+    "Deceased": 947,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92125,
+    "Recovered": 90270,
+    "Deceased": 947,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92208,
+    "Recovered": 90349,
+    "Deceased": 950,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92307,
+    "Recovered": 90420,
+    "Deceased": 950,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92394,
+    "Recovered": 90499,
+    "Deceased": 951,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92496,
+    "Recovered": 90585,
+    "Deceased": 952,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92584,
+    "Recovered": 90677,
+    "Deceased": 953,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92670,
+    "Recovered": 90773,
+    "Deceased": 953,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92759,
+    "Recovered": 90880,
+    "Deceased": 954,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92849,
+    "Recovered": 90983,
+    "Deceased": 954,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 92941,
+    "Recovered": 91080,
+    "Deceased": 954,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93024,
+    "Recovered": 91181,
+    "Deceased": 955,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93107,
+    "Recovered": 91279,
+    "Deceased": 955,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93188,
+    "Recovered": 91371,
+    "Deceased": 955,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93268,
+    "Recovered": 91457,
+    "Deceased": 956,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93347,
+    "Recovered": 91539,
+    "Deceased": 956,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93421,
+    "Recovered": 91618,
+    "Deceased": 957,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93501,
+    "Recovered": 91702,
+    "Deceased": 960,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93577,
+    "Recovered": 91780,
+    "Deceased": 962,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93650,
+    "Recovered": 91864,
+    "Deceased": 962,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93725,
+    "Recovered": 91953,
+    "Deceased": 962,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93820,
+    "Recovered": 92039,
+    "Deceased": 962,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93908,
+    "Recovered": 92131,
+    "Deceased": 962,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 93988,
+    "Recovered": 92216,
+    "Deceased": 962,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94070,
+    "Recovered": 92292,
+    "Deceased": 963,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94144,
+    "Recovered": 92364,
+    "Deceased": 965,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94220,
+    "Recovered": 92440,
+    "Deceased": 965,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94303,
+    "Recovered": 92514,
+    "Deceased": 967,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94376,
+    "Recovered": 92590,
+    "Deceased": 968,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94455,
+    "Recovered": 92664,
+    "Deceased": 968,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94529,
+    "Recovered": 92736,
+    "Deceased": 970,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94596,
+    "Recovered": 92810,
+    "Deceased": 971,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94669,
+    "Recovered": 92889,
+    "Deceased": 972,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94737,
+    "Recovered": 92970,
+    "Deceased": 974,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94823,
+    "Recovered": 93057,
+    "Deceased": 974,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94901,
+    "Recovered": 93146,
+    "Deceased": 974,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 94980,
+    "Recovered": 93238,
+    "Deceased": 974,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 95058,
+    "Recovered": 93332,
+    "Deceased": 974,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 95130,
+    "Recovered": 93429,
+    "Deceased": 977,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 95195,
+    "Recovered": 93511,
+    "Deceased": 978,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 95265,
+    "Recovered": 93579,
+    "Deceased": 978,
+    "Other": 0,
+    "Tested": 36301
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruppur",
+    "cases": 95336,
+    "Recovered": 93630,
+    "Deceased": 978,
+    "Other": 0,
+    "Tested": 36301
+  }
+]
