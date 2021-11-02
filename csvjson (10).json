@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 64,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 64,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 64,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 71,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 71,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 71,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 71,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 71,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 71,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 71,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 72,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 72,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 72,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 72,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 74,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 74,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 72,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 72,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 73,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 73,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 75,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 73,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 74,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 74,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 72,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 72,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 73,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 73,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 73,
+    "Recovered": 70,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 73,
+    "Recovered": 71,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 76,
+    "Recovered": 71,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 13421
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 79,
+    "Recovered": 72,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 18657
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 78,
+    "Recovered": 72,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 85,
+    "Recovered": 72,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 83,
+    "Recovered": 72,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 87,
+    "Recovered": 72,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 89,
+    "Recovered": 72,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 96,
+    "Recovered": 72,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 100,
+    "Recovered": 74,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 112,
+    "Recovered": 74,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 124,
+    "Recovered": 75,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 136,
+    "Recovered": 77,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 157,
+    "Recovered": 80,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 176,
+    "Recovered": 80,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 191,
+    "Recovered": 80,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 206,
+    "Recovered": 80,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 222,
+    "Recovered": 81,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 248,
+    "Recovered": 81,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 288,
+    "Recovered": 83,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 286,
+    "Recovered": 85,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 296,
+    "Recovered": 85,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 313,
+    "Recovered": 97,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 327,
+    "Recovered": 100,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 369,
+    "Recovered": 175,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 389,
+    "Recovered": 175,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 422,
+    "Recovered": 176,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 451,
+    "Recovered": 196,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 460,
+    "Recovered": 199,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 468,
+    "Recovered": 200,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 464,
+    "Recovered": 265,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 473,
+    "Recovered": 266,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 477,
+    "Recovered": 297,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 509,
+    "Recovered": 306,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 512,
+    "Recovered": 377,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 518,
+    "Recovered": 391,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 19203
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 539,
+    "Recovered": 396,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 564,
+    "Recovered": 416,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 586,
+    "Recovered": 433,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 618,
+    "Recovered": 443,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 645,
+    "Recovered": 453,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 656,
+    "Recovered": 456,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 680,
+    "Recovered": 471,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 690,
+    "Recovered": 504,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 724,
+    "Recovered": 523,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 732,
+    "Recovered": 551,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 754,
+    "Recovered": 583,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 767,
+    "Recovered": 597,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 789,
+    "Recovered": 607,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 829,
+    "Recovered": 610,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 888,
+    "Recovered": 636,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 955,
+    "Recovered": 646,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1012,
+    "Recovered": 664,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1064,
+    "Recovered": 680,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1101,
+    "Recovered": 690,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1115,
+    "Recovered": 709,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1164,
+    "Recovered": 726,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1206,
+    "Recovered": 741,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1334,
+    "Recovered": 799,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1349,
+    "Recovered": 853,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1445,
+    "Recovered": 895,
+    "Deceased": 24,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1582,
+    "Recovered": 904,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1640,
+    "Recovered": 920,
+    "Deceased": 27,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1726,
+    "Recovered": 946,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1804,
+    "Recovered": 993,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 1907,
+    "Recovered": 1060,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 2024,
+    "Recovered": 1079,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 2071,
+    "Recovered": 1152,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 2252,
+    "Recovered": 1217,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 2396,
+    "Recovered": 1298,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 2498,
+    "Recovered": 1390,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 2620,
+    "Recovered": 1426,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 2735,
+    "Recovered": 1483,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 2891,
+    "Recovered": 1537,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 3049,
+    "Recovered": 1722,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 3177,
+    "Recovered": 1860,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 3264,
+    "Recovered": 2040,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 3359,
+    "Recovered": 2185,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 3475,
+    "Recovered": 2259,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 3587,
+    "Recovered": 2394,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 3728,
+    "Recovered": 2454,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 3842,
+    "Recovered": 2645,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 3959,
+    "Recovered": 2731,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 4082,
+    "Recovered": 2957,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 4172,
+    "Recovered": 3096,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 4205,
+    "Recovered": 3186,
+    "Deceased": 54,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 4275,
+    "Recovered": 3251,
+    "Deceased": 54,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 4409,
+    "Recovered": 3347,
+    "Deceased": 56,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 4534,
+    "Recovered": 3432,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 4668,
+    "Recovered": 3551,
+    "Deceased": 62,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 4803,
+    "Recovered": 3694,
+    "Deceased": 63,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 4903,
+    "Recovered": 3817,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 5002,
+    "Recovered": 3914,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 5116,
+    "Recovered": 4085,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 5282,
+    "Recovered": 4159,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 5427,
+    "Recovered": 4281,
+    "Deceased": 70,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 5628,
+    "Recovered": 4412,
+    "Deceased": 72,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 5764,
+    "Recovered": 4577,
+    "Deceased": 77,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 5889,
+    "Recovered": 4699,
+    "Deceased": 77,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 6029,
+    "Recovered": 4822,
+    "Deceased": 78,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 6140,
+    "Recovered": 4945,
+    "Deceased": 79,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 6280,
+    "Recovered": 5060,
+    "Deceased": 82,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 6388,
+    "Recovered": 5230,
+    "Deceased": 84,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 6525,
+    "Recovered": 5321,
+    "Deceased": 84,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 6642,
+    "Recovered": 5454,
+    "Deceased": 88,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 6776,
+    "Recovered": 5570,
+    "Deceased": 89,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 6921,
+    "Recovered": 5720,
+    "Deceased": 91,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 7118,
+    "Recovered": 5863,
+    "Deceased": 91,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 7264,
+    "Recovered": 6041,
+    "Deceased": 91,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 7395,
+    "Recovered": 6189,
+    "Deceased": 93,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 7488,
+    "Recovered": 6306,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 7557,
+    "Recovered": 6422,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 7702,
+    "Recovered": 6550,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 7837,
+    "Recovered": 6668,
+    "Deceased": 96,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 7976,
+    "Recovered": 6817,
+    "Deceased": 96,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 8113,
+    "Recovered": 6946,
+    "Deceased": 99,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 8276,
+    "Recovered": 7076,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 8426,
+    "Recovered": 7231,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 8527,
+    "Recovered": 7391,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 8648,
+    "Recovered": 7522,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 8772,
+    "Recovered": 7644,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 8904,
+    "Recovered": 7699,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9029,
+    "Recovered": 7856,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9131,
+    "Recovered": 7978,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9223,
+    "Recovered": 8112,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9290,
+    "Recovered": 8246,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9396,
+    "Recovered": 8365,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9459,
+    "Recovered": 8476,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9564,
+    "Recovered": 8580,
+    "Deceased": 117,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9653,
+    "Recovered": 8692,
+    "Deceased": 118,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9723,
+    "Recovered": 8785,
+    "Deceased": 119,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9806,
+    "Recovered": 8880,
+    "Deceased": 119,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 9880,
+    "Recovered": 8988,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10015,
+    "Recovered": 9094,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10127,
+    "Recovered": 9177,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10238,
+    "Recovered": 9216,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10303,
+    "Recovered": 9367,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10393,
+    "Recovered": 9468,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10478,
+    "Recovered": 9568,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10561,
+    "Recovered": 9666,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10670,
+    "Recovered": 9736,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10765,
+    "Recovered": 9835,
+    "Deceased": 131,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10877,
+    "Recovered": 9943,
+    "Deceased": 133,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 10983,
+    "Recovered": 10051,
+    "Deceased": 133,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11082,
+    "Recovered": 10154,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11177,
+    "Recovered": 10250,
+    "Deceased": 133,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11274,
+    "Recovered": 10340,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11365,
+    "Recovered": 10448,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11428,
+    "Recovered": 10531,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11480,
+    "Recovered": 10621,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11543,
+    "Recovered": 10726,
+    "Deceased": 135,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11599,
+    "Recovered": 10838,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11662,
+    "Recovered": 10946,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11704,
+    "Recovered": 11050,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11746,
+    "Recovered": 11152,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11780,
+    "Recovered": 11244,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11822,
+    "Recovered": 11351,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11871,
+    "Recovered": 11448,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 11930,
+    "Recovered": 11512,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12001,
+    "Recovered": 11559,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12049,
+    "Recovered": 11618,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12123,
+    "Recovered": 11685,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12202,
+    "Recovered": 11731,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12256,
+    "Recovered": 11758,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12298,
+    "Recovered": 11792,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12366,
+    "Recovered": 11847,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12424,
+    "Recovered": 11894,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12463,
+    "Recovered": 11923,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12506,
+    "Recovered": 11954,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12554,
+    "Recovered": 11980,
+    "Deceased": 140,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12603,
+    "Recovered": 12025,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12651,
+    "Recovered": 12090,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12709,
+    "Recovered": 12168,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12761,
+    "Recovered": 12231,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12806,
+    "Recovered": 12286,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12845,
+    "Recovered": 12341,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12926,
+    "Recovered": 12393,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 12968,
+    "Recovered": 12460,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13007,
+    "Recovered": 12509,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13049,
+    "Recovered": 12555,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13088,
+    "Recovered": 12594,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13127,
+    "Recovered": 12637,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13176,
+    "Recovered": 12686,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13220,
+    "Recovered": 12738,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13249,
+    "Recovered": 12781,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13280,
+    "Recovered": 12837,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13316,
+    "Recovered": 12890,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13355,
+    "Recovered": 12916,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13386,
+    "Recovered": 12937,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13414,
+    "Recovered": 12962,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13445,
+    "Recovered": 12998,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13479,
+    "Recovered": 13044,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13511,
+    "Recovered": 13088,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13541,
+    "Recovered": 13107,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13572,
+    "Recovered": 13154,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13606,
+    "Recovered": 13190,
+    "Deceased": 144,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13636,
+    "Recovered": 13228,
+    "Deceased": 144,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13679,
+    "Recovered": 13264,
+    "Deceased": 144,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13721,
+    "Recovered": 13288,
+    "Deceased": 144,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13756,
+    "Recovered": 13313,
+    "Deceased": 144,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13795,
+    "Recovered": 13342,
+    "Deceased": 144,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13820,
+    "Recovered": 13379,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13851,
+    "Recovered": 13411,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13880,
+    "Recovered": 13450,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13908,
+    "Recovered": 13483,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13926,
+    "Recovered": 13519,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13943,
+    "Recovered": 13561,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13968,
+    "Recovered": 13597,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 13993,
+    "Recovered": 13632,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14014,
+    "Recovered": 13663,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14030,
+    "Recovered": 13697,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14042,
+    "Recovered": 13718,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14058,
+    "Recovered": 13741,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14072,
+    "Recovered": 13769,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14087,
+    "Recovered": 13796,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14095,
+    "Recovered": 13818,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14117,
+    "Recovered": 13829,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14142,
+    "Recovered": 13847,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14159,
+    "Recovered": 13874,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14168,
+    "Recovered": 13896,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14195,
+    "Recovered": 13916,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14224,
+    "Recovered": 13929,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14246,
+    "Recovered": 13940,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14266,
+    "Recovered": 13952,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14285,
+    "Recovered": 13967,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14305,
+    "Recovered": 13979,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14325,
+    "Recovered": 13982,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14343,
+    "Recovered": 14002,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14361,
+    "Recovered": 14025,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14384,
+    "Recovered": 14049,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14410,
+    "Recovered": 14078,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14428,
+    "Recovered": 14098,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14449,
+    "Recovered": 14123,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14472,
+    "Recovered": 14144,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14487,
+    "Recovered": 14164,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14509,
+    "Recovered": 14183,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14526,
+    "Recovered": 14193,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14551,
+    "Recovered": 14211,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14561,
+    "Recovered": 14235,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14579,
+    "Recovered": 14255,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14590,
+    "Recovered": 14283,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14601,
+    "Recovered": 14309,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14613,
+    "Recovered": 14325,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14624,
+    "Recovered": 14340,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14639,
+    "Recovered": 14356,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14658,
+    "Recovered": 14377,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14675,
+    "Recovered": 14396,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14692,
+    "Recovered": 14411,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14705,
+    "Recovered": 14423,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14719,
+    "Recovered": 14438,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14733,
+    "Recovered": 14455,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14745,
+    "Recovered": 14471,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14756,
+    "Recovered": 14486,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14769,
+    "Recovered": 14503,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14776,
+    "Recovered": 14519,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14782,
+    "Recovered": 14534,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14793,
+    "Recovered": 14547,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14802,
+    "Recovered": 14558,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14815,
+    "Recovered": 14571,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14826,
+    "Recovered": 14588,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14837,
+    "Recovered": 14606,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14847,
+    "Recovered": 14622,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14860,
+    "Recovered": 14635,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14874,
+    "Recovered": 14642,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14884,
+    "Recovered": 14651,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14890,
+    "Recovered": 14662,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14905,
+    "Recovered": 14671,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14923,
+    "Recovered": 14684,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14939,
+    "Recovered": 14696,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14954,
+    "Recovered": 14702,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14977,
+    "Recovered": 14713,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 14994,
+    "Recovered": 14723,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15005,
+    "Recovered": 14736,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15017,
+    "Recovered": 14747,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15026,
+    "Recovered": 14756,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15039,
+    "Recovered": 14766,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15046,
+    "Recovered": 14779,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15060,
+    "Recovered": 14791,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15082,
+    "Recovered": 14804,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15112,
+    "Recovered": 14821,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15141,
+    "Recovered": 14845,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15172,
+    "Recovered": 14865,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15190,
+    "Recovered": 14891,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15222,
+    "Recovered": 14912,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15252,
+    "Recovered": 14930,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15291,
+    "Recovered": 14955,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15316,
+    "Recovered": 14986,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15352,
+    "Recovered": 15011,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15384,
+    "Recovered": 15037,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15425,
+    "Recovered": 15062,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15474,
+    "Recovered": 15088,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15501,
+    "Recovered": 15102,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15537,
+    "Recovered": 15149,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15575,
+    "Recovered": 15172,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15634,
+    "Recovered": 15189,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15680,
+    "Recovered": 15200,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15750,
+    "Recovered": 15227,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15831,
+    "Recovered": 15236,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 15940,
+    "Recovered": 15273,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 16049,
+    "Recovered": 15292,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 16136,
+    "Recovered": 15361,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 16293,
+    "Recovered": 15435,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 16437,
+    "Recovered": 15465,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 16572,
+    "Recovered": 15528,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 16715,
+    "Recovered": 15608,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 16922,
+    "Recovered": 15679,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 17163,
+    "Recovered": 15785,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 17376,
+    "Recovered": 15860,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 17651,
+    "Recovered": 15947,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 17874,
+    "Recovered": 16033,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 18197,
+    "Recovered": 16126,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 18587,
+    "Recovered": 16314,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 18900,
+    "Recovered": 16526,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 19404,
+    "Recovered": 16765,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 19811,
+    "Recovered": 16998,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 20253,
+    "Recovered": 17295,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 20729,
+    "Recovered": 17603,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 21239,
+    "Recovered": 17880,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 21617,
+    "Recovered": 18237,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 22165,
+    "Recovered": 18675,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 22817,
+    "Recovered": 19231,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 23388,
+    "Recovered": 19802,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 24016,
+    "Recovered": 20411,
+    "Deceased": 168,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 24599,
+    "Recovered": 21010,
+    "Deceased": 168,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 25240,
+    "Recovered": 21454,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 26016,
+    "Recovered": 22005,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 26701,
+    "Recovered": 22562,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 27459,
+    "Recovered": 23239,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 28384,
+    "Recovered": 23786,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 29346,
+    "Recovered": 24352,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 30254,
+    "Recovered": 24932,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 31035,
+    "Recovered": 25545,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 31865,
+    "Recovered": 26180,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 33100,
+    "Recovered": 26822,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 34189,
+    "Recovered": 27238,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 35760,
+    "Recovered": 27907,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 37107,
+    "Recovered": 28711,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 38614,
+    "Recovered": 29494,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 40254,
+    "Recovered": 30306,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 42007,
+    "Recovered": 31287,
+    "Deceased": 236,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 43346,
+    "Recovered": 31908,
+    "Deceased": 240,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 44818,
+    "Recovered": 32756,
+    "Deceased": 252,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 46366,
+    "Recovered": 33712,
+    "Deceased": 265,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 47998,
+    "Recovered": 34733,
+    "Deceased": 279,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 49685,
+    "Recovered": 35879,
+    "Deceased": 290,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 51401,
+    "Recovered": 37125,
+    "Deceased": 311,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 53144,
+    "Recovered": 38426,
+    "Deceased": 318,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 54914,
+    "Recovered": 39367,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 56644,
+    "Recovered": 40408,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 58278,
+    "Recovered": 41829,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 59768,
+    "Recovered": 43367,
+    "Deceased": 381,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 61408,
+    "Recovered": 44932,
+    "Deceased": 389,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 63027,
+    "Recovered": 46548,
+    "Deceased": 401,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 64596,
+    "Recovered": 48269,
+    "Deceased": 425,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 66274,
+    "Recovered": 50347,
+    "Deceased": 435,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 67905,
+    "Recovered": 52739,
+    "Deceased": 454,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 69485,
+    "Recovered": 54742,
+    "Deceased": 459,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 70888,
+    "Recovered": 56695,
+    "Deceased": 469,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 72262,
+    "Recovered": 58685,
+    "Deceased": 475,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 73612,
+    "Recovered": 60606,
+    "Deceased": 486,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 74969,
+    "Recovered": 62588,
+    "Deceased": 489,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 76260,
+    "Recovered": 64397,
+    "Deceased": 492,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 77555,
+    "Recovered": 66095,
+    "Deceased": 495,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 78820,
+    "Recovered": 67734,
+    "Deceased": 497,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 79938,
+    "Recovered": 69467,
+    "Deceased": 509,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 80927,
+    "Recovered": 70706,
+    "Deceased": 512,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 81861,
+    "Recovered": 71972,
+    "Deceased": 524,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 82794,
+    "Recovered": 73335,
+    "Deceased": 531,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 83658,
+    "Recovered": 74786,
+    "Deceased": 546,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 84453,
+    "Recovered": 76828,
+    "Deceased": 555,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 85184,
+    "Recovered": 78683,
+    "Deceased": 559,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 85872,
+    "Recovered": 79990,
+    "Deceased": 564,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 86514,
+    "Recovered": 80984,
+    "Deceased": 565,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 87110,
+    "Recovered": 81849,
+    "Deceased": 566,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 87685,
+    "Recovered": 82597,
+    "Deceased": 579,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 88215,
+    "Recovered": 83312,
+    "Deceased": 583,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 88723,
+    "Recovered": 83915,
+    "Deceased": 585,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 89212,
+    "Recovered": 84461,
+    "Deceased": 588,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 89632,
+    "Recovered": 84950,
+    "Deceased": 589,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 89934,
+    "Recovered": 85260,
+    "Deceased": 594,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 90183,
+    "Recovered": 85463,
+    "Deceased": 597,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 90469,
+    "Recovered": 85606,
+    "Deceased": 603,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 90815,
+    "Recovered": 85981,
+    "Deceased": 607,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 90957,
+    "Recovered": 86268,
+    "Deceased": 609,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91064,
+    "Recovered": 86570,
+    "Deceased": 609,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91082,
+    "Recovered": 86826,
+    "Deceased": 609,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91108,
+    "Recovered": 87067,
+    "Deceased": 611,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91168,
+    "Recovered": 87314,
+    "Deceased": 612,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91130,
+    "Recovered": 87521,
+    "Deceased": 612,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91157,
+    "Recovered": 87695,
+    "Deceased": 615,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91205,
+    "Recovered": 87848,
+    "Deceased": 615,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91305,
+    "Recovered": 88022,
+    "Deceased": 615,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91472,
+    "Recovered": 88215,
+    "Deceased": 616,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91618,
+    "Recovered": 88434,
+    "Deceased": 616,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91713,
+    "Recovered": 88665,
+    "Deceased": 618,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91858,
+    "Recovered": 88889,
+    "Deceased": 618,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 91944,
+    "Recovered": 89105,
+    "Deceased": 619,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 92063,
+    "Recovered": 89342,
+    "Deceased": 619,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 92189,
+    "Recovered": 89550,
+    "Deceased": 623,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 92325,
+    "Recovered": 89763,
+    "Deceased": 626,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 92452,
+    "Recovered": 89968,
+    "Deceased": 626,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 92578,
+    "Recovered": 90179,
+    "Deceased": 626,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 92708,
+    "Recovered": 90396,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 92833,
+    "Recovered": 90619,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 92952,
+    "Recovered": 90830,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 93078,
+    "Recovered": 91038,
+    "Deceased": 630,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 93207,
+    "Recovered": 91224,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 93369,
+    "Recovered": 91368,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 93532,
+    "Recovered": 91495,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 93694,
+    "Recovered": 91599,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 93873,
+    "Recovered": 91717,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 94042,
+    "Recovered": 91841,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 94217,
+    "Recovered": 91971,
+    "Deceased": 634,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 94364,
+    "Recovered": 92103,
+    "Deceased": 636,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 94521,
+    "Recovered": 92241,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 94699,
+    "Recovered": 92385,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 94879,
+    "Recovered": 92523,
+    "Deceased": 638,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 95066,
+    "Recovered": 92667,
+    "Deceased": 639,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 95245,
+    "Recovered": 92846,
+    "Deceased": 639,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 95399,
+    "Recovered": 93034,
+    "Deceased": 640,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 95559,
+    "Recovered": 93208,
+    "Deceased": 641,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 95726,
+    "Recovered": 93367,
+    "Deceased": 641,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 95900,
+    "Recovered": 93513,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 96087,
+    "Recovered": 93645,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 96258,
+    "Recovered": 93791,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 96417,
+    "Recovered": 93942,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 96592,
+    "Recovered": 94086,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 96726,
+    "Recovered": 94243,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 96868,
+    "Recovered": 94406,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 97016,
+    "Recovered": 94574,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 97158,
+    "Recovered": 94748,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 97304,
+    "Recovered": 94934,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 97438,
+    "Recovered": 95123,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 97572,
+    "Recovered": 95291,
+    "Deceased": 643,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 97707,
+    "Recovered": 95448,
+    "Deceased": 643,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 97797,
+    "Recovered": 95594,
+    "Deceased": 646,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 97915,
+    "Recovered": 95746,
+    "Deceased": 648,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 98024,
+    "Recovered": 95899,
+    "Deceased": 651,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 98153,
+    "Recovered": 96047,
+    "Deceased": 653,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 98280,
+    "Recovered": 96206,
+    "Deceased": 656,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 98416,
+    "Recovered": 96354,
+    "Deceased": 657,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 98545,
+    "Recovered": 96510,
+    "Deceased": 657,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 98677,
+    "Recovered": 96662,
+    "Deceased": 657,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 98787,
+    "Recovered": 96810,
+    "Deceased": 658,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 98896,
+    "Recovered": 96944,
+    "Deceased": 660,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 98995,
+    "Recovered": 97068,
+    "Deceased": 660,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 99085,
+    "Recovered": 97186,
+    "Deceased": 661,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 99197,
+    "Recovered": 97290,
+    "Deceased": 661,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 99312,
+    "Recovered": 97397,
+    "Deceased": 661,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 99441,
+    "Recovered": 97523,
+    "Deceased": 662,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 99554,
+    "Recovered": 97647,
+    "Deceased": 662,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 99697,
+    "Recovered": 97775,
+    "Deceased": 664,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 99842,
+    "Recovered": 97899,
+    "Deceased": 664,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 99954,
+    "Recovered": 98020,
+    "Deceased": 665,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 100082,
+    "Recovered": 98139,
+    "Deceased": 665,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 100214,
+    "Recovered": 98246,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 100332,
+    "Recovered": 98342,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 100450,
+    "Recovered": 98434,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 100581,
+    "Recovered": 98538,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 100706,
+    "Recovered": 98637,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 100811,
+    "Recovered": 98740,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 100920,
+    "Recovered": 98859,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 101046,
+    "Recovered": 98993,
+    "Deceased": 668,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 101150,
+    "Recovered": 99145,
+    "Deceased": 668,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 101248,
+    "Recovered": 99293,
+    "Deceased": 668,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 101360,
+    "Recovered": 99432,
+    "Deceased": 670,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 101478,
+    "Recovered": 99568,
+    "Deceased": 670,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 101586,
+    "Recovered": 99695,
+    "Deceased": 670,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 101692,
+    "Recovered": 99816,
+    "Deceased": 670,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 101800,
+    "Recovered": 99933,
+    "Deceased": 670,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 101906,
+    "Recovered": 100054,
+    "Deceased": 670,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102007,
+    "Recovered": 100170,
+    "Deceased": 672,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102101,
+    "Recovered": 100278,
+    "Deceased": 672,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102188,
+    "Recovered": 100381,
+    "Deceased": 672,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102267,
+    "Recovered": 100486,
+    "Deceased": 672,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102357,
+    "Recovered": 100584,
+    "Deceased": 673,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102430,
+    "Recovered": 100687,
+    "Deceased": 673,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102511,
+    "Recovered": 100792,
+    "Deceased": 674,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102592,
+    "Recovered": 100889,
+    "Deceased": 674,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102666,
+    "Recovered": 100991,
+    "Deceased": 676,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102737,
+    "Recovered": 101097,
+    "Deceased": 676,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102803,
+    "Recovered": 101190,
+    "Deceased": 676,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102878,
+    "Recovered": 101272,
+    "Deceased": 677,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 102958,
+    "Recovered": 101350,
+    "Deceased": 678,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103037,
+    "Recovered": 101431,
+    "Deceased": 678,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103115,
+    "Recovered": 101516,
+    "Deceased": 678,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103196,
+    "Recovered": 101610,
+    "Deceased": 678,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103286,
+    "Recovered": 101701,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103364,
+    "Recovered": 101795,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103440,
+    "Recovered": 101883,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103529,
+    "Recovered": 101974,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103617,
+    "Recovered": 102058,
+    "Deceased": 681,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103696,
+    "Recovered": 102134,
+    "Deceased": 681,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103762,
+    "Recovered": 102201,
+    "Deceased": 681,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103826,
+    "Recovered": 102263,
+    "Deceased": 682,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103893,
+    "Recovered": 102330,
+    "Deceased": 682,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 103953,
+    "Recovered": 102399,
+    "Deceased": 682,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 104017,
+    "Recovered": 102470,
+    "Deceased": 682,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 104094,
+    "Recovered": 102553,
+    "Deceased": 682,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 104164,
+    "Recovered": 102645,
+    "Deceased": 682,
+    "Other": 0,
+    "Tested": 66240
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Erode",
+    "cases": 104235,
+    "Recovered": 102742,
+    "Deceased": 684,
+    "Other": 0,
+    "Tested": 66240
+  }
+]
