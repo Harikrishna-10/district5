@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 9,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 11,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 12,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 13,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 13,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 13,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 13,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 13,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 17,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 17,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 22,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 26,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 5604
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8909
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31,
+    "Recovered": 14,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 48,
+    "Recovered": 17,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 48,
+    "Recovered": 17,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 50,
+    "Recovered": 21,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 56,
+    "Recovered": 21,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 66,
+    "Recovered": 22,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 71,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 84,
+    "Recovered": 29,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 89,
+    "Recovered": 32,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 107,
+    "Recovered": 33,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 117,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 119,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 123,
+    "Recovered": 44,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 124,
+    "Recovered": 49,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 150,
+    "Recovered": 49,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 150,
+    "Recovered": 49,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 160,
+    "Recovered": 49,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 172,
+    "Recovered": 52,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 181,
+    "Recovered": 54,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 179,
+    "Recovered": 69,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 183,
+    "Recovered": 93,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 222,
+    "Recovered": 93,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 258,
+    "Recovered": 107,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 277,
+    "Recovered": 107,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 320,
+    "Recovered": 116,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 371,
+    "Recovered": 116,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 410,
+    "Recovered": 156,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 486,
+    "Recovered": 172,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 513,
+    "Recovered": 172,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 516,
+    "Recovered": 277,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 528,
+    "Recovered": 279,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9334
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 587,
+    "Recovered": 371,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 621,
+    "Recovered": 422,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 661,
+    "Recovered": 469,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 692,
+    "Recovered": 480,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 731,
+    "Recovered": 514,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 726,
+    "Recovered": 564,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 735,
+    "Recovered": 581,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 768,
+    "Recovered": 605,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 766,
+    "Recovered": 632,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 802,
+    "Recovered": 650,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 812,
+    "Recovered": 672,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 849,
+    "Recovered": 700,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 863,
+    "Recovered": 722,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 897,
+    "Recovered": 731,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 919,
+    "Recovered": 756,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 931,
+    "Recovered": 773,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 948,
+    "Recovered": 788,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 958,
+    "Recovered": 803,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 965,
+    "Recovered": 827,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 967,
+    "Recovered": 849,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 990,
+    "Recovered": 853,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 996,
+    "Recovered": 901,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1010,
+    "Recovered": 913,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1033,
+    "Recovered": 915,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1057,
+    "Recovered": 933,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1083,
+    "Recovered": 944,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1089,
+    "Recovered": 952,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1120,
+    "Recovered": 956,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1178,
+    "Recovered": 972,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1220,
+    "Recovered": 983,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1238,
+    "Recovered": 1003,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1325,
+    "Recovered": 1041,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1400,
+    "Recovered": 1070,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1473,
+    "Recovered": 1080,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1472,
+    "Recovered": 1121,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1497,
+    "Recovered": 1169,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1536,
+    "Recovered": 1220,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1551,
+    "Recovered": 1234,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1584,
+    "Recovered": 1256,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1614,
+    "Recovered": 1277,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1653,
+    "Recovered": 1310,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1667,
+    "Recovered": 1339,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1720,
+    "Recovered": 1373,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1810,
+    "Recovered": 1425,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1857,
+    "Recovered": 1477,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1897,
+    "Recovered": 1502,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1933,
+    "Recovered": 1538,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 1989,
+    "Recovered": 1567,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2058,
+    "Recovered": 1627,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2128,
+    "Recovered": 1661,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2218,
+    "Recovered": 1725,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2279,
+    "Recovered": 1753,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2349,
+    "Recovered": 1783,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2443,
+    "Recovered": 1835,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2528,
+    "Recovered": 1934,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2596,
+    "Recovered": 1956,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2678,
+    "Recovered": 2043,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2750,
+    "Recovered": 2144,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2837,
+    "Recovered": 2222,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 2968,
+    "Recovered": 2282,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 3090,
+    "Recovered": 2346,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 3178,
+    "Recovered": 2447,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 3267,
+    "Recovered": 2525,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 3364,
+    "Recovered": 2605,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 3501,
+    "Recovered": 2676,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 3646,
+    "Recovered": 2751,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 3807,
+    "Recovered": 2866,
+    "Deceased": 24,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 3944,
+    "Recovered": 2989,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 4093,
+    "Recovered": 3115,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 4173,
+    "Recovered": 3252,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 4245,
+    "Recovered": 3370,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 4318,
+    "Recovered": 3490,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 4459,
+    "Recovered": 3591,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 4581,
+    "Recovered": 3744,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 4746,
+    "Recovered": 3866,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 4835,
+    "Recovered": 3975,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 4940,
+    "Recovered": 4098,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 5032,
+    "Recovered": 4190,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 5141,
+    "Recovered": 4286,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 5238,
+    "Recovered": 4400,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 5366,
+    "Recovered": 4537,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 5512,
+    "Recovered": 4685,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 5635,
+    "Recovered": 4877,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 5727,
+    "Recovered": 4964,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 5821,
+    "Recovered": 5095,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 5915,
+    "Recovered": 5197,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6003,
+    "Recovered": 5302,
+    "Deceased": 34,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6089,
+    "Recovered": 5425,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6149,
+    "Recovered": 5554,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6180,
+    "Recovered": 5665,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6210,
+    "Recovered": 5733,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6273,
+    "Recovered": 5811,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6318,
+    "Recovered": 5910,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6336,
+    "Recovered": 5984,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6367,
+    "Recovered": 6066,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6409,
+    "Recovered": 6127,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6490,
+    "Recovered": 6156,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6520,
+    "Recovered": 6205,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6556,
+    "Recovered": 6271,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6589,
+    "Recovered": 6297,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6616,
+    "Recovered": 6335,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6661,
+    "Recovered": 6346,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6723,
+    "Recovered": 6393,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6775,
+    "Recovered": 6426,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6800,
+    "Recovered": 6479,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6833,
+    "Recovered": 6514,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6867,
+    "Recovered": 6538,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6900,
+    "Recovered": 6577,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6939,
+    "Recovered": 6605,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 6975,
+    "Recovered": 6648,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7000,
+    "Recovered": 6695,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7013,
+    "Recovered": 6727,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7036,
+    "Recovered": 6753,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7069,
+    "Recovered": 6810,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7089,
+    "Recovered": 6843,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7112,
+    "Recovered": 6879,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7130,
+    "Recovered": 6894,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7144,
+    "Recovered": 6934,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7162,
+    "Recovered": 6957,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7176,
+    "Recovered": 6985,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7194,
+    "Recovered": 7009,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7202,
+    "Recovered": 7026,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7233,
+    "Recovered": 7041,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7266,
+    "Recovered": 7082,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7293,
+    "Recovered": 7104,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7307,
+    "Recovered": 7128,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7339,
+    "Recovered": 7139,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7350,
+    "Recovered": 7154,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7357,
+    "Recovered": 7158,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7392,
+    "Recovered": 7169,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7423,
+    "Recovered": 7207,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7441,
+    "Recovered": 7226,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7466,
+    "Recovered": 7248,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7490,
+    "Recovered": 7268,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7533,
+    "Recovered": 7293,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7560,
+    "Recovered": 7312,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7578,
+    "Recovered": 7326,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7593,
+    "Recovered": 7334,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7605,
+    "Recovered": 7350,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7619,
+    "Recovered": 7372,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7628,
+    "Recovered": 7392,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7647,
+    "Recovered": 7409,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7662,
+    "Recovered": 7439,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7670,
+    "Recovered": 7465,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7682,
+    "Recovered": 7494,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7698,
+    "Recovered": 7522,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7719,
+    "Recovered": 7538,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7739,
+    "Recovered": 7551,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7754,
+    "Recovered": 7565,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7768,
+    "Recovered": 7586,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7789,
+    "Recovered": 7605,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7800,
+    "Recovered": 7617,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7813,
+    "Recovered": 7634,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7836,
+    "Recovered": 7650,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7850,
+    "Recovered": 7665,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7863,
+    "Recovered": 7685,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7874,
+    "Recovered": 7704,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7886,
+    "Recovered": 7721,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7902,
+    "Recovered": 7740,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7917,
+    "Recovered": 7756,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7930,
+    "Recovered": 7771,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7945,
+    "Recovered": 7785,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7956,
+    "Recovered": 7794,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7968,
+    "Recovered": 7807,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7976,
+    "Recovered": 7820,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 7993,
+    "Recovered": 7839,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8002,
+    "Recovered": 7854,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8012,
+    "Recovered": 7861,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8021,
+    "Recovered": 7869,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8031,
+    "Recovered": 7883,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8033,
+    "Recovered": 7896,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8046,
+    "Recovered": 7913,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8057,
+    "Recovered": 7924,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8071,
+    "Recovered": 7939,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8078,
+    "Recovered": 7951,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8090,
+    "Recovered": 7960,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8095,
+    "Recovered": 7972,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8103,
+    "Recovered": 7979,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8109,
+    "Recovered": 7985,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8113,
+    "Recovered": 7994,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8121,
+    "Recovered": 8009,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8129,
+    "Recovered": 8021,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8135,
+    "Recovered": 8032,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8137,
+    "Recovered": 8041,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8147,
+    "Recovered": 8045,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8156,
+    "Recovered": 8054,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8162,
+    "Recovered": 8064,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8172,
+    "Recovered": 8070,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8177,
+    "Recovered": 8073,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8187,
+    "Recovered": 8079,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8199,
+    "Recovered": 8087,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8203,
+    "Recovered": 8093,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8209,
+    "Recovered": 8095,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8210,
+    "Recovered": 8109,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8215,
+    "Recovered": 8115,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8223,
+    "Recovered": 8118,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8228,
+    "Recovered": 8126,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8233,
+    "Recovered": 8135,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8240,
+    "Recovered": 8146,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8245,
+    "Recovered": 8155,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8248,
+    "Recovered": 8161,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8255,
+    "Recovered": 8163,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8260,
+    "Recovered": 8168,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8266,
+    "Recovered": 8175,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8271,
+    "Recovered": 8180,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8273,
+    "Recovered": 8184,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8276,
+    "Recovered": 8187,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8281,
+    "Recovered": 8192,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8285,
+    "Recovered": 8195,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8288,
+    "Recovered": 8197,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8297,
+    "Recovered": 8201,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8308,
+    "Recovered": 8204,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8318,
+    "Recovered": 8209,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8326,
+    "Recovered": 8215,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8331,
+    "Recovered": 8219,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8335,
+    "Recovered": 8224,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8339,
+    "Recovered": 8228,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8340,
+    "Recovered": 8233,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8344,
+    "Recovered": 8237,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8346,
+    "Recovered": 8240,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8352,
+    "Recovered": 8244,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8359,
+    "Recovered": 8250,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8365,
+    "Recovered": 8258,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8370,
+    "Recovered": 8267,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8374,
+    "Recovered": 8277,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8377,
+    "Recovered": 8290,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8383,
+    "Recovered": 8300,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8389,
+    "Recovered": 8306,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8392,
+    "Recovered": 8311,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8398,
+    "Recovered": 8314,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8406,
+    "Recovered": 8318,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8410,
+    "Recovered": 8323,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8416,
+    "Recovered": 8326,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8428,
+    "Recovered": 8330,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8441,
+    "Recovered": 8335,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8451,
+    "Recovered": 8341,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8455,
+    "Recovered": 8349,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8465,
+    "Recovered": 8353,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8472,
+    "Recovered": 8356,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8482,
+    "Recovered": 8360,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8493,
+    "Recovered": 8365,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8508,
+    "Recovered": 8374,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8522,
+    "Recovered": 8383,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8536,
+    "Recovered": 8392,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8552,
+    "Recovered": 8404,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8566,
+    "Recovered": 8412,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8582,
+    "Recovered": 8422,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8600,
+    "Recovered": 8435,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8621,
+    "Recovered": 8445,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8635,
+    "Recovered": 8456,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8648,
+    "Recovered": 8468,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8666,
+    "Recovered": 8484,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8686,
+    "Recovered": 8498,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8708,
+    "Recovered": 8514,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8727,
+    "Recovered": 8528,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8742,
+    "Recovered": 8544,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8766,
+    "Recovered": 8563,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8791,
+    "Recovered": 8584,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8816,
+    "Recovered": 8598,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8840,
+    "Recovered": 8610,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8869,
+    "Recovered": 8628,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8901,
+    "Recovered": 8647,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8937,
+    "Recovered": 8666,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8966,
+    "Recovered": 8681,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 8987,
+    "Recovered": 8703,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9026,
+    "Recovered": 8727,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9065,
+    "Recovered": 8748,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9113,
+    "Recovered": 8776,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9160,
+    "Recovered": 8801,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9203,
+    "Recovered": 8830,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9233,
+    "Recovered": 8863,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9274,
+    "Recovered": 8899,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9339,
+    "Recovered": 8928,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9387,
+    "Recovered": 8949,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9439,
+    "Recovered": 8988,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9525,
+    "Recovered": 9029,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9604,
+    "Recovered": 9075,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9661,
+    "Recovered": 9122,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9704,
+    "Recovered": 9194,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9743,
+    "Recovered": 9261,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9792,
+    "Recovered": 9331,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9847,
+    "Recovered": 9378,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9910,
+    "Recovered": 9441,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 9996,
+    "Recovered": 9529,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 10101,
+    "Recovered": 9623,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 10217,
+    "Recovered": 9666,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 10358,
+    "Recovered": 9720,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 10472,
+    "Recovered": 9781,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 10633,
+    "Recovered": 9849,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 10781,
+    "Recovered": 9934,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 10933,
+    "Recovered": 10019,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 11118,
+    "Recovered": 10181,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 11289,
+    "Recovered": 10321,
+    "Deceased": 56,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 11475,
+    "Recovered": 10434,
+    "Deceased": 58,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 11699,
+    "Recovered": 10521,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 12005,
+    "Recovered": 10606,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 12339,
+    "Recovered": 10677,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 12716,
+    "Recovered": 10747,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 13087,
+    "Recovered": 10901,
+    "Deceased": 60,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 13427,
+    "Recovered": 11081,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 13747,
+    "Recovered": 11251,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14072,
+    "Recovered": 11436,
+    "Deceased": 66,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14429,
+    "Recovered": 11660,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 14815,
+    "Recovered": 11970,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15216,
+    "Recovered": 12300,
+    "Deceased": 70,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 15651,
+    "Recovered": 12677,
+    "Deceased": 73,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 16126,
+    "Recovered": 13048,
+    "Deceased": 73,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 16550,
+    "Recovered": 13389,
+    "Deceased": 75,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 16985,
+    "Recovered": 13709,
+    "Deceased": 78,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 17448,
+    "Recovered": 14033,
+    "Deceased": 82,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 17953,
+    "Recovered": 14390,
+    "Deceased": 82,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 18491,
+    "Recovered": 14777,
+    "Deceased": 88,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 19078,
+    "Recovered": 15009,
+    "Deceased": 93,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 19661,
+    "Recovered": 15613,
+    "Deceased": 94,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 20241,
+    "Recovered": 16073,
+    "Deceased": 100,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 20825,
+    "Recovered": 16513,
+    "Deceased": 105,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 21340,
+    "Recovered": 16949,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 21857,
+    "Recovered": 17410,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 22369,
+    "Recovered": 17915,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 22872,
+    "Recovered": 18455,
+    "Deceased": 119,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 23370,
+    "Recovered": 19042,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 23859,
+    "Recovered": 19625,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 24301,
+    "Recovered": 20204,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 24721,
+    "Recovered": 20789,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 25136,
+    "Recovered": 21304,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 25558,
+    "Recovered": 21821,
+    "Deceased": 135,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 25938,
+    "Recovered": 22331,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 26246,
+    "Recovered": 22834,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 26488,
+    "Recovered": 23332,
+    "Deceased": 140,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 26662,
+    "Recovered": 23821,
+    "Deceased": 141,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 26843,
+    "Recovered": 24264,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 26983,
+    "Recovered": 24683,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 27158,
+    "Recovered": 25098,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 27324,
+    "Recovered": 25540,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 27464,
+    "Recovered": 25921,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 27588,
+    "Recovered": 26259,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 27726,
+    "Recovered": 26604,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 27858,
+    "Recovered": 26921,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 27986,
+    "Recovered": 27089,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28104,
+    "Recovered": 27244,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28191,
+    "Recovered": 27362,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28266,
+    "Recovered": 27448,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28353,
+    "Recovered": 27514,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28443,
+    "Recovered": 27569,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28527,
+    "Recovered": 27611,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28604,
+    "Recovered": 27645,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28678,
+    "Recovered": 27687,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28771,
+    "Recovered": 27756,
+    "Deceased": 165,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28876,
+    "Recovered": 27849,
+    "Deceased": 165,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 28986,
+    "Recovered": 27961,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29112,
+    "Recovered": 28087,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29215,
+    "Recovered": 28201,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29314,
+    "Recovered": 28295,
+    "Deceased": 170,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29402,
+    "Recovered": 28373,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29486,
+    "Recovered": 28438,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29556,
+    "Recovered": 28499,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29625,
+    "Recovered": 28555,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29692,
+    "Recovered": 28607,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29750,
+    "Recovered": 28661,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29810,
+    "Recovered": 28712,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29864,
+    "Recovered": 28776,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29916,
+    "Recovered": 28848,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 29961,
+    "Recovered": 28924,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30013,
+    "Recovered": 29002,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30073,
+    "Recovered": 29084,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30131,
+    "Recovered": 29177,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30192,
+    "Recovered": 29270,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30246,
+    "Recovered": 29351,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30304,
+    "Recovered": 29426,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30354,
+    "Recovered": 29515,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30399,
+    "Recovered": 29608,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30438,
+    "Recovered": 29695,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30479,
+    "Recovered": 29759,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30524,
+    "Recovered": 29805,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30573,
+    "Recovered": 29852,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30617,
+    "Recovered": 29905,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30657,
+    "Recovered": 29963,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30708,
+    "Recovered": 30024,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30755,
+    "Recovered": 30083,
+    "Deceased": 182,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30805,
+    "Recovered": 30135,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30859,
+    "Recovered": 30176,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30909,
+    "Recovered": 30222,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 30956,
+    "Recovered": 30269,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31005,
+    "Recovered": 30318,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31048,
+    "Recovered": 30369,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31094,
+    "Recovered": 30417,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31142,
+    "Recovered": 30471,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31189,
+    "Recovered": 30520,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31233,
+    "Recovered": 30561,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31272,
+    "Recovered": 30603,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31307,
+    "Recovered": 30647,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31342,
+    "Recovered": 30689,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31374,
+    "Recovered": 30735,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31413,
+    "Recovered": 30784,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31450,
+    "Recovered": 30835,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31483,
+    "Recovered": 30883,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31515,
+    "Recovered": 30925,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31545,
+    "Recovered": 30963,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31582,
+    "Recovered": 31007,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31620,
+    "Recovered": 31051,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31650,
+    "Recovered": 31090,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31676,
+    "Recovered": 31126,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31705,
+    "Recovered": 31160,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31733,
+    "Recovered": 31196,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31758,
+    "Recovered": 31230,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31782,
+    "Recovered": 31261,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31807,
+    "Recovered": 31290,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31834,
+    "Recovered": 31324,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31862,
+    "Recovered": 31353,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31891,
+    "Recovered": 31389,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31924,
+    "Recovered": 31420,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31956,
+    "Recovered": 31454,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 31986,
+    "Recovered": 31491,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32018,
+    "Recovered": 31520,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32048,
+    "Recovered": 31552,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32080,
+    "Recovered": 31578,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32113,
+    "Recovered": 31603,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32150,
+    "Recovered": 31626,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32189,
+    "Recovered": 31650,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32220,
+    "Recovered": 31677,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32252,
+    "Recovered": 31701,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32288,
+    "Recovered": 31726,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32318,
+    "Recovered": 31755,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32352,
+    "Recovered": 31787,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32391,
+    "Recovered": 31826,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32425,
+    "Recovered": 31874,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32461,
+    "Recovered": 31919,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32497,
+    "Recovered": 31959,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32535,
+    "Recovered": 31994,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32565,
+    "Recovered": 32025,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32603,
+    "Recovered": 32057,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32638,
+    "Recovered": 32095,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32674,
+    "Recovered": 32126,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32705,
+    "Recovered": 32163,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32740,
+    "Recovered": 32193,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32774,
+    "Recovered": 32219,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32807,
+    "Recovered": 32248,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32846,
+    "Recovered": 32273,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32881,
+    "Recovered": 32302,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32915,
+    "Recovered": 32339,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32953,
+    "Recovered": 32381,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 32989,
+    "Recovered": 32420,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33021,
+    "Recovered": 32452,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33068,
+    "Recovered": 32486,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33107,
+    "Recovered": 32516,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33141,
+    "Recovered": 32541,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33172,
+    "Recovered": 32572,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33200,
+    "Recovered": 32609,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33230,
+    "Recovered": 32648,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33259,
+    "Recovered": 32677,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33283,
+    "Recovered": 32709,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33304,
+    "Recovered": 32739,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33325,
+    "Recovered": 32766,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33343,
+    "Recovered": 32794,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33362,
+    "Recovered": 32824,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33382,
+    "Recovered": 32850,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33404,
+    "Recovered": 32881,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33422,
+    "Recovered": 32910,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33442,
+    "Recovered": 32944,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33461,
+    "Recovered": 32982,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33479,
+    "Recovered": 33017,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33494,
+    "Recovered": 33049,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33511,
+    "Recovered": 33078,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33529,
+    "Recovered": 33110,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Nilgiris",
+    "cases": 33546,
+    "Recovered": 33139,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 45839
+  }
+]
