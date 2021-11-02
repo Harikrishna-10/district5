@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26,
+    "Recovered": 18,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26,
+    "Recovered": 18,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26,
+    "Recovered": 18,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26,
+    "Recovered": 18,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 27,
+    "Recovered": 21,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 28,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 30,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 39,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 161,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 229,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 324,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 356,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 390,
+    "Recovered": 26,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 393,
+    "Recovered": 27,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 394,
+    "Recovered": 27,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 394,
+    "Recovered": 27,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 395,
+    "Recovered": 28,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 412,
+    "Recovered": 28,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 413,
+    "Recovered": 28,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 416,
+    "Recovered": 37,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 416,
+    "Recovered": 251,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 417,
+    "Recovered": 259,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 418,
+    "Recovered": 362,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 420,
+    "Recovered": 377,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 420,
+    "Recovered": 381,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 421,
+    "Recovered": 401,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 421,
+    "Recovered": 405,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 423,
+    "Recovered": 407,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 427,
+    "Recovered": 409,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 427,
+    "Recovered": 414,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 435,
+    "Recovered": 414,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 439,
+    "Recovered": 416,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 443,
+    "Recovered": 416,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 448,
+    "Recovered": 419,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 454,
+    "Recovered": 420,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 462,
+    "Recovered": 420,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 463,
+    "Recovered": 421,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 464,
+    "Recovered": 421,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 470,
+    "Recovered": 432,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 472,
+    "Recovered": 432,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 475,
+    "Recovered": 435,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 475,
+    "Recovered": 439,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 481,
+    "Recovered": 443,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 491,
+    "Recovered": 451,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 491,
+    "Recovered": 454,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 498,
+    "Recovered": 455,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 517,
+    "Recovered": 455,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 521,
+    "Recovered": 455,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 533,
+    "Recovered": 455,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 533,
+    "Recovered": 455,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 560,
+    "Recovered": 456,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 568,
+    "Recovered": 456,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 645,
+    "Recovered": 469,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 646,
+    "Recovered": 472,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 11918
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 647,
+    "Recovered": 475,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 13863
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 663,
+    "Recovered": 479,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 765,
+    "Recovered": 479,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 823,
+    "Recovered": 492,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 850,
+    "Recovered": 509,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 892,
+    "Recovered": 522,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 912,
+    "Recovered": 530,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 929,
+    "Recovered": 535,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 940,
+    "Recovered": 557,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 982,
+    "Recovered": 619,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1007,
+    "Recovered": 631,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1073,
+    "Recovered": 641,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1081,
+    "Recovered": 726,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1124,
+    "Recovered": 775,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1143,
+    "Recovered": 813,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1218,
+    "Recovered": 856,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1257,
+    "Recovered": 887,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1277,
+    "Recovered": 894,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1342,
+    "Recovered": 927,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1413,
+    "Recovered": 968,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1480,
+    "Recovered": 989,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1493,
+    "Recovered": 1025,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1510,
+    "Recovered": 1067,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1526,
+    "Recovered": 1083,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1551,
+    "Recovered": 1118,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1565,
+    "Recovered": 1154,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1624,
+    "Recovered": 1164,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1646,
+    "Recovered": 1218,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1690,
+    "Recovered": 1278,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1725,
+    "Recovered": 1332,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1770,
+    "Recovered": 1367,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1863,
+    "Recovered": 1406,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1921,
+    "Recovered": 1424,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 1991,
+    "Recovered": 1456,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 14192
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 2070,
+    "Recovered": 1496,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 2162,
+    "Recovered": 1532,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 2250,
+    "Recovered": 1570,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 2415,
+    "Recovered": 1595,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 2525,
+    "Recovered": 1629,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 2668,
+    "Recovered": 1644,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 2788,
+    "Recovered": 1718,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 2929,
+    "Recovered": 1833,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 3088,
+    "Recovered": 1862,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 3271,
+    "Recovered": 1913,
+    "Deceased": 34,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 3415,
+    "Recovered": 1964,
+    "Deceased": 34,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 3582,
+    "Recovered": 2028,
+    "Deceased": 34,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 3846,
+    "Recovered": 2089,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 4016,
+    "Recovered": 2168,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 4232,
+    "Recovered": 2271,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 4445,
+    "Recovered": 2394,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 4628,
+    "Recovered": 2502,
+    "Deceased": 55,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 4774,
+    "Recovered": 2604,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 5061,
+    "Recovered": 2736,
+    "Deceased": 58,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 5344,
+    "Recovered": 3059,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 5685,
+    "Recovered": 3155,
+    "Deceased": 60,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 5943,
+    "Recovered": 3234,
+    "Deceased": 65,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 6165,
+    "Recovered": 3391,
+    "Deceased": 70,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 6505,
+    "Recovered": 3705,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 6690,
+    "Recovered": 3889,
+    "Deceased": 73,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 7081,
+    "Recovered": 4161,
+    "Deceased": 74,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 7332,
+    "Recovered": 4403,
+    "Deceased": 78,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 7571,
+    "Recovered": 4558,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 7845,
+    "Recovered": 4633,
+    "Deceased": 88,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 8090,
+    "Recovered": 5144,
+    "Deceased": 92,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 8401,
+    "Recovered": 5368,
+    "Deceased": 97,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 8783,
+    "Recovered": 5606,
+    "Deceased": 99,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 9155,
+    "Recovered": 5824,
+    "Deceased": 103,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 9525,
+    "Recovered": 6321,
+    "Deceased": 105,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 9814,
+    "Recovered": 6654,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 10076,
+    "Recovered": 7060,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 10334,
+    "Recovered": 7340,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 10755,
+    "Recovered": 7497,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 11140,
+    "Recovered": 7980,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 11449,
+    "Recovered": 8258,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 11737,
+    "Recovered": 8632,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 12145,
+    "Recovered": 9036,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 12737,
+    "Recovered": 9351,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 13235,
+    "Recovered": 9465,
+    "Deceased": 133,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 13669,
+    "Recovered": 9779,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 14060,
+    "Recovered": 10176,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 14458,
+    "Recovered": 10706,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 14865,
+    "Recovered": 11052,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 15209,
+    "Recovered": 11344,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 15473,
+    "Recovered": 11820,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 15762,
+    "Recovered": 12105,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 16023,
+    "Recovered": 12717,
+    "Deceased": 170,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 16275,
+    "Recovered": 13135,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 16567,
+    "Recovered": 13570,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 16835,
+    "Recovered": 14093,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 17097,
+    "Recovered": 14493,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 17309,
+    "Recovered": 14789,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 17568,
+    "Recovered": 15081,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 17857,
+    "Recovered": 15387,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 18153,
+    "Recovered": 15635,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 18301,
+    "Recovered": 15890,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 18534,
+    "Recovered": 16121,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 18717,
+    "Recovered": 16439,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 18972,
+    "Recovered": 16953,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 19214,
+    "Recovered": 17377,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 19427,
+    "Recovered": 17653,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 19686,
+    "Recovered": 17968,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 19849,
+    "Recovered": 18136,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 19955,
+    "Recovered": 18259,
+    "Deceased": 223,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 20096,
+    "Recovered": 18387,
+    "Deceased": 227,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 20276,
+    "Recovered": 18549,
+    "Deceased": 227,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 20442,
+    "Recovered": 18836,
+    "Deceased": 230,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 20598,
+    "Recovered": 18942,
+    "Deceased": 236,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 20739,
+    "Recovered": 19067,
+    "Deceased": 237,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 20869,
+    "Recovered": 19255,
+    "Deceased": 237,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 21013,
+    "Recovered": 19531,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 21155,
+    "Recovered": 19682,
+    "Deceased": 241,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 21281,
+    "Recovered": 19812,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 21429,
+    "Recovered": 19954,
+    "Deceased": 245,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 21572,
+    "Recovered": 20119,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 21659,
+    "Recovered": 20272,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 21793,
+    "Recovered": 20448,
+    "Deceased": 252,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 21932,
+    "Recovered": 20595,
+    "Deceased": 255,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22040,
+    "Recovered": 20710,
+    "Deceased": 257,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22163,
+    "Recovered": 20840,
+    "Deceased": 258,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22280,
+    "Recovered": 20966,
+    "Deceased": 260,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22397,
+    "Recovered": 21089,
+    "Deceased": 261,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22498,
+    "Recovered": 21236,
+    "Deceased": 261,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22586,
+    "Recovered": 21331,
+    "Deceased": 263,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22657,
+    "Recovered": 21424,
+    "Deceased": 264,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22719,
+    "Recovered": 21516,
+    "Deceased": 264,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22796,
+    "Recovered": 21661,
+    "Deceased": 264,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22847,
+    "Recovered": 21800,
+    "Deceased": 265,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22897,
+    "Recovered": 21879,
+    "Deceased": 265,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22948,
+    "Recovered": 21944,
+    "Deceased": 266,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 22997,
+    "Recovered": 22014,
+    "Deceased": 267,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23041,
+    "Recovered": 22065,
+    "Deceased": 268,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23078,
+    "Recovered": 22155,
+    "Deceased": 269,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23110,
+    "Recovered": 22421,
+    "Deceased": 269,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23162,
+    "Recovered": 22611,
+    "Deceased": 270,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23198,
+    "Recovered": 22761,
+    "Deceased": 270,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23246,
+    "Recovered": 22813,
+    "Deceased": 271,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23290,
+    "Recovered": 22862,
+    "Deceased": 271,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23340,
+    "Recovered": 22879,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23382,
+    "Recovered": 22895,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23419,
+    "Recovered": 22927,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23454,
+    "Recovered": 22957,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23494,
+    "Recovered": 23002,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23537,
+    "Recovered": 23045,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23576,
+    "Recovered": 23086,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23609,
+    "Recovered": 23100,
+    "Deceased": 273,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23664,
+    "Recovered": 23144,
+    "Deceased": 274,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23710,
+    "Recovered": 23197,
+    "Deceased": 273,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23736,
+    "Recovered": 23240,
+    "Deceased": 274,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23782,
+    "Recovered": 23287,
+    "Deceased": 274,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23814,
+    "Recovered": 23320,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23842,
+    "Recovered": 23351,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23866,
+    "Recovered": 23389,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23911,
+    "Recovered": 23428,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23947,
+    "Recovered": 23468,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23963,
+    "Recovered": 23535,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 23980,
+    "Recovered": 23568,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24018,
+    "Recovered": 23611,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24043,
+    "Recovered": 23634,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24080,
+    "Recovered": 23696,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24112,
+    "Recovered": 23730,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24124,
+    "Recovered": 23769,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24156,
+    "Recovered": 23791,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24174,
+    "Recovered": 23812,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24200,
+    "Recovered": 23824,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24224,
+    "Recovered": 23856,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24239,
+    "Recovered": 23883,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24260,
+    "Recovered": 23903,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24285,
+    "Recovered": 23925,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24302,
+    "Recovered": 23943,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24319,
+    "Recovered": 23963,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24342,
+    "Recovered": 23973,
+    "Deceased": 277,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24356,
+    "Recovered": 24016,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24372,
+    "Recovered": 24025,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24381,
+    "Recovered": 24039,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24392,
+    "Recovered": 24057,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24405,
+    "Recovered": 24064,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24420,
+    "Recovered": 24070,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24432,
+    "Recovered": 24075,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24445,
+    "Recovered": 24081,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24454,
+    "Recovered": 24089,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24466,
+    "Recovered": 24100,
+    "Deceased": 279,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24473,
+    "Recovered": 24110,
+    "Deceased": 279,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24485,
+    "Recovered": 24116,
+    "Deceased": 280,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24503,
+    "Recovered": 24128,
+    "Deceased": 280,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24515,
+    "Recovered": 24133,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24526,
+    "Recovered": 24143,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24540,
+    "Recovered": 24157,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24554,
+    "Recovered": 24172,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24571,
+    "Recovered": 24189,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24583,
+    "Recovered": 24205,
+    "Deceased": 282,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24595,
+    "Recovered": 24210,
+    "Deceased": 282,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24610,
+    "Recovered": 24214,
+    "Deceased": 282,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24627,
+    "Recovered": 24228,
+    "Deceased": 282,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24642,
+    "Recovered": 24239,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24662,
+    "Recovered": 24252,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24681,
+    "Recovered": 24263,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24695,
+    "Recovered": 24277,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24707,
+    "Recovered": 24292,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24720,
+    "Recovered": 24305,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24730,
+    "Recovered": 24311,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24745,
+    "Recovered": 24322,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24761,
+    "Recovered": 24341,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24772,
+    "Recovered": 24364,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24780,
+    "Recovered": 24393,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24790,
+    "Recovered": 24403,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24799,
+    "Recovered": 24417,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24805,
+    "Recovered": 24433,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24810,
+    "Recovered": 24437,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24819,
+    "Recovered": 24445,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24826,
+    "Recovered": 24462,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24840,
+    "Recovered": 24486,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24846,
+    "Recovered": 24501,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24851,
+    "Recovered": 24515,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24858,
+    "Recovered": 24524,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24864,
+    "Recovered": 24529,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24865,
+    "Recovered": 24535,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24868,
+    "Recovered": 24539,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24873,
+    "Recovered": 24544,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24876,
+    "Recovered": 24557,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24881,
+    "Recovered": 24565,
+    "Deceased": 284,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24892,
+    "Recovered": 24572,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24897,
+    "Recovered": 24582,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24904,
+    "Recovered": 24589,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24910,
+    "Recovered": 24593,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24920,
+    "Recovered": 24598,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24925,
+    "Recovered": 24601,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24934,
+    "Recovered": 24603,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24940,
+    "Recovered": 24606,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24942,
+    "Recovered": 24611,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24948,
+    "Recovered": 24617,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24974,
+    "Recovered": 24624,
+    "Deceased": 286,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24978,
+    "Recovered": 24629,
+    "Deceased": 286,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24985,
+    "Recovered": 24636,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 24999,
+    "Recovered": 24640,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25011,
+    "Recovered": 24646,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25012,
+    "Recovered": 24657,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25017,
+    "Recovered": 24661,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25033,
+    "Recovered": 24667,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25045,
+    "Recovered": 24672,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25057,
+    "Recovered": 24679,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25067,
+    "Recovered": 24687,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25074,
+    "Recovered": 24691,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25083,
+    "Recovered": 24703,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25090,
+    "Recovered": 24714,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25095,
+    "Recovered": 24721,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25102,
+    "Recovered": 24729,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25107,
+    "Recovered": 24744,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25110,
+    "Recovered": 24760,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25119,
+    "Recovered": 24772,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25124,
+    "Recovered": 24783,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25132,
+    "Recovered": 24792,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25141,
+    "Recovered": 24799,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25148,
+    "Recovered": 24807,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25154,
+    "Recovered": 24817,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25163,
+    "Recovered": 24823,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25173,
+    "Recovered": 24832,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25184,
+    "Recovered": 24841,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25197,
+    "Recovered": 24849,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25205,
+    "Recovered": 24857,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25211,
+    "Recovered": 24867,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25214,
+    "Recovered": 24872,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25231,
+    "Recovered": 24880,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25238,
+    "Recovered": 24887,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25243,
+    "Recovered": 24892,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25248,
+    "Recovered": 24898,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25251,
+    "Recovered": 24907,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25260,
+    "Recovered": 24917,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25266,
+    "Recovered": 24925,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25277,
+    "Recovered": 24931,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25286,
+    "Recovered": 24939,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25296,
+    "Recovered": 24949,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25307,
+    "Recovered": 24958,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25322,
+    "Recovered": 24965,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25334,
+    "Recovered": 24973,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25343,
+    "Recovered": 24979,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25358,
+    "Recovered": 24987,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25388,
+    "Recovered": 24993,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25403,
+    "Recovered": 24996,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25424,
+    "Recovered": 25018,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25451,
+    "Recovered": 25028,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25477,
+    "Recovered": 25036,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25522,
+    "Recovered": 25048,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25561,
+    "Recovered": 25063,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25618,
+    "Recovered": 25093,
+    "Deceased": 290,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25655,
+    "Recovered": 25112,
+    "Deceased": 290,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25706,
+    "Recovered": 25132,
+    "Deceased": 291,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25746,
+    "Recovered": 25162,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25805,
+    "Recovered": 25194,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25880,
+    "Recovered": 25237,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 25959,
+    "Recovered": 25268,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26030,
+    "Recovered": 25318,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26077,
+    "Recovered": 25344,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26147,
+    "Recovered": 25378,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26192,
+    "Recovered": 25422,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26340,
+    "Recovered": 25465,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26462,
+    "Recovered": 25504,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26559,
+    "Recovered": 25537,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26726,
+    "Recovered": 25588,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26798,
+    "Recovered": 25619,
+    "Deceased": 294,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 26977,
+    "Recovered": 25660,
+    "Deceased": 296,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 27157,
+    "Recovered": 25775,
+    "Deceased": 298,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 27254,
+    "Recovered": 25895,
+    "Deceased": 299,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 27444,
+    "Recovered": 25964,
+    "Deceased": 300,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 27624,
+    "Recovered": 26052,
+    "Deceased": 302,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 27828,
+    "Recovered": 26099,
+    "Deceased": 305,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 27985,
+    "Recovered": 26306,
+    "Deceased": 308,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 28138,
+    "Recovered": 26469,
+    "Deceased": 311,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 28308,
+    "Recovered": 26546,
+    "Deceased": 312,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 28516,
+    "Recovered": 26736,
+    "Deceased": 314,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 28721,
+    "Recovered": 26914,
+    "Deceased": 314,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 28932,
+    "Recovered": 27104,
+    "Deceased": 315,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 29173,
+    "Recovered": 27284,
+    "Deceased": 316,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 29363,
+    "Recovered": 27594,
+    "Deceased": 319,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 29586,
+    "Recovered": 27806,
+    "Deceased": 321,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 29845,
+    "Recovered": 27942,
+    "Deceased": 325,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 30147,
+    "Recovered": 28170,
+    "Deceased": 327,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 30474,
+    "Recovered": 28439,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 30844,
+    "Recovered": 28695,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 31225,
+    "Recovered": 28935,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 31525,
+    "Recovered": 29188,
+    "Deceased": 336,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 31831,
+    "Recovered": 29457,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 32198,
+    "Recovered": 29764,
+    "Deceased": 343,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 32662,
+    "Recovered": 30107,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 33186,
+    "Recovered": 30491,
+    "Deceased": 357,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 33670,
+    "Recovered": 30906,
+    "Deceased": 360,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 34199,
+    "Recovered": 31294,
+    "Deceased": 362,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 34638,
+    "Recovered": 31562,
+    "Deceased": 368,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 35167,
+    "Recovered": 31812,
+    "Deceased": 377,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 35840,
+    "Recovered": 32042,
+    "Deceased": 382,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 36484,
+    "Recovered": 32315,
+    "Deceased": 384,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 37201,
+    "Recovered": 32618,
+    "Deceased": 389,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 38062,
+    "Recovered": 32890,
+    "Deceased": 399,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 38830,
+    "Recovered": 33453,
+    "Deceased": 400,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 39434,
+    "Recovered": 33550,
+    "Deceased": 403,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 40290,
+    "Recovered": 33858,
+    "Deceased": 416,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 41148,
+    "Recovered": 34142,
+    "Deceased": 421,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 42018,
+    "Recovered": 34505,
+    "Deceased": 429,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 42825,
+    "Recovered": 34818,
+    "Deceased": 435,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 43547,
+    "Recovered": 35451,
+    "Deceased": 443,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 44261,
+    "Recovered": 36079,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 44863,
+    "Recovered": 36896,
+    "Deceased": 458,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 45514,
+    "Recovered": 37513,
+    "Deceased": 463,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 46137,
+    "Recovered": 38083,
+    "Deceased": 472,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 46720,
+    "Recovered": 38822,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 47312,
+    "Recovered": 39670,
+    "Deceased": 496,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 48038,
+    "Recovered": 40513,
+    "Deceased": 509,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 48725,
+    "Recovered": 41525,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 49281,
+    "Recovered": 42633,
+    "Deceased": 534,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 49870,
+    "Recovered": 43352,
+    "Deceased": 541,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 50444,
+    "Recovered": 43891,
+    "Deceased": 548,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 50932,
+    "Recovered": 45089,
+    "Deceased": 561,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 51522,
+    "Recovered": 45663,
+    "Deceased": 576,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 52061,
+    "Recovered": 46432,
+    "Deceased": 588,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 52558,
+    "Recovered": 47017,
+    "Deceased": 593,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 53029,
+    "Recovered": 47533,
+    "Deceased": 602,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 53456,
+    "Recovered": 48010,
+    "Deceased": 615,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 53851,
+    "Recovered": 48529,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 54210,
+    "Recovered": 48882,
+    "Deceased": 651,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 54559,
+    "Recovered": 49439,
+    "Deceased": 661,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 54877,
+    "Recovered": 50160,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 55161,
+    "Recovered": 51109,
+    "Deceased": 675,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 55426,
+    "Recovered": 51590,
+    "Deceased": 694,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 55674,
+    "Recovered": 51937,
+    "Deceased": 699,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 55906,
+    "Recovered": 52531,
+    "Deceased": 702,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 56130,
+    "Recovered": 53132,
+    "Deceased": 707,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 56339,
+    "Recovered": 53614,
+    "Deceased": 714,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 56539,
+    "Recovered": 53913,
+    "Deceased": 719,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 56728,
+    "Recovered": 54171,
+    "Deceased": 726,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 56910,
+    "Recovered": 54440,
+    "Deceased": 731,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 57078,
+    "Recovered": 54685,
+    "Deceased": 739,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 57232,
+    "Recovered": 54915,
+    "Deceased": 742,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 57371,
+    "Recovered": 55124,
+    "Deceased": 746,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 57499,
+    "Recovered": 55412,
+    "Deceased": 748,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 57621,
+    "Recovered": 55657,
+    "Deceased": 751,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 57726,
+    "Recovered": 55866,
+    "Deceased": 757,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 57842,
+    "Recovered": 56042,
+    "Deceased": 758,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 57944,
+    "Recovered": 56200,
+    "Deceased": 762,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58071,
+    "Recovered": 56344,
+    "Deceased": 763,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58176,
+    "Recovered": 56472,
+    "Deceased": 767,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58275,
+    "Recovered": 56570,
+    "Deceased": 767,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58372,
+    "Recovered": 56664,
+    "Deceased": 770,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58434,
+    "Recovered": 56729,
+    "Deceased": 771,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58505,
+    "Recovered": 56800,
+    "Deceased": 774,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58594,
+    "Recovered": 56868,
+    "Deceased": 776,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58669,
+    "Recovered": 56944,
+    "Deceased": 779,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58763,
+    "Recovered": 57015,
+    "Deceased": 781,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58852,
+    "Recovered": 57101,
+    "Deceased": 788,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 58939,
+    "Recovered": 57192,
+    "Deceased": 793,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59020,
+    "Recovered": 57288,
+    "Deceased": 792,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59086,
+    "Recovered": 57380,
+    "Deceased": 792,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59180,
+    "Recovered": 57469,
+    "Deceased": 794,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59266,
+    "Recovered": 57560,
+    "Deceased": 793,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59338,
+    "Recovered": 57653,
+    "Deceased": 797,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59417,
+    "Recovered": 57735,
+    "Deceased": 801,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59497,
+    "Recovered": 57812,
+    "Deceased": 801,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59590,
+    "Recovered": 57881,
+    "Deceased": 802,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59676,
+    "Recovered": 57943,
+    "Deceased": 802,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59748,
+    "Recovered": 58017,
+    "Deceased": 802,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59824,
+    "Recovered": 58100,
+    "Deceased": 803,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59889,
+    "Recovered": 58194,
+    "Deceased": 803,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 59957,
+    "Recovered": 58291,
+    "Deceased": 803,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60034,
+    "Recovered": 58383,
+    "Deceased": 803,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60107,
+    "Recovered": 58467,
+    "Deceased": 803,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60179,
+    "Recovered": 58556,
+    "Deceased": 804,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60241,
+    "Recovered": 58642,
+    "Deceased": 807,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60309,
+    "Recovered": 58724,
+    "Deceased": 809,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60381,
+    "Recovered": 58802,
+    "Deceased": 809,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60450,
+    "Recovered": 58883,
+    "Deceased": 811,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60514,
+    "Recovered": 58956,
+    "Deceased": 811,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60573,
+    "Recovered": 59031,
+    "Deceased": 811,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60652,
+    "Recovered": 59099,
+    "Deceased": 813,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60714,
+    "Recovered": 59180,
+    "Deceased": 815,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60787,
+    "Recovered": 59255,
+    "Deceased": 815,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60845,
+    "Recovered": 59326,
+    "Deceased": 816,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60921,
+    "Recovered": 59388,
+    "Deceased": 818,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 60987,
+    "Recovered": 59451,
+    "Deceased": 819,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61073,
+    "Recovered": 59517,
+    "Deceased": 820,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61144,
+    "Recovered": 59575,
+    "Deceased": 821,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61220,
+    "Recovered": 59622,
+    "Deceased": 821,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61293,
+    "Recovered": 59676,
+    "Deceased": 821,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61364,
+    "Recovered": 59744,
+    "Deceased": 822,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61434,
+    "Recovered": 59828,
+    "Deceased": 822,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61495,
+    "Recovered": 59909,
+    "Deceased": 822,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61554,
+    "Recovered": 59996,
+    "Deceased": 825,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61614,
+    "Recovered": 60072,
+    "Deceased": 825,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61669,
+    "Recovered": 60137,
+    "Deceased": 826,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61719,
+    "Recovered": 60200,
+    "Deceased": 827,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61777,
+    "Recovered": 60268,
+    "Deceased": 830,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61833,
+    "Recovered": 60340,
+    "Deceased": 830,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61887,
+    "Recovered": 60416,
+    "Deceased": 830,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 61939,
+    "Recovered": 60495,
+    "Deceased": 830,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62008,
+    "Recovered": 60560,
+    "Deceased": 832,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62062,
+    "Recovered": 60631,
+    "Deceased": 832,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62102,
+    "Recovered": 60699,
+    "Deceased": 832,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62142,
+    "Recovered": 60759,
+    "Deceased": 832,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62179,
+    "Recovered": 60811,
+    "Deceased": 832,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62217,
+    "Recovered": 60854,
+    "Deceased": 834,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62251,
+    "Recovered": 60901,
+    "Deceased": 835,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62290,
+    "Recovered": 60941,
+    "Deceased": 835,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62330,
+    "Recovered": 60988,
+    "Deceased": 839,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62373,
+    "Recovered": 61042,
+    "Deceased": 839,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62429,
+    "Recovered": 61099,
+    "Deceased": 839,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62483,
+    "Recovered": 61162,
+    "Deceased": 839,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62520,
+    "Recovered": 61218,
+    "Deceased": 840,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62561,
+    "Recovered": 61272,
+    "Deceased": 841,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62596,
+    "Recovered": 61323,
+    "Deceased": 842,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62635,
+    "Recovered": 61372,
+    "Deceased": 843,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62675,
+    "Recovered": 61411,
+    "Deceased": 845,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62701,
+    "Recovered": 61435,
+    "Deceased": 846,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62731,
+    "Recovered": 61454,
+    "Deceased": 847,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62755,
+    "Recovered": 61476,
+    "Deceased": 847,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62792,
+    "Recovered": 61509,
+    "Deceased": 847,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62827,
+    "Recovered": 61548,
+    "Deceased": 848,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62863,
+    "Recovered": 61602,
+    "Deceased": 850,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62900,
+    "Recovered": 61660,
+    "Deceased": 851,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62933,
+    "Recovered": 61714,
+    "Deceased": 851,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 62968,
+    "Recovered": 61765,
+    "Deceased": 853,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63010,
+    "Recovered": 61818,
+    "Deceased": 854,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63039,
+    "Recovered": 61866,
+    "Deceased": 854,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63069,
+    "Recovered": 61901,
+    "Deceased": 854,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63106,
+    "Recovered": 61929,
+    "Deceased": 854,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63143,
+    "Recovered": 61953,
+    "Deceased": 855,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63176,
+    "Recovered": 61969,
+    "Deceased": 856,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63222,
+    "Recovered": 61991,
+    "Deceased": 856,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63264,
+    "Recovered": 62015,
+    "Deceased": 857,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63302,
+    "Recovered": 62044,
+    "Deceased": 857,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63336,
+    "Recovered": 62078,
+    "Deceased": 858,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63367,
+    "Recovered": 62120,
+    "Deceased": 858,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63401,
+    "Recovered": 62159,
+    "Deceased": 858,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63437,
+    "Recovered": 62196,
+    "Deceased": 858,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63467,
+    "Recovered": 62238,
+    "Deceased": 859,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63499,
+    "Recovered": 62276,
+    "Deceased": 859,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63530,
+    "Recovered": 62311,
+    "Deceased": 859,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63556,
+    "Recovered": 62343,
+    "Deceased": 859,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63582,
+    "Recovered": 62372,
+    "Deceased": 860,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63605,
+    "Recovered": 62403,
+    "Deceased": 860,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63626,
+    "Recovered": 62437,
+    "Deceased": 861,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63647,
+    "Recovered": 62464,
+    "Deceased": 863,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63672,
+    "Recovered": 62488,
+    "Deceased": 863,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63694,
+    "Recovered": 62517,
+    "Deceased": 863,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63717,
+    "Recovered": 62543,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63732,
+    "Recovered": 62571,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63752,
+    "Recovered": 62596,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63770,
+    "Recovered": 62623,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63793,
+    "Recovered": 62645,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63813,
+    "Recovered": 62669,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63832,
+    "Recovered": 62696,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63855,
+    "Recovered": 62721,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63877,
+    "Recovered": 62750,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63898,
+    "Recovered": 62783,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63915,
+    "Recovered": 62813,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63935,
+    "Recovered": 62840,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63956,
+    "Recovered": 62865,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63976,
+    "Recovered": 62888,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 63995,
+    "Recovered": 62909,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 64012,
+    "Recovered": 62929,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 64032,
+    "Recovered": 62947,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 64051,
+    "Recovered": 62962,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Cuddalore",
+    "cases": 64069,
+    "Recovered": 62979,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 36434
+  }
+]
