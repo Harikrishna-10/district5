@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 51,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 51,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 51,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 51,
+    "Recovered": 45,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 51,
+    "Recovered": 45,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 51,
+    "Recovered": 45,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 51,
+    "Recovered": 46,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 51,
+    "Recovered": 46,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 55,
+    "Recovered": 46,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 56,
+    "Recovered": 46,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 57,
+    "Recovered": 46,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 62,
+    "Recovered": 50,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 63,
+    "Recovered": 50,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 63,
+    "Recovered": 50,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 63,
+    "Recovered": 50,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 63,
+    "Recovered": 50,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 65,
+    "Recovered": 55,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 65,
+    "Recovered": 56,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 67,
+    "Recovered": 56,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 67,
+    "Recovered": 56,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 67,
+    "Recovered": 56,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 67,
+    "Recovered": 61,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 67,
+    "Recovered": 62,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 68,
+    "Recovered": 62,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 68,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 68,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 79,
+    "Recovered": 68,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 79,
+    "Recovered": 69,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 80,
+    "Recovered": 69,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 87,
+    "Recovered": 70,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 2684
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 90,
+    "Recovered": 70,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12090
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 90,
+    "Recovered": 70,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12090
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 97,
+    "Recovered": 70,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12090
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 97,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 12090
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 100,
+    "Recovered": 76,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 12090
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 112,
+    "Recovered": 76,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 12090
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 112,
+    "Recovered": 85,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 12090
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 116,
+    "Recovered": 87,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 116,
+    "Recovered": 101,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 120,
+    "Recovered": 101,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 132,
+    "Recovered": 105,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 142,
+    "Recovered": 104,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 148,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 154,
+    "Recovered": 112,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 163,
+    "Recovered": 116,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 171,
+    "Recovered": 116,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 171,
+    "Recovered": 118,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 179,
+    "Recovered": 126,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 189,
+    "Recovered": 126,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 14453
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 207,
+    "Recovered": 142,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 18694
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 230,
+    "Recovered": 148,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 266,
+    "Recovered": 163,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 310,
+    "Recovered": 162,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 352,
+    "Recovered": 179,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 434,
+    "Recovered": 206,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 461,
+    "Recovered": 224,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 493,
+    "Recovered": 234,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 503,
+    "Recovered": 199,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 546,
+    "Recovered": 199,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 636,
+    "Recovered": 269,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 19347
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 682,
+    "Recovered": 339,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 701,
+    "Recovered": 369,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 755,
+    "Recovered": 452,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 803,
+    "Recovered": 456,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 886,
+    "Recovered": 463,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 972,
+    "Recovered": 483,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1004,
+    "Recovered": 537,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1059,
+    "Recovered": 619,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1077,
+    "Recovered": 639,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1170,
+    "Recovered": 663,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1273,
+    "Recovered": 744,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1401,
+    "Recovered": 797,
+    "Deceased": 15,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1504,
+    "Recovered": 797,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1598,
+    "Recovered": 879,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1715,
+    "Recovered": 964,
+    "Deceased": 27,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1814,
+    "Recovered": 1020,
+    "Deceased": 27,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 1902,
+    "Recovered": 1067,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 2004,
+    "Recovered": 1067,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 2126,
+    "Recovered": 1158,
+    "Deceased": 34,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 2265,
+    "Recovered": 1253,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 2343,
+    "Recovered": 1258,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 2470,
+    "Recovered": 1330,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 2686,
+    "Recovered": 1331,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 2872,
+    "Recovered": 1477,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 3089,
+    "Recovered": 1763,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 3289,
+    "Recovered": 2096,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 3420,
+    "Recovered": 2161,
+    "Deceased": 58,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 3604,
+    "Recovered": 2234,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 3755,
+    "Recovered": 2297,
+    "Deceased": 60,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 3889,
+    "Recovered": 2420,
+    "Deceased": 60,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 4011,
+    "Recovered": 2431,
+    "Deceased": 60,
+    "Other": 0,
+    "Tested": 26832
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 4146,
+    "Recovered": 2535,
+    "Deceased": 60,
+    "Other": 0,
+    "Tested": 67844
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 4282,
+    "Recovered": 2651,
+    "Deceased": 60,
+    "Other": 0,
+    "Tested": 67844
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 4416,
+    "Recovered": 2782,
+    "Deceased": 60,
+    "Other": 0,
+    "Tested": 67844
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 4517,
+    "Recovered": 2944,
+    "Deceased": 60,
+    "Other": 0,
+    "Tested": 72589
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 4603,
+    "Recovered": 3106,
+    "Deceased": 62,
+    "Other": 0,
+    "Tested": 72589
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 4733,
+    "Recovered": 3246,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 72589
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 4834,
+    "Recovered": 3494,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 72589
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 4939,
+    "Recovered": 3598,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5032,
+    "Recovered": 3660,
+    "Deceased": 69,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5129,
+    "Recovered": 3792,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5170,
+    "Recovered": 4081,
+    "Deceased": 73,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5250,
+    "Recovered": 4284,
+    "Deceased": 77,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5386,
+    "Recovered": 4451,
+    "Deceased": 79,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5550,
+    "Recovered": 4534,
+    "Deceased": 81,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5654,
+    "Recovered": 4666,
+    "Deceased": 80,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5762,
+    "Recovered": 4765,
+    "Deceased": 85,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5867,
+    "Recovered": 4878,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 5990,
+    "Recovered": 4959,
+    "Deceased": 93,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 6113,
+    "Recovered": 5053,
+    "Deceased": 94,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 6212,
+    "Recovered": 5107,
+    "Deceased": 94,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 6335,
+    "Recovered": 5196,
+    "Deceased": 96,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 6439,
+    "Recovered": 5327,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 6560,
+    "Recovered": 5488,
+    "Deceased": 102,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 6660,
+    "Recovered": 5593,
+    "Deceased": 105,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 6764,
+    "Recovered": 5712,
+    "Deceased": 105,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 6873,
+    "Recovered": 5817,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 6957,
+    "Recovered": 5936,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 7072,
+    "Recovered": 6033,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 7158,
+    "Recovered": 6129,
+    "Deceased": 113,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 7261,
+    "Recovered": 6236,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 7380,
+    "Recovered": 6346,
+    "Deceased": 119,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 7478,
+    "Recovered": 6468,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 7575,
+    "Recovered": 6560,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 7684,
+    "Recovered": 6664,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 7799,
+    "Recovered": 6768,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 7903,
+    "Recovered": 6866,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8011,
+    "Recovered": 6974,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8123,
+    "Recovered": 7074,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8235,
+    "Recovered": 7204,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8336,
+    "Recovered": 7301,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8434,
+    "Recovered": 7391,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8540,
+    "Recovered": 7486,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8680,
+    "Recovered": 7607,
+    "Deceased": 131,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8753,
+    "Recovered": 7722,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8846,
+    "Recovered": 7822,
+    "Deceased": 133,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 8914,
+    "Recovered": 7929,
+    "Deceased": 131,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9017,
+    "Recovered": 8014,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9114,
+    "Recovered": 8113,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9227,
+    "Recovered": 8213,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9363,
+    "Recovered": 8431,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9469,
+    "Recovered": 8569,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9552,
+    "Recovered": 8645,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9633,
+    "Recovered": 8725,
+    "Deceased": 141,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9746,
+    "Recovered": 8796,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9858,
+    "Recovered": 8899,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 9986,
+    "Recovered": 8996,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10083,
+    "Recovered": 9114,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10168,
+    "Recovered": 9240,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10254,
+    "Recovered": 9331,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10345,
+    "Recovered": 9432,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10429,
+    "Recovered": 9505,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10527,
+    "Recovered": 9607,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10612,
+    "Recovered": 9716,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10708,
+    "Recovered": 9816,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10781,
+    "Recovered": 9896,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10842,
+    "Recovered": 9937,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 10919,
+    "Recovered": 10040,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11003,
+    "Recovered": 10120,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11083,
+    "Recovered": 10212,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11149,
+    "Recovered": 10297,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11225,
+    "Recovered": 10387,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11308,
+    "Recovered": 10457,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11396,
+    "Recovered": 10538,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11435,
+    "Recovered": 10629,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11497,
+    "Recovered": 10706,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11568,
+    "Recovered": 10782,
+    "Deceased": 158,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11642,
+    "Recovered": 10840,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11723,
+    "Recovered": 10912,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11788,
+    "Recovered": 10986,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11850,
+    "Recovered": 11059,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11912,
+    "Recovered": 11150,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 11980,
+    "Recovered": 11201,
+    "Deceased": 163,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12045,
+    "Recovered": 11278,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12097,
+    "Recovered": 11343,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12153,
+    "Recovered": 11409,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12201,
+    "Recovered": 11487,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12251,
+    "Recovered": 11552,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12297,
+    "Recovered": 11631,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12333,
+    "Recovered": 11692,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12379,
+    "Recovered": 11702,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12426,
+    "Recovered": 11769,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12467,
+    "Recovered": 11827,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12505,
+    "Recovered": 11891,
+    "Deceased": 168,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12543,
+    "Recovered": 11948,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12570,
+    "Recovered": 12023,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12617,
+    "Recovered": 12093,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12663,
+    "Recovered": 12147,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12693,
+    "Recovered": 12192,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12740,
+    "Recovered": 12233,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12777,
+    "Recovered": 12274,
+    "Deceased": 170,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12817,
+    "Recovered": 12323,
+    "Deceased": 170,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12857,
+    "Recovered": 12355,
+    "Deceased": 170,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12884,
+    "Recovered": 12393,
+    "Deceased": 170,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12919,
+    "Recovered": 12440,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12956,
+    "Recovered": 12471,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 12983,
+    "Recovered": 12507,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13016,
+    "Recovered": 12561,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13047,
+    "Recovered": 12580,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13074,
+    "Recovered": 12628,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13094,
+    "Recovered": 12684,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13120,
+    "Recovered": 12722,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13148,
+    "Recovered": 12773,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13167,
+    "Recovered": 12827,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13194,
+    "Recovered": 12874,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13213,
+    "Recovered": 12910,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13240,
+    "Recovered": 12940,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13269,
+    "Recovered": 12965,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13301,
+    "Recovered": 12993,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13324,
+    "Recovered": 13016,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13353,
+    "Recovered": 13032,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13374,
+    "Recovered": 13053,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13395,
+    "Recovered": 13070,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13421,
+    "Recovered": 13089,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13443,
+    "Recovered": 13106,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13472,
+    "Recovered": 13123,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13500,
+    "Recovered": 13146,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13521,
+    "Recovered": 13169,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13554,
+    "Recovered": 13196,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13590,
+    "Recovered": 13227,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13629,
+    "Recovered": 13260,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13650,
+    "Recovered": 13277,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13667,
+    "Recovered": 13302,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13687,
+    "Recovered": 13333,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13714,
+    "Recovered": 13360,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13730,
+    "Recovered": 13379,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13744,
+    "Recovered": 13401,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13762,
+    "Recovered": 13415,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13775,
+    "Recovered": 13444,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13800,
+    "Recovered": 13474,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13832,
+    "Recovered": 13510,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13857,
+    "Recovered": 13529,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13881,
+    "Recovered": 13550,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13911,
+    "Recovered": 13574,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13934,
+    "Recovered": 13587,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13956,
+    "Recovered": 13599,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 13979,
+    "Recovered": 13611,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14010,
+    "Recovered": 13632,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14043,
+    "Recovered": 13656,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14070,
+    "Recovered": 13687,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14097,
+    "Recovered": 13708,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14120,
+    "Recovered": 13743,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14142,
+    "Recovered": 13764,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14162,
+    "Recovered": 13783,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14183,
+    "Recovered": 13803,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14203,
+    "Recovered": 13826,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14221,
+    "Recovered": 13852,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14248,
+    "Recovered": 13876,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14263,
+    "Recovered": 13898,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14290,
+    "Recovered": 13927,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14310,
+    "Recovered": 13953,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14327,
+    "Recovered": 13980,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14346,
+    "Recovered": 14002,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14373,
+    "Recovered": 14023,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14382,
+    "Recovered": 14032,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14403,
+    "Recovered": 14044,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14421,
+    "Recovered": 14062,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14439,
+    "Recovered": 14083,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14453,
+    "Recovered": 14107,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14473,
+    "Recovered": 14128,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14486,
+    "Recovered": 14156,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14503,
+    "Recovered": 14190,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14511,
+    "Recovered": 14219,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14527,
+    "Recovered": 14239,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14539,
+    "Recovered": 14251,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14551,
+    "Recovered": 14264,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14564,
+    "Recovered": 14274,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14571,
+    "Recovered": 14286,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14588,
+    "Recovered": 14302,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14599,
+    "Recovered": 14317,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14613,
+    "Recovered": 14330,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14628,
+    "Recovered": 14341,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14646,
+    "Recovered": 14354,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14655,
+    "Recovered": 14368,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14667,
+    "Recovered": 14377,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14678,
+    "Recovered": 14389,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14687,
+    "Recovered": 14403,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14699,
+    "Recovered": 14411,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14708,
+    "Recovered": 14424,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14721,
+    "Recovered": 14444,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14741,
+    "Recovered": 14467,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14750,
+    "Recovered": 14477,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14766,
+    "Recovered": 14485,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14785,
+    "Recovered": 14496,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14797,
+    "Recovered": 14506,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14806,
+    "Recovered": 14514,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14820,
+    "Recovered": 14524,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14837,
+    "Recovered": 14536,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14852,
+    "Recovered": 14546,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14866,
+    "Recovered": 14561,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14872,
+    "Recovered": 14583,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14883,
+    "Recovered": 14608,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14893,
+    "Recovered": 14629,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14901,
+    "Recovered": 14648,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14912,
+    "Recovered": 14661,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14919,
+    "Recovered": 14669,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14926,
+    "Recovered": 14675,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14929,
+    "Recovered": 14684,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14938,
+    "Recovered": 14695,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14941,
+    "Recovered": 14709,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14949,
+    "Recovered": 14721,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14961,
+    "Recovered": 14732,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14974,
+    "Recovered": 14738,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14984,
+    "Recovered": 14745,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14984,
+    "Recovered": 14754,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 14996,
+    "Recovered": 14761,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15005,
+    "Recovered": 14766,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15015,
+    "Recovered": 14773,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15026,
+    "Recovered": 14778,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15033,
+    "Recovered": 14780,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15044,
+    "Recovered": 14788,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15047,
+    "Recovered": 14798,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15061,
+    "Recovered": 14805,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15080,
+    "Recovered": 14814,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15086,
+    "Recovered": 14822,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15102,
+    "Recovered": 14831,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15116,
+    "Recovered": 14839,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15133,
+    "Recovered": 14846,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15148,
+    "Recovered": 14854,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15165,
+    "Recovered": 14866,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15178,
+    "Recovered": 14879,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15193,
+    "Recovered": 14897,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15202,
+    "Recovered": 14908,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15221,
+    "Recovered": 14922,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15237,
+    "Recovered": 14933,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15257,
+    "Recovered": 14943,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15270,
+    "Recovered": 14955,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15284,
+    "Recovered": 14967,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15318,
+    "Recovered": 14984,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15353,
+    "Recovered": 15002,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15402,
+    "Recovered": 15028,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15451,
+    "Recovered": 15056,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15511,
+    "Recovered": 15070,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15558,
+    "Recovered": 15088,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15615,
+    "Recovered": 15099,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15684,
+    "Recovered": 15115,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15811,
+    "Recovered": 15145,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 15953,
+    "Recovered": 15185,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 16094,
+    "Recovered": 15227,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 16225,
+    "Recovered": 15279,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 16347,
+    "Recovered": 15330,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 16430,
+    "Recovered": 15388,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 16568,
+    "Recovered": 15442,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 16781,
+    "Recovered": 15508,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 16970,
+    "Recovered": 15595,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 17134,
+    "Recovered": 15665,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 17320,
+    "Recovered": 15768,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 17526,
+    "Recovered": 15919,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 17738,
+    "Recovered": 16044,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 17981,
+    "Recovered": 16161,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 18263,
+    "Recovered": 16253,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 18586,
+    "Recovered": 16378,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 18884,
+    "Recovered": 16605,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 19202,
+    "Recovered": 16793,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 19488,
+    "Recovered": 16954,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 19852,
+    "Recovered": 17141,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 20217,
+    "Recovered": 17334,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 20541,
+    "Recovered": 17549,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 20823,
+    "Recovered": 17792,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 21168,
+    "Recovered": 18068,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 21563,
+    "Recovered": 18392,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 22028,
+    "Recovered": 18958,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 22511,
+    "Recovered": 19463,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 22922,
+    "Recovered": 19918,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 23366,
+    "Recovered": 20340,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 23897,
+    "Recovered": 20620,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 24405,
+    "Recovered": 20988,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 25065,
+    "Recovered": 21389,
+    "Deceased": 228,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 25495,
+    "Recovered": 21853,
+    "Deceased": 232,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 26156,
+    "Recovered": 22335,
+    "Deceased": 235,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 26928,
+    "Recovered": 22887,
+    "Deceased": 240,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 27740,
+    "Recovered": 23484,
+    "Deceased": 246,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 28573,
+    "Recovered": 24117,
+    "Deceased": 258,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 29395,
+    "Recovered": 24742,
+    "Deceased": 268,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 30276,
+    "Recovered": 25330,
+    "Deceased": 279,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 31153,
+    "Recovered": 25985,
+    "Deceased": 286,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 31973,
+    "Recovered": 26240,
+    "Deceased": 298,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 32932,
+    "Recovered": 26827,
+    "Deceased": 308,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 34163,
+    "Recovered": 27519,
+    "Deceased": 316,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 35398,
+    "Recovered": 28341,
+    "Deceased": 327,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 36975,
+    "Recovered": 29156,
+    "Deceased": 337,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 38525,
+    "Recovered": 30016,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 39803,
+    "Recovered": 30893,
+    "Deceased": 368,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 41272,
+    "Recovered": 31289,
+    "Deceased": 381,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 42651,
+    "Recovered": 31790,
+    "Deceased": 394,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 43993,
+    "Recovered": 32723,
+    "Deceased": 409,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 45353,
+    "Recovered": 33955,
+    "Deceased": 425,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 46762,
+    "Recovered": 35181,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 48041,
+    "Recovered": 36801,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 49158,
+    "Recovered": 38353,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 50937,
+    "Recovered": 39617,
+    "Deceased": 497,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 52563,
+    "Recovered": 41013,
+    "Deceased": 507,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 53854,
+    "Recovered": 42494,
+    "Deceased": 525,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 54946,
+    "Recovered": 43791,
+    "Deceased": 536,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 56090,
+    "Recovered": 44723,
+    "Deceased": 551,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 57215,
+    "Recovered": 45797,
+    "Deceased": 581,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 58208,
+    "Recovered": 46593,
+    "Deceased": 602,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 59073,
+    "Recovered": 47157,
+    "Deceased": 614,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 59869,
+    "Recovered": 47816,
+    "Deceased": 625,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 60558,
+    "Recovered": 48525,
+    "Deceased": 640,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 61209,
+    "Recovered": 49743,
+    "Deceased": 651,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 61799,
+    "Recovered": 50729,
+    "Deceased": 672,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 62347,
+    "Recovered": 52335,
+    "Deceased": 686,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 62822,
+    "Recovered": 53622,
+    "Deceased": 704,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 63338,
+    "Recovered": 54719,
+    "Deceased": 716,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 63784,
+    "Recovered": 55828,
+    "Deceased": 724,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 64220,
+    "Recovered": 56942,
+    "Deceased": 744,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 64640,
+    "Recovered": 57928,
+    "Deceased": 755,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 65052,
+    "Recovered": 58803,
+    "Deceased": 766,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 65429,
+    "Recovered": 59627,
+    "Deceased": 776,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 65783,
+    "Recovered": 60310,
+    "Deceased": 790,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 66102,
+    "Recovered": 60959,
+    "Deceased": 795,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 66374,
+    "Recovered": 62092,
+    "Deceased": 811,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 66644,
+    "Recovered": 62581,
+    "Deceased": 824,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 66876,
+    "Recovered": 63091,
+    "Deceased": 833,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 67139,
+    "Recovered": 64007,
+    "Deceased": 846,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 67390,
+    "Recovered": 64891,
+    "Deceased": 858,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 67617,
+    "Recovered": 65362,
+    "Deceased": 862,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 67855,
+    "Recovered": 65753,
+    "Deceased": 868,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 68082,
+    "Recovered": 66058,
+    "Deceased": 876,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 68302,
+    "Recovered": 66316,
+    "Deceased": 882,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 68495,
+    "Recovered": 66554,
+    "Deceased": 889,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 68686,
+    "Recovered": 66782,
+    "Deceased": 896,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 68871,
+    "Recovered": 66961,
+    "Deceased": 900,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 69039,
+    "Recovered": 67104,
+    "Deceased": 902,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 69244,
+    "Recovered": 67225,
+    "Deceased": 910,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 69473,
+    "Recovered": 67362,
+    "Deceased": 914,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 69661,
+    "Recovered": 67478,
+    "Deceased": 914,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 69830,
+    "Recovered": 67575,
+    "Deceased": 918,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 69998,
+    "Recovered": 67685,
+    "Deceased": 924,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 70149,
+    "Recovered": 67781,
+    "Deceased": 927,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 70300,
+    "Recovered": 67883,
+    "Deceased": 931,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 70442,
+    "Recovered": 67988,
+    "Deceased": 934,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 70575,
+    "Recovered": 68096,
+    "Deceased": 935,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 70702,
+    "Recovered": 68222,
+    "Deceased": 936,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 70822,
+    "Recovered": 68356,
+    "Deceased": 936,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 70927,
+    "Recovered": 68500,
+    "Deceased": 936,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71033,
+    "Recovered": 68641,
+    "Deceased": 938,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71129,
+    "Recovered": 68787,
+    "Deceased": 939,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71215,
+    "Recovered": 68924,
+    "Deceased": 942,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71303,
+    "Recovered": 69066,
+    "Deceased": 944,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71389,
+    "Recovered": 69199,
+    "Deceased": 944,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71465,
+    "Recovered": 69318,
+    "Deceased": 948,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71542,
+    "Recovered": 69424,
+    "Deceased": 948,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71614,
+    "Recovered": 69522,
+    "Deceased": 949,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71676,
+    "Recovered": 69615,
+    "Deceased": 951,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71749,
+    "Recovered": 69713,
+    "Deceased": 954,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71818,
+    "Recovered": 69817,
+    "Deceased": 956,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71886,
+    "Recovered": 69930,
+    "Deceased": 956,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 71952,
+    "Recovered": 70036,
+    "Deceased": 956,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72014,
+    "Recovered": 70134,
+    "Deceased": 956,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72078,
+    "Recovered": 70221,
+    "Deceased": 957,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72139,
+    "Recovered": 70313,
+    "Deceased": 958,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72190,
+    "Recovered": 70408,
+    "Deceased": 960,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72262,
+    "Recovered": 70500,
+    "Deceased": 962,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72344,
+    "Recovered": 70597,
+    "Deceased": 962,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72422,
+    "Recovered": 70707,
+    "Deceased": 964,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72491,
+    "Recovered": 70811,
+    "Deceased": 966,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72567,
+    "Recovered": 70899,
+    "Deceased": 968,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72635,
+    "Recovered": 70975,
+    "Deceased": 968,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72717,
+    "Recovered": 71038,
+    "Deceased": 968,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72795,
+    "Recovered": 71095,
+    "Deceased": 968,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72862,
+    "Recovered": 71157,
+    "Deceased": 970,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72926,
+    "Recovered": 71217,
+    "Deceased": 972,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 72996,
+    "Recovered": 71273,
+    "Deceased": 974,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73065,
+    "Recovered": 71338,
+    "Deceased": 974,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73135,
+    "Recovered": 71407,
+    "Deceased": 976,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73209,
+    "Recovered": 71481,
+    "Deceased": 979,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73281,
+    "Recovered": 71546,
+    "Deceased": 980,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73358,
+    "Recovered": 71615,
+    "Deceased": 982,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73428,
+    "Recovered": 71686,
+    "Deceased": 983,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73489,
+    "Recovered": 71764,
+    "Deceased": 985,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73550,
+    "Recovered": 71837,
+    "Deceased": 987,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73607,
+    "Recovered": 71916,
+    "Deceased": 989,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73666,
+    "Recovered": 71983,
+    "Deceased": 991,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73722,
+    "Recovered": 72045,
+    "Deceased": 994,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73779,
+    "Recovered": 72112,
+    "Deceased": 997,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73833,
+    "Recovered": 72177,
+    "Deceased": 998,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73884,
+    "Recovered": 72245,
+    "Deceased": 999,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73925,
+    "Recovered": 72309,
+    "Deceased": 1000,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 73972,
+    "Recovered": 72367,
+    "Deceased": 1000,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74019,
+    "Recovered": 72419,
+    "Deceased": 1003,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74063,
+    "Recovered": 72473,
+    "Deceased": 1003,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74108,
+    "Recovered": 72533,
+    "Deceased": 1003,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74165,
+    "Recovered": 72596,
+    "Deceased": 1003,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74222,
+    "Recovered": 72663,
+    "Deceased": 1005,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74288,
+    "Recovered": 72728,
+    "Deceased": 1006,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74354,
+    "Recovered": 72797,
+    "Deceased": 1007,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74431,
+    "Recovered": 72870,
+    "Deceased": 1009,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74490,
+    "Recovered": 72936,
+    "Deceased": 1009,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74552,
+    "Recovered": 72998,
+    "Deceased": 1009,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74599,
+    "Recovered": 73045,
+    "Deceased": 1012,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74657,
+    "Recovered": 73084,
+    "Deceased": 1013,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74717,
+    "Recovered": 73115,
+    "Deceased": 1013,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74763,
+    "Recovered": 73138,
+    "Deceased": 1014,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74814,
+    "Recovered": 73165,
+    "Deceased": 1014,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74865,
+    "Recovered": 73199,
+    "Deceased": 1015,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74917,
+    "Recovered": 73251,
+    "Deceased": 1016,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 74965,
+    "Recovered": 73325,
+    "Deceased": 1018,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75012,
+    "Recovered": 73411,
+    "Deceased": 1020,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75058,
+    "Recovered": 73479,
+    "Deceased": 1020,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75101,
+    "Recovered": 73550,
+    "Deceased": 1020,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75148,
+    "Recovered": 73609,
+    "Deceased": 1021,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75202,
+    "Recovered": 73671,
+    "Deceased": 1021,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75254,
+    "Recovered": 73740,
+    "Deceased": 1022,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75303,
+    "Recovered": 73796,
+    "Deceased": 1022,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75354,
+    "Recovered": 73850,
+    "Deceased": 1022,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75404,
+    "Recovered": 73902,
+    "Deceased": 1022,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75472,
+    "Recovered": 73946,
+    "Deceased": 1022,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75535,
+    "Recovered": 73994,
+    "Deceased": 1023,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75618,
+    "Recovered": 74047,
+    "Deceased": 1023,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75689,
+    "Recovered": 74098,
+    "Deceased": 1026,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75754,
+    "Recovered": 74152,
+    "Deceased": 1026,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75816,
+    "Recovered": 74203,
+    "Deceased": 1026,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75878,
+    "Recovered": 74251,
+    "Deceased": 1026,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75931,
+    "Recovered": 74297,
+    "Deceased": 1027,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 75990,
+    "Recovered": 74340,
+    "Deceased": 1029,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76047,
+    "Recovered": 74378,
+    "Deceased": 1031,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76106,
+    "Recovered": 74420,
+    "Deceased": 1032,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76163,
+    "Recovered": 74468,
+    "Deceased": 1032,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76218,
+    "Recovered": 74527,
+    "Deceased": 1032,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76267,
+    "Recovered": 74590,
+    "Deceased": 1032,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76319,
+    "Recovered": 74664,
+    "Deceased": 1033,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76371,
+    "Recovered": 74742,
+    "Deceased": 1034,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76424,
+    "Recovered": 74813,
+    "Deceased": 1034,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76477,
+    "Recovered": 74880,
+    "Deceased": 1034,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76529,
+    "Recovered": 74949,
+    "Deceased": 1035,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76582,
+    "Recovered": 75006,
+    "Deceased": 1035,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76633,
+    "Recovered": 75052,
+    "Deceased": 1036,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76681,
+    "Recovered": 75101,
+    "Deceased": 1037,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76727,
+    "Recovered": 75153,
+    "Deceased": 1037,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76770,
+    "Recovered": 75207,
+    "Deceased": 1038,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76819,
+    "Recovered": 75258,
+    "Deceased": 1040,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76868,
+    "Recovered": 75306,
+    "Deceased": 1042,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76913,
+    "Recovered": 75355,
+    "Deceased": 1044,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 76960,
+    "Recovered": 75407,
+    "Deceased": 1047,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77005,
+    "Recovered": 75461,
+    "Deceased": 1049,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77050,
+    "Recovered": 75517,
+    "Deceased": 1051,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77097,
+    "Recovered": 75569,
+    "Deceased": 1053,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77142,
+    "Recovered": 75617,
+    "Deceased": 1054,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77187,
+    "Recovered": 75659,
+    "Deceased": 1054,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77232,
+    "Recovered": 75704,
+    "Deceased": 1054,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77282,
+    "Recovered": 75745,
+    "Deceased": 1055,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77329,
+    "Recovered": 75793,
+    "Deceased": 1055,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77376,
+    "Recovered": 75843,
+    "Deceased": 1055,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77418,
+    "Recovered": 75897,
+    "Deceased": 1057,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77457,
+    "Recovered": 75944,
+    "Deceased": 1057,
+    "Other": 0,
+    "Tested": 92586
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Tiruchirappalli",
+    "cases": 77497,
+    "Recovered": 75989,
+    "Deceased": 1059,
+    "Other": 0,
+    "Tested": 92586
+  }
+]
