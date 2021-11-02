@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 54,
+    "Recovered": 23,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 54,
+    "Recovered": 23,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 54,
+    "Recovered": 24,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 54,
+    "Recovered": 33,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 54,
+    "Recovered": 35,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 56,
+    "Recovered": 35,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 56,
+    "Recovered": 38,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 56,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 57,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 57,
+    "Recovered": 43,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 58,
+    "Recovered": 43,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 60,
+    "Recovered": 43,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 60,
+    "Recovered": 44,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 61,
+    "Recovered": 45,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 61,
+    "Recovered": 47,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 64,
+    "Recovered": 47,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 64,
+    "Recovered": 47,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 65,
+    "Recovered": 47,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70,
+    "Recovered": 47,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71,
+    "Recovered": 53,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72,
+    "Recovered": 54,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72,
+    "Recovered": 62,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72,
+    "Recovered": 62,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 75,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 76,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 80,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 80,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 80,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 83,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 84,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 84,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 85,
+    "Recovered": 69,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 86,
+    "Recovered": 71,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 86,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 88,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 89,
+    "Recovered": 77,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 93,
+    "Recovered": 77,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 96,
+    "Recovered": 79,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 102,
+    "Recovered": 80,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 103,
+    "Recovered": 83,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 104,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 106,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 113,
+    "Recovered": 88,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 117,
+    "Recovered": 89,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 125,
+    "Recovered": 89,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 127,
+    "Recovered": 90,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 133,
+    "Recovered": 89,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 140,
+    "Recovered": 91,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 150,
+    "Recovered": 96,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 155,
+    "Recovered": 101,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 167,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 171,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 183,
+    "Recovered": 111,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 204,
+    "Recovered": 117,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 17820
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 213,
+    "Recovered": 118,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 23680
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 223,
+    "Recovered": 124,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 272,
+    "Recovered": 128,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 308,
+    "Recovered": 130,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 319,
+    "Recovered": 134,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 335,
+    "Recovered": 150,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 357,
+    "Recovered": 153,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 382,
+    "Recovered": 156,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 396,
+    "Recovered": 169,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 420,
+    "Recovered": 176,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 424,
+    "Recovered": 193,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 448,
+    "Recovered": 206,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 455,
+    "Recovered": 227,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 465,
+    "Recovered": 274,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 478,
+    "Recovered": 293,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 481,
+    "Recovered": 310,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 496,
+    "Recovered": 310,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 499,
+    "Recovered": 325,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 533,
+    "Recovered": 359,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 544,
+    "Recovered": 371,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 576,
+    "Recovered": 384,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 625,
+    "Recovered": 395,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 652,
+    "Recovered": 409,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 687,
+    "Recovered": 415,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 709,
+    "Recovered": 421,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 738,
+    "Recovered": 422,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 809,
+    "Recovered": 439,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 835,
+    "Recovered": 469,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 952,
+    "Recovered": 486,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 1131,
+    "Recovered": 508,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 1161,
+    "Recovered": 529,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 1245,
+    "Recovered": 564,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 1316,
+    "Recovered": 589,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 1422,
+    "Recovered": 642,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 24097
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 1542,
+    "Recovered": 686,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 1730,
+    "Recovered": 936,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 1892,
+    "Recovered": 943,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 2045,
+    "Recovered": 1064,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 2160,
+    "Recovered": 1175,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 2366,
+    "Recovered": 1346,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 2554,
+    "Recovered": 1460,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 2651,
+    "Recovered": 1534,
+    "Deceased": 26,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 2748,
+    "Recovered": 1606,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 2915,
+    "Recovered": 1894,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 3008,
+    "Recovered": 2006,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 3154,
+    "Recovered": 2147,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 3243,
+    "Recovered": 2347,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 3322,
+    "Recovered": 2476,
+    "Deceased": 34,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 3484,
+    "Recovered": 2567,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 3701,
+    "Recovered": 2634,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 3934,
+    "Recovered": 2715,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 4089,
+    "Recovered": 2756,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 4215,
+    "Recovered": 2889,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 4346,
+    "Recovered": 2974,
+    "Deceased": 55,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 4406,
+    "Recovered": 3169,
+    "Deceased": 55,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 4561,
+    "Recovered": 3356,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 4652,
+    "Recovered": 3498,
+    "Deceased": 61,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 4764,
+    "Recovered": 3614,
+    "Deceased": 68,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 4888,
+    "Recovered": 3808,
+    "Deceased": 73,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5000,
+    "Recovered": 3999,
+    "Deceased": 75,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5130,
+    "Recovered": 4082,
+    "Deceased": 80,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5245,
+    "Recovered": 4338,
+    "Deceased": 82,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5358,
+    "Recovered": 4415,
+    "Deceased": 84,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5457,
+    "Recovered": 4491,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5566,
+    "Recovered": 4573,
+    "Deceased": 88,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5682,
+    "Recovered": 4755,
+    "Deceased": 91,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5796,
+    "Recovered": 4821,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5871,
+    "Recovered": 4973,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 5986,
+    "Recovered": 5085,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 6108,
+    "Recovered": 5209,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 6238,
+    "Recovered": 5347,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 6373,
+    "Recovered": 5450,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 6494,
+    "Recovered": 5543,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 6610,
+    "Recovered": 5636,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 6737,
+    "Recovered": 5762,
+    "Deceased": 117,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 6886,
+    "Recovered": 5785,
+    "Deceased": 117,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 7026,
+    "Recovered": 5918,
+    "Deceased": 119,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 7191,
+    "Recovered": 6090,
+    "Deceased": 119,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 7305,
+    "Recovered": 6181,
+    "Deceased": 120,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 7450,
+    "Recovered": 6356,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 7572,
+    "Recovered": 6368,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 7691,
+    "Recovered": 6554,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 7822,
+    "Recovered": 6777,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 7906,
+    "Recovered": 6974,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 8051,
+    "Recovered": 7145,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 8192,
+    "Recovered": 7249,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 8340,
+    "Recovered": 7335,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 8466,
+    "Recovered": 7446,
+    "Deceased": 130,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 8626,
+    "Recovered": 7497,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 8751,
+    "Recovered": 7652,
+    "Deceased": 135,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 8899,
+    "Recovered": 7742,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 9063,
+    "Recovered": 7892,
+    "Deceased": 140,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 9205,
+    "Recovered": 7990,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 9371,
+    "Recovered": 8089,
+    "Deceased": 144,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 9495,
+    "Recovered": 8204,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 9650,
+    "Recovered": 8281,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 9836,
+    "Recovered": 8419,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 10026,
+    "Recovered": 8523,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 10181,
+    "Recovered": 8692,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 10369,
+    "Recovered": 8966,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 10551,
+    "Recovered": 9162,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 10733,
+    "Recovered": 9392,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 10922,
+    "Recovered": 9466,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 11194,
+    "Recovered": 9503,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 11427,
+    "Recovered": 9538,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 11650,
+    "Recovered": 9721,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 11900,
+    "Recovered": 10056,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 12143,
+    "Recovered": 10367,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 12394,
+    "Recovered": 10766,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 12616,
+    "Recovered": 11110,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 12863,
+    "Recovered": 11405,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 13108,
+    "Recovered": 11670,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 13348,
+    "Recovered": 11931,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 13541,
+    "Recovered": 12285,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 13719,
+    "Recovered": 12571,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 13864,
+    "Recovered": 12888,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 13984,
+    "Recovered": 13052,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14084,
+    "Recovered": 13233,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14184,
+    "Recovered": 13310,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14287,
+    "Recovered": 13409,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14389,
+    "Recovered": 13540,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14479,
+    "Recovered": 13698,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14560,
+    "Recovered": 13817,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14649,
+    "Recovered": 13925,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14715,
+    "Recovered": 14042,
+    "Deceased": 213,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14790,
+    "Recovered": 14136,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14865,
+    "Recovered": 14217,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14928,
+    "Recovered": 14310,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 14991,
+    "Recovered": 14400,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15056,
+    "Recovered": 14472,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15120,
+    "Recovered": 14573,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15172,
+    "Recovered": 14645,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15262,
+    "Recovered": 14711,
+    "Deceased": 217,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15311,
+    "Recovered": 14806,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15343,
+    "Recovered": 14863,
+    "Deceased": 220,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15392,
+    "Recovered": 14899,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15442,
+    "Recovered": 14965,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15489,
+    "Recovered": 14996,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15544,
+    "Recovered": 15043,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15589,
+    "Recovered": 15107,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15639,
+    "Recovered": 15146,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15685,
+    "Recovered": 15194,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15729,
+    "Recovered": 15249,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15771,
+    "Recovered": 15306,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15836,
+    "Recovered": 15348,
+    "Deceased": 223,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15872,
+    "Recovered": 15384,
+    "Deceased": 223,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15910,
+    "Recovered": 15411,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15941,
+    "Recovered": 15459,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 15985,
+    "Recovered": 15502,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16023,
+    "Recovered": 15536,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16056,
+    "Recovered": 15576,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16085,
+    "Recovered": 15616,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16109,
+    "Recovered": 15663,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16130,
+    "Recovered": 15709,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16154,
+    "Recovered": 15735,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16181,
+    "Recovered": 15774,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16208,
+    "Recovered": 15810,
+    "Deceased": 226,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16224,
+    "Recovered": 15837,
+    "Deceased": 227,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16256,
+    "Recovered": 15857,
+    "Deceased": 227,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16272,
+    "Recovered": 15893,
+    "Deceased": 228,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16295,
+    "Recovered": 15929,
+    "Deceased": 228,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16320,
+    "Recovered": 15952,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16353,
+    "Recovered": 15968,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16385,
+    "Recovered": 15997,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16419,
+    "Recovered": 16018,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16459,
+    "Recovered": 16041,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16488,
+    "Recovered": 16057,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16520,
+    "Recovered": 16078,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16545,
+    "Recovered": 16107,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16567,
+    "Recovered": 16131,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16579,
+    "Recovered": 16157,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16614,
+    "Recovered": 16182,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16638,
+    "Recovered": 16211,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16659,
+    "Recovered": 16254,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16673,
+    "Recovered": 16293,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16699,
+    "Recovered": 16336,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16706,
+    "Recovered": 16347,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16723,
+    "Recovered": 16359,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16746,
+    "Recovered": 16369,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16770,
+    "Recovered": 16382,
+    "Deceased": 230,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16787,
+    "Recovered": 16428,
+    "Deceased": 230,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16815,
+    "Recovered": 16457,
+    "Deceased": 230,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16839,
+    "Recovered": 16478,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16870,
+    "Recovered": 16489,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16891,
+    "Recovered": 16505,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16917,
+    "Recovered": 16516,
+    "Deceased": 232,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16932,
+    "Recovered": 16526,
+    "Deceased": 232,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16943,
+    "Recovered": 16534,
+    "Deceased": 232,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 16970,
+    "Recovered": 16551,
+    "Deceased": 232,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17002,
+    "Recovered": 16581,
+    "Deceased": 233,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17032,
+    "Recovered": 16616,
+    "Deceased": 233,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17059,
+    "Recovered": 16650,
+    "Deceased": 234,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17084,
+    "Recovered": 16660,
+    "Deceased": 234,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17116,
+    "Recovered": 16676,
+    "Deceased": 236,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17141,
+    "Recovered": 16690,
+    "Deceased": 236,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17178,
+    "Recovered": 16703,
+    "Deceased": 237,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17201,
+    "Recovered": 16727,
+    "Deceased": 238,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17236,
+    "Recovered": 16754,
+    "Deceased": 238,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17259,
+    "Recovered": 16776,
+    "Deceased": 238,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17279,
+    "Recovered": 16804,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17287,
+    "Recovered": 16840,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17300,
+    "Recovered": 16872,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17322,
+    "Recovered": 16897,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17332,
+    "Recovered": 16935,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17355,
+    "Recovered": 16963,
+    "Deceased": 240,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17371,
+    "Recovered": 16989,
+    "Deceased": 242,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17393,
+    "Recovered": 17010,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17416,
+    "Recovered": 17028,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17440,
+    "Recovered": 17042,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17460,
+    "Recovered": 17054,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17487,
+    "Recovered": 17072,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17505,
+    "Recovered": 17091,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17527,
+    "Recovered": 17112,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17547,
+    "Recovered": 17131,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17561,
+    "Recovered": 17146,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17582,
+    "Recovered": 17168,
+    "Deceased": 243,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17588,
+    "Recovered": 17206,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17595,
+    "Recovered": 17230,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17604,
+    "Recovered": 17245,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17617,
+    "Recovered": 17263,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17624,
+    "Recovered": 17290,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17633,
+    "Recovered": 17313,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17636,
+    "Recovered": 17327,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17642,
+    "Recovered": 17340,
+    "Deceased": 245,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17649,
+    "Recovered": 17346,
+    "Deceased": 246,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17663,
+    "Recovered": 17354,
+    "Deceased": 246,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17674,
+    "Recovered": 17369,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17697,
+    "Recovered": 17376,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17715,
+    "Recovered": 17382,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17747,
+    "Recovered": 17389,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17752,
+    "Recovered": 17397,
+    "Deceased": 247,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17772,
+    "Recovered": 17402,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17776,
+    "Recovered": 17406,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17805,
+    "Recovered": 17412,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17818,
+    "Recovered": 17421,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17830,
+    "Recovered": 17433,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17840,
+    "Recovered": 17451,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17859,
+    "Recovered": 17473,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17876,
+    "Recovered": 17497,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17889,
+    "Recovered": 17519,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17900,
+    "Recovered": 17533,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17912,
+    "Recovered": 17553,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17923,
+    "Recovered": 17566,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17935,
+    "Recovered": 17577,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17942,
+    "Recovered": 17593,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17954,
+    "Recovered": 17604,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17969,
+    "Recovered": 17619,
+    "Deceased": 250,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 17987,
+    "Recovered": 17635,
+    "Deceased": 250,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18002,
+    "Recovered": 17656,
+    "Deceased": 250,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18017,
+    "Recovered": 17675,
+    "Deceased": 250,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18033,
+    "Recovered": 17691,
+    "Deceased": 252,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18047,
+    "Recovered": 17706,
+    "Deceased": 253,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18069,
+    "Recovered": 17718,
+    "Deceased": 255,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18098,
+    "Recovered": 17726,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18113,
+    "Recovered": 17736,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18126,
+    "Recovered": 17752,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18145,
+    "Recovered": 17761,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18162,
+    "Recovered": 17768,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18178,
+    "Recovered": 17781,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18192,
+    "Recovered": 17793,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18212,
+    "Recovered": 17816,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18216,
+    "Recovered": 17838,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18233,
+    "Recovered": 17857,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18253,
+    "Recovered": 17875,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18268,
+    "Recovered": 17890,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18304,
+    "Recovered": 17905,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18325,
+    "Recovered": 17920,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18345,
+    "Recovered": 17936,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18388,
+    "Recovered": 17955,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18445,
+    "Recovered": 17973,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18496,
+    "Recovered": 17989,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18506,
+    "Recovered": 18004,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18552,
+    "Recovered": 18016,
+    "Deceased": 259,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18617,
+    "Recovered": 18031,
+    "Deceased": 260,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18702,
+    "Recovered": 18048,
+    "Deceased": 261,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18776,
+    "Recovered": 18067,
+    "Deceased": 262,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18860,
+    "Recovered": 18093,
+    "Deceased": 263,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 18927,
+    "Recovered": 18162,
+    "Deceased": 263,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19000,
+    "Recovered": 18286,
+    "Deceased": 265,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19107,
+    "Recovered": 18376,
+    "Deceased": 266,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19219,
+    "Recovered": 18452,
+    "Deceased": 266,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19281,
+    "Recovered": 18519,
+    "Deceased": 266,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19388,
+    "Recovered": 18580,
+    "Deceased": 267,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19518,
+    "Recovered": 18684,
+    "Deceased": 267,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19636,
+    "Recovered": 18792,
+    "Deceased": 270,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19741,
+    "Recovered": 18889,
+    "Deceased": 271,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19856,
+    "Recovered": 19015,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 19976,
+    "Recovered": 19065,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 20114,
+    "Recovered": 19128,
+    "Deceased": 273,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 20244,
+    "Recovered": 19170,
+    "Deceased": 273,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 20373,
+    "Recovered": 19280,
+    "Deceased": 273,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 20494,
+    "Recovered": 19395,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 20597,
+    "Recovered": 19498,
+    "Deceased": 276,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 20723,
+    "Recovered": 19612,
+    "Deceased": 279,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 20867,
+    "Recovered": 19712,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 20981,
+    "Recovered": 19790,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 21158,
+    "Recovered": 19848,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 21285,
+    "Recovered": 19912,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 21499,
+    "Recovered": 20100,
+    "Deceased": 282,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 21659,
+    "Recovered": 20228,
+    "Deceased": 282,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 21817,
+    "Recovered": 20337,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 21971,
+    "Recovered": 20606,
+    "Deceased": 281,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 22092,
+    "Recovered": 20794,
+    "Deceased": 282,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 22261,
+    "Recovered": 21022,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 22480,
+    "Recovered": 21232,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 22668,
+    "Recovered": 21392,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 22839,
+    "Recovered": 21494,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 23121,
+    "Recovered": 21561,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 23455,
+    "Recovered": 21643,
+    "Deceased": 290,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 23765,
+    "Recovered": 21713,
+    "Deceased": 290,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 24068,
+    "Recovered": 21832,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 24368,
+    "Recovered": 22004,
+    "Deceased": 296,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 24578,
+    "Recovered": 22217,
+    "Deceased": 298,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 24864,
+    "Recovered": 22478,
+    "Deceased": 299,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 25185,
+    "Recovered": 22762,
+    "Deceased": 302,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 25536,
+    "Recovered": 23063,
+    "Deceased": 305,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 26022,
+    "Recovered": 23394,
+    "Deceased": 306,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 26285,
+    "Recovered": 23757,
+    "Deceased": 307,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 26609,
+    "Recovered": 24109,
+    "Deceased": 309,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 27059,
+    "Recovered": 24424,
+    "Deceased": 312,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 27393,
+    "Recovered": 24759,
+    "Deceased": 317,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 27556,
+    "Recovered": 25117,
+    "Deceased": 323,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 27890,
+    "Recovered": 25521,
+    "Deceased": 325,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 28750,
+    "Recovered": 25944,
+    "Deceased": 332,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 29652,
+    "Recovered": 26372,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 30490,
+    "Recovered": 26805,
+    "Deceased": 345,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 30943,
+    "Recovered": 27139,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 31599,
+    "Recovered": 27299,
+    "Deceased": 361,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 32284,
+    "Recovered": 27461,
+    "Deceased": 369,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 32903,
+    "Recovered": 27637,
+    "Deceased": 375,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 33571,
+    "Recovered": 28500,
+    "Deceased": 386,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 34221,
+    "Recovered": 29403,
+    "Deceased": 392,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 35241,
+    "Recovered": 30233,
+    "Deceased": 402,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 35733,
+    "Recovered": 30688,
+    "Deceased": 411,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 36553,
+    "Recovered": 31337,
+    "Deceased": 416,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 37231,
+    "Recovered": 32026,
+    "Deceased": 424,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 38057,
+    "Recovered": 32225,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 38944,
+    "Recovered": 32748,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 40123,
+    "Recovered": 33311,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 41043,
+    "Recovered": 33962,
+    "Deceased": 461,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 42151,
+    "Recovered": 34995,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 43154,
+    "Recovered": 35475,
+    "Deceased": 480,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 44093,
+    "Recovered": 36131,
+    "Deceased": 493,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 44934,
+    "Recovered": 36840,
+    "Deceased": 502,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 45737,
+    "Recovered": 37600,
+    "Deceased": 506,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 46524,
+    "Recovered": 38684,
+    "Deceased": 510,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 47305,
+    "Recovered": 39771,
+    "Deceased": 512,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 48202,
+    "Recovered": 40785,
+    "Deceased": 521,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 49125,
+    "Recovered": 41709,
+    "Deceased": 534,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 50150,
+    "Recovered": 42767,
+    "Deceased": 544,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 51154,
+    "Recovered": 43842,
+    "Deceased": 546,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 52083,
+    "Recovered": 44678,
+    "Deceased": 551,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 52963,
+    "Recovered": 45484,
+    "Deceased": 561,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 53803,
+    "Recovered": 46271,
+    "Deceased": 570,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 54580,
+    "Recovered": 47054,
+    "Deceased": 583,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 55268,
+    "Recovered": 47868,
+    "Deceased": 590,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 55926,
+    "Recovered": 48877,
+    "Deceased": 606,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 56588,
+    "Recovered": 49905,
+    "Deceased": 614,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 57220,
+    "Recovered": 50526,
+    "Deceased": 618,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 57834,
+    "Recovered": 51837,
+    "Deceased": 622,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 58422,
+    "Recovered": 52718,
+    "Deceased": 625,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 58964,
+    "Recovered": 53552,
+    "Deceased": 645,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 59370,
+    "Recovered": 54121,
+    "Deceased": 653,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 59683,
+    "Recovered": 55080,
+    "Deceased": 660,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 60045,
+    "Recovered": 55735,
+    "Deceased": 662,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 60411,
+    "Recovered": 56385,
+    "Deceased": 669,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 60777,
+    "Recovered": 57019,
+    "Deceased": 677,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 61165,
+    "Recovered": 57589,
+    "Deceased": 685,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 61527,
+    "Recovered": 58140,
+    "Deceased": 689,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 61859,
+    "Recovered": 58636,
+    "Deceased": 692,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 62166,
+    "Recovered": 59067,
+    "Deceased": 694,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 62443,
+    "Recovered": 59443,
+    "Deceased": 698,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 62704,
+    "Recovered": 59799,
+    "Deceased": 701,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 62948,
+    "Recovered": 60120,
+    "Deceased": 701,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 63166,
+    "Recovered": 60416,
+    "Deceased": 705,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 63378,
+    "Recovered": 60681,
+    "Deceased": 705,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 63575,
+    "Recovered": 60906,
+    "Deceased": 708,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 63812,
+    "Recovered": 61091,
+    "Deceased": 731,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 64025,
+    "Recovered": 61289,
+    "Deceased": 761,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 64253,
+    "Recovered": 61478,
+    "Deceased": 787,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 64471,
+    "Recovered": 61698,
+    "Deceased": 795,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 64672,
+    "Recovered": 61937,
+    "Deceased": 799,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 64808,
+    "Recovered": 62162,
+    "Deceased": 800,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 64978,
+    "Recovered": 62379,
+    "Deceased": 803,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 65121,
+    "Recovered": 62575,
+    "Deceased": 804,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 65197,
+    "Recovered": 62749,
+    "Deceased": 808,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 65365,
+    "Recovered": 62897,
+    "Deceased": 810,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 65564,
+    "Recovered": 63013,
+    "Deceased": 812,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 65747,
+    "Recovered": 63108,
+    "Deceased": 816,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 65929,
+    "Recovered": 63205,
+    "Deceased": 818,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 66102,
+    "Recovered": 63311,
+    "Deceased": 823,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 66267,
+    "Recovered": 63432,
+    "Deceased": 825,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 66398,
+    "Recovered": 63566,
+    "Deceased": 826,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 66547,
+    "Recovered": 63805,
+    "Deceased": 829,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 66613,
+    "Recovered": 64018,
+    "Deceased": 830,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 66714,
+    "Recovered": 64196,
+    "Deceased": 834,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 66814,
+    "Recovered": 64348,
+    "Deceased": 834,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 66901,
+    "Recovered": 64485,
+    "Deceased": 834,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 66995,
+    "Recovered": 64619,
+    "Deceased": 837,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67091,
+    "Recovered": 64760,
+    "Deceased": 838,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67180,
+    "Recovered": 64908,
+    "Deceased": 839,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67277,
+    "Recovered": 65039,
+    "Deceased": 840,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67381,
+    "Recovered": 65166,
+    "Deceased": 844,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67475,
+    "Recovered": 65305,
+    "Deceased": 845,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67538,
+    "Recovered": 65452,
+    "Deceased": 846,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67639,
+    "Recovered": 65589,
+    "Deceased": 846,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67742,
+    "Recovered": 65733,
+    "Deceased": 847,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67863,
+    "Recovered": 65885,
+    "Deceased": 847,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 67981,
+    "Recovered": 66048,
+    "Deceased": 848,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68102,
+    "Recovered": 66190,
+    "Deceased": 848,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68218,
+    "Recovered": 66319,
+    "Deceased": 849,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68320,
+    "Recovered": 66437,
+    "Deceased": 851,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68434,
+    "Recovered": 66541,
+    "Deceased": 854,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68527,
+    "Recovered": 66651,
+    "Deceased": 855,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68626,
+    "Recovered": 66748,
+    "Deceased": 855,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68712,
+    "Recovered": 66849,
+    "Deceased": 856,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68802,
+    "Recovered": 66946,
+    "Deceased": 861,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68895,
+    "Recovered": 67031,
+    "Deceased": 862,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 68972,
+    "Recovered": 67113,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 69072,
+    "Recovered": 67177,
+    "Deceased": 864,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 69189,
+    "Recovered": 67255,
+    "Deceased": 867,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 69299,
+    "Recovered": 67352,
+    "Deceased": 869,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 69405,
+    "Recovered": 67446,
+    "Deceased": 870,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 69528,
+    "Recovered": 67548,
+    "Deceased": 872,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 69643,
+    "Recovered": 67666,
+    "Deceased": 873,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 69749,
+    "Recovered": 67772,
+    "Deceased": 873,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 69845,
+    "Recovered": 67870,
+    "Deceased": 873,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 69937,
+    "Recovered": 67966,
+    "Deceased": 873,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70027,
+    "Recovered": 68054,
+    "Deceased": 874,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70135,
+    "Recovered": 68137,
+    "Deceased": 876,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70238,
+    "Recovered": 68237,
+    "Deceased": 880,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70328,
+    "Recovered": 68332,
+    "Deceased": 881,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70412,
+    "Recovered": 68429,
+    "Deceased": 881,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70473,
+    "Recovered": 68533,
+    "Deceased": 884,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70532,
+    "Recovered": 68631,
+    "Deceased": 884,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70607,
+    "Recovered": 68718,
+    "Deceased": 884,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70686,
+    "Recovered": 68812,
+    "Deceased": 885,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70767,
+    "Recovered": 68919,
+    "Deceased": 886,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70864,
+    "Recovered": 69031,
+    "Deceased": 889,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 70927,
+    "Recovered": 69150,
+    "Deceased": 890,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71037,
+    "Recovered": 69262,
+    "Deceased": 890,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71134,
+    "Recovered": 69391,
+    "Deceased": 891,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71226,
+    "Recovered": 69505,
+    "Deceased": 891,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71290,
+    "Recovered": 69607,
+    "Deceased": 893,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71387,
+    "Recovered": 69698,
+    "Deceased": 895,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71434,
+    "Recovered": 69776,
+    "Deceased": 895,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71512,
+    "Recovered": 69834,
+    "Deceased": 896,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71601,
+    "Recovered": 69886,
+    "Deceased": 898,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71670,
+    "Recovered": 69934,
+    "Deceased": 898,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71783,
+    "Recovered": 69978,
+    "Deceased": 898,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71896,
+    "Recovered": 70047,
+    "Deceased": 899,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 71999,
+    "Recovered": 70121,
+    "Deceased": 903,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72118,
+    "Recovered": 70202,
+    "Deceased": 906,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72183,
+    "Recovered": 70294,
+    "Deceased": 906,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72288,
+    "Recovered": 70377,
+    "Deceased": 906,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72401,
+    "Recovered": 70466,
+    "Deceased": 907,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72494,
+    "Recovered": 70558,
+    "Deceased": 911,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72584,
+    "Recovered": 70648,
+    "Deceased": 914,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72667,
+    "Recovered": 70735,
+    "Deceased": 919,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72741,
+    "Recovered": 70811,
+    "Deceased": 920,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72801,
+    "Recovered": 70893,
+    "Deceased": 923,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72890,
+    "Recovered": 70971,
+    "Deceased": 926,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 72948,
+    "Recovered": 71060,
+    "Deceased": 927,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73013,
+    "Recovered": 71164,
+    "Deceased": 928,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73090,
+    "Recovered": 71273,
+    "Deceased": 931,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73178,
+    "Recovered": 71371,
+    "Deceased": 933,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73266,
+    "Recovered": 71486,
+    "Deceased": 934,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73346,
+    "Recovered": 71595,
+    "Deceased": 934,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73441,
+    "Recovered": 71707,
+    "Deceased": 936,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73541,
+    "Recovered": 71812,
+    "Deceased": 938,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73640,
+    "Recovered": 71906,
+    "Deceased": 939,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73727,
+    "Recovered": 71993,
+    "Deceased": 940,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73815,
+    "Recovered": 72067,
+    "Deceased": 943,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73895,
+    "Recovered": 72132,
+    "Deceased": 946,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 73973,
+    "Recovered": 72184,
+    "Deceased": 947,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74051,
+    "Recovered": 72232,
+    "Deceased": 948,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74121,
+    "Recovered": 72278,
+    "Deceased": 950,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74195,
+    "Recovered": 72317,
+    "Deceased": 951,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74256,
+    "Recovered": 72365,
+    "Deceased": 953,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74310,
+    "Recovered": 72418,
+    "Deceased": 953,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74368,
+    "Recovered": 72484,
+    "Deceased": 954,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74422,
+    "Recovered": 72548,
+    "Deceased": 955,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74485,
+    "Recovered": 72607,
+    "Deceased": 955,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74542,
+    "Recovered": 72685,
+    "Deceased": 955,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74614,
+    "Recovered": 72783,
+    "Deceased": 956,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74682,
+    "Recovered": 72886,
+    "Deceased": 956,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74722,
+    "Recovered": 72978,
+    "Deceased": 958,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74782,
+    "Recovered": 73065,
+    "Deceased": 958,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74826,
+    "Recovered": 73159,
+    "Deceased": 959,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74884,
+    "Recovered": 73246,
+    "Deceased": 961,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74935,
+    "Recovered": 73318,
+    "Deceased": 963,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 74988,
+    "Recovered": 73383,
+    "Deceased": 964,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 75042,
+    "Recovered": 73446,
+    "Deceased": 966,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 75091,
+    "Recovered": 73508,
+    "Deceased": 967,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 75140,
+    "Recovered": 73575,
+    "Deceased": 970,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 75187,
+    "Recovered": 73640,
+    "Deceased": 970,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 75231,
+    "Recovered": 73698,
+    "Deceased": 970,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 75273,
+    "Recovered": 73754,
+    "Deceased": 972,
+    "Other": 0,
+    "Tested": 67445
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Thanjavur",
+    "cases": 75315,
+    "Recovered": 73815,
+    "Deceased": 972,
+    "Other": 0,
+    "Tested": 67445
+  }
+]
