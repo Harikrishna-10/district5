@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 141,
+    "Recovered": 94,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 141,
+    "Recovered": 120,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 141,
+    "Recovered": 120,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 141,
+    "Recovered": 121,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 141,
+    "Recovered": 125,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 141,
+    "Recovered": 127,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 142,
+    "Recovered": 127,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 133,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 133,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 140,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 140,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 140,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 140,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 140,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 140,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 140,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 140,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 145,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 150,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 150,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 159,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 153,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 153,
+    "Recovered": 144,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 158,
+    "Recovered": 145,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 161,
+    "Recovered": 145,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 161,
+    "Recovered": 147,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 166,
+    "Recovered": 147,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 167,
+    "Recovered": 147,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 170,
+    "Recovered": 148,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 173,
+    "Recovered": 148,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 173,
+    "Recovered": 149,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 176,
+    "Recovered": 149,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 180,
+    "Recovered": 149,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 183,
+    "Recovered": 150,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 187,
+    "Recovered": 158,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 211,
+    "Recovered": 161,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 22872
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 244,
+    "Recovered": 161,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 32094
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 255,
+    "Recovered": 164,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 268,
+    "Recovered": 164,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 280,
+    "Recovered": 164,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 292,
+    "Recovered": 164,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 314,
+    "Recovered": 170,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 347,
+    "Recovered": 175,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 393,
+    "Recovered": 176,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 428,
+    "Recovered": 177,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 460,
+    "Recovered": 184,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 528,
+    "Recovered": 187,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 538,
+    "Recovered": 205,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 561,
+    "Recovered": 222,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 608,
+    "Recovered": 231,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 645,
+    "Recovered": 252,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 712,
+    "Recovered": 275,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 741,
+    "Recovered": 275,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 802,
+    "Recovered": 275,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 839,
+    "Recovered": 288,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 927,
+    "Recovered": 308,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1026,
+    "Recovered": 320,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1071,
+    "Recovered": 320,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1142,
+    "Recovered": 321,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1261,
+    "Recovered": 321,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1291,
+    "Recovered": 321,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1480,
+    "Recovered": 338,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1591,
+    "Recovered": 406,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1644,
+    "Recovered": 662,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1785,
+    "Recovered": 696,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 1905,
+    "Recovered": 717,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 2043,
+    "Recovered": 829,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 2183,
+    "Recovered": 901,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 2359,
+    "Recovered": 1022,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 2539,
+    "Recovered": 1281,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 33522
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 2777,
+    "Recovered": 1479,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 2966,
+    "Recovered": 1659,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 3237,
+    "Recovered": 1826,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 3459,
+    "Recovered": 1929,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 3775,
+    "Recovered": 2131,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 4052,
+    "Recovered": 2427,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 4344,
+    "Recovered": 2611,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 4647,
+    "Recovered": 2868,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 4821,
+    "Recovered": 3029,
+    "Deceased": 54,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 5059,
+    "Recovered": 3245,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 5230,
+    "Recovered": 3469,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 5458,
+    "Recovered": 3685,
+    "Deceased": 78,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 5688,
+    "Recovered": 3918,
+    "Deceased": 85,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 5805,
+    "Recovered": 4144,
+    "Deceased": 90,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 5997,
+    "Recovered": 4322,
+    "Deceased": 96,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 6227,
+    "Recovered": 4546,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 6450,
+    "Recovered": 4695,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 6670,
+    "Recovered": 4880,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 6961,
+    "Recovered": 5268,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 7296,
+    "Recovered": 5418,
+    "Deceased": 140,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 7592,
+    "Recovered": 5630,
+    "Deceased": 149,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 7884,
+    "Recovered": 5805,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 8274,
+    "Recovered": 6048,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 8569,
+    "Recovered": 6223,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 8967,
+    "Recovered": 6405,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 9362,
+    "Recovered": 6682,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 9758,
+    "Recovered": 6935,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 10158,
+    "Recovered": 7221,
+    "Deceased": 217,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 10558,
+    "Recovered": 7402,
+    "Deceased": 228,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 10957,
+    "Recovered": 7660,
+    "Deceased": 231,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 11358,
+    "Recovered": 7972,
+    "Deceased": 235,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 11751,
+    "Recovered": 8416,
+    "Deceased": 237,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 12141,
+    "Recovered": 8754,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 12467,
+    "Recovered": 9083,
+    "Deceased": 252,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 12954,
+    "Recovered": 9442,
+    "Deceased": 262,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 13398,
+    "Recovered": 9799,
+    "Deceased": 274,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 13897,
+    "Recovered": 10237,
+    "Deceased": 280,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 14393,
+    "Recovered": 10582,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 14894,
+    "Recovered": 11033,
+    "Deceased": 294,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 15490,
+    "Recovered": 11469,
+    "Deceased": 308,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 16075,
+    "Recovered": 11861,
+    "Deceased": 310,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 16662,
+    "Recovered": 12078,
+    "Deceased": 315,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 17258,
+    "Recovered": 12564,
+    "Deceased": 318,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 17865,
+    "Recovered": 12992,
+    "Deceased": 322,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 18410,
+    "Recovered": 13358,
+    "Deceased": 323,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 18955,
+    "Recovered": 13831,
+    "Deceased": 328,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 19479,
+    "Recovered": 14497,
+    "Deceased": 332,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 19948,
+    "Recovered": 15584,
+    "Deceased": 332,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 20393,
+    "Recovered": 16164,
+    "Deceased": 338,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 20839,
+    "Recovered": 16709,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 21233,
+    "Recovered": 17259,
+    "Deceased": 343,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 21665,
+    "Recovered": 17754,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 22156,
+    "Recovered": 18308,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 22662,
+    "Recovered": 18756,
+    "Deceased": 357,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 23147,
+    "Recovered": 19193,
+    "Deceased": 361,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 23702,
+    "Recovered": 19900,
+    "Deceased": 365,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 24234,
+    "Recovered": 20264,
+    "Deceased": 368,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 24778,
+    "Recovered": 20372,
+    "Deceased": 372,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 25344,
+    "Recovered": 20680,
+    "Deceased": 376,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 25914,
+    "Recovered": 21168,
+    "Deceased": 382,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 26562,
+    "Recovered": 21699,
+    "Deceased": 388,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 27157,
+    "Recovered": 22206,
+    "Deceased": 392,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 27744,
+    "Recovered": 22718,
+    "Deceased": 396,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 28388,
+    "Recovered": 23331,
+    "Deceased": 402,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 29057,
+    "Recovered": 23848,
+    "Deceased": 408,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 29715,
+    "Recovered": 24443,
+    "Deceased": 413,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 30314,
+    "Recovered": 24915,
+    "Deceased": 418,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 30915,
+    "Recovered": 25374,
+    "Deceased": 424,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 31489,
+    "Recovered": 25908,
+    "Deceased": 425,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 32068,
+    "Recovered": 26605,
+    "Deceased": 436,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 32620,
+    "Recovered": 27116,
+    "Deceased": 444,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 33116,
+    "Recovered": 27753,
+    "Deceased": 450,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 33611,
+    "Recovered": 28438,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 34089,
+    "Recovered": 28739,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 34558,
+    "Recovered": 29199,
+    "Deceased": 469,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 35000,
+    "Recovered": 29693,
+    "Deceased": 470,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 35479,
+    "Recovered": 30062,
+    "Deceased": 476,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 35933,
+    "Recovered": 30690,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 36332,
+    "Recovered": 31103,
+    "Deceased": 483,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 36725,
+    "Recovered": 31319,
+    "Deceased": 487,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 37117,
+    "Recovered": 31709,
+    "Deceased": 491,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 37511,
+    "Recovered": 32175,
+    "Deceased": 497,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 37919,
+    "Recovered": 32653,
+    "Deceased": 502,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 38315,
+    "Recovered": 33105,
+    "Deceased": 507,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 38712,
+    "Recovered": 33775,
+    "Deceased": 511,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 39102,
+    "Recovered": 34688,
+    "Deceased": 512,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 39495,
+    "Recovered": 35116,
+    "Deceased": 518,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 39818,
+    "Recovered": 35481,
+    "Deceased": 523,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 40108,
+    "Recovered": 35689,
+    "Deceased": 524,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 40374,
+    "Recovered": 36017,
+    "Deceased": 526,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 40690,
+    "Recovered": 36411,
+    "Deceased": 527,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 40982,
+    "Recovered": 36701,
+    "Deceased": 528,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 41262,
+    "Recovered": 36974,
+    "Deceased": 530,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 41555,
+    "Recovered": 37264,
+    "Deceased": 534,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 41830,
+    "Recovered": 37600,
+    "Deceased": 537,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 42084,
+    "Recovered": 37793,
+    "Deceased": 538,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 42296,
+    "Recovered": 38166,
+    "Deceased": 540,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 42516,
+    "Recovered": 38851,
+    "Deceased": 547,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 42776,
+    "Recovered": 39484,
+    "Deceased": 553,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 43008,
+    "Recovered": 40041,
+    "Deceased": 556,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 43252,
+    "Recovered": 40646,
+    "Deceased": 557,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 43504,
+    "Recovered": 41219,
+    "Deceased": 557,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 43751,
+    "Recovered": 41871,
+    "Deceased": 562,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 43989,
+    "Recovered": 42361,
+    "Deceased": 564,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 44209,
+    "Recovered": 42601,
+    "Deceased": 568,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 44449,
+    "Recovered": 42871,
+    "Deceased": 569,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 44676,
+    "Recovered": 43104,
+    "Deceased": 571,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 44889,
+    "Recovered": 43317,
+    "Deceased": 572,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 45094,
+    "Recovered": 43532,
+    "Deceased": 576,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 45287,
+    "Recovered": 43711,
+    "Deceased": 576,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 45492,
+    "Recovered": 43897,
+    "Deceased": 577,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 45685,
+    "Recovered": 44065,
+    "Deceased": 582,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 45875,
+    "Recovered": 44257,
+    "Deceased": 583,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 46055,
+    "Recovered": 44500,
+    "Deceased": 584,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 46237,
+    "Recovered": 44683,
+    "Deceased": 585,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 46408,
+    "Recovered": 44936,
+    "Deceased": 586,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 46587,
+    "Recovered": 45117,
+    "Deceased": 587,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 46757,
+    "Recovered": 45305,
+    "Deceased": 592,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 46920,
+    "Recovered": 45510,
+    "Deceased": 593,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 47071,
+    "Recovered": 45693,
+    "Deceased": 593,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 47219,
+    "Recovered": 45845,
+    "Deceased": 595,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 47380,
+    "Recovered": 46035,
+    "Deceased": 597,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 47535,
+    "Recovered": 46216,
+    "Deceased": 599,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 47676,
+    "Recovered": 46379,
+    "Deceased": 599,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 47823,
+    "Recovered": 46514,
+    "Deceased": 601,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 47975,
+    "Recovered": 46693,
+    "Deceased": 603,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 48133,
+    "Recovered": 46849,
+    "Deceased": 605,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 48279,
+    "Recovered": 46931,
+    "Deceased": 607,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 48421,
+    "Recovered": 46991,
+    "Deceased": 611,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 48572,
+    "Recovered": 47041,
+    "Deceased": 612,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 48725,
+    "Recovered": 47173,
+    "Deceased": 613,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 48866,
+    "Recovered": 47318,
+    "Deceased": 613,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 49010,
+    "Recovered": 47395,
+    "Deceased": 614,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 49151,
+    "Recovered": 47601,
+    "Deceased": 615,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 49291,
+    "Recovered": 47712,
+    "Deceased": 616,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 49430,
+    "Recovered": 47881,
+    "Deceased": 617,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 49570,
+    "Recovered": 48052,
+    "Deceased": 619,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 49696,
+    "Recovered": 48210,
+    "Deceased": 621,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 49820,
+    "Recovered": 48322,
+    "Deceased": 622,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 49954,
+    "Recovered": 48408,
+    "Deceased": 622,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 50080,
+    "Recovered": 48500,
+    "Deceased": 626,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 50196,
+    "Recovered": 48592,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 50317,
+    "Recovered": 48696,
+    "Deceased": 629,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 50434,
+    "Recovered": 48798,
+    "Deceased": 629,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 50558,
+    "Recovered": 48892,
+    "Deceased": 630,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 50677,
+    "Recovered": 48998,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 50790,
+    "Recovered": 49107,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 50912,
+    "Recovered": 49215,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51029,
+    "Recovered": 49329,
+    "Deceased": 634,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51147,
+    "Recovered": 49453,
+    "Deceased": 634,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51259,
+    "Recovered": 49598,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51368,
+    "Recovered": 49740,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51483,
+    "Recovered": 49856,
+    "Deceased": 640,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51596,
+    "Recovered": 49977,
+    "Deceased": 641,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51696,
+    "Recovered": 50106,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51791,
+    "Recovered": 50234,
+    "Deceased": 643,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51884,
+    "Recovered": 50369,
+    "Deceased": 645,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 51980,
+    "Recovered": 50478,
+    "Deceased": 645,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52074,
+    "Recovered": 50581,
+    "Deceased": 646,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52155,
+    "Recovered": 50673,
+    "Deceased": 648,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52247,
+    "Recovered": 50774,
+    "Deceased": 652,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52336,
+    "Recovered": 50869,
+    "Deceased": 653,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52418,
+    "Recovered": 50966,
+    "Deceased": 654,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52496,
+    "Recovered": 51063,
+    "Deceased": 654,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52565,
+    "Recovered": 51157,
+    "Deceased": 655,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52649,
+    "Recovered": 51251,
+    "Deceased": 656,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52732,
+    "Recovered": 51337,
+    "Deceased": 657,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52821,
+    "Recovered": 51418,
+    "Deceased": 658,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52899,
+    "Recovered": 51506,
+    "Deceased": 659,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 52978,
+    "Recovered": 51587,
+    "Deceased": 660,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53049,
+    "Recovered": 51677,
+    "Deceased": 660,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53129,
+    "Recovered": 51764,
+    "Deceased": 661,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53200,
+    "Recovered": 51848,
+    "Deceased": 661,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53259,
+    "Recovered": 51926,
+    "Deceased": 661,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53331,
+    "Recovered": 52009,
+    "Deceased": 662,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53408,
+    "Recovered": 52101,
+    "Deceased": 662,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53475,
+    "Recovered": 52188,
+    "Deceased": 662,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53555,
+    "Recovered": 52264,
+    "Deceased": 662,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53622,
+    "Recovered": 52352,
+    "Deceased": 662,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53691,
+    "Recovered": 52433,
+    "Deceased": 663,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53749,
+    "Recovered": 52531,
+    "Deceased": 664,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53804,
+    "Recovered": 52610,
+    "Deceased": 664,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53863,
+    "Recovered": 52670,
+    "Deceased": 665,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53918,
+    "Recovered": 52738,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 53966,
+    "Recovered": 52802,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54021,
+    "Recovered": 52875,
+    "Deceased": 668,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54077,
+    "Recovered": 52943,
+    "Deceased": 669,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54125,
+    "Recovered": 53012,
+    "Deceased": 670,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54176,
+    "Recovered": 53077,
+    "Deceased": 670,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54225,
+    "Recovered": 53129,
+    "Deceased": 670,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54282,
+    "Recovered": 53182,
+    "Deceased": 671,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54330,
+    "Recovered": 53237,
+    "Deceased": 671,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54384,
+    "Recovered": 53289,
+    "Deceased": 671,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54444,
+    "Recovered": 53351,
+    "Deceased": 671,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54500,
+    "Recovered": 53407,
+    "Deceased": 671,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54575,
+    "Recovered": 53461,
+    "Deceased": 671,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54634,
+    "Recovered": 53516,
+    "Deceased": 672,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54688,
+    "Recovered": 53557,
+    "Deceased": 673,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54753,
+    "Recovered": 53606,
+    "Deceased": 673,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54801,
+    "Recovered": 53662,
+    "Deceased": 674,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54851,
+    "Recovered": 53722,
+    "Deceased": 674,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54905,
+    "Recovered": 53773,
+    "Deceased": 674,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 54970,
+    "Recovered": 53828,
+    "Deceased": 675,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55018,
+    "Recovered": 53879,
+    "Deceased": 676,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55063,
+    "Recovered": 53925,
+    "Deceased": 677,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55107,
+    "Recovered": 53977,
+    "Deceased": 677,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55152,
+    "Recovered": 54020,
+    "Deceased": 678,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55200,
+    "Recovered": 54077,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55240,
+    "Recovered": 54128,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55278,
+    "Recovered": 54182,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55319,
+    "Recovered": 54237,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55368,
+    "Recovered": 54282,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55415,
+    "Recovered": 54328,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55460,
+    "Recovered": 54375,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55502,
+    "Recovered": 54419,
+    "Deceased": 680,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55544,
+    "Recovered": 54460,
+    "Deceased": 682,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55590,
+    "Recovered": 54509,
+    "Deceased": 682,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55630,
+    "Recovered": 54556,
+    "Deceased": 683,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55673,
+    "Recovered": 54604,
+    "Deceased": 683,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55713,
+    "Recovered": 54648,
+    "Deceased": 683,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55755,
+    "Recovered": 54695,
+    "Deceased": 683,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55799,
+    "Recovered": 54737,
+    "Deceased": 683,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55838,
+    "Recovered": 54776,
+    "Deceased": 683,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55883,
+    "Recovered": 54820,
+    "Deceased": 683,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55931,
+    "Recovered": 54871,
+    "Deceased": 683,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 55982,
+    "Recovered": 54923,
+    "Deceased": 683,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56030,
+    "Recovered": 54982,
+    "Deceased": 684,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56079,
+    "Recovered": 55037,
+    "Deceased": 684,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56127,
+    "Recovered": 55089,
+    "Deceased": 685,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56182,
+    "Recovered": 55145,
+    "Deceased": 685,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56246,
+    "Recovered": 55202,
+    "Deceased": 685,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56298,
+    "Recovered": 55251,
+    "Deceased": 685,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56349,
+    "Recovered": 55297,
+    "Deceased": 685,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56403,
+    "Recovered": 55341,
+    "Deceased": 685,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56468,
+    "Recovered": 55387,
+    "Deceased": 685,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56543,
+    "Recovered": 55436,
+    "Deceased": 686,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56624,
+    "Recovered": 55490,
+    "Deceased": 686,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56731,
+    "Recovered": 55539,
+    "Deceased": 686,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56814,
+    "Recovered": 55587,
+    "Deceased": 686,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 56917,
+    "Recovered": 55641,
+    "Deceased": 686,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 57023,
+    "Recovered": 55702,
+    "Deceased": 686,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 57132,
+    "Recovered": 55759,
+    "Deceased": 686,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 57267,
+    "Recovered": 55811,
+    "Deceased": 688,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 57413,
+    "Recovered": 55900,
+    "Deceased": 688,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 57563,
+    "Recovered": 55995,
+    "Deceased": 689,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 57718,
+    "Recovered": 56093,
+    "Deceased": 689,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 57891,
+    "Recovered": 56189,
+    "Deceased": 689,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 58077,
+    "Recovered": 56296,
+    "Deceased": 689,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 58258,
+    "Recovered": 56397,
+    "Deceased": 689,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 58471,
+    "Recovered": 56490,
+    "Deceased": 691,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 58679,
+    "Recovered": 56599,
+    "Deceased": 693,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 58960,
+    "Recovered": 56715,
+    "Deceased": 694,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 59247,
+    "Recovered": 56836,
+    "Deceased": 694,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 59529,
+    "Recovered": 56972,
+    "Deceased": 694,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 59821,
+    "Recovered": 57120,
+    "Deceased": 694,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 60153,
+    "Recovered": 57266,
+    "Deceased": 694,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 60534,
+    "Recovered": 57404,
+    "Deceased": 694,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 60821,
+    "Recovered": 57549,
+    "Deceased": 695,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 61162,
+    "Recovered": 57699,
+    "Deceased": 696,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 61597,
+    "Recovered": 57840,
+    "Deceased": 698,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 62070,
+    "Recovered": 57982,
+    "Deceased": 699,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 62575,
+    "Recovered": 58199,
+    "Deceased": 699,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 63197,
+    "Recovered": 58447,
+    "Deceased": 699,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 63808,
+    "Recovered": 58730,
+    "Deceased": 700,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 64319,
+    "Recovered": 59099,
+    "Deceased": 700,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 64867,
+    "Recovered": 59620,
+    "Deceased": 703,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 65406,
+    "Recovered": 60263,
+    "Deceased": 705,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 65993,
+    "Recovered": 60885,
+    "Deceased": 706,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 66645,
+    "Recovered": 61500,
+    "Deceased": 707,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 67394,
+    "Recovered": 62108,
+    "Deceased": 707,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 68137,
+    "Recovered": 62726,
+    "Deceased": 708,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 68835,
+    "Recovered": 63285,
+    "Deceased": 708,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 69563,
+    "Recovered": 63742,
+    "Deceased": 709,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 70262,
+    "Recovered": 64202,
+    "Deceased": 710,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 71161,
+    "Recovered": 64621,
+    "Deceased": 710,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 72174,
+    "Recovered": 65024,
+    "Deceased": 713,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 73219,
+    "Recovered": 65748,
+    "Deceased": 714,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 74288,
+    "Recovered": 66883,
+    "Deceased": 716,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 75293,
+    "Recovered": 67628,
+    "Deceased": 717,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 76259,
+    "Recovered": 68619,
+    "Deceased": 719,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 77280,
+    "Recovered": 69638,
+    "Deceased": 720,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 78410,
+    "Recovered": 70745,
+    "Deceased": 722,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 79669,
+    "Recovered": 71658,
+    "Deceased": 723,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 81118,
+    "Recovered": 72709,
+    "Deceased": 726,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 82689,
+    "Recovered": 73772,
+    "Deceased": 729,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 84206,
+    "Recovered": 74877,
+    "Deceased": 733,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 86261,
+    "Recovered": 76206,
+    "Deceased": 736,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 88342,
+    "Recovered": 77757,
+    "Deceased": 740,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 90454,
+    "Recovered": 79248,
+    "Deceased": 746,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 92579,
+    "Recovered": 80904,
+    "Deceased": 750,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 95099,
+    "Recovered": 82609,
+    "Deceased": 759,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 97886,
+    "Recovered": 83706,
+    "Deceased": 774,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 100546,
+    "Recovered": 85429,
+    "Deceased": 793,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 103184,
+    "Recovered": 87195,
+    "Deceased": 811,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 106030,
+    "Recovered": 88935,
+    "Deceased": 824,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 109233,
+    "Recovered": 90106,
+    "Deceased": 837,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 112358,
+    "Recovered": 91328,
+    "Deceased": 857,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 115532,
+    "Recovered": 92479,
+    "Deceased": 872,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 118804,
+    "Recovered": 93723,
+    "Deceased": 886,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 121884,
+    "Recovered": 95028,
+    "Deceased": 905,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 125151,
+    "Recovered": 97040,
+    "Deceased": 922,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 128493,
+    "Recovered": 99188,
+    "Deceased": 942,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 131744,
+    "Recovered": 101432,
+    "Deceased": 967,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 134912,
+    "Recovered": 103809,
+    "Deceased": 999,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 138861,
+    "Recovered": 106263,
+    "Deceased": 1020,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 143164,
+    "Recovered": 108791,
+    "Deceased": 1048,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 146805,
+    "Recovered": 111480,
+    "Deceased": 1072,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 151077,
+    "Recovered": 114267,
+    "Deceased": 1103,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 155820,
+    "Recovered": 117197,
+    "Deceased": 1135,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 159762,
+    "Recovered": 120258,
+    "Deceased": 1168,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 163458,
+    "Recovered": 123446,
+    "Deceased": 1188,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 167003,
+    "Recovered": 126721,
+    "Deceased": 1235,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 170497,
+    "Recovered": 130029,
+    "Deceased": 1274,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 173842,
+    "Recovered": 131965,
+    "Deceased": 1307,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 176910,
+    "Recovered": 136453,
+    "Deceased": 1345,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 179898,
+    "Recovered": 140999,
+    "Deceased": 1394,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 182708,
+    "Recovered": 145589,
+    "Deceased": 1425,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 185371,
+    "Recovered": 150245,
+    "Deceased": 1468,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 188023,
+    "Recovered": 154978,
+    "Deceased": 1506,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 190593,
+    "Recovered": 159793,
+    "Deceased": 1532,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 193037,
+    "Recovered": 164710,
+    "Deceased": 1576,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 195362,
+    "Recovered": 169702,
+    "Deceased": 1638,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 197601,
+    "Recovered": 174759,
+    "Deceased": 1658,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 199660,
+    "Recovered": 179371,
+    "Deceased": 1689,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 201644,
+    "Recovered": 181654,
+    "Deceased": 1716,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 203540,
+    "Recovered": 184188,
+    "Deceased": 1735,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 205269,
+    "Recovered": 186852,
+    "Deceased": 1762,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 206833,
+    "Recovered": 189606,
+    "Deceased": 1778,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 208253,
+    "Recovered": 192051,
+    "Deceased": 1806,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 209481,
+    "Recovered": 194838,
+    "Deceased": 1823,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 210573,
+    "Recovered": 197075,
+    "Deceased": 1854,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 211588,
+    "Recovered": 198526,
+    "Deceased": 1871,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 212493,
+    "Recovered": 199803,
+    "Deceased": 1888,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 213384,
+    "Recovered": 201907,
+    "Deceased": 1911,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 214256,
+    "Recovered": 203953,
+    "Deceased": 1930,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 215051,
+    "Recovered": 205441,
+    "Deceased": 1956,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 215808,
+    "Recovered": 206592,
+    "Deceased": 1968,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 216506,
+    "Recovered": 207791,
+    "Deceased": 1994,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 217179,
+    "Recovered": 209054,
+    "Deceased": 2003,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 217828,
+    "Recovered": 210210,
+    "Deceased": 2010,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 218426,
+    "Recovered": 211299,
+    "Deceased": 2017,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 218990,
+    "Recovered": 212285,
+    "Deceased": 2029,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 219504,
+    "Recovered": 213227,
+    "Deceased": 2041,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 220005,
+    "Recovered": 214149,
+    "Deceased": 2051,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 220493,
+    "Recovered": 215053,
+    "Deceased": 2058,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 220969,
+    "Recovered": 215910,
+    "Deceased": 2063,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 221415,
+    "Recovered": 216495,
+    "Deceased": 2069,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 222020,
+    "Recovered": 216952,
+    "Deceased": 2076,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 222632,
+    "Recovered": 217250,
+    "Deceased": 2081,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 223277,
+    "Recovered": 217541,
+    "Deceased": 2085,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 223861,
+    "Recovered": 217812,
+    "Deceased": 2092,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 224376,
+    "Recovered": 218158,
+    "Deceased": 2097,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 224744,
+    "Recovered": 218536,
+    "Deceased": 2100,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 225043,
+    "Recovered": 218930,
+    "Deceased": 2107,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 225334,
+    "Recovered": 219322,
+    "Deceased": 2107,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 225617,
+    "Recovered": 219730,
+    "Deceased": 2108,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 225889,
+    "Recovered": 220144,
+    "Deceased": 2116,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 226151,
+    "Recovered": 220576,
+    "Deceased": 2122,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 226404,
+    "Recovered": 220994,
+    "Deceased": 2126,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 226647,
+    "Recovered": 221419,
+    "Deceased": 2128,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 226869,
+    "Recovered": 221810,
+    "Deceased": 2132,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 227079,
+    "Recovered": 222167,
+    "Deceased": 2135,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 227283,
+    "Recovered": 222495,
+    "Deceased": 2140,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 227467,
+    "Recovered": 222801,
+    "Deceased": 2141,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 227648,
+    "Recovered": 223113,
+    "Deceased": 2147,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 227825,
+    "Recovered": 223381,
+    "Deceased": 2151,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 228000,
+    "Recovered": 223624,
+    "Deceased": 2154,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 228169,
+    "Recovered": 223878,
+    "Deceased": 2158,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 228334,
+    "Recovered": 224144,
+    "Deceased": 2162,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 228504,
+    "Recovered": 224392,
+    "Deceased": 2165,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 228685,
+    "Recovered": 224599,
+    "Deceased": 2169,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 228874,
+    "Recovered": 224797,
+    "Deceased": 2172,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 229106,
+    "Recovered": 225013,
+    "Deceased": 2176,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 229353,
+    "Recovered": 225236,
+    "Deceased": 2177,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 229583,
+    "Recovered": 225444,
+    "Deceased": 2178,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 229804,
+    "Recovered": 225618,
+    "Deceased": 2178,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 230012,
+    "Recovered": 225787,
+    "Deceased": 2182,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 230241,
+    "Recovered": 225971,
+    "Deceased": 2185,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 230463,
+    "Recovered": 226158,
+    "Deceased": 2188,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 230703,
+    "Recovered": 226350,
+    "Deceased": 2189,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 230928,
+    "Recovered": 226558,
+    "Deceased": 2190,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 231170,
+    "Recovered": 226760,
+    "Deceased": 2193,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 231405,
+    "Recovered": 226983,
+    "Deceased": 2194,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 231633,
+    "Recovered": 227200,
+    "Deceased": 2199,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 231863,
+    "Recovered": 227403,
+    "Deceased": 2201,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 232114,
+    "Recovered": 227599,
+    "Deceased": 2207,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 232351,
+    "Recovered": 227781,
+    "Deceased": 2212,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 232575,
+    "Recovered": 227978,
+    "Deceased": 2217,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 232803,
+    "Recovered": 228182,
+    "Deceased": 2218,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 233022,
+    "Recovered": 228397,
+    "Deceased": 2219,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 233228,
+    "Recovered": 228626,
+    "Deceased": 2222,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 233442,
+    "Recovered": 228860,
+    "Deceased": 2227,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 233641,
+    "Recovered": 229106,
+    "Deceased": 2232,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 233840,
+    "Recovered": 229340,
+    "Deceased": 2234,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 234046,
+    "Recovered": 229566,
+    "Deceased": 2236,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 234244,
+    "Recovered": 229778,
+    "Deceased": 2237,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 234444,
+    "Recovered": 229988,
+    "Deceased": 2241,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 234637,
+    "Recovered": 230211,
+    "Deceased": 2245,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 234820,
+    "Recovered": 230439,
+    "Deceased": 2249,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 235041,
+    "Recovered": 230671,
+    "Deceased": 2252,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 235273,
+    "Recovered": 230909,
+    "Deceased": 2257,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 235504,
+    "Recovered": 231156,
+    "Deceased": 2257,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 235713,
+    "Recovered": 231395,
+    "Deceased": 2260,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 235903,
+    "Recovered": 231598,
+    "Deceased": 2263,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 236077,
+    "Recovered": 231783,
+    "Deceased": 2266,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 236266,
+    "Recovered": 231951,
+    "Deceased": 2268,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 236481,
+    "Recovered": 232124,
+    "Deceased": 2273,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 236721,
+    "Recovered": 232311,
+    "Deceased": 2276,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 236965,
+    "Recovered": 232505,
+    "Deceased": 2280,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 237203,
+    "Recovered": 232712,
+    "Deceased": 2280,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 237410,
+    "Recovered": 232931,
+    "Deceased": 2281,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 237629,
+    "Recovered": 233155,
+    "Deceased": 2283,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 237863,
+    "Recovered": 233386,
+    "Deceased": 2283,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 238087,
+    "Recovered": 233634,
+    "Deceased": 2288,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 238325,
+    "Recovered": 233860,
+    "Deceased": 2293,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 238550,
+    "Recovered": 234078,
+    "Deceased": 2295,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 238766,
+    "Recovered": 234285,
+    "Deceased": 2297,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 238976,
+    "Recovered": 234487,
+    "Deceased": 2297,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 239177,
+    "Recovered": 234678,
+    "Deceased": 2302,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 239406,
+    "Recovered": 234875,
+    "Deceased": 2306,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 239613,
+    "Recovered": 235081,
+    "Deceased": 2306,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 239820,
+    "Recovered": 235294,
+    "Deceased": 2308,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 240023,
+    "Recovered": 235509,
+    "Deceased": 2313,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 240241,
+    "Recovered": 235726,
+    "Deceased": 2317,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 240460,
+    "Recovered": 235951,
+    "Deceased": 2318,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 240679,
+    "Recovered": 236193,
+    "Deceased": 2319,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 240915,
+    "Recovered": 236430,
+    "Deceased": 2320,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 241143,
+    "Recovered": 236676,
+    "Deceased": 2322,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 241355,
+    "Recovered": 236911,
+    "Deceased": 2325,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 241558,
+    "Recovered": 237134,
+    "Deceased": 2329,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 241754,
+    "Recovered": 237350,
+    "Deceased": 2330,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 241945,
+    "Recovered": 237555,
+    "Deceased": 2335,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 242131,
+    "Recovered": 237752,
+    "Deceased": 2337,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 242312,
+    "Recovered": 237938,
+    "Deceased": 2338,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 242492,
+    "Recovered": 238114,
+    "Deceased": 2340,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 242664,
+    "Recovered": 238300,
+    "Deceased": 2342,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 242830,
+    "Recovered": 238498,
+    "Deceased": 2342,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 242988,
+    "Recovered": 238704,
+    "Deceased": 2343,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 243143,
+    "Recovered": 238899,
+    "Deceased": 2343,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 243294,
+    "Recovered": 239107,
+    "Deceased": 2345,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 243443,
+    "Recovered": 239291,
+    "Deceased": 2349,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 243589,
+    "Recovered": 239478,
+    "Deceased": 2356,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 243732,
+    "Recovered": 239671,
+    "Deceased": 2357,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 243871,
+    "Recovered": 239852,
+    "Deceased": 2360,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 244003,
+    "Recovered": 240009,
+    "Deceased": 2360,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 244132,
+    "Recovered": 240163,
+    "Deceased": 2364,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 244271,
+    "Recovered": 240311,
+    "Deceased": 2366,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 244416,
+    "Recovered": 240454,
+    "Deceased": 2369,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 244559,
+    "Recovered": 240592,
+    "Deceased": 2371,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 244699,
+    "Recovered": 240735,
+    "Deceased": 2377,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 244836,
+    "Recovered": 240883,
+    "Deceased": 2378,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 244968,
+    "Recovered": 241034,
+    "Deceased": 2382,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 245099,
+    "Recovered": 241188,
+    "Deceased": 2383,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 245226,
+    "Recovered": 241336,
+    "Deceased": 2384,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 245369,
+    "Recovered": 241479,
+    "Deceased": 2390,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 245507,
+    "Recovered": 241627,
+    "Deceased": 2392,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 245647,
+    "Recovered": 241779,
+    "Deceased": 2397,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 245782,
+    "Recovered": 241933,
+    "Deceased": 2400,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 245911,
+    "Recovered": 242082,
+    "Deceased": 2401,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 246043,
+    "Recovered": 242233,
+    "Deceased": 2403,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 246172,
+    "Recovered": 242387,
+    "Deceased": 2404,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 246298,
+    "Recovered": 242538,
+    "Deceased": 2407,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 246423,
+    "Recovered": 242683,
+    "Deceased": 2410,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 246544,
+    "Recovered": 242820,
+    "Deceased": 2412,
+    "Other": 0,
+    "Tested": 102107
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Coimbatore",
+    "cases": 246660,
+    "Recovered": 242944,
+    "Deceased": 2415,
+    "Other": 0,
+    "Tested": 102107
+  }
+]
