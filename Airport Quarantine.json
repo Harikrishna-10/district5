@@ -5368,5 +5368,25 @@
     "Deceased": 2,
     "Other": 0,
     "Tested": ""
-  }
+  },
+  {
+    "Date": "31-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Airport Quarantine",
+    "cases": 2113,
+    "Recovered": 2104,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-11-2021",
+    "State": "Tamil Nadu",
+    "country": "Airport Quarantine",
+    "cases": 2110,
+    "Recovered": 2102,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
 ]
