@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 44,
+    "Recovered": 35,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 44,
+    "Recovered": 36,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 44,
+    "Recovered": 36,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 44,
+    "Recovered": 36,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 44,
+    "Recovered": 37,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 44,
+    "Recovered": 37,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 44,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 44,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 44,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 49,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 51,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 54,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 55,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 57,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 60,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 60,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 67,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 72,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 72,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 78,
+    "Recovered": 42,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 79,
+    "Recovered": 43,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 79,
+    "Recovered": 43,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 88,
+    "Recovered": 43,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 89,
+    "Recovered": 43,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 92,
+    "Recovered": 44,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 96,
+    "Recovered": 44,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 101,
+    "Recovered": 50,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 102,
+    "Recovered": 50,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 106,
+    "Recovered": 54,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 108,
+    "Recovered": 54,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 108,
+    "Recovered": 63,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 108,
+    "Recovered": 75,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 108,
+    "Recovered": 77,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 108,
+    "Recovered": 83,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 109,
+    "Recovered": 86,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 109,
+    "Recovered": 86,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 109,
+    "Recovered": 92,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 114,
+    "Recovered": 98,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 115,
+    "Recovered": 99,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 119,
+    "Recovered": 99,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 121,
+    "Recovered": 99,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 121,
+    "Recovered": 105,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 124,
+    "Recovered": 105,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 126,
+    "Recovered": 105,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 125,
+    "Recovered": 105,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 134,
+    "Recovered": 105,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 137,
+    "Recovered": 106,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 138,
+    "Recovered": 106,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 138,
+    "Recovered": 113,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 146,
+    "Recovered": 113,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 157,
+    "Recovered": 115,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 161,
+    "Recovered": 115,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 164,
+    "Recovered": 118,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 170,
+    "Recovered": 123,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 16945
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 185,
+    "Recovered": 123,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 22755
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 193,
+    "Recovered": 123,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 200,
+    "Recovered": 125,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 236,
+    "Recovered": 129,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 284,
+    "Recovered": 129,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 365,
+    "Recovered": 134,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 437,
+    "Recovered": 134,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 477,
+    "Recovered": 143,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 513,
+    "Recovered": 147,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 575,
+    "Recovered": 152,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 626,
+    "Recovered": 155,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 702,
+    "Recovered": 163,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 736,
+    "Recovered": 171,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 801,
+    "Recovered": 191,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 927,
+    "Recovered": 234,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 985,
+    "Recovered": 268,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1009,
+    "Recovered": 368,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1128,
+    "Recovered": 377,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1222,
+    "Recovered": 422,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1297,
+    "Recovered": 439,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1387,
+    "Recovered": 479,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1495,
+    "Recovered": 484,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1614,
+    "Recovered": 532,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1729,
+    "Recovered": 608,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1863,
+    "Recovered": 671,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1916,
+    "Recovered": 684,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 1975,
+    "Recovered": 724,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 2053,
+    "Recovered": 827,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 2229,
+    "Recovered": 883,
+    "Deceased": 26,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 2374,
+    "Recovered": 993,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 2494,
+    "Recovered": 1175,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 2601,
+    "Recovered": 1259,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 2732,
+    "Recovered": 1465,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 2899,
+    "Recovered": 1554,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 23138
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 3087,
+    "Recovered": 1625,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 3321,
+    "Recovered": 1694,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 3556,
+    "Recovered": 1940,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 3773,
+    "Recovered": 1984,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 4053,
+    "Recovered": 2042,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 4337,
+    "Recovered": 2255,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 4468,
+    "Recovered": 2470,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 4729,
+    "Recovered": 2632,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 5028,
+    "Recovered": 2786,
+    "Deceased": 62,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 5355,
+    "Recovered": 3085,
+    "Deceased": 63,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 5664,
+    "Recovered": 3180,
+    "Deceased": 63,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 5969,
+    "Recovered": 3323,
+    "Deceased": 68,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 6261,
+    "Recovered": 3498,
+    "Deceased": 72,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 6539,
+    "Recovered": 3792,
+    "Deceased": 79,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 6836,
+    "Recovered": 4068,
+    "Deceased": 82,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 7188,
+    "Recovered": 4344,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 7538,
+    "Recovered": 4596,
+    "Deceased": 91,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 7898,
+    "Recovered": 4790,
+    "Deceased": 94,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 8257,
+    "Recovered": 5111,
+    "Deceased": 97,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 8554,
+    "Recovered": 5453,
+    "Deceased": 99,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 8836,
+    "Recovered": 5739,
+    "Deceased": 99,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 9122,
+    "Recovered": 6014,
+    "Deceased": 104,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 9489,
+    "Recovered": 6189,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 9703,
+    "Recovered": 6546,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 9909,
+    "Recovered": 6865,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 10189,
+    "Recovered": 7160,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 10484,
+    "Recovered": 7606,
+    "Deceased": 117,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 10772,
+    "Recovered": 7979,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 11009,
+    "Recovered": 8366,
+    "Deceased": 124,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 11131,
+    "Recovered": 8747,
+    "Deceased": 126,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 11275,
+    "Recovered": 8970,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 11445,
+    "Recovered": 9235,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 11638,
+    "Recovered": 9530,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 11864,
+    "Recovered": 9746,
+    "Deceased": 136,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12048,
+    "Recovered": 9968,
+    "Deceased": 138,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12179,
+    "Recovered": 10170,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12293,
+    "Recovered": 10341,
+    "Deceased": 140,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12420,
+    "Recovered": 10723,
+    "Deceased": 141,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12599,
+    "Recovered": 10939,
+    "Deceased": 141,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12676,
+    "Recovered": 11110,
+    "Deceased": 141,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12731,
+    "Recovered": 11255,
+    "Deceased": 145,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12827,
+    "Recovered": 11428,
+    "Deceased": 147,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12910,
+    "Recovered": 11639,
+    "Deceased": 149,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 12994,
+    "Recovered": 11840,
+    "Deceased": 149,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13073,
+    "Recovered": 12014,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13158,
+    "Recovered": 12158,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13246,
+    "Recovered": 12235,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13338,
+    "Recovered": 12342,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13424,
+    "Recovered": 12484,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13520,
+    "Recovered": 12562,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13605,
+    "Recovered": 12661,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13685,
+    "Recovered": 12747,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13775,
+    "Recovered": 12832,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13833,
+    "Recovered": 12917,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13914,
+    "Recovered": 13014,
+    "Deceased": 160,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 13965,
+    "Recovered": 13098,
+    "Deceased": 162,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14043,
+    "Recovered": 13179,
+    "Deceased": 163,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14112,
+    "Recovered": 13283,
+    "Deceased": 164,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14167,
+    "Recovered": 13364,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14220,
+    "Recovered": 13469,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14277,
+    "Recovered": 13562,
+    "Deceased": 168,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14337,
+    "Recovered": 13655,
+    "Deceased": 170,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14408,
+    "Recovered": 13723,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14473,
+    "Recovered": 13796,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14541,
+    "Recovered": 13887,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14608,
+    "Recovered": 13958,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14686,
+    "Recovered": 13963,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14761,
+    "Recovered": 14057,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14825,
+    "Recovered": 14110,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14894,
+    "Recovered": 14220,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 14959,
+    "Recovered": 14289,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15044,
+    "Recovered": 14360,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15113,
+    "Recovered": 14426,
+    "Deceased": 177,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15173,
+    "Recovered": 14493,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15236,
+    "Recovered": 14569,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15295,
+    "Recovered": 14643,
+    "Deceased": 182,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15358,
+    "Recovered": 14707,
+    "Deceased": 182,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15425,
+    "Recovered": 14773,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15490,
+    "Recovered": 14838,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15563,
+    "Recovered": 14931,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15630,
+    "Recovered": 14997,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15691,
+    "Recovered": 15061,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15750,
+    "Recovered": 15123,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15799,
+    "Recovered": 15183,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15846,
+    "Recovered": 15240,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15885,
+    "Recovered": 15310,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15917,
+    "Recovered": 15375,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15952,
+    "Recovered": 15444,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 15984,
+    "Recovered": 15508,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16016,
+    "Recovered": 15567,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16041,
+    "Recovered": 15625,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16065,
+    "Recovered": 15673,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16086,
+    "Recovered": 15718,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16105,
+    "Recovered": 15758,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16126,
+    "Recovered": 15788,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16143,
+    "Recovered": 15825,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16164,
+    "Recovered": 15867,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16183,
+    "Recovered": 15895,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16207,
+    "Recovered": 15921,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16223,
+    "Recovered": 15964,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16233,
+    "Recovered": 15983,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16250,
+    "Recovered": 16003,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16268,
+    "Recovered": 16020,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16280,
+    "Recovered": 16030,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16299,
+    "Recovered": 16031,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16315,
+    "Recovered": 16040,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16323,
+    "Recovered": 16059,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16333,
+    "Recovered": 16078,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16346,
+    "Recovered": 16089,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16369,
+    "Recovered": 16097,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16385,
+    "Recovered": 16105,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16399,
+    "Recovered": 16122,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16410,
+    "Recovered": 16132,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16419,
+    "Recovered": 16147,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16428,
+    "Recovered": 16167,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16439,
+    "Recovered": 16181,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16449,
+    "Recovered": 16186,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16457,
+    "Recovered": 16200,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16464,
+    "Recovered": 16211,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16479,
+    "Recovered": 16243,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16495,
+    "Recovered": 16267,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16499,
+    "Recovered": 16275,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16508,
+    "Recovered": 16284,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16518,
+    "Recovered": 16296,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16532,
+    "Recovered": 16319,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16544,
+    "Recovered": 16323,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16557,
+    "Recovered": 16330,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16566,
+    "Recovered": 16344,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16577,
+    "Recovered": 16357,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16581,
+    "Recovered": 16367,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16589,
+    "Recovered": 16372,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16594,
+    "Recovered": 16377,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16604,
+    "Recovered": 16380,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16619,
+    "Recovered": 16384,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16632,
+    "Recovered": 16394,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16645,
+    "Recovered": 16401,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16658,
+    "Recovered": 16411,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16668,
+    "Recovered": 16423,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16675,
+    "Recovered": 16428,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16687,
+    "Recovered": 16438,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16698,
+    "Recovered": 16445,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16709,
+    "Recovered": 16455,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16722,
+    "Recovered": 16460,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16728,
+    "Recovered": 16463,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16736,
+    "Recovered": 16467,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16746,
+    "Recovered": 16472,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16753,
+    "Recovered": 16482,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16768,
+    "Recovered": 16491,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16777,
+    "Recovered": 16499,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16786,
+    "Recovered": 16505,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16797,
+    "Recovered": 16510,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16804,
+    "Recovered": 16516,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16812,
+    "Recovered": 16527,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16819,
+    "Recovered": 16539,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16827,
+    "Recovered": 16547,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16840,
+    "Recovered": 16563,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16850,
+    "Recovered": 16575,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16857,
+    "Recovered": 16584,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16866,
+    "Recovered": 16590,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16880,
+    "Recovered": 16599,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16889,
+    "Recovered": 16614,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16895,
+    "Recovered": 16631,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16902,
+    "Recovered": 16637,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16914,
+    "Recovered": 16639,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16922,
+    "Recovered": 16642,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16933,
+    "Recovered": 16648,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16937,
+    "Recovered": 16660,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16942,
+    "Recovered": 16668,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16950,
+    "Recovered": 16673,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16957,
+    "Recovered": 16685,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16965,
+    "Recovered": 16692,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16970,
+    "Recovered": 16705,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16972,
+    "Recovered": 16713,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16976,
+    "Recovered": 16721,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16986,
+    "Recovered": 16733,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16992,
+    "Recovered": 16737,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 16999,
+    "Recovered": 16745,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17005,
+    "Recovered": 16750,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17012,
+    "Recovered": 16757,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17015,
+    "Recovered": 16762,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17022,
+    "Recovered": 16770,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17032,
+    "Recovered": 16774,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17037,
+    "Recovered": 16779,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17043,
+    "Recovered": 16785,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17050,
+    "Recovered": 16788,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17052,
+    "Recovered": 16796,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17053,
+    "Recovered": 16802,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17060,
+    "Recovered": 16807,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17063,
+    "Recovered": 16813,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17067,
+    "Recovered": 16820,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17068,
+    "Recovered": 16827,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17071,
+    "Recovered": 16833,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17075,
+    "Recovered": 16840,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17078,
+    "Recovered": 16849,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17081,
+    "Recovered": 16851,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17086,
+    "Recovered": 16856,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17090,
+    "Recovered": 16858,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17096,
+    "Recovered": 16864,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17101,
+    "Recovered": 16867,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17104,
+    "Recovered": 16868,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17108,
+    "Recovered": 16871,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17111,
+    "Recovered": 16874,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17114,
+    "Recovered": 16877,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17118,
+    "Recovered": 16879,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17122,
+    "Recovered": 16883,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17128,
+    "Recovered": 16888,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17131,
+    "Recovered": 16890,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17134,
+    "Recovered": 16895,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17136,
+    "Recovered": 16897,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17137,
+    "Recovered": 16900,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17138,
+    "Recovered": 16902,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17140,
+    "Recovered": 16908,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17141,
+    "Recovered": 16916,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17143,
+    "Recovered": 16924,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17146,
+    "Recovered": 16929,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17148,
+    "Recovered": 16932,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17151,
+    "Recovered": 16934,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17152,
+    "Recovered": 16936,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17153,
+    "Recovered": 16937,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17154,
+    "Recovered": 16938,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17156,
+    "Recovered": 16939,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17162,
+    "Recovered": 16940,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17165,
+    "Recovered": 16942,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17169,
+    "Recovered": 16945,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17172,
+    "Recovered": 16946,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17173,
+    "Recovered": 16953,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17175,
+    "Recovered": 16955,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17176,
+    "Recovered": 16955,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17179,
+    "Recovered": 16956,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17185,
+    "Recovered": 16957,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17185,
+    "Recovered": 16958,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17190,
+    "Recovered": 16961,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17192,
+    "Recovered": 16965,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17197,
+    "Recovered": 16968,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17199,
+    "Recovered": 16970,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17202,
+    "Recovered": 16971,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17206,
+    "Recovered": 16973,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17208,
+    "Recovered": 16976,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17212,
+    "Recovered": 16980,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17212,
+    "Recovered": 16983,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17216,
+    "Recovered": 16984,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17222,
+    "Recovered": 16987,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17231,
+    "Recovered": 16991,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17237,
+    "Recovered": 16993,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17245,
+    "Recovered": 16996,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17253,
+    "Recovered": 16998,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17258,
+    "Recovered": 17003,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17263,
+    "Recovered": 17008,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17271,
+    "Recovered": 17011,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17280,
+    "Recovered": 17018,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17291,
+    "Recovered": 17031,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17299,
+    "Recovered": 17039,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17312,
+    "Recovered": 17049,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17322,
+    "Recovered": 17055,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17334,
+    "Recovered": 17058,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17353,
+    "Recovered": 17063,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17372,
+    "Recovered": 17075,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17397,
+    "Recovered": 17080,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17408,
+    "Recovered": 17091,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17441,
+    "Recovered": 17099,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17479,
+    "Recovered": 17108,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17503,
+    "Recovered": 17116,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17548,
+    "Recovered": 17124,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17578,
+    "Recovered": 17135,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17615,
+    "Recovered": 17149,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17661,
+    "Recovered": 17179,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17719,
+    "Recovered": 17193,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17771,
+    "Recovered": 17213,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17857,
+    "Recovered": 17236,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 17953,
+    "Recovered": 17284,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 18033,
+    "Recovered": 17323,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 18196,
+    "Recovered": 17371,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 18344,
+    "Recovered": 17410,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 18494,
+    "Recovered": 17445,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 18680,
+    "Recovered": 17476,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 18817,
+    "Recovered": 17540,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 18997,
+    "Recovered": 17625,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 19160,
+    "Recovered": 17757,
+    "Deceased": 211,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 19371,
+    "Recovered": 17838,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 19623,
+    "Recovered": 18002,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 19905,
+    "Recovered": 18197,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 20203,
+    "Recovered": 18384,
+    "Deceased": 213,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 20560,
+    "Recovered": 18586,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 20951,
+    "Recovered": 18794,
+    "Deceased": 217,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 21202,
+    "Recovered": 18963,
+    "Deceased": 217,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 21385,
+    "Recovered": 19176,
+    "Deceased": 219,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 21776,
+    "Recovered": 19429,
+    "Deceased": 223,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 22231,
+    "Recovered": 19716,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 22713,
+    "Recovered": 20055,
+    "Deceased": 230,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 23239,
+    "Recovered": 20431,
+    "Deceased": 232,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 23692,
+    "Recovered": 20809,
+    "Deceased": 233,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 24171,
+    "Recovered": 21193,
+    "Deceased": 236,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 24591,
+    "Recovered": 21503,
+    "Deceased": 244,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 25037,
+    "Recovered": 21740,
+    "Deceased": 248,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 25525,
+    "Recovered": 21936,
+    "Deceased": 252,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 25975,
+    "Recovered": 22164,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 26474,
+    "Recovered": 22414,
+    "Deceased": 262,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 27157,
+    "Recovered": 22816,
+    "Deceased": 268,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 27851,
+    "Recovered": 23024,
+    "Deceased": 274,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 28517,
+    "Recovered": 23466,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 29318,
+    "Recovered": 23852,
+    "Deceased": 276,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 30003,
+    "Recovered": 24406,
+    "Deceased": 283,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 30726,
+    "Recovered": 25034,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 31431,
+    "Recovered": 25600,
+    "Deceased": 290,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 32000,
+    "Recovered": 25987,
+    "Deceased": 302,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 32541,
+    "Recovered": 26265,
+    "Deceased": 303,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 33116,
+    "Recovered": 26405,
+    "Deceased": 310,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 33645,
+    "Recovered": 26654,
+    "Deceased": 325,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 34211,
+    "Recovered": 27177,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 34784,
+    "Recovered": 27796,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 35379,
+    "Recovered": 28501,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 35893,
+    "Recovered": 29190,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 36410,
+    "Recovered": 29831,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 36908,
+    "Recovered": 30967,
+    "Deceased": 362,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 37369,
+    "Recovered": 31477,
+    "Deceased": 362,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 37849,
+    "Recovered": 32005,
+    "Deceased": 373,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 38294,
+    "Recovered": 32864,
+    "Deceased": 373,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 38685,
+    "Recovered": 33443,
+    "Deceased": 385,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 39024,
+    "Recovered": 34394,
+    "Deceased": 396,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 39332,
+    "Recovered": 34964,
+    "Deceased": 396,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 39589,
+    "Recovered": 35503,
+    "Deceased": 412,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 39854,
+    "Recovered": 35939,
+    "Deceased": 412,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 40111,
+    "Recovered": 36694,
+    "Deceased": 431,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 40323,
+    "Recovered": 37218,
+    "Deceased": 444,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 40543,
+    "Recovered": 37980,
+    "Deceased": 456,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 40740,
+    "Recovered": 38488,
+    "Deceased": 458,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 40911,
+    "Recovered": 38778,
+    "Deceased": 465,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41061,
+    "Recovered": 39006,
+    "Deceased": 471,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41216,
+    "Recovered": 39169,
+    "Deceased": 472,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41354,
+    "Recovered": 39396,
+    "Deceased": 472,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41486,
+    "Recovered": 39611,
+    "Deceased": 472,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41609,
+    "Recovered": 39834,
+    "Deceased": 473,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41706,
+    "Recovered": 40078,
+    "Deceased": 474,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41783,
+    "Recovered": 40276,
+    "Deceased": 475,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41851,
+    "Recovered": 40429,
+    "Deceased": 476,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41927,
+    "Recovered": 40557,
+    "Deceased": 476,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 41995,
+    "Recovered": 40715,
+    "Deceased": 479,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42060,
+    "Recovered": 40864,
+    "Deceased": 483,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42116,
+    "Recovered": 40997,
+    "Deceased": 486,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42174,
+    "Recovered": 41123,
+    "Deceased": 488,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42227,
+    "Recovered": 41225,
+    "Deceased": 488,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42274,
+    "Recovered": 41309,
+    "Deceased": 491,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42319,
+    "Recovered": 41385,
+    "Deceased": 493,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42367,
+    "Recovered": 41450,
+    "Deceased": 493,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42419,
+    "Recovered": 41506,
+    "Deceased": 493,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42469,
+    "Recovered": 41539,
+    "Deceased": 494,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42514,
+    "Recovered": 41573,
+    "Deceased": 494,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42554,
+    "Recovered": 41622,
+    "Deceased": 494,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42579,
+    "Recovered": 41679,
+    "Deceased": 498,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42550,
+    "Recovered": 41727,
+    "Deceased": 503,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42548,
+    "Recovered": 41754,
+    "Deceased": 503,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42575,
+    "Recovered": 41770,
+    "Deceased": 506,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42597,
+    "Recovered": 41782,
+    "Deceased": 506,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42625,
+    "Recovered": 41795,
+    "Deceased": 506,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42650,
+    "Recovered": 41813,
+    "Deceased": 506,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42672,
+    "Recovered": 41836,
+    "Deceased": 506,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42698,
+    "Recovered": 41862,
+    "Deceased": 508,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42722,
+    "Recovered": 41891,
+    "Deceased": 508,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42742,
+    "Recovered": 41923,
+    "Deceased": 509,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42760,
+    "Recovered": 41956,
+    "Deceased": 509,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42769,
+    "Recovered": 41980,
+    "Deceased": 511,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42780,
+    "Recovered": 42001,
+    "Deceased": 511,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42795,
+    "Recovered": 42023,
+    "Deceased": 511,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42809,
+    "Recovered": 42040,
+    "Deceased": 511,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42821,
+    "Recovered": 42061,
+    "Deceased": 513,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42832,
+    "Recovered": 42085,
+    "Deceased": 513,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42843,
+    "Recovered": 42111,
+    "Deceased": 513,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42853,
+    "Recovered": 42139,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42864,
+    "Recovered": 42161,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42875,
+    "Recovered": 42178,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42888,
+    "Recovered": 42197,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42900,
+    "Recovered": 42213,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42914,
+    "Recovered": 42231,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42925,
+    "Recovered": 42252,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42937,
+    "Recovered": 42270,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42952,
+    "Recovered": 42285,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42962,
+    "Recovered": 42302,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42970,
+    "Recovered": 42315,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42981,
+    "Recovered": 42325,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 42989,
+    "Recovered": 42336,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43000,
+    "Recovered": 42349,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43008,
+    "Recovered": 42363,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43016,
+    "Recovered": 42378,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43025,
+    "Recovered": 42390,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43038,
+    "Recovered": 42404,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43047,
+    "Recovered": 42415,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43058,
+    "Recovered": 42429,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43070,
+    "Recovered": 42437,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43080,
+    "Recovered": 42447,
+    "Deceased": 514,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43086,
+    "Recovered": 42460,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43096,
+    "Recovered": 42471,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43107,
+    "Recovered": 42483,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43116,
+    "Recovered": 42490,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43122,
+    "Recovered": 42499,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43127,
+    "Recovered": 42504,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43136,
+    "Recovered": 42511,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43140,
+    "Recovered": 42521,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43154,
+    "Recovered": 42532,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43168,
+    "Recovered": 42544,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43177,
+    "Recovered": 42560,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43184,
+    "Recovered": 42573,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43192,
+    "Recovered": 42583,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43198,
+    "Recovered": 42590,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43200,
+    "Recovered": 42599,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43205,
+    "Recovered": 42607,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43209,
+    "Recovered": 42612,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43212,
+    "Recovered": 42618,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43221,
+    "Recovered": 42625,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43229,
+    "Recovered": 42634,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43237,
+    "Recovered": 42647,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43240,
+    "Recovered": 42656,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43244,
+    "Recovered": 42663,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43247,
+    "Recovered": 42671,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43255,
+    "Recovered": 42678,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43261,
+    "Recovered": 42683,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43268,
+    "Recovered": 42690,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43279,
+    "Recovered": 42695,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43286,
+    "Recovered": 42699,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43295,
+    "Recovered": 42704,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43300,
+    "Recovered": 42711,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43306,
+    "Recovered": 42717,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43314,
+    "Recovered": 42720,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43326,
+    "Recovered": 42725,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43334,
+    "Recovered": 42731,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43343,
+    "Recovered": 42736,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43349,
+    "Recovered": 42740,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43354,
+    "Recovered": 42746,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43361,
+    "Recovered": 42753,
+    "Deceased": 516,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43368,
+    "Recovered": 42761,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43379,
+    "Recovered": 42767,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43389,
+    "Recovered": 42775,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43395,
+    "Recovered": 42781,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43403,
+    "Recovered": 42788,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43413,
+    "Recovered": 42801,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43420,
+    "Recovered": 42816,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43428,
+    "Recovered": 42827,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43436,
+    "Recovered": 42835,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43443,
+    "Recovered": 42839,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43450,
+    "Recovered": 42844,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43460,
+    "Recovered": 42848,
+    "Deceased": 517,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43469,
+    "Recovered": 42854,
+    "Deceased": 519,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43475,
+    "Recovered": 42862,
+    "Deceased": 519,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43481,
+    "Recovered": 42868,
+    "Deceased": 519,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43493,
+    "Recovered": 42872,
+    "Deceased": 519,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43501,
+    "Recovered": 42878,
+    "Deceased": 519,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43508,
+    "Recovered": 42887,
+    "Deceased": 519,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43514,
+    "Recovered": 42895,
+    "Deceased": 519,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43519,
+    "Recovered": 42901,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43522,
+    "Recovered": 42906,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43524,
+    "Recovered": 42913,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43527,
+    "Recovered": 42918,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43531,
+    "Recovered": 42922,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43534,
+    "Recovered": 42930,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43540,
+    "Recovered": 42936,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43543,
+    "Recovered": 42947,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43548,
+    "Recovered": 42961,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43551,
+    "Recovered": 42974,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43554,
+    "Recovered": 42986,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43556,
+    "Recovered": 42995,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43558,
+    "Recovered": 42999,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43561,
+    "Recovered": 43001,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43563,
+    "Recovered": 43004,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43564,
+    "Recovered": 43007,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43565,
+    "Recovered": 43009,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Theni",
+    "cases": 43570,
+    "Recovered": 43013,
+    "Deceased": 520,
+    "Other": 0,
+    "Tested": 45839
+  }
+]
