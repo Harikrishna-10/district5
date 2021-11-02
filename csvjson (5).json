@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 528,
+    "Recovered": 161,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 575,
+    "Recovered": 195,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 678,
+    "Recovered": 195,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 772,
+    "Recovered": 210,
+    "Deceased": 15,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 910,
+    "Recovered": 214,
+    "Deceased": 15,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 1086,
+    "Recovered": 222,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 1260,
+    "Recovered": 223,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 1463,
+    "Recovered": 250,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 1729,
+    "Recovered": 267,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 2007,
+    "Recovered": 319,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 2331,
+    "Recovered": 330,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 2647,
+    "Recovered": 339,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 3046,
+    "Recovered": 374,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 3325,
+    "Recovered": 545,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 3834,
+    "Recovered": 639,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 4372,
+    "Recovered": 706,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 4882,
+    "Recovered": 749,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 5262,
+    "Recovered": 749,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 5637,
+    "Recovered": 758,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 5947,
+    "Recovered": 783,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 6279,
+    "Recovered": 1202,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 6761,
+    "Recovered": 1476,
+    "Deceased": 54,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 7125,
+    "Recovered": 1600,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 7677,
+    "Recovered": 1922,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 8234,
+    "Recovered": 2823,
+    "Deceased": 61,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 8801,
+    "Recovered": 3048,
+    "Deceased": 68,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 9370,
+    "Recovered": 3773,
+    "Deceased": 70,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 9995,
+    "Recovered": 4051,
+    "Deceased": 75,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 10582,
+    "Recovered": 4844,
+    "Deceased": 81,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 11131,
+    "Recovered": 5135,
+    "Deceased": 87,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 11640,
+    "Recovered": 5492,
+    "Deceased": 94,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 12202,
+    "Recovered": 5800,
+    "Deceased": 98,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 12761,
+    "Recovered": 6304,
+    "Deceased": 109,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 13379,
+    "Recovered": 6895,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 13995,
+    "Recovered": 7321,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 14799,
+    "Recovered": 7891,
+    "Deceased": 132,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 15766,
+    "Recovered": 8181,
+    "Deceased": 141,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 16575,
+    "Recovered": 8554,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 17587,
+    "Recovered": 9034,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 18693,
+    "Recovered": 9459,
+    "Deceased": 167,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 19809,
+    "Recovered": 10210,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 20993,
+    "Recovered": 10572,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 85000
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 22149,
+    "Recovered": 10954,
+    "Deceased": 213,
+    "Other": 0,
+    "Tested": 121950
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 23298,
+    "Recovered": 11256,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 121950
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 24545,
+    "Recovered": 11730,
+    "Deceased": 241,
+    "Other": 0,
+    "Tested": 121950
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 25937,
+    "Recovered": 12591,
+    "Deceased": 257,
+    "Other": 0,
+    "Tested": 121950
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 27398,
+    "Recovered": 13808,
+    "Deceased": 276,
+    "Other": 0,
+    "Tested": 121950
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 28924,
+    "Recovered": 14723,
+    "Deceased": 291,
+    "Other": 0,
+    "Tested": 121950
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 30444,
+    "Recovered": 15947,
+    "Deceased": 314,
+    "Other": 0,
+    "Tested": 121950
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 31896,
+    "Recovered": 16881,
+    "Deceased": 344,
+    "Other": 0,
+    "Tested": 121950
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 33244,
+    "Recovered": 17476,
+    "Deceased": 379,
+    "Other": 0,
+    "Tested": 121950
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 34245,
+    "Recovered": 18565,
+    "Deceased": 419,
+    "Other": 0,
+    "Tested": 185000
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 35556,
+    "Recovered": 19027,
+    "Deceased": 458,
+    "Other": 0,
+    "Tested": 185000
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 37070,
+    "Recovered": 19686,
+    "Deceased": 498,
+    "Other": 0,
+    "Tested": 185000
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 38327,
+    "Recovered": 21098,
+    "Deceased": 526,
+    "Other": 0,
+    "Tested": 165609
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 39641,
+    "Recovered": 21796,
+    "Deceased": 556,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 41172,
+    "Recovered": 22887,
+    "Deceased": 598,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 42752,
+    "Recovered": 23756,
+    "Deceased": 620,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 44205,
+    "Recovered": 24670,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 45814,
+    "Recovered": 26472,
+    "Deceased": 665,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 47650,
+    "Recovered": 27986,
+    "Deceased": 691,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 49690,
+    "Recovered": 28823,
+    "Deceased": 727,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 51699,
+    "Recovered": 31045,
+    "Deceased": 773,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 53762,
+    "Recovered": 31858,
+    "Deceased": 806,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 55969,
+    "Recovered": 33441,
+    "Deceased": 843,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 58327,
+    "Recovered": 34828,
+    "Deceased": 885,
+    "Other": 0,
+    "Tested": 170701
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 60533,
+    "Recovered": 36826,
+    "Deceased": 926,
+    "Other": 0,
+    "Tested": 250753
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 62598,
+    "Recovered": 38947,
+    "Deceased": 961,
+    "Other": 0,
+    "Tested": 260897
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 64689,
+    "Recovered": 40111,
+    "Deceased": 993,
+    "Other": 0,
+    "Tested": 271039
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 66538,
+    "Recovered": 41309,
+    "Deceased": 1030,
+    "Other": 0,
+    "Tested": 282153
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 68254,
+    "Recovered": 42309,
+    "Deceased": 1051,
+    "Other": 0,
+    "Tested": 292458
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 70017,
+    "Recovered": 44882,
+    "Deceased": 1079,
+    "Other": 0,
+    "Tested": 301873
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 71230,
+    "Recovered": 47735,
+    "Deceased": 1117,
+    "Other": 0,
+    "Tested": 312012
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 72500,
+    "Recovered": 49587,
+    "Deceased": 1143,
+    "Other": 0,
+    "Tested": 320140
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 73728,
+    "Recovered": 52287,
+    "Deceased": 1166,
+    "Other": 0,
+    "Tested": 328795
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 74969,
+    "Recovered": 55156,
+    "Deceased": 1193,
+    "Other": 0,
+    "Tested": 337984
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 76158,
+    "Recovered": 56947,
+    "Deceased": 1218,
+    "Other": 0,
+    "Tested": 346392
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 77338,
+    "Recovered": 58615,
+    "Deceased": 1250,
+    "Other": 0,
+    "Tested": 356440
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 78573,
+    "Recovered": 60694,
+    "Deceased": 1274,
+    "Other": 0,
+    "Tested": 365041
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 79662,
+    "Recovered": 62552,
+    "Deceased": 1292,
+    "Other": 0,
+    "Tested": 374524
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 80961,
+    "Recovered": 64036,
+    "Deceased": 1315,
+    "Other": 0,
+    "Tested": 385184
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 82128,
+    "Recovered": 65748,
+    "Deceased": 1338,
+    "Other": 0,
+    "Tested": 396518
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 83377,
+    "Recovered": 67077,
+    "Deceased": 1373,
+    "Other": 0,
+    "Tested": 408777
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 84598,
+    "Recovered": 68193,
+    "Deceased": 1404,
+    "Other": 0,
+    "Tested": 421580
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 85859,
+    "Recovered": 69382,
+    "Deceased": 1431,
+    "Other": 0,
+    "Tested": 435610
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 87235,
+    "Recovered": 70651,
+    "Deceased": 1453,
+    "Other": 0,
+    "Tested": 449384
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 88377,
+    "Recovered": 71949,
+    "Deceased": 1472,
+    "Other": 0,
+    "Tested": 460327
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 89561,
+    "Recovered": 73681,
+    "Deceased": 1936,
+    "Other": 0,
+    "Tested": 472778
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 90900,
+    "Recovered": 75384,
+    "Deceased": 1944,
+    "Other": 0,
+    "Tested": 490804
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 92206,
+    "Recovered": 76494,
+    "Deceased": 1966,
+    "Other": 0,
+    "Tested": 503350
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 93537,
+    "Recovered": 77625,
+    "Deceased": 1986,
+    "Other": 0,
+    "Tested": 514387
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 94695,
+    "Recovered": 78940,
+    "Deceased": 2008,
+    "Other": 0,
+    "Tested": 525410
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 95857,
+    "Recovered": 80761,
+    "Deceased": 2029,
+    "Other": 0,
+    "Tested": 536604
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 96438,
+    "Recovered": 81530,
+    "Deceased": 2053,
+    "Other": 0,
+    "Tested": 547951
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 97575,
+    "Recovered": 82764,
+    "Deceased": 2073,
+    "Other": 0,
+    "Tested": 560610
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 98767,
+    "Recovered": 83890,
+    "Deceased": 2092,
+    "Other": 0,
+    "Tested": 573490
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 99794,
+    "Recovered": 84916,
+    "Deceased": 2110,
+    "Other": 0,
+    "Tested": 584866
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 100877,
+    "Recovered": 86301,
+    "Deceased": 2137,
+    "Other": 0,
+    "Tested": 596908
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 101951,
+    "Recovered": 87604,
+    "Deceased": 2154,
+    "Other": 0,
+    "Tested": 609334
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 102985,
+    "Recovered": 88826,
+    "Deceased": 2173,
+    "Other": 0,
+    "Tested": 620417
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 104027,
+    "Recovered": 89969,
+    "Deceased": 2199,
+    "Other": 0,
+    "Tested": 630644
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 105004,
+    "Recovered": 90966,
+    "Deceased": 2224,
+    "Other": 0,
+    "Tested": 642429
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 106096,
+    "Recovered": 92128,
+    "Deceased": 2245,
+    "Other": 0,
+    "Tested": 654024
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 107109,
+    "Recovered": 93231,
+    "Deceased": 2269,
+    "Other": 0,
+    "Tested": 666230
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 108124,
+    "Recovered": 94100,
+    "Deceased": 2287,
+    "Other": 0,
+    "Tested": 680257
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 109117,
+    "Recovered": 95161,
+    "Deceased": 2299,
+    "Other": 0,
+    "Tested": 693049
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 110121,
+    "Recovered": 96466,
+    "Deceased": 2324,
+    "Other": 0,
+    "Tested": 705436
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 111054,
+    "Recovered": 97574,
+    "Deceased": 2347,
+    "Other": 0,
+    "Tested": 716464
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 112059,
+    "Recovered": 98736,
+    "Deceased": 2367,
+    "Other": 0,
+    "Tested": 728913
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 113058,
+    "Recovered": 99806,
+    "Deceased": 2381,
+    "Other": 0,
+    "Tested": 739938
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 114260,
+    "Recovered": 100643,
+    "Deceased": 2405,
+    "Other": 0,
+    "Tested": 752683
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 115444,
+    "Recovered": 101689,
+    "Deceased": 2431,
+    "Other": 0,
+    "Tested": 764433
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 116650,
+    "Recovered": 102698,
+    "Deceased": 2451,
+    "Other": 0,
+    "Tested": 775808
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 117839,
+    "Recovered": 103358,
+    "Deceased": 2475,
+    "Other": 0,
+    "Tested": 787604
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 119059,
+    "Recovered": 104455,
+    "Deceased": 2498,
+    "Other": 0,
+    "Tested": 799029
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 120267,
+    "Recovered": 105494,
+    "Deceased": 2514,
+    "Other": 0,
+    "Tested": 811554
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 121450,
+    "Recovered": 106626,
+    "Deceased": 2534,
+    "Other": 0,
+    "Tested": 824214
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 122757,
+    "Recovered": 107492,
+    "Deceased": 2554,
+    "Other": 0,
+    "Tested": 837196
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 124071,
+    "Recovered": 108545,
+    "Deceased": 2561,
+    "Other": 0,
+    "Tested": 849301
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 125389,
+    "Recovered": 109585,
+    "Deceased": 2578,
+    "Other": 0,
+    "Tested": 861926
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 126677,
+    "Recovered": 110819,
+    "Deceased": 2600,
+    "Other": 0,
+    "Tested": 875050
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 127949,
+    "Recovered": 111955,
+    "Deceased": 2620,
+    "Other": 0,
+    "Tested": 887153
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 129247,
+    "Recovered": 113092,
+    "Deceased": 2635,
+    "Other": 0,
+    "Tested": 900493
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 130564,
+    "Recovered": 114448,
+    "Deceased": 2663,
+    "Other": 0,
+    "Tested": 913950
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 131869,
+    "Recovered": 115649,
+    "Deceased": 2687,
+    "Other": 0,
+    "Tested": 927777
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 133173,
+    "Recovered": 116808,
+    "Deceased": 2709,
+    "Other": 0,
+    "Tested": 941342
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 134436,
+    "Recovered": 118235,
+    "Deceased": 2726,
+    "Other": 0,
+    "Tested": 954442
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 135597,
+    "Recovered": 119626,
+    "Deceased": 2744,
+    "Other": 0,
+    "Tested": 967585
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 136697,
+    "Recovered": 120820,
+    "Deceased": 2767,
+    "Other": 0,
+    "Tested": 980908
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 137732,
+    "Recovered": 122407,
+    "Deceased": 2785,
+    "Other": 0,
+    "Tested": 994038
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 138724,
+    "Recovered": 123851,
+    "Deceased": 2811,
+    "Other": 0,
+    "Tested": 1005363
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 139720,
+    "Recovered": 124891,
+    "Deceased": 2823,
+    "Other": 0,
+    "Tested": 1017889
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 140685,
+    "Recovered": 126428,
+    "Deceased": 2845,
+    "Other": 0,
+    "Tested": 1030245
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 141654,
+    "Recovered": 127528,
+    "Deceased": 2859,
+    "Other": 0,
+    "Tested": 1042599
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 142603,
+    "Recovered": 128580,
+    "Deceased": 2875,
+    "Other": 0,
+    "Tested": 1053776
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 143602,
+    "Recovered": 129677,
+    "Deceased": 2893,
+    "Other": 0,
+    "Tested": 1065920
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 144595,
+    "Recovered": 130831,
+    "Deceased": 2907,
+    "Other": 0,
+    "Tested": 1078038
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 145606,
+    "Recovered": 131840,
+    "Deceased": 2918,
+    "Other": 0,
+    "Tested": 1090578
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 146593,
+    "Recovered": 132772,
+    "Deceased": 2939,
+    "Other": 0,
+    "Tested": 1103204
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 147591,
+    "Recovered": 133987,
+    "Deceased": 2956,
+    "Other": 0,
+    "Tested": 1115566
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 148584,
+    "Recovered": 135215,
+    "Deceased": 2973,
+    "Other": 0,
+    "Tested": 1127746
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 149583,
+    "Recovered": 136155,
+    "Deceased": 2989,
+    "Other": 0,
+    "Tested": 1139926
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 150572,
+    "Recovered": 137685,
+    "Deceased": 3001,
+    "Other": 0,
+    "Tested": 1152236
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 151560,
+    "Recovered": 138714,
+    "Deceased": 3010,
+    "Other": 0,
+    "Tested": 1164178
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 152567,
+    "Recovered": 139670,
+    "Deceased": 3020,
+    "Other": 0,
+    "Tested": 1176047
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 153616,
+    "Recovered": 140633,
+    "Deceased": 3034,
+    "Other": 0,
+    "Tested": 1187947
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 154624,
+    "Recovered": 141612,
+    "Deceased": 3043,
+    "Other": 0,
+    "Tested": 1199474
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 155639,
+    "Recovered": 142875,
+    "Deceased": 3055,
+    "Other": 0,
+    "Tested": 1211174
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 156625,
+    "Recovered": 143680,
+    "Deceased": 3071,
+    "Other": 0,
+    "Tested": 1222797
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 157614,
+    "Recovered": 144511,
+    "Deceased": 3088,
+    "Other": 0,
+    "Tested": 1234322
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 158594,
+    "Recovered": 145629,
+    "Deceased": 3094,
+    "Other": 0,
+    "Tested": 1245997
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 159683,
+    "Recovered": 146634,
+    "Deceased": 3108,
+    "Other": 0,
+    "Tested": 1259502
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 160926,
+    "Recovered": 147798,
+    "Deceased": 3125,
+    "Other": 0,
+    "Tested": 1272602
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 162125,
+    "Recovered": 148665,
+    "Deceased": 3146,
+    "Other": 0,
+    "Tested": 1285027
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 163423,
+    "Recovered": 149601,
+    "Deceased": 3163,
+    "Other": 0,
+    "Tested": 1297816
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 164744,
+    "Recovered": 150522,
+    "Deceased": 3176,
+    "Other": 0,
+    "Tested": 1310116
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 166029,
+    "Recovered": 151641,
+    "Deceased": 3192,
+    "Other": 0,
+    "Tested": 1323241
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 167376,
+    "Recovered": 152846,
+    "Deceased": 3207,
+    "Other": 0,
+    "Tested": 1335377
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 168689,
+    "Recovered": 153846,
+    "Deceased": 3225,
+    "Other": 0,
+    "Tested": 1348512
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 170025,
+    "Recovered": 154771,
+    "Deceased": 3238,
+    "Other": 0,
+    "Tested": 1360742
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 171415,
+    "Recovered": 155842,
+    "Deceased": 3259,
+    "Other": 0,
+    "Tested": 1374442
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 172773,
+    "Recovered": 157216,
+    "Deceased": 3271,
+    "Other": 0,
+    "Tested": 1387968
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 174143,
+    "Recovered": 158290,
+    "Deceased": 3290,
+    "Other": 0,
+    "Tested": 1401893
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 175484,
+    "Recovered": 159237,
+    "Deceased": 3315,
+    "Other": 0,
+    "Tested": 1415668
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 176779,
+    "Recovered": 160333,
+    "Deceased": 3333,
+    "Other": 0,
+    "Tested": 1429793
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 178108,
+    "Recovered": 161477,
+    "Deceased": 3348,
+    "Other": 0,
+    "Tested": 1443358
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 179424,
+    "Recovered": 162605,
+    "Deceased": 3370,
+    "Other": 0,
+    "Tested": 1457283
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 180751,
+    "Recovered": 163778,
+    "Deceased": 3393,
+    "Other": 0,
+    "Tested": 1470699
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 182014,
+    "Recovered": 164848,
+    "Deceased": 3412,
+    "Other": 0,
+    "Tested": 1484506
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 183251,
+    "Recovered": 166067,
+    "Deceased": 3425,
+    "Other": 0,
+    "Tested": 1497631
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 184429,
+    "Recovered": 167284,
+    "Deceased": 3438,
+    "Other": 0,
+    "Tested": 1510829
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 185573,
+    "Recovered": 168633,
+    "Deceased": 3449,
+    "Other": 0,
+    "Tested": 1524377
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 186667,
+    "Recovered": 169890,
+    "Deceased": 3470,
+    "Other": 0,
+    "Tested": 1538065
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 187852,
+    "Recovered": 171075,
+    "Deceased": 3488,
+    "Other": 0,
+    "Tested": 1551430
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 188944,
+    "Recovered": 172533,
+    "Deceased": 3501,
+    "Other": 0,
+    "Tested": 1564783
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 189995,
+    "Recovered": 173892,
+    "Deceased": 3517,
+    "Other": 0,
+    "Tested": 1577454
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 190949,
+    "Recovered": 175128,
+    "Deceased": 3536,
+    "Other": 0,
+    "Tested": 1589555
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 191754,
+    "Recovered": 176363,
+    "Deceased": 3543,
+    "Other": 0,
+    "Tested": 1601466
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 192527,
+    "Recovered": 177546,
+    "Deceased": 3553,
+    "Other": 0,
+    "Tested": 1613595
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 193299,
+    "Recovered": 178623,
+    "Deceased": 3566,
+    "Other": 0,
+    "Tested": 1625251
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 194139,
+    "Recovered": 179931,
+    "Deceased": 3577,
+    "Other": 0,
+    "Tested": 1637073
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 194901,
+    "Recovered": 181171,
+    "Deceased": 3580,
+    "Other": 0,
+    "Tested": 1648235
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 195672,
+    "Recovered": 182441,
+    "Deceased": 3589,
+    "Other": 0,
+    "Tested": 1659294
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 196378,
+    "Recovered": 183923,
+    "Deceased": 3596,
+    "Other": 0,
+    "Tested": 1669883
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 197077,
+    "Recovered": 185374,
+    "Deceased": 3604,
+    "Other": 0,
+    "Tested": 1680152
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 197751,
+    "Recovered": 186331,
+    "Deceased": 3613,
+    "Other": 0,
+    "Tested": 1690893
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 198487,
+    "Recovered": 187233,
+    "Deceased": 3623,
+    "Other": 0,
+    "Tested": 1701818
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 199173,
+    "Recovered": 188280,
+    "Deceased": 3636,
+    "Other": 0,
+    "Tested": 1713135
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 199916,
+    "Recovered": 189074,
+    "Deceased": 3648,
+    "Other": 0,
+    "Tested": 1723698
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 200533,
+    "Recovered": 189866,
+    "Deceased": 3659,
+    "Other": 0,
+    "Tested": 1734493
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 201195,
+    "Recovered": 191104,
+    "Deceased": 3666,
+    "Other": 0,
+    "Tested": 1745124
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 201848,
+    "Recovered": 191787,
+    "Deceased": 3674,
+    "Other": 0,
+    "Tested": 1755544
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 202495,
+    "Recovered": 192631,
+    "Deceased": 3679,
+    "Other": 0,
+    "Tested": 1766457
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 203085,
+    "Recovered": 193312,
+    "Deceased": 3690,
+    "Other": 0,
+    "Tested": 1778022
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 203685,
+    "Recovered": 193962,
+    "Deceased": 3703,
+    "Other": 0,
+    "Tested": 1789514
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 204258,
+    "Recovered": 194616,
+    "Deceased": 3708,
+    "Other": 0,
+    "Tested": 1800785
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 204862,
+    "Recovered": 195291,
+    "Deceased": 3713,
+    "Other": 0,
+    "Tested": 1811308
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 205419,
+    "Recovered": 195880,
+    "Deceased": 3723,
+    "Other": 0,
+    "Tested": 1822176
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 206024,
+    "Recovered": 196471,
+    "Deceased": 3731,
+    "Other": 0,
+    "Tested": 1832739
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 206588,
+    "Recovered": 197091,
+    "Deceased": 3744,
+    "Other": 0,
+    "Tested": 1842822
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 207173,
+    "Recovered": 197772,
+    "Deceased": 3750,
+    "Other": 0,
+    "Tested": 1853454
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 207686,
+    "Recovered": 198459,
+    "Deceased": 3755,
+    "Other": 0,
+    "Tested": 1863645
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 208179,
+    "Recovered": 199125,
+    "Deceased": 3759,
+    "Other": 0,
+    "Tested": 1873070
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 208668,
+    "Recovered": 199805,
+    "Deceased": 3762,
+    "Other": 0,
+    "Tested": 1881094
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 209167,
+    "Recovered": 200417,
+    "Deceased": 3769,
+    "Other": 0,
+    "Tested": 1888639
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 209646,
+    "Recovered": 201041,
+    "Deceased": 3780,
+    "Other": 0,
+    "Tested": 1896433
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 210135,
+    "Recovered": 201649,
+    "Deceased": 3785,
+    "Other": 0,
+    "Tested": 1906844
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 210601,
+    "Recovered": 202242,
+    "Deceased": 3789,
+    "Other": 0,
+    "Tested": 1915853
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 211084,
+    "Recovered": 202660,
+    "Deceased": 3799,
+    "Other": 0,
+    "Tested": 1925862
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 211555,
+    "Recovered": 203249,
+    "Deceased": 3805,
+    "Other": 0,
+    "Tested": 1935925
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 212014,
+    "Recovered": 203824,
+    "Deceased": 3813,
+    "Other": 0,
+    "Tested": 1945505
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 212504,
+    "Recovered": 204328,
+    "Deceased": 3819,
+    "Other": 0,
+    "Tested": 1955800
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 212970,
+    "Recovered": 204842,
+    "Deceased": 3826,
+    "Other": 0,
+    "Tested": 1966063
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 213417,
+    "Recovered": 205378,
+    "Deceased": 3830,
+    "Other": 0,
+    "Tested": 1976259
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 213801,
+    "Recovered": 205944,
+    "Deceased": 3834,
+    "Other": 0,
+    "Tested": 1983755
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 214191,
+    "Recovered": 206429,
+    "Deceased": 3835,
+    "Other": 0,
+    "Tested": 1992320
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 214577,
+    "Recovered": 206897,
+    "Deceased": 3840,
+    "Other": 0,
+    "Tested": 2000885
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 214976,
+    "Recovered": 207375,
+    "Deceased": 3844,
+    "Other": 0,
+    "Tested": 2011056
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 215360,
+    "Recovered": 207761,
+    "Deceased": 3847,
+    "Other": 0,
+    "Tested": 2021179
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 215739,
+    "Recovered": 208183,
+    "Deceased": 3851,
+    "Other": 0,
+    "Tested": 2030542
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 216119,
+    "Recovered": 208678,
+    "Deceased": 3854,
+    "Other": 0,
+    "Tested": 2040815
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 216496,
+    "Recovered": 209097,
+    "Deceased": 3860,
+    "Other": 0,
+    "Tested": 2051343
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 216867,
+    "Recovered": 209549,
+    "Deceased": 3864,
+    "Other": 0,
+    "Tested": 2061651
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 217204,
+    "Recovered": 209997,
+    "Deceased": 3868,
+    "Other": 0,
+    "Tested": 2072449
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 217542,
+    "Recovered": 210410,
+    "Deceased": 3872,
+    "Other": 0,
+    "Tested": 2082677
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 217850,
+    "Recovered": 210769,
+    "Deceased": 3879,
+    "Other": 0,
+    "Tested": 2092183
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 218198,
+    "Recovered": 211061,
+    "Deceased": 3882,
+    "Other": 0,
+    "Tested": 2102315
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 218549,
+    "Recovered": 211420,
+    "Deceased": 3890,
+    "Other": 0,
+    "Tested": 2113404
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 218856,
+    "Recovered": 211716,
+    "Deceased": 3895,
+    "Other": 0,
+    "Tested": 2123274
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 219168,
+    "Recovered": 212031,
+    "Deceased": 3901,
+    "Other": 0,
+    "Tested": 2133337
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 219526,
+    "Recovered": 212390,
+    "Deceased": 3907,
+    "Other": 0,
+    "Tested": 2144699
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 219861,
+    "Recovered": 212756,
+    "Deceased": 3914,
+    "Other": 0,
+    "Tested": 2155835
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 220211,
+    "Recovered": 213134,
+    "Deceased": 3921,
+    "Other": 0,
+    "Tested": 2166294
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 220560,
+    "Recovered": 213509,
+    "Deceased": 3926,
+    "Other": 0,
+    "Tested": 2175876
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 220903,
+    "Recovered": 213879,
+    "Deceased": 3928,
+    "Other": 0,
+    "Tested": 2187084
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 221244,
+    "Recovered": 214255,
+    "Deceased": 3932,
+    "Other": 0,
+    "Tested": 2198414
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 221587,
+    "Recovered": 214612,
+    "Deceased": 3935,
+    "Other": 0,
+    "Tested": 2209467
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 221937,
+    "Recovered": 214968,
+    "Deceased": 3944,
+    "Other": 0,
+    "Tested": 2220587
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 222258,
+    "Recovered": 215286,
+    "Deceased": 3951,
+    "Other": 0,
+    "Tested": 2231739
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 222580,
+    "Recovered": 215603,
+    "Deceased": 3957,
+    "Other": 0,
+    "Tested": 2243309
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 222888,
+    "Recovered": 215898,
+    "Deceased": 3965,
+    "Other": 0,
+    "Tested": 2254887
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 223209,
+    "Recovered": 216214,
+    "Deceased": 3970,
+    "Other": 0,
+    "Tested": 2266805
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 223509,
+    "Recovered": 216551,
+    "Deceased": 3976,
+    "Other": 0,
+    "Tested": 2279150
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 223799,
+    "Recovered": 216883,
+    "Deceased": 3981,
+    "Other": 0,
+    "Tested": 2290975
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 224094,
+    "Recovered": 217155,
+    "Deceased": 3985,
+    "Other": 0,
+    "Tested": 2301734
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 224386,
+    "Recovered": 217539,
+    "Deceased": 3990,
+    "Other": 0,
+    "Tested": 2312655
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 224672,
+    "Recovered": 217902,
+    "Deceased": 3993,
+    "Other": 0,
+    "Tested": 2322870
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 224958,
+    "Recovered": 218250,
+    "Deceased": 3994,
+    "Other": 0,
+    "Tested": 2332960
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 225252,
+    "Recovered": 218570,
+    "Deceased": 4001,
+    "Other": 0,
+    "Tested": 2343608
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 225507,
+    "Recovered": 218882,
+    "Deceased": 4005,
+    "Other": 0,
+    "Tested": 2355148
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 225758,
+    "Recovered": 219216,
+    "Deceased": 4011,
+    "Other": 0,
+    "Tested": 2366525
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 225998,
+    "Recovered": 219518,
+    "Deceased": 4015,
+    "Other": 0,
+    "Tested": 2366525
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 226234,
+    "Recovered": 219805,
+    "Deceased": 4020,
+    "Other": 0,
+    "Tested": 2376538
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 226456,
+    "Recovered": 220072,
+    "Deceased": 4022,
+    "Other": 0,
+    "Tested": 2386615
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 226700,
+    "Recovered": 220328,
+    "Deceased": 4027,
+    "Other": 0,
+    "Tested": 2396998
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 226937,
+    "Recovered": 220575,
+    "Deceased": 4032,
+    "Other": 0,
+    "Tested": 2407324
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 227145,
+    "Recovered": 220833,
+    "Deceased": 4035,
+    "Other": 0,
+    "Tested": 2417383
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 227353,
+    "Recovered": 221080,
+    "Deceased": 4039,
+    "Other": 0,
+    "Tested": 2427411
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 227575,
+    "Recovered": 221333,
+    "Deceased": 4041,
+    "Other": 0,
+    "Tested": 2437921
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 227800,
+    "Recovered": 221573,
+    "Deceased": 4042,
+    "Other": 0,
+    "Tested": 2448761
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 227975,
+    "Recovered": 221820,
+    "Deceased": 4045,
+    "Other": 0,
+    "Tested": 2458784
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 228169,
+    "Recovered": 222039,
+    "Deceased": 4050,
+    "Other": 0,
+    "Tested": 2468882
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 228368,
+    "Recovered": 222272,
+    "Deceased": 4051,
+    "Other": 0,
+    "Tested": 2479104
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 228566,
+    "Recovered": 222501,
+    "Deceased": 4054,
+    "Other": 0,
+    "Tested": 2489122
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 228746,
+    "Recovered": 222716,
+    "Deceased": 4056,
+    "Other": 0,
+    "Tested": 2498972
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 228911,
+    "Recovered": 222903,
+    "Deceased": 4059,
+    "Other": 0,
+    "Tested": 2507999
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 229074,
+    "Recovered": 223050,
+    "Deceased": 4062,
+    "Other": 0,
+    "Tested": 2517628
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 229238,
+    "Recovered": 223230,
+    "Deceased": 4066,
+    "Other": 0,
+    "Tested": 2526954
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 229386,
+    "Recovered": 223421,
+    "Deceased": 4069,
+    "Other": 0,
+    "Tested": 2536002
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 229537,
+    "Recovered": 223594,
+    "Deceased": 4073,
+    "Other": 0,
+    "Tested": 2546139
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 229705,
+    "Recovered": 223783,
+    "Deceased": 4077,
+    "Other": 0,
+    "Tested": 2556239
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 229860,
+    "Recovered": 223986,
+    "Deceased": 4081,
+    "Other": 0,
+    "Tested": 2567081
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 230026,
+    "Recovered": 224192,
+    "Deceased": 4082,
+    "Other": 0,
+    "Tested": 2577828
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 230195,
+    "Recovered": 224417,
+    "Deceased": 4082,
+    "Other": 0,
+    "Tested": 2588432
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 230346,
+    "Recovered": 224626,
+    "Deceased": 4083,
+    "Other": 0,
+    "Tested": 2598521
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 230522,
+    "Recovered": 224818,
+    "Deceased": 4085,
+    "Other": 0,
+    "Tested": 2608234
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 230675,
+    "Recovered": 224980,
+    "Deceased": 4089,
+    "Other": 0,
+    "Tested": 2618758
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 230834,
+    "Recovered": 225156,
+    "Deceased": 4093,
+    "Other": 0,
+    "Tested": 2628410
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 230982,
+    "Recovered": 225325,
+    "Deceased": 4094,
+    "Other": 0,
+    "Tested": 2638508
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 231148,
+    "Recovered": 225487,
+    "Deceased": 4095,
+    "Other": 0,
+    "Tested": 2648232
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 231286,
+    "Recovered": 225630,
+    "Deceased": 4099,
+    "Other": 0,
+    "Tested": 2658351
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 231424,
+    "Recovered": 225729,
+    "Deceased": 4106,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 231563,
+    "Recovered": 225869,
+    "Deceased": 4107,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 231711,
+    "Recovered": 226013,
+    "Deceased": 4108,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 231855,
+    "Recovered": 226172,
+    "Deceased": 4108,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 232013,
+    "Recovered": 226325,
+    "Deceased": 4110,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 232168,
+    "Recovered": 226487,
+    "Deceased": 4111,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 232316,
+    "Recovered": 226643,
+    "Deceased": 4111,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 232464,
+    "Recovered": 226797,
+    "Deceased": 4113,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 232603,
+    "Recovered": 226935,
+    "Deceased": 4115,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 232765,
+    "Recovered": 227091,
+    "Deceased": 4115,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 232918,
+    "Recovered": 227226,
+    "Deceased": 4117,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 233046,
+    "Recovered": 227363,
+    "Deceased": 4118,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 233194,
+    "Recovered": 227492,
+    "Deceased": 4119,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 233334,
+    "Recovered": 227652,
+    "Deceased": 4120,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 233482,
+    "Recovered": 227789,
+    "Deceased": 4122,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 233619,
+    "Recovered": 227928,
+    "Deceased": 4124,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 233779,
+    "Recovered": 228048,
+    "Deceased": 4124,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 233936,
+    "Recovered": 228176,
+    "Deceased": 4128,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 234072,
+    "Recovered": 228315,
+    "Deceased": 4131,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 234191,
+    "Recovered": 228460,
+    "Deceased": 4134,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 234345,
+    "Recovered": 228580,
+    "Deceased": 4135,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 234491,
+    "Recovered": 228697,
+    "Deceased": 4139,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 234652,
+    "Recovered": 228810,
+    "Deceased": 4139,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 234837,
+    "Recovered": 228942,
+    "Deceased": 4142,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 235005,
+    "Recovered": 229080,
+    "Deceased": 4145,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 235169,
+    "Recovered": 229233,
+    "Deceased": 4147,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 235350,
+    "Recovered": 229424,
+    "Deceased": 4149,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 235532,
+    "Recovered": 229603,
+    "Deceased": 4150,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 235721,
+    "Recovered": 229783,
+    "Deceased": 4152,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 235888,
+    "Recovered": 229961,
+    "Deceased": 4153,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 236072,
+    "Recovered": 230131,
+    "Deceased": 4154,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 236260,
+    "Recovered": 230298,
+    "Deceased": 4157,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 236485,
+    "Recovered": 230487,
+    "Deceased": 4158,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 236728,
+    "Recovered": 230708,
+    "Deceased": 4160,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 236978,
+    "Recovered": 230936,
+    "Deceased": 4161,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 237204,
+    "Recovered": 231172,
+    "Deceased": 4163,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 237444,
+    "Recovered": 231399,
+    "Deceased": 4166,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 237716,
+    "Recovered": 231630,
+    "Deceased": 4168,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 238007,
+    "Recovered": 231893,
+    "Deceased": 4171,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 238288,
+    "Recovered": 232151,
+    "Deceased": 4173,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 238559,
+    "Recovered": 232402,
+    "Deceased": 4174,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 238820,
+    "Recovered": 232663,
+    "Deceased": 4175,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 239131,
+    "Recovered": 232929,
+    "Deceased": 4176,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 239483,
+    "Recovered": 233166,
+    "Deceased": 4179,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 239878,
+    "Recovered": 233414,
+    "Deceased": 4184,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 240245,
+    "Recovered": 233661,
+    "Deceased": 4187,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 240671,
+    "Recovered": 233925,
+    "Deceased": 4191,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 241127,
+    "Recovered": 234184,
+    "Deceased": 4193,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 241623,
+    "Recovered": 234441,
+    "Deceased": 4194,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 242115,
+    "Recovered": 234702,
+    "Deceased": 4199,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 242647,
+    "Recovered": 235000,
+    "Deceased": 4203,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 243287,
+    "Recovered": 235325,
+    "Deceased": 4208,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 243954,
+    "Recovered": 235654,
+    "Deceased": 4215,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 244686,
+    "Recovered": 236048,
+    "Deceased": 4219,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 245483,
+    "Recovered": 236472,
+    "Deceased": 4223,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 246339,
+    "Recovered": 236911,
+    "Deceased": 4227,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 247148,
+    "Recovered": 237375,
+    "Deceased": 4229,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 248031,
+    "Recovered": 237900,
+    "Deceased": 4233,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 248965,
+    "Recovered": 238467,
+    "Deceased": 4240,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 250000,
+    "Recovered": 239056,
+    "Deceased": 4246,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 251141,
+    "Recovered": 239724,
+    "Deceased": 4253,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 252431,
+    "Recovered": 240454,
+    "Deceased": 4261,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 253760,
+    "Recovered": 241246,
+    "Deceased": 4265,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 255074,
+    "Recovered": 241808,
+    "Deceased": 4272,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 256359,
+    "Recovered": 242324,
+    "Deceased": 4277,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 257851,
+    "Recovered": 242880,
+    "Deceased": 4283,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 259320,
+    "Recovered": 243395,
+    "Deceased": 4289,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 261072,
+    "Recovered": 243909,
+    "Deceased": 4299,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 263129,
+    "Recovered": 244435,
+    "Deceased": 4309,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 265126,
+    "Recovered": 245041,
+    "Deceased": 4321,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 267181,
+    "Recovered": 245751,
+    "Deceased": 4329,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 269614,
+    "Recovered": 246604,
+    "Deceased": 4334,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 272118,
+    "Recovered": 247630,
+    "Deceased": 4341,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 274734,
+    "Recovered": 248990,
+    "Deceased": 4350,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 277300,
+    "Recovered": 250516,
+    "Deceased": 4361,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 280184,
+    "Recovered": 252173,
+    "Deceased": 4383,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 283436,
+    "Recovered": 254025,
+    "Deceased": 4397,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 286569,
+    "Recovered": 255960,
+    "Deceased": 4412,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 290364,
+    "Recovered": 257927,
+    "Deceased": 4429,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 294073,
+    "Recovered": 260367,
+    "Deceased": 4447,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 297814,
+    "Recovered": 262939,
+    "Deceased": 4471,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 301541,
+    "Recovered": 265859,
+    "Deceased": 4509,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 305570,
+    "Recovered": 269526,
+    "Deceased": 4535,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 309899,
+    "Recovered": 273797,
+    "Deceased": 4564,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 314074,
+    "Recovered": 278330,
+    "Deceased": 4599,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 318614,
+    "Recovered": 282849,
+    "Deceased": 4626,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 323452,
+    "Recovered": 287496,
+    "Deceased": 4658,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 328520,
+    "Recovered": 292511,
+    "Deceased": 4698,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 333804,
+    "Recovered": 297838,
+    "Deceased": 4741,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 339797,
+    "Recovered": 303531,
+    "Deceased": 4788,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 345966,
+    "Recovered": 309233,
+    "Deceased": 4817,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 352260,
+    "Recovered": 314617,
+    "Deceased": 4855,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 358573,
+    "Recovered": 320457,
+    "Deceased": 4891,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 364081,
+    "Recovered": 326212,
+    "Deceased": 4949,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 370596,
+    "Recovered": 332259,
+    "Deceased": 5018,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 377042,
+    "Recovered": 338893,
+    "Deceased": 5078,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 383644,
+    "Recovered": 345633,
+    "Deceased": 5150,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 390589,
+    "Recovered": 352517,
+    "Deceased": 5206,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 397498,
+    "Recovered": 357069,
+    "Deceased": 5273,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 404733,
+    "Recovered": 361652,
+    "Deceased": 5365,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 412505,
+    "Recovered": 366434,
+    "Deceased": 5455,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 419261,
+    "Recovered": 371136,
+    "Deceased": 5543,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 425603,
+    "Recovered": 375669,
+    "Deceased": 5618,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 432344,
+    "Recovered": 380274,
+    "Deceased": 5700,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 438391,
+    "Recovered": 385297,
+    "Deceased": 5761,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 444371,
+    "Recovered": 390364,
+    "Deceased": 5851,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 450267,
+    "Recovered": 395873,
+    "Deceased": 5939,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 456496,
+    "Recovered": 402139,
+    "Deceased": 6031,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 462448,
+    "Recovered": 408676,
+    "Deceased": 6105,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 468262,
+    "Recovered": 413266,
+    "Deceased": 6214,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 473671,
+    "Recovered": 418137,
+    "Deceased": 6298,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 478710,
+    "Recovered": 423276,
+    "Deceased": 6379,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 483757,
+    "Recovered": 429146,
+    "Deceased": 6460,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 487691,
+    "Recovered": 433592,
+    "Deceased": 6546,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 491197,
+    "Recovered": 438815,
+    "Deceased": 6644,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 493881,
+    "Recovered": 443534,
+    "Deceased": 6723,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 496706,
+    "Recovered": 448377,
+    "Deceased": 6831,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 499298,
+    "Recovered": 453704,
+    "Deceased": 6914,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 501930,
+    "Recovered": 459499,
+    "Deceased": 7008,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 504502,
+    "Recovered": 463489,
+    "Deceased": 7091,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 506937,
+    "Recovered": 467723,
+    "Deceased": 7145,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 509234,
+    "Recovered": 472186,
+    "Deceased": 7222,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 511258,
+    "Recovered": 475781,
+    "Deceased": 7291,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 513229,
+    "Recovered": 479145,
+    "Deceased": 7362,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 515018,
+    "Recovered": 483303,
+    "Deceased": 7425,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 516628,
+    "Recovered": 487749,
+    "Deceased": 7475,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 518162,
+    "Recovered": 491462,
+    "Deceased": 7516,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 519574,
+    "Recovered": 495305,
+    "Deceased": 7560,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 520877,
+    "Recovered": 498586,
+    "Deceased": 7613,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 522052,
+    "Recovered": 502184,
+    "Deceased": 7658,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 523123,
+    "Recovered": 504561,
+    "Deceased": 7720,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 524085,
+    "Recovered": 506454,
+    "Deceased": 7793,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 525009,
+    "Recovered": 508043,
+    "Deceased": 7826,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 525826,
+    "Recovered": 509497,
+    "Deceased": 7854,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 526614,
+    "Recovered": 511274,
+    "Deceased": 7876,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 527283,
+    "Recovered": 512832,
+    "Deceased": 7920,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 527835,
+    "Recovered": 515199,
+    "Deceased": 7953,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 528322,
+    "Recovered": 516961,
+    "Deceased": 8001,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 528768,
+    "Recovered": 518474,
+    "Deceased": 8032,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 529211,
+    "Recovered": 519849,
+    "Deceased": 8046,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 529650,
+    "Recovered": 520236,
+    "Deceased": 8071,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 530034,
+    "Recovered": 518588,
+    "Deceased": 8095,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 530432,
+    "Recovered": 518870,
+    "Deceased": 8115,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 530789,
+    "Recovered": 519128,
+    "Deceased": 8131,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 531127,
+    "Recovered": 519373,
+    "Deceased": 8143,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 531443,
+    "Recovered": 519701,
+    "Deceased": 8152,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 531732,
+    "Recovered": 520016,
+    "Deceased": 8161,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 532006,
+    "Recovered": 520379,
+    "Deceased": 8165,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 532272,
+    "Recovered": 520793,
+    "Deceased": 8172,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 532529,
+    "Recovered": 521221,
+    "Deceased": 8187,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 532759,
+    "Recovered": 521637,
+    "Deceased": 8191,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 532992,
+    "Recovered": 522083,
+    "Deceased": 8196,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 533224,
+    "Recovered": 522561,
+    "Deceased": 8217,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 533432,
+    "Recovered": 523042,
+    "Deceased": 8222,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 533637,
+    "Recovered": 523473,
+    "Deceased": 8227,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 533849,
+    "Recovered": 523841,
+    "Deceased": 8232,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 534037,
+    "Recovered": 524145,
+    "Deceased": 8238,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 534310,
+    "Recovered": 524408,
+    "Deceased": 8245,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 534557,
+    "Recovered": 524659,
+    "Deceased": 8252,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 534819,
+    "Recovered": 524904,
+    "Deceased": 8256,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 535044,
+    "Recovered": 525127,
+    "Deceased": 8256,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 535278,
+    "Recovered": 525336,
+    "Deceased": 8262,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 535439,
+    "Recovered": 525523,
+    "Deceased": 8267,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 535588,
+    "Recovered": 525687,
+    "Deceased": 8272,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 535747,
+    "Recovered": 525835,
+    "Deceased": 8279,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 535902,
+    "Recovered": 525977,
+    "Deceased": 8286,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 536032,
+    "Recovered": 526108,
+    "Deceased": 8292,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 536206,
+    "Recovered": 526247,
+    "Deceased": 8296,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 536351,
+    "Recovered": 526369,
+    "Deceased": 8299,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 536493,
+    "Recovered": 526504,
+    "Deceased": 8302,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 536623,
+    "Recovered": 526646,
+    "Deceased": 8304,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 536756,
+    "Recovered": 526793,
+    "Deceased": 8305,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 536883,
+    "Recovered": 526945,
+    "Deceased": 8305,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 537013,
+    "Recovered": 527102,
+    "Deceased": 8307,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 537124,
+    "Recovered": 527263,
+    "Deceased": 8310,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 537249,
+    "Recovered": 527435,
+    "Deceased": 8312,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 537386,
+    "Recovered": 527594,
+    "Deceased": 8312,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 537546,
+    "Recovered": 527757,
+    "Deceased": 8315,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 537732,
+    "Recovered": 527908,
+    "Deceased": 8316,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 537951,
+    "Recovered": 528064,
+    "Deceased": 8318,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 538152,
+    "Recovered": 528207,
+    "Deceased": 8318,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 538326,
+    "Recovered": 528333,
+    "Deceased": 8318,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 538521,
+    "Recovered": 528465,
+    "Deceased": 8321,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 538727,
+    "Recovered": 528603,
+    "Deceased": 8322,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 538908,
+    "Recovered": 528745,
+    "Deceased": 8323,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 539105,
+    "Recovered": 528891,
+    "Deceased": 8327,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 539291,
+    "Recovered": 529046,
+    "Deceased": 8335,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 539487,
+    "Recovered": 529191,
+    "Deceased": 8337,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 539667,
+    "Recovered": 529348,
+    "Deceased": 8338,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 539856,
+    "Recovered": 529522,
+    "Deceased": 8340,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 540063,
+    "Recovered": 529716,
+    "Deceased": 8342,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 540300,
+    "Recovered": 529907,
+    "Deceased": 8345,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 540523,
+    "Recovered": 530095,
+    "Deceased": 8347,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 540739,
+    "Recovered": 530289,
+    "Deceased": 8352,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 540971,
+    "Recovered": 530503,
+    "Deceased": 8356,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 541194,
+    "Recovered": 530724,
+    "Deceased": 8359,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 541402,
+    "Recovered": 530959,
+    "Deceased": 8363,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 541616,
+    "Recovered": 531173,
+    "Deceased": 8367,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 541809,
+    "Recovered": 531379,
+    "Deceased": 8369,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 542010,
+    "Recovered": 531563,
+    "Deceased": 8373,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 542198,
+    "Recovered": 531730,
+    "Deceased": 8374,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 542378,
+    "Recovered": 531883,
+    "Deceased": 8375,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 542555,
+    "Recovered": 532047,
+    "Deceased": 8379,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 542729,
+    "Recovered": 532251,
+    "Deceased": 8383,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 542902,
+    "Recovered": 532467,
+    "Deceased": 8386,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 543065,
+    "Recovered": 532676,
+    "Deceased": 8387,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 543249,
+    "Recovered": 532887,
+    "Deceased": 8387,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 543408,
+    "Recovered": 533095,
+    "Deceased": 8391,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 543599,
+    "Recovered": 533298,
+    "Deceased": 8395,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 543786,
+    "Recovered": 533516,
+    "Deceased": 8397,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 543968,
+    "Recovered": 533743,
+    "Deceased": 8398,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 544153,
+    "Recovered": 533961,
+    "Deceased": 8400,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 544323,
+    "Recovered": 534166,
+    "Deceased": 8402,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 544489,
+    "Recovered": 534351,
+    "Deceased": 8404,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 544648,
+    "Recovered": 534523,
+    "Deceased": 8405,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 544815,
+    "Recovered": 534680,
+    "Deceased": 8408,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 544983,
+    "Recovered": 534828,
+    "Deceased": 8410,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 545158,
+    "Recovered": 534973,
+    "Deceased": 8413,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 545352,
+    "Recovered": 535120,
+    "Deceased": 8416,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 545526,
+    "Recovered": 535273,
+    "Deceased": 8418,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 545708,
+    "Recovered": 535455,
+    "Deceased": 8419,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 545882,
+    "Recovered": 535663,
+    "Deceased": 8421,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 546052,
+    "Recovered": 535866,
+    "Deceased": 8422,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 546253,
+    "Recovered": 536060,
+    "Deceased": 8427,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 546434,
+    "Recovered": 536249,
+    "Deceased": 8433,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 546646,
+    "Recovered": 536421,
+    "Deceased": 8435,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 546880,
+    "Recovered": 536595,
+    "Deceased": 8440,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 547076,
+    "Recovered": 536768,
+    "Deceased": 8444,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 547268,
+    "Recovered": 536926,
+    "Deceased": 8447,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 547478,
+    "Recovered": 537090,
+    "Deceased": 8447,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 547705,
+    "Recovered": 537245,
+    "Deceased": 8449,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 547901,
+    "Recovered": 537409,
+    "Deceased": 8449,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 548097,
+    "Recovered": 537592,
+    "Deceased": 8450,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 548289,
+    "Recovered": 537768,
+    "Deceased": 8453,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 548514,
+    "Recovered": 537951,
+    "Deceased": 8458,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 548725,
+    "Recovered": 538138,
+    "Deceased": 8460,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 548898,
+    "Recovered": 538336,
+    "Deceased": 8463,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 549088,
+    "Recovered": 538537,
+    "Deceased": 8464,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 549270,
+    "Recovered": 538745,
+    "Deceased": 8467,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 549460,
+    "Recovered": 538956,
+    "Deceased": 8473,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 549647,
+    "Recovered": 539164,
+    "Deceased": 8477,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 549827,
+    "Recovered": 539375,
+    "Deceased": 8482,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 550020,
+    "Recovered": 539583,
+    "Deceased": 8485,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 550214,
+    "Recovered": 539787,
+    "Deceased": 8490,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 550398,
+    "Recovered": 539981,
+    "Deceased": 8491,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 550582,
+    "Recovered": 540170,
+    "Deceased": 8495,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 550759,
+    "Recovered": 540362,
+    "Deceased": 8497,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 550936,
+    "Recovered": 540549,
+    "Deceased": 8502,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 551110,
+    "Recovered": 540740,
+    "Deceased": 8505,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 551275,
+    "Recovered": 540924,
+    "Deceased": 8508,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 551440,
+    "Recovered": 541093,
+    "Deceased": 8508,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 551611,
+    "Recovered": 541257,
+    "Deceased": 8508,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 551788,
+    "Recovered": 541424,
+    "Deceased": 8508,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 551951,
+    "Recovered": 541597,
+    "Deceased": 8512,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 552121,
+    "Recovered": 541773,
+    "Deceased": 8513,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 552284,
+    "Recovered": 541942,
+    "Deceased": 8517,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 552459,
+    "Recovered": 542110,
+    "Deceased": 8519,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 552617,
+    "Recovered": 542283,
+    "Deceased": 8524,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 552773,
+    "Recovered": 542453,
+    "Deceased": 8526,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 552920,
+    "Recovered": 542619,
+    "Deceased": 8527,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 553079,
+    "Recovered": 542778,
+    "Deceased": 8530,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 553221,
+    "Recovered": 542939,
+    "Deceased": 8531,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 553371,
+    "Recovered": 543104,
+    "Deceased": 8532,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 553509,
+    "Recovered": 543272,
+    "Deceased": 8533,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 553651,
+    "Recovered": 543443,
+    "Deceased": 8534,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 553792,
+    "Recovered": 543608,
+    "Deceased": 8534,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 553938,
+    "Recovered": 543776,
+    "Deceased": 8537,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 554058,
+    "Recovered": 543948,
+    "Deceased": 8537,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 554188,
+    "Recovered": 544117,
+    "Deceased": 8538,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 554323,
+    "Recovered": 544274,
+    "Deceased": 8541,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 554439,
+    "Recovered": 544420,
+    "Deceased": 8542,
+    "Other": 0,
+    "Tested": 2667777
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Chennai",
+    "cases": 554554,
+    "Recovered": 544558,
+    "Deceased": 8542,
+    "Other": 0,
+    "Tested": 2667777
+  }
+]
