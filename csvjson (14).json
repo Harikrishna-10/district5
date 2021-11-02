@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 41,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 41,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 41,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 41,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 41,
+    "Recovered": 41,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 42,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 42,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 42,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 43,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 43,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 44,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 46,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 46,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 46,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 47,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 47,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 51,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 53,
+    "Recovered": 42,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 56,
+    "Recovered": 43,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 56,
+    "Recovered": 44,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 56,
+    "Recovered": 45,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 72,
+    "Recovered": 45,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 73,
+    "Recovered": 45,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 79,
+    "Recovered": 45,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 79,
+    "Recovered": 52,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 80,
+    "Recovered": 55,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 80,
+    "Recovered": 55,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 80,
+    "Recovered": 55,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 80,
+    "Recovered": 55,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 80,
+    "Recovered": 66,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 80,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 80,
+    "Recovered": 67,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 80,
+    "Recovered": 73,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 80,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 81,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 81,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 81,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 81,
+    "Recovered": 76,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 82,
+    "Recovered": 78,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 82,
+    "Recovered": 78,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 83,
+    "Recovered": 78,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 87,
+    "Recovered": 78,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 87,
+    "Recovered": 78,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 87,
+    "Recovered": 78,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 87,
+    "Recovered": 80,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 87,
+    "Recovered": 80,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 87,
+    "Recovered": 80,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 88,
+    "Recovered": 80,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 93,
+    "Recovered": 81,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 94,
+    "Recovered": 81,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 94,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 95,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 103,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 106,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 8218
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 109,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9722
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 110,
+    "Recovered": 85,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 115,
+    "Recovered": 86,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 119,
+    "Recovered": 86,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 120,
+    "Recovered": 89,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 129,
+    "Recovered": 90,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 133,
+    "Recovered": 90,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 135,
+    "Recovered": 98,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 136,
+    "Recovered": 100,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 136,
+    "Recovered": 100,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 137,
+    "Recovered": 103,
+    "Deceased": 0,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 140,
+    "Recovered": 105,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 145,
+    "Recovered": 113,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 149,
+    "Recovered": 117,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 153,
+    "Recovered": 124,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 156,
+    "Recovered": 124,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 166,
+    "Recovered": 126,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 170,
+    "Recovered": 126,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 174,
+    "Recovered": 126,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 182,
+    "Recovered": 130,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 185,
+    "Recovered": 132,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 190,
+    "Recovered": 132,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 196,
+    "Recovered": 140,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 201,
+    "Recovered": 140,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 202,
+    "Recovered": 141,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 207,
+    "Recovered": 145,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 210,
+    "Recovered": 150,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 217,
+    "Recovered": 154,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 231,
+    "Recovered": 158,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 244,
+    "Recovered": 165,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 258,
+    "Recovered": 170,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 269,
+    "Recovered": 174,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 293,
+    "Recovered": 176,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 296,
+    "Recovered": 182,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 9796
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 323,
+    "Recovered": 186,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 328,
+    "Recovered": 189,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 352,
+    "Recovered": 197,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 364,
+    "Recovered": 197,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 371,
+    "Recovered": 204,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 388,
+    "Recovered": 223,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 431,
+    "Recovered": 251,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 469,
+    "Recovered": 251,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 496,
+    "Recovered": 259,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 532,
+    "Recovered": 276,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 560,
+    "Recovered": 291,
+    "Deceased": 9,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 579,
+    "Recovered": 297,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 602,
+    "Recovered": 328,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 654,
+    "Recovered": 340,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 680,
+    "Recovered": 351,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 706,
+    "Recovered": 399,
+    "Deceased": 11,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 738,
+    "Recovered": 461,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 771,
+    "Recovered": 478,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 816,
+    "Recovered": 490,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 848,
+    "Recovered": 509,
+    "Deceased": 13,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 888,
+    "Recovered": 562,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 928,
+    "Recovered": 593,
+    "Deceased": 16,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 939,
+    "Recovered": 693,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 982,
+    "Recovered": 721,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1012,
+    "Recovered": 729,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1048,
+    "Recovered": 739,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1094,
+    "Recovered": 778,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1133,
+    "Recovered": 809,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1167,
+    "Recovered": 831,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1210,
+    "Recovered": 854,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1250,
+    "Recovered": 866,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1299,
+    "Recovered": 891,
+    "Deceased": 24,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1322,
+    "Recovered": 895,
+    "Deceased": 24,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1350,
+    "Recovered": 959,
+    "Deceased": 24,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1384,
+    "Recovered": 998,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1418,
+    "Recovered": 1026,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1454,
+    "Recovered": 1059,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1484,
+    "Recovered": 1084,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1537,
+    "Recovered": 1137,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1585,
+    "Recovered": 1179,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1618,
+    "Recovered": 1202,
+    "Deceased": 26,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1682,
+    "Recovered": 1224,
+    "Deceased": 26,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1714,
+    "Recovered": 1320,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1758,
+    "Recovered": 1353,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1802,
+    "Recovered": 1416,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1845,
+    "Recovered": 1466,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1899,
+    "Recovered": 1485,
+    "Deceased": 29,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1948,
+    "Recovered": 1517,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 1986,
+    "Recovered": 1553,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2053,
+    "Recovered": 1596,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2080,
+    "Recovered": 1627,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2127,
+    "Recovered": 1705,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2161,
+    "Recovered": 1732,
+    "Deceased": 32,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2220,
+    "Recovered": 1769,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2281,
+    "Recovered": 1806,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2327,
+    "Recovered": 1866,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2380,
+    "Recovered": 1929,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2448,
+    "Recovered": 1974,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2512,
+    "Recovered": 2016,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2572,
+    "Recovered": 2025,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2627,
+    "Recovered": 2119,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2683,
+    "Recovered": 2154,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2724,
+    "Recovered": 2186,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2786,
+    "Recovered": 2239,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2831,
+    "Recovered": 2284,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2906,
+    "Recovered": 2360,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 2944,
+    "Recovered": 2419,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3000,
+    "Recovered": 2469,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3029,
+    "Recovered": 2558,
+    "Deceased": 39,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3087,
+    "Recovered": 2585,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3135,
+    "Recovered": 2626,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3172,
+    "Recovered": 2681,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3212,
+    "Recovered": 2698,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3267,
+    "Recovered": 2796,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3294,
+    "Recovered": 2838,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3327,
+    "Recovered": 2913,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3391,
+    "Recovered": 2945,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3433,
+    "Recovered": 2986,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3467,
+    "Recovered": 3017,
+    "Deceased": 41,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3514,
+    "Recovered": 3061,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3562,
+    "Recovered": 3126,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3599,
+    "Recovered": 3146,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3632,
+    "Recovered": 3180,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3666,
+    "Recovered": 3228,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3702,
+    "Recovered": 3271,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3735,
+    "Recovered": 3318,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3771,
+    "Recovered": 3341,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3792,
+    "Recovered": 3374,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3827,
+    "Recovered": 3418,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3844,
+    "Recovered": 3455,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3859,
+    "Recovered": 3522,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3898,
+    "Recovered": 3545,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3923,
+    "Recovered": 3590,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3957,
+    "Recovered": 3612,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 3982,
+    "Recovered": 3639,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4010,
+    "Recovered": 3676,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4036,
+    "Recovered": 3714,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4056,
+    "Recovered": 3771,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4086,
+    "Recovered": 3793,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4108,
+    "Recovered": 3810,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4138,
+    "Recovered": 3849,
+    "Deceased": 44,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4170,
+    "Recovered": 3876,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4194,
+    "Recovered": 3926,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4225,
+    "Recovered": 3963,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4259,
+    "Recovered": 3966,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4287,
+    "Recovered": 3985,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4318,
+    "Recovered": 3999,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4353,
+    "Recovered": 4008,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4381,
+    "Recovered": 4014,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4417,
+    "Recovered": 4033,
+    "Deceased": 45,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4445,
+    "Recovered": 4096,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4470,
+    "Recovered": 4113,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4490,
+    "Recovered": 4137,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4511,
+    "Recovered": 4151,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4541,
+    "Recovered": 4178,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4569,
+    "Recovered": 4201,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4593,
+    "Recovered": 4249,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4612,
+    "Recovered": 4286,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4626,
+    "Recovered": 4309,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4638,
+    "Recovered": 4337,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4654,
+    "Recovered": 4365,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4671,
+    "Recovered": 4388,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4696,
+    "Recovered": 4402,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4717,
+    "Recovered": 4424,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4733,
+    "Recovered": 4473,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4743,
+    "Recovered": 4496,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4760,
+    "Recovered": 4516,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4773,
+    "Recovered": 4536,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4785,
+    "Recovered": 4556,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4801,
+    "Recovered": 4565,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4820,
+    "Recovered": 4590,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4833,
+    "Recovered": 4611,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4846,
+    "Recovered": 4631,
+    "Deceased": 47,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4857,
+    "Recovered": 4651,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4871,
+    "Recovered": 4686,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4891,
+    "Recovered": 4698,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4903,
+    "Recovered": 4710,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4911,
+    "Recovered": 4728,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4923,
+    "Recovered": 4743,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4940,
+    "Recovered": 4759,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4949,
+    "Recovered": 4777,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4957,
+    "Recovered": 4791,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4969,
+    "Recovered": 4806,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4982,
+    "Recovered": 4819,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 4995,
+    "Recovered": 4840,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5004,
+    "Recovered": 4859,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5012,
+    "Recovered": 4866,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5026,
+    "Recovered": 4873,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5035,
+    "Recovered": 4884,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5044,
+    "Recovered": 4899,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5058,
+    "Recovered": 4909,
+    "Deceased": 48,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5068,
+    "Recovered": 4925,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5077,
+    "Recovered": 4939,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5088,
+    "Recovered": 4955,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5096,
+    "Recovered": 4962,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5106,
+    "Recovered": 4970,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5111,
+    "Recovered": 4976,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5123,
+    "Recovered": 4984,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5137,
+    "Recovered": 4987,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5149,
+    "Recovered": 5004,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5165,
+    "Recovered": 5023,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5170,
+    "Recovered": 5039,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5177,
+    "Recovered": 5050,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5191,
+    "Recovered": 5055,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5207,
+    "Recovered": 5066,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5225,
+    "Recovered": 5078,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5235,
+    "Recovered": 5085,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5248,
+    "Recovered": 5099,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5254,
+    "Recovered": 5115,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5263,
+    "Recovered": 5124,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5273,
+    "Recovered": 5135,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5282,
+    "Recovered": 5148,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5291,
+    "Recovered": 5163,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5300,
+    "Recovered": 5168,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5305,
+    "Recovered": 5178,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5311,
+    "Recovered": 5190,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5321,
+    "Recovered": 5203,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5328,
+    "Recovered": 5214,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5335,
+    "Recovered": 5227,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5343,
+    "Recovered": 5237,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5349,
+    "Recovered": 5241,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5356,
+    "Recovered": 5249,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5363,
+    "Recovered": 5260,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5368,
+    "Recovered": 5264,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5370,
+    "Recovered": 5271,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5373,
+    "Recovered": 5279,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5377,
+    "Recovered": 5288,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5377,
+    "Recovered": 5295,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5381,
+    "Recovered": 5298,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5383,
+    "Recovered": 5301,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5391,
+    "Recovered": 5307,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5396,
+    "Recovered": 5311,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5396,
+    "Recovered": 5316,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5400,
+    "Recovered": 5320,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5406,
+    "Recovered": 5323,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5413,
+    "Recovered": 5325,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5418,
+    "Recovered": 5330,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5419,
+    "Recovered": 5334,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5425,
+    "Recovered": 5339,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5427,
+    "Recovered": 5343,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5428,
+    "Recovered": 5346,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5434,
+    "Recovered": 5350,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5441,
+    "Recovered": 5358,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5445,
+    "Recovered": 5364,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5451,
+    "Recovered": 5372,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5456,
+    "Recovered": 5376,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5465,
+    "Recovered": 5377,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5470,
+    "Recovered": 5379,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5474,
+    "Recovered": 5380,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5477,
+    "Recovered": 5383,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5480,
+    "Recovered": 5387,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5483,
+    "Recovered": 5390,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5485,
+    "Recovered": 5393,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5487,
+    "Recovered": 5398,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5488,
+    "Recovered": 5402,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5491,
+    "Recovered": 5408,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5494,
+    "Recovered": 5413,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5497,
+    "Recovered": 5417,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5498,
+    "Recovered": 5422,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5502,
+    "Recovered": 5426,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5503,
+    "Recovered": 5431,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5506,
+    "Recovered": 5435,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5508,
+    "Recovered": 5438,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5511,
+    "Recovered": 5442,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5512,
+    "Recovered": 5445,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5513,
+    "Recovered": 5449,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5514,
+    "Recovered": 5452,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5516,
+    "Recovered": 5453,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5518,
+    "Recovered": 5455,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5519,
+    "Recovered": 5458,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5519,
+    "Recovered": 5460,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5523,
+    "Recovered": 5461,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5527,
+    "Recovered": 5462,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5530,
+    "Recovered": 5463,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5533,
+    "Recovered": 5465,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5538,
+    "Recovered": 5466,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5544,
+    "Recovered": 5467,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5549,
+    "Recovered": 5468,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5555,
+    "Recovered": 5469,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5563,
+    "Recovered": 5471,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5569,
+    "Recovered": 5473,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5577,
+    "Recovered": 5477,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5582,
+    "Recovered": 5482,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5587,
+    "Recovered": 5486,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5593,
+    "Recovered": 5489,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5600,
+    "Recovered": 5496,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5605,
+    "Recovered": 5503,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5614,
+    "Recovered": 5512,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5621,
+    "Recovered": 5523,
+    "Deceased": 51,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5629,
+    "Recovered": 5530,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5639,
+    "Recovered": 5535,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5650,
+    "Recovered": 5541,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5658,
+    "Recovered": 5546,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5670,
+    "Recovered": 5553,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5688,
+    "Recovered": 5562,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5707,
+    "Recovered": 5568,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5718,
+    "Recovered": 5577,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5735,
+    "Recovered": 5584,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5752,
+    "Recovered": 5595,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5769,
+    "Recovered": 5607,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5791,
+    "Recovered": 5619,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5826,
+    "Recovered": 5626,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5868,
+    "Recovered": 5635,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5912,
+    "Recovered": 5646,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 5950,
+    "Recovered": 5653,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6002,
+    "Recovered": 5665,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6057,
+    "Recovered": 5679,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6091,
+    "Recovered": 5697,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6166,
+    "Recovered": 5713,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6251,
+    "Recovered": 5736,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6327,
+    "Recovered": 5774,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6395,
+    "Recovered": 5815,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6485,
+    "Recovered": 5858,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6573,
+    "Recovered": 5897,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6677,
+    "Recovered": 5949,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6797,
+    "Recovered": 6001,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 6910,
+    "Recovered": 6046,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 7027,
+    "Recovered": 6199,
+    "Deceased": 54,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 7121,
+    "Recovered": 6280,
+    "Deceased": 55,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 7249,
+    "Recovered": 6353,
+    "Deceased": 56,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 7388,
+    "Recovered": 6438,
+    "Deceased": 56,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 7565,
+    "Recovered": 6522,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 7741,
+    "Recovered": 6686,
+    "Deceased": 58,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 7983,
+    "Recovered": 6859,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 8217,
+    "Recovered": 6977,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 8485,
+    "Recovered": 7073,
+    "Deceased": 62,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 8737,
+    "Recovered": 7200,
+    "Deceased": 62,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 8972,
+    "Recovered": 7339,
+    "Deceased": 66,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 9219,
+    "Recovered": 7517,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 9503,
+    "Recovered": 7719,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 9792,
+    "Recovered": 7943,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 10038,
+    "Recovered": 8426,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 10204,
+    "Recovered": 8668,
+    "Deceased": 77,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 10445,
+    "Recovered": 8883,
+    "Deceased": 80,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 10766,
+    "Recovered": 9141,
+    "Deceased": 83,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 11089,
+    "Recovered": 9431,
+    "Deceased": 92,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 11443,
+    "Recovered": 9731,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 11627,
+    "Recovered": 9995,
+    "Deceased": 105,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 11888,
+    "Recovered": 10100,
+    "Deceased": 107,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 12202,
+    "Recovered": 10105,
+    "Deceased": 116,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 12582,
+    "Recovered": 10339,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 12879,
+    "Recovered": 10674,
+    "Deceased": 131,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 13224,
+    "Recovered": 10980,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 13539,
+    "Recovered": 11316,
+    "Deceased": 141,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 13815,
+    "Recovered": 11463,
+    "Deceased": 149,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 14145,
+    "Recovered": 11584,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 14459,
+    "Recovered": 11735,
+    "Deceased": 163,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 14822,
+    "Recovered": 11987,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 15233,
+    "Recovered": 12177,
+    "Deceased": 172,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 15744,
+    "Recovered": 12361,
+    "Deceased": 180,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 16272,
+    "Recovered": 12657,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 16732,
+    "Recovered": 12996,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 17197,
+    "Recovered": 13484,
+    "Deceased": 209,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 17598,
+    "Recovered": 13945,
+    "Deceased": 222,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 18015,
+    "Recovered": 14150,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 18345,
+    "Recovered": 14604,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 18682,
+    "Recovered": 15013,
+    "Deceased": 257,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 19004,
+    "Recovered": 15489,
+    "Deceased": 265,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 19307,
+    "Recovered": 16005,
+    "Deceased": 272,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 19589,
+    "Recovered": 16476,
+    "Deceased": 279,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 19784,
+    "Recovered": 16783,
+    "Deceased": 285,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 19967,
+    "Recovered": 17133,
+    "Deceased": 291,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 20149,
+    "Recovered": 17332,
+    "Deceased": 304,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 20311,
+    "Recovered": 17727,
+    "Deceased": 310,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 20439,
+    "Recovered": 18059,
+    "Deceased": 314,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 20535,
+    "Recovered": 18461,
+    "Deceased": 316,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 20666,
+    "Recovered": 18917,
+    "Deceased": 316,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 20790,
+    "Recovered": 19227,
+    "Deceased": 321,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 20902,
+    "Recovered": 19325,
+    "Deceased": 323,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21035,
+    "Recovered": 19762,
+    "Deceased": 326,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21165,
+    "Recovered": 19979,
+    "Deceased": 330,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21283,
+    "Recovered": 20108,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21387,
+    "Recovered": 20269,
+    "Deceased": 331,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21488,
+    "Recovered": 20385,
+    "Deceased": 332,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21582,
+    "Recovered": 20472,
+    "Deceased": 333,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21669,
+    "Recovered": 20537,
+    "Deceased": 334,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21751,
+    "Recovered": 20613,
+    "Deceased": 336,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21820,
+    "Recovered": 20684,
+    "Deceased": 336,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21873,
+    "Recovered": 20767,
+    "Deceased": 336,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21920,
+    "Recovered": 20842,
+    "Deceased": 339,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21961,
+    "Recovered": 20946,
+    "Deceased": 342,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 21997,
+    "Recovered": 21062,
+    "Deceased": 342,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22029,
+    "Recovered": 21185,
+    "Deceased": 342,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22077,
+    "Recovered": 21300,
+    "Deceased": 342,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22128,
+    "Recovered": 21397,
+    "Deceased": 342,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22175,
+    "Recovered": 21475,
+    "Deceased": 344,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22216,
+    "Recovered": 21554,
+    "Deceased": 344,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22253,
+    "Recovered": 21606,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22249,
+    "Recovered": 21638,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22273,
+    "Recovered": 21657,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22291,
+    "Recovered": 21669,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22305,
+    "Recovered": 21684,
+    "Deceased": 346,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22328,
+    "Recovered": 21696,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22352,
+    "Recovered": 21707,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22374,
+    "Recovered": 21723,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22383,
+    "Recovered": 21741,
+    "Deceased": 348,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22399,
+    "Recovered": 21764,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22415,
+    "Recovered": 21790,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22430,
+    "Recovered": 21818,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22447,
+    "Recovered": 21840,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22465,
+    "Recovered": 21863,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22483,
+    "Recovered": 21889,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22496,
+    "Recovered": 21918,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22504,
+    "Recovered": 21942,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22518,
+    "Recovered": 21964,
+    "Deceased": 350,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22526,
+    "Recovered": 21982,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22541,
+    "Recovered": 22004,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22553,
+    "Recovered": 22022,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22567,
+    "Recovered": 22033,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22579,
+    "Recovered": 22046,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22598,
+    "Recovered": 22067,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22618,
+    "Recovered": 22082,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22633,
+    "Recovered": 22101,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22642,
+    "Recovered": 22122,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22655,
+    "Recovered": 22148,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22669,
+    "Recovered": 22169,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22691,
+    "Recovered": 22181,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22713,
+    "Recovered": 22192,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22730,
+    "Recovered": 22208,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22749,
+    "Recovered": 22220,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22766,
+    "Recovered": 22239,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22781,
+    "Recovered": 22256,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22800,
+    "Recovered": 22270,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22813,
+    "Recovered": 22285,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22836,
+    "Recovered": 22297,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22852,
+    "Recovered": 22311,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22866,
+    "Recovered": 22324,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22885,
+    "Recovered": 22334,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22904,
+    "Recovered": 22348,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22917,
+    "Recovered": 22363,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22931,
+    "Recovered": 22380,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22949,
+    "Recovered": 22399,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22963,
+    "Recovered": 22415,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22974,
+    "Recovered": 22433,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 22987,
+    "Recovered": 22448,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23002,
+    "Recovered": 22464,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23017,
+    "Recovered": 22475,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23030,
+    "Recovered": 22493,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23047,
+    "Recovered": 22514,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23054,
+    "Recovered": 22537,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23063,
+    "Recovered": 22555,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23078,
+    "Recovered": 22566,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23089,
+    "Recovered": 22579,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23101,
+    "Recovered": 22596,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23112,
+    "Recovered": 22608,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23118,
+    "Recovered": 22621,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23136,
+    "Recovered": 22636,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23143,
+    "Recovered": 22645,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23163,
+    "Recovered": 22656,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23176,
+    "Recovered": 22670,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23194,
+    "Recovered": 22683,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23204,
+    "Recovered": 22697,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23221,
+    "Recovered": 22710,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23240,
+    "Recovered": 22718,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23249,
+    "Recovered": 22725,
+    "Deceased": 352,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23264,
+    "Recovered": 22736,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23282,
+    "Recovered": 22746,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23304,
+    "Recovered": 22763,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23320,
+    "Recovered": 22782,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23340,
+    "Recovered": 22796,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23354,
+    "Recovered": 22814,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23376,
+    "Recovered": 22837,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23390,
+    "Recovered": 22862,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23406,
+    "Recovered": 22883,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23417,
+    "Recovered": 22901,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23430,
+    "Recovered": 22912,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23453,
+    "Recovered": 22921,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23461,
+    "Recovered": 22929,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23474,
+    "Recovered": 22942,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23495,
+    "Recovered": 22957,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23512,
+    "Recovered": 22973,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23532,
+    "Recovered": 22993,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23549,
+    "Recovered": 23016,
+    "Deceased": 354,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23572,
+    "Recovered": 23035,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23588,
+    "Recovered": 23057,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23607,
+    "Recovered": 23075,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23632,
+    "Recovered": 23089,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23649,
+    "Recovered": 23105,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23667,
+    "Recovered": 23117,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23685,
+    "Recovered": 23130,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23700,
+    "Recovered": 23141,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23714,
+    "Recovered": 23153,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23726,
+    "Recovered": 23163,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23740,
+    "Recovered": 23175,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23752,
+    "Recovered": 23189,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23766,
+    "Recovered": 23206,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23777,
+    "Recovered": 23226,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23788,
+    "Recovered": 23250,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23800,
+    "Recovered": 23271,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23814,
+    "Recovered": 23290,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23821,
+    "Recovered": 23313,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23832,
+    "Recovered": 23334,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23847,
+    "Recovered": 23352,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23862,
+    "Recovered": 23366,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23881,
+    "Recovered": 23383,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23897,
+    "Recovered": 23394,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23918,
+    "Recovered": 23406,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23934,
+    "Recovered": 23421,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23955,
+    "Recovered": 23433,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23972,
+    "Recovered": 23448,
+    "Deceased": 355,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 23992,
+    "Recovered": 23459,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 24012,
+    "Recovered": 23475,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 24031,
+    "Recovered": 23487,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 24048,
+    "Recovered": 23496,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 17190
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Karur",
+    "cases": 24071,
+    "Recovered": 23507,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 17190
+  }
+]
