@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 80,
+    "Recovered": 62,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 80,
+    "Recovered": 62,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 80,
+    "Recovered": 62,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 80,
+    "Recovered": 66,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 80,
+    "Recovered": 71,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 81,
+    "Recovered": 71,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 81,
+    "Recovered": 72,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 81,
+    "Recovered": 72,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 91,
+    "Recovered": 72,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 98,
+    "Recovered": 73,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 107,
+    "Recovered": 75,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 107,
+    "Recovered": 75,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 107,
+    "Recovered": 79,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 108,
+    "Recovered": 79,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 108,
+    "Recovered": 79,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 109,
+    "Recovered": 79,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 111,
+    "Recovered": 79,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 111,
+    "Recovered": 79,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 112,
+    "Recovered": 80,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 114,
+    "Recovered": 83,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 121,
+    "Recovered": 95,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 121,
+    "Recovered": 97,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 123,
+    "Recovered": 97,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 126,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 127,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 132,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 133,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 133,
+    "Recovered": 106,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 133,
+    "Recovered": 110,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 133,
+    "Recovered": 110,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 134,
+    "Recovered": 112,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 134,
+    "Recovered": 112,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 138,
+    "Recovered": 112,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 138,
+    "Recovered": 120,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 138,
+    "Recovered": 120,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 139,
+    "Recovered": 122,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 144,
+    "Recovered": 122,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 146,
+    "Recovered": 123,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 146,
+    "Recovered": 123,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 148,
+    "Recovered": 124,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 151,
+    "Recovered": 124,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 156,
+    "Recovered": 124,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 167,
+    "Recovered": 124,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 176,
+    "Recovered": 124,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 182,
+    "Recovered": 127,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 185,
+    "Recovered": 140,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 196,
+    "Recovered": 143,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 198,
+    "Recovered": 145,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 207,
+    "Recovered": 147,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 218,
+    "Recovered": 157,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 220,
+    "Recovered": 173,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 234,
+    "Recovered": 177,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 249,
+    "Recovered": 179,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 250,
+    "Recovered": 185,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 7582
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 272,
+    "Recovered": 198,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9583
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 278,
+    "Recovered": 202,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 305,
+    "Recovered": 211,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 312,
+    "Recovered": 213,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 357,
+    "Recovered": 220,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 367,
+    "Recovered": 224,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 377,
+    "Recovered": 244,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 344,
+    "Recovered": 231,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 369,
+    "Recovered": 231,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 370,
+    "Recovered": 237,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 438,
+    "Recovered": 256,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 472,
+    "Recovered": 277,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 507,
+    "Recovered": 286,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 601,
+    "Recovered": 300,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 618,
+    "Recovered": 310,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 633,
+    "Recovered": 315,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 704,
+    "Recovered": 324,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 725,
+    "Recovered": 347,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 730,
+    "Recovered": 365,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 739,
+    "Recovered": 410,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 742,
+    "Recovered": 434,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 750,
+    "Recovered": 460,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 756,
+    "Recovered": 516,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 787,
+    "Recovered": 554,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 789,
+    "Recovered": 568,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 946,
+    "Recovered": 645,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 1066,
+    "Recovered": 645,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 1193,
+    "Recovered": 653,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 1356,
+    "Recovered": 727,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 1463,
+    "Recovered": 754,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 1602,
+    "Recovered": 765,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 1680,
+    "Recovered": 765,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 1725,
+    "Recovered": 862,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 1826,
+    "Recovered": 903,
+    "Deceased": 22,
+    "Other": 0,
+    "Tested": 9963
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 1930,
+    "Recovered": 971,
+    "Deceased": 28,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2012,
+    "Recovered": 1450,
+    "Deceased": 31,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2115,
+    "Recovered": 1603,
+    "Deceased": 34,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2318,
+    "Recovered": 1683,
+    "Deceased": 35,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2451,
+    "Recovered": 1692,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2566,
+    "Recovered": 1743,
+    "Deceased": 37,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2622,
+    "Recovered": 1892,
+    "Deceased": 43,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2760,
+    "Recovered": 1970,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2812,
+    "Recovered": 2147,
+    "Deceased": 50,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2893,
+    "Recovered": 2191,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 2990,
+    "Recovered": 2370,
+    "Deceased": 55,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 3066,
+    "Recovered": 2481,
+    "Deceased": 56,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 3131,
+    "Recovered": 2581,
+    "Deceased": 57,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 3202,
+    "Recovered": 2603,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 3331,
+    "Recovered": 2707,
+    "Deceased": 63,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 3465,
+    "Recovered": 2824,
+    "Deceased": 63,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 3747,
+    "Recovered": 2877,
+    "Deceased": 67,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 3878,
+    "Recovered": 3204,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 4051,
+    "Recovered": 3262,
+    "Deceased": 75,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 4204,
+    "Recovered": 3362,
+    "Deceased": 77,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 4246,
+    "Recovered": 3496,
+    "Deceased": 82,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 4386,
+    "Recovered": 3575,
+    "Deceased": 84,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 4524,
+    "Recovered": 3617,
+    "Deceased": 87,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 4645,
+    "Recovered": 3681,
+    "Deceased": 91,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 4755,
+    "Recovered": 3882,
+    "Deceased": 91,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 4910,
+    "Recovered": 3978,
+    "Deceased": 94,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 5063,
+    "Recovered": 4074,
+    "Deceased": 95,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 5166,
+    "Recovered": 4165,
+    "Deceased": 101,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 5303,
+    "Recovered": 4268,
+    "Deceased": 105,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 5432,
+    "Recovered": 4449,
+    "Deceased": 108,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 5559,
+    "Recovered": 4552,
+    "Deceased": 108,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 5737,
+    "Recovered": 4621,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 5869,
+    "Recovered": 4843,
+    "Deceased": 114,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 5990,
+    "Recovered": 4969,
+    "Deceased": 115,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 6027,
+    "Recovered": 5079,
+    "Deceased": 117,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 6124,
+    "Recovered": 5260,
+    "Deceased": 118,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 6218,
+    "Recovered": 5421,
+    "Deceased": 121,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 6345,
+    "Recovered": 5449,
+    "Deceased": 123,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 6434,
+    "Recovered": 5500,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 6558,
+    "Recovered": 5539,
+    "Deceased": 125,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 6669,
+    "Recovered": 5679,
+    "Deceased": 127,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 6802,
+    "Recovered": 5783,
+    "Deceased": 129,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 6939,
+    "Recovered": 5857,
+    "Deceased": 131,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7032,
+    "Recovered": 6008,
+    "Deceased": 135,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7154,
+    "Recovered": 6080,
+    "Deceased": 135,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7278,
+    "Recovered": 6148,
+    "Deceased": 139,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7414,
+    "Recovered": 6246,
+    "Deceased": 140,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7501,
+    "Recovered": 6367,
+    "Deceased": 143,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7597,
+    "Recovered": 6477,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7681,
+    "Recovered": 6569,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7728,
+    "Recovered": 6721,
+    "Deceased": 148,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7796,
+    "Recovered": 6856,
+    "Deceased": 149,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7863,
+    "Recovered": 6951,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 7940,
+    "Recovered": 7067,
+    "Deceased": 150,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8001,
+    "Recovered": 7174,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8065,
+    "Recovered": 7242,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8139,
+    "Recovered": 7313,
+    "Deceased": 152,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8230,
+    "Recovered": 7444,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8304,
+    "Recovered": 7532,
+    "Deceased": 153,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8386,
+    "Recovered": 7645,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8451,
+    "Recovered": 7700,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8505,
+    "Recovered": 7745,
+    "Deceased": 155,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8545,
+    "Recovered": 7776,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8577,
+    "Recovered": 7830,
+    "Deceased": 156,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8646,
+    "Recovered": 7910,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8702,
+    "Recovered": 7985,
+    "Deceased": 157,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8742,
+    "Recovered": 8104,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8788,
+    "Recovered": 8143,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8822,
+    "Recovered": 8172,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8844,
+    "Recovered": 8269,
+    "Deceased": 161,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8885,
+    "Recovered": 8314,
+    "Deceased": 163,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8930,
+    "Recovered": 8373,
+    "Deceased": 165,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 8969,
+    "Recovered": 8412,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9007,
+    "Recovered": 8480,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9062,
+    "Recovered": 8523,
+    "Deceased": 168,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9103,
+    "Recovered": 8560,
+    "Deceased": 169,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9152,
+    "Recovered": 8601,
+    "Deceased": 170,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9196,
+    "Recovered": 8624,
+    "Deceased": 171,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9235,
+    "Recovered": 8642,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9275,
+    "Recovered": 8692,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9307,
+    "Recovered": 8744,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9338,
+    "Recovered": 8790,
+    "Deceased": 174,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9409,
+    "Recovered": 8844,
+    "Deceased": 175,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9446,
+    "Recovered": 8907,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9479,
+    "Recovered": 8934,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9511,
+    "Recovered": 8973,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9549,
+    "Recovered": 9005,
+    "Deceased": 178,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9574,
+    "Recovered": 9044,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9615,
+    "Recovered": 9085,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9636,
+    "Recovered": 9111,
+    "Deceased": 181,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9644,
+    "Recovered": 9134,
+    "Deceased": 182,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9672,
+    "Recovered": 9161,
+    "Deceased": 182,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9690,
+    "Recovered": 9203,
+    "Deceased": 183,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9706,
+    "Recovered": 9235,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9724,
+    "Recovered": 9268,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9737,
+    "Recovered": 9299,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9741,
+    "Recovered": 9329,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9749,
+    "Recovered": 9352,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9758,
+    "Recovered": 9440,
+    "Deceased": 184,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9767,
+    "Recovered": 9490,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9775,
+    "Recovered": 9550,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9802,
+    "Recovered": 9569,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9821,
+    "Recovered": 9574,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9843,
+    "Recovered": 9576,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9858,
+    "Recovered": 9577,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9873,
+    "Recovered": 9583,
+    "Deceased": 185,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9899,
+    "Recovered": 9587,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9916,
+    "Recovered": 9605,
+    "Deceased": 187,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9933,
+    "Recovered": 9609,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9946,
+    "Recovered": 9612,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9964,
+    "Recovered": 9621,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 9987,
+    "Recovered": 9631,
+    "Deceased": 188,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10001,
+    "Recovered": 9652,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10017,
+    "Recovered": 9678,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10037,
+    "Recovered": 9703,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10055,
+    "Recovered": 9722,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10066,
+    "Recovered": 9742,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10078,
+    "Recovered": 9756,
+    "Deceased": 190,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10087,
+    "Recovered": 9771,
+    "Deceased": 191,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10093,
+    "Recovered": 9789,
+    "Deceased": 192,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10103,
+    "Recovered": 9826,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10114,
+    "Recovered": 9844,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10124,
+    "Recovered": 9861,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10137,
+    "Recovered": 9876,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10148,
+    "Recovered": 9892,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10158,
+    "Recovered": 9905,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10201,
+    "Recovered": 9918,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10229,
+    "Recovered": 9935,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10252,
+    "Recovered": 9943,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10277,
+    "Recovered": 9948,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10310,
+    "Recovered": 9965,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10334,
+    "Recovered": 9969,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10363,
+    "Recovered": 9974,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10378,
+    "Recovered": 9986,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10407,
+    "Recovered": 10011,
+    "Deceased": 194,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10428,
+    "Recovered": 10035,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10452,
+    "Recovered": 10059,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10473,
+    "Recovered": 10085,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10488,
+    "Recovered": 10108,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10512,
+    "Recovered": 10131,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10528,
+    "Recovered": 10165,
+    "Deceased": 195,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10559,
+    "Recovered": 10193,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10583,
+    "Recovered": 10228,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10604,
+    "Recovered": 10260,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10625,
+    "Recovered": 10279,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10642,
+    "Recovered": 10295,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10664,
+    "Recovered": 10310,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10682,
+    "Recovered": 10336,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10697,
+    "Recovered": 10347,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10711,
+    "Recovered": 10362,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10723,
+    "Recovered": 10382,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10736,
+    "Recovered": 10407,
+    "Deceased": 196,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10760,
+    "Recovered": 10435,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10786,
+    "Recovered": 10456,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10808,
+    "Recovered": 10476,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10826,
+    "Recovered": 10485,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10846,
+    "Recovered": 10507,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10866,
+    "Recovered": 10525,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10891,
+    "Recovered": 10546,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10907,
+    "Recovered": 10563,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10926,
+    "Recovered": 10576,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10945,
+    "Recovered": 10591,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10961,
+    "Recovered": 10610,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10981,
+    "Recovered": 10631,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 10989,
+    "Recovered": 10647,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11002,
+    "Recovered": 10666,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11012,
+    "Recovered": 10686,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11019,
+    "Recovered": 10709,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11031,
+    "Recovered": 10730,
+    "Deceased": 197,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11045,
+    "Recovered": 10752,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11053,
+    "Recovered": 10768,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11062,
+    "Recovered": 10778,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11071,
+    "Recovered": 10786,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11078,
+    "Recovered": 10802,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11086,
+    "Recovered": 10815,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11094,
+    "Recovered": 10819,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11104,
+    "Recovered": 10824,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11116,
+    "Recovered": 10834,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11129,
+    "Recovered": 10850,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11134,
+    "Recovered": 10867,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11138,
+    "Recovered": 10885,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11144,
+    "Recovered": 10891,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11150,
+    "Recovered": 10900,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11164,
+    "Recovered": 10911,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11181,
+    "Recovered": 10918,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11185,
+    "Recovered": 10920,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11194,
+    "Recovered": 10931,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11206,
+    "Recovered": 10937,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11216,
+    "Recovered": 10945,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11231,
+    "Recovered": 10955,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11233,
+    "Recovered": 10957,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11240,
+    "Recovered": 10963,
+    "Deceased": 198,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11253,
+    "Recovered": 10972,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11268,
+    "Recovered": 10984,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11274,
+    "Recovered": 10994,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11277,
+    "Recovered": 11006,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11283,
+    "Recovered": 11021,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11292,
+    "Recovered": 11029,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11294,
+    "Recovered": 11033,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11305,
+    "Recovered": 11039,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11309,
+    "Recovered": 11051,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11315,
+    "Recovered": 11064,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11323,
+    "Recovered": 11073,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11331,
+    "Recovered": 11084,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11341,
+    "Recovered": 11093,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11349,
+    "Recovered": 11097,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11360,
+    "Recovered": 11105,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11369,
+    "Recovered": 11115,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11380,
+    "Recovered": 11121,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11389,
+    "Recovered": 11130,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11393,
+    "Recovered": 11138,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11396,
+    "Recovered": 11142,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11402,
+    "Recovered": 11148,
+    "Deceased": 199,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11407,
+    "Recovered": 11153,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11415,
+    "Recovered": 11160,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11425,
+    "Recovered": 11169,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11436,
+    "Recovered": 11180,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11448,
+    "Recovered": 11192,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11460,
+    "Recovered": 11203,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11473,
+    "Recovered": 11213,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11483,
+    "Recovered": 11225,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11492,
+    "Recovered": 11234,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11498,
+    "Recovered": 11238,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11503,
+    "Recovered": 11254,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11513,
+    "Recovered": 11262,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11520,
+    "Recovered": 11271,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11525,
+    "Recovered": 11275,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11534,
+    "Recovered": 11280,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11539,
+    "Recovered": 11287,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11546,
+    "Recovered": 11295,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11552,
+    "Recovered": 11300,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11564,
+    "Recovered": 11307,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11573,
+    "Recovered": 11316,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11586,
+    "Recovered": 11323,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11594,
+    "Recovered": 11329,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11602,
+    "Recovered": 11334,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11608,
+    "Recovered": 11341,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11620,
+    "Recovered": 11346,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11632,
+    "Recovered": 11352,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11646,
+    "Recovered": 11359,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11664,
+    "Recovered": 11364,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11686,
+    "Recovered": 11375,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11702,
+    "Recovered": 11389,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11716,
+    "Recovered": 11409,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11731,
+    "Recovered": 11428,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11754,
+    "Recovered": 11438,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11770,
+    "Recovered": 11455,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11789,
+    "Recovered": 11466,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11809,
+    "Recovered": 11480,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11833,
+    "Recovered": 11490,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11856,
+    "Recovered": 11507,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11880,
+    "Recovered": 11526,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11906,
+    "Recovered": 11540,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11955,
+    "Recovered": 11558,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 11973,
+    "Recovered": 11584,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12016,
+    "Recovered": 11613,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12073,
+    "Recovered": 11635,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12126,
+    "Recovered": 11659,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12217,
+    "Recovered": 11677,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12265,
+    "Recovered": 11695,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12317,
+    "Recovered": 11736,
+    "Deceased": 202,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12367,
+    "Recovered": 11755,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12448,
+    "Recovered": 11768,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12526,
+    "Recovered": 11775,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12618,
+    "Recovered": 11821,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12726,
+    "Recovered": 11833,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12838,
+    "Recovered": 11889,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 12931,
+    "Recovered": 11952,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 13052,
+    "Recovered": 12025,
+    "Deceased": 203,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 13247,
+    "Recovered": 12113,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 13408,
+    "Recovered": 12260,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 13546,
+    "Recovered": 12321,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 13721,
+    "Recovered": 12409,
+    "Deceased": 205,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 13928,
+    "Recovered": 12537,
+    "Deceased": 206,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 14167,
+    "Recovered": 12648,
+    "Deceased": 207,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 14430,
+    "Recovered": 12748,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 14653,
+    "Recovered": 12869,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 14849,
+    "Recovered": 13056,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 15030,
+    "Recovered": 13206,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 15254,
+    "Recovered": 13434,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 15505,
+    "Recovered": 13655,
+    "Deceased": 208,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 15800,
+    "Recovered": 13927,
+    "Deceased": 210,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 16017,
+    "Recovered": 14225,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 16281,
+    "Recovered": 14469,
+    "Deceased": 214,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 16481,
+    "Recovered": 14663,
+    "Deceased": 215,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 16648,
+    "Recovered": 14843,
+    "Deceased": 217,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 16930,
+    "Recovered": 15074,
+    "Deceased": 218,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 17217,
+    "Recovered": 15319,
+    "Deceased": 221,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 17547,
+    "Recovered": 15608,
+    "Deceased": 224,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 17908,
+    "Recovered": 15932,
+    "Deceased": 230,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 18257,
+    "Recovered": 16236,
+    "Deceased": 235,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 18589,
+    "Recovered": 16465,
+    "Deceased": 236,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 18890,
+    "Recovered": 16657,
+    "Deceased": 239,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 19230,
+    "Recovered": 16908,
+    "Deceased": 245,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 19634,
+    "Recovered": 17200,
+    "Deceased": 252,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 20062,
+    "Recovered": 17565,
+    "Deceased": 254,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 20511,
+    "Recovered": 17845,
+    "Deceased": 257,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 20891,
+    "Recovered": 18288,
+    "Deceased": 261,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 21256,
+    "Recovered": 18508,
+    "Deceased": 269,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 21574,
+    "Recovered": 18699,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 21970,
+    "Recovered": 19062,
+    "Deceased": 277,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 22353,
+    "Recovered": 19455,
+    "Deceased": 296,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 22778,
+    "Recovered": 19750,
+    "Deceased": 312,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 23234,
+    "Recovered": 20140,
+    "Deceased": 315,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 23769,
+    "Recovered": 20335,
+    "Deceased": 320,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 24200,
+    "Recovered": 20709,
+    "Deceased": 325,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 24734,
+    "Recovered": 21075,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 25215,
+    "Recovered": 21498,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 25576,
+    "Recovered": 21789,
+    "Deceased": 360,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 25980,
+    "Recovered": 22167,
+    "Deceased": 362,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 26331,
+    "Recovered": 22532,
+    "Deceased": 385,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 26666,
+    "Recovered": 22794,
+    "Deceased": 392,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 26984,
+    "Recovered": 23015,
+    "Deceased": 397,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 27283,
+    "Recovered": 23530,
+    "Deceased": 417,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 27630,
+    "Recovered": 24060,
+    "Deceased": 420,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 27948,
+    "Recovered": 24557,
+    "Deceased": 428,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 28256,
+    "Recovered": 25071,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 28554,
+    "Recovered": 25504,
+    "Deceased": 452,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 28842,
+    "Recovered": 25897,
+    "Deceased": 453,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 29108,
+    "Recovered": 26259,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 29303,
+    "Recovered": 26620,
+    "Deceased": 477,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 29520,
+    "Recovered": 26991,
+    "Deceased": 482,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 29757,
+    "Recovered": 27342,
+    "Deceased": 485,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 29962,
+    "Recovered": 27594,
+    "Deceased": 491,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 30152,
+    "Recovered": 27840,
+    "Deceased": 512,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 30313,
+    "Recovered": 28149,
+    "Deceased": 525,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 30451,
+    "Recovered": 28443,
+    "Deceased": 527,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 30578,
+    "Recovered": 28744,
+    "Deceased": 530,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 30695,
+    "Recovered": 28975,
+    "Deceased": 542,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 30786,
+    "Recovered": 29218,
+    "Deceased": 547,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 30891,
+    "Recovered": 29451,
+    "Deceased": 556,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 30986,
+    "Recovered": 29639,
+    "Deceased": 561,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31066,
+    "Recovered": 29834,
+    "Deceased": 564,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31144,
+    "Recovered": 30010,
+    "Deceased": 564,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31215,
+    "Recovered": 30160,
+    "Deceased": 570,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31276,
+    "Recovered": 30285,
+    "Deceased": 571,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31331,
+    "Recovered": 30395,
+    "Deceased": 574,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31380,
+    "Recovered": 30477,
+    "Deceased": 574,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31429,
+    "Recovered": 30533,
+    "Deceased": 581,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31481,
+    "Recovered": 30587,
+    "Deceased": 583,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31524,
+    "Recovered": 30633,
+    "Deceased": 583,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31561,
+    "Recovered": 30666,
+    "Deceased": 588,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31615,
+    "Recovered": 30693,
+    "Deceased": 592,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31658,
+    "Recovered": 30715,
+    "Deceased": 592,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31697,
+    "Recovered": 30736,
+    "Deceased": 593,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31714,
+    "Recovered": 30748,
+    "Deceased": 599,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31751,
+    "Recovered": 30767,
+    "Deceased": 602,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31767,
+    "Recovered": 30778,
+    "Deceased": 603,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31779,
+    "Recovered": 30806,
+    "Deceased": 603,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31804,
+    "Recovered": 30838,
+    "Deceased": 603,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31821,
+    "Recovered": 30882,
+    "Deceased": 605,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31822,
+    "Recovered": 30917,
+    "Deceased": 606,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31834,
+    "Recovered": 30946,
+    "Deceased": 607,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31832,
+    "Recovered": 30967,
+    "Deceased": 607,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31853,
+    "Recovered": 30993,
+    "Deceased": 607,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31872,
+    "Recovered": 31021,
+    "Deceased": 612,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31890,
+    "Recovered": 31047,
+    "Deceased": 613,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31912,
+    "Recovered": 31068,
+    "Deceased": 614,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31930,
+    "Recovered": 31092,
+    "Deceased": 614,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31943,
+    "Recovered": 31113,
+    "Deceased": 615,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31967,
+    "Recovered": 31135,
+    "Deceased": 617,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31982,
+    "Recovered": 31153,
+    "Deceased": 617,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 31997,
+    "Recovered": 31167,
+    "Deceased": 617,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32024,
+    "Recovered": 31178,
+    "Deceased": 617,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32044,
+    "Recovered": 31192,
+    "Deceased": 617,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32060,
+    "Recovered": 31205,
+    "Deceased": 617,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32078,
+    "Recovered": 31224,
+    "Deceased": 618,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32099,
+    "Recovered": 31240,
+    "Deceased": 618,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32117,
+    "Recovered": 31265,
+    "Deceased": 618,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32129,
+    "Recovered": 31287,
+    "Deceased": 618,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32149,
+    "Recovered": 31314,
+    "Deceased": 618,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32160,
+    "Recovered": 31335,
+    "Deceased": 619,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32181,
+    "Recovered": 31354,
+    "Deceased": 622,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32192,
+    "Recovered": 31371,
+    "Deceased": 622,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32206,
+    "Recovered": 31385,
+    "Deceased": 622,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32222,
+    "Recovered": 31407,
+    "Deceased": 623,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32235,
+    "Recovered": 31431,
+    "Deceased": 624,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32251,
+    "Recovered": 31452,
+    "Deceased": 625,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32261,
+    "Recovered": 31466,
+    "Deceased": 625,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32270,
+    "Recovered": 31477,
+    "Deceased": 625,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32277,
+    "Recovered": 31489,
+    "Deceased": 626,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32292,
+    "Recovered": 31500,
+    "Deceased": 626,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32305,
+    "Recovered": 31513,
+    "Deceased": 626,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32309,
+    "Recovered": 31523,
+    "Deceased": 626,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32322,
+    "Recovered": 31538,
+    "Deceased": 627,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32332,
+    "Recovered": 31557,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32341,
+    "Recovered": 31577,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32350,
+    "Recovered": 31592,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32358,
+    "Recovered": 31608,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32363,
+    "Recovered": 31618,
+    "Deceased": 628,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32372,
+    "Recovered": 31631,
+    "Deceased": 630,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32385,
+    "Recovered": 31641,
+    "Deceased": 630,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32396,
+    "Recovered": 31653,
+    "Deceased": 630,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32405,
+    "Recovered": 31666,
+    "Deceased": 630,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32413,
+    "Recovered": 31677,
+    "Deceased": 630,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32420,
+    "Recovered": 31688,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32428,
+    "Recovered": 31693,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32440,
+    "Recovered": 31700,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32452,
+    "Recovered": 31709,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32458,
+    "Recovered": 31720,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32463,
+    "Recovered": 31730,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32466,
+    "Recovered": 31737,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32470,
+    "Recovered": 31742,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32476,
+    "Recovered": 31748,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32479,
+    "Recovered": 31759,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32487,
+    "Recovered": 31766,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32498,
+    "Recovered": 31771,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32505,
+    "Recovered": 31779,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32517,
+    "Recovered": 31786,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32524,
+    "Recovered": 31799,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32534,
+    "Recovered": 31810,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32541,
+    "Recovered": 31823,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32550,
+    "Recovered": 31832,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32561,
+    "Recovered": 31837,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32572,
+    "Recovered": 31843,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32594,
+    "Recovered": 31847,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32603,
+    "Recovered": 31853,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32614,
+    "Recovered": 31858,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32627,
+    "Recovered": 31864,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32638,
+    "Recovered": 31872,
+    "Deceased": 632,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32649,
+    "Recovered": 31881,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32663,
+    "Recovered": 31892,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32673,
+    "Recovered": 31901,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32685,
+    "Recovered": 31911,
+    "Deceased": 633,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32693,
+    "Recovered": 31922,
+    "Deceased": 634,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32702,
+    "Recovered": 31931,
+    "Deceased": 634,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32709,
+    "Recovered": 31942,
+    "Deceased": 635,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32719,
+    "Recovered": 31957,
+    "Deceased": 636,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32727,
+    "Recovered": 31967,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32740,
+    "Recovered": 31979,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32750,
+    "Recovered": 31992,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32762,
+    "Recovered": 32006,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32772,
+    "Recovered": 32019,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32788,
+    "Recovered": 32031,
+    "Deceased": 637,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32802,
+    "Recovered": 32045,
+    "Deceased": 638,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32819,
+    "Recovered": 32054,
+    "Deceased": 638,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32828,
+    "Recovered": 32064,
+    "Deceased": 638,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32838,
+    "Recovered": 32072,
+    "Deceased": 638,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32849,
+    "Recovered": 32078,
+    "Deceased": 638,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32860,
+    "Recovered": 32085,
+    "Deceased": 638,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32873,
+    "Recovered": 32094,
+    "Deceased": 638,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32882,
+    "Recovered": 32104,
+    "Deceased": 638,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32892,
+    "Recovered": 32117,
+    "Deceased": 639,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32903,
+    "Recovered": 32127,
+    "Deceased": 639,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32916,
+    "Recovered": 32135,
+    "Deceased": 639,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32929,
+    "Recovered": 32147,
+    "Deceased": 640,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32938,
+    "Recovered": 32162,
+    "Deceased": 640,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32945,
+    "Recovered": 32175,
+    "Deceased": 640,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32953,
+    "Recovered": 32186,
+    "Deceased": 641,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32960,
+    "Recovered": 32199,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32972,
+    "Recovered": 32210,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32980,
+    "Recovered": 32222,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 32988,
+    "Recovered": 32231,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33001,
+    "Recovered": 32242,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33009,
+    "Recovered": 32255,
+    "Deceased": 642,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33014,
+    "Recovered": 32270,
+    "Deceased": 644,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33019,
+    "Recovered": 32279,
+    "Deceased": 644,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33030,
+    "Recovered": 32287,
+    "Deceased": 644,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33041,
+    "Recovered": 32297,
+    "Deceased": 644,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33049,
+    "Recovered": 32308,
+    "Deceased": 645,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33060,
+    "Recovered": 32313,
+    "Deceased": 645,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33070,
+    "Recovered": 32320,
+    "Deceased": 645,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33075,
+    "Recovered": 32328,
+    "Deceased": 645,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33083,
+    "Recovered": 32333,
+    "Deceased": 645,
+    "Other": 0,
+    "Tested": 27800
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Dindigul",
+    "cases": 33090,
+    "Recovered": 32341,
+    "Deceased": 645,
+    "Other": 0,
+    "Tested": 27800
+  }
+]
