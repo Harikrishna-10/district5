@@ -1,0 +1,5532 @@
+[
+  {
+    "Date": "26-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 18,
+    "Recovered": 7,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 18,
+    "Recovered": 7,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 19,
+    "Recovered": 7,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 22,
+    "Recovered": 9,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-04-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25,
+    "Recovered": 9,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27,
+    "Recovered": 9,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 40,
+    "Recovered": 9,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 40,
+    "Recovered": 9,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 40,
+    "Recovered": 9,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 41,
+    "Recovered": 10,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 86,
+    "Recovered": 11,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 88,
+    "Recovered": 11,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "08-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 96,
+    "Recovered": 11,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "09-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 113,
+    "Recovered": 12,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "10-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 121,
+    "Recovered": 20,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "11-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 129,
+    "Recovered": 26,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "12-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 153,
+    "Recovered": 26,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "13-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 157,
+    "Recovered": 27,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "14-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 164,
+    "Recovered": 66,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "15-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 175,
+    "Recovered": 71,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "16-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 179,
+    "Recovered": 98,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "17-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 184,
+    "Recovered": 107,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "18-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 201,
+    "Recovered": 107,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "19-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 206,
+    "Recovered": 120,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "20-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 220,
+    "Recovered": 124,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "21-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 233,
+    "Recovered": 129,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "22-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 246,
+    "Recovered": 150,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "23-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 259,
+    "Recovered": 155,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "24-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 280,
+    "Recovered": 152,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "25-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 299,
+    "Recovered": 165,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "26-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 312,
+    "Recovered": 183,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "27-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 329,
+    "Recovered": 200,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "28-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 349,
+    "Recovered": 204,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "29-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 361,
+    "Recovered": 210,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "30-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 382,
+    "Recovered": 225,
+    "Deceased": 1,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "31-05-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 398,
+    "Recovered": 232,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "01-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 407,
+    "Recovered": 250,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "02-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 422,
+    "Recovered": 254,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "03-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 441,
+    "Recovered": 267,
+    "Deceased": 2,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "04-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 465,
+    "Recovered": 292,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "05-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 480,
+    "Recovered": 294,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "06-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 500,
+    "Recovered": 309,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": ""
+  },
+  {
+    "Date": "07-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 516,
+    "Recovered": 316,
+    "Deceased": 3,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "08-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 534,
+    "Recovered": 321,
+    "Deceased": 4,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "09-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 567,
+    "Recovered": 342,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "10-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 600,
+    "Recovered": 360,
+    "Deceased": 5,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "11-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 623,
+    "Recovered": 378,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "12-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 650,
+    "Recovered": 386,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "13-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 672,
+    "Recovered": 408,
+    "Deceased": 6,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "14-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 709,
+    "Recovered": 411,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "15-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 751,
+    "Recovered": 427,
+    "Deceased": 7,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "16-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 803,
+    "Recovered": 440,
+    "Deceased": 8,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "17-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 864,
+    "Recovered": 459,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "18-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 945,
+    "Recovered": 502,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 9885
+  },
+  {
+    "Date": "19-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1001,
+    "Recovered": 514,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 12561
+  },
+  {
+    "Date": "20-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1095,
+    "Recovered": 538,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "21-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1159,
+    "Recovered": 588,
+    "Deceased": 10,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "22-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1215,
+    "Recovered": 600,
+    "Deceased": 12,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "23-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1286,
+    "Recovered": 611,
+    "Deceased": 14,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "24-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1375,
+    "Recovered": 647,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "25-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1488,
+    "Recovered": 679,
+    "Deceased": 17,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "26-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1580,
+    "Recovered": 733,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "27-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1683,
+    "Recovered": 755,
+    "Deceased": 18,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "28-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1791,
+    "Recovered": 779,
+    "Deceased": 19,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "29-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1876,
+    "Recovered": 796,
+    "Deceased": 20,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "30-06-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 1977,
+    "Recovered": 808,
+    "Deceased": 21,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "01-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 2067,
+    "Recovered": 844,
+    "Deceased": 23,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "02-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 2151,
+    "Recovered": 888,
+    "Deceased": 25,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "03-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 2272,
+    "Recovered": 925,
+    "Deceased": 26,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "04-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 2404,
+    "Recovered": 926,
+    "Deceased": 30,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "05-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 2547,
+    "Recovered": 983,
+    "Deceased": 33,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "06-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 2729,
+    "Recovered": 1032,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "07-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 2836,
+    "Recovered": 1137,
+    "Deceased": 36,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "08-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 2970,
+    "Recovered": 1177,
+    "Deceased": 38,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "09-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 3038,
+    "Recovered": 1216,
+    "Deceased": 40,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "10-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 3099,
+    "Recovered": 1260,
+    "Deceased": 42,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "11-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 3218,
+    "Recovered": 1293,
+    "Deceased": 46,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "12-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 3606,
+    "Recovered": 1322,
+    "Deceased": 49,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "13-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 3979,
+    "Recovered": 1354,
+    "Deceased": 52,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "14-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 4091,
+    "Recovered": 1499,
+    "Deceased": 53,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "15-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 4255,
+    "Recovered": 1932,
+    "Deceased": 55,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "16-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 4310,
+    "Recovered": 2171,
+    "Deceased": 58,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "17-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 4422,
+    "Recovered": 2348,
+    "Deceased": 59,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "18-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 4519,
+    "Recovered": 2454,
+    "Deceased": 64,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "19-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 4739,
+    "Recovered": 2543,
+    "Deceased": 66,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "20-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 5095,
+    "Recovered": 2839,
+    "Deceased": 69,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "21-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 5362,
+    "Recovered": 2934,
+    "Deceased": 71,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "22-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 5697,
+    "Recovered": 3051,
+    "Deceased": 74,
+    "Other": 0,
+    "Tested": 12983
+  },
+  {
+    "Date": "23-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 6010,
+    "Recovered": 3282,
+    "Deceased": 80,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 6361,
+    "Recovered": 3891,
+    "Deceased": 84,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 6796,
+    "Recovered": 4273,
+    "Deceased": 86,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 7161,
+    "Recovered": 4432,
+    "Deceased": 89,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 7527,
+    "Recovered": 4542,
+    "Deceased": 94,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 8017,
+    "Recovered": 4853,
+    "Deceased": 100,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 8422,
+    "Recovered": 5120,
+    "Deceased": 106,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 8604,
+    "Recovered": 5383,
+    "Deceased": 110,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "31-07-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 9094,
+    "Recovered": 5650,
+    "Deceased": 111,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 9384,
+    "Recovered": 5918,
+    "Deceased": 112,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 9785,
+    "Recovered": 6229,
+    "Deceased": 117,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 10095,
+    "Recovered": 6757,
+    "Deceased": 122,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 10303,
+    "Recovered": 7316,
+    "Deceased": 128,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 10655,
+    "Recovered": 7675,
+    "Deceased": 134,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 10993,
+    "Recovered": 7984,
+    "Deceased": 137,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 11174,
+    "Recovered": 8340,
+    "Deceased": 142,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 11422,
+    "Recovered": 8507,
+    "Deceased": 146,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 11807,
+    "Recovered": 8938,
+    "Deceased": 151,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 12131,
+    "Recovered": 9249,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 12470,
+    "Recovered": 9617,
+    "Deceased": 154,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 12852,
+    "Recovered": 9935,
+    "Deceased": 159,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 13085,
+    "Recovered": 10225,
+    "Deceased": 166,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 13409,
+    "Recovered": 10544,
+    "Deceased": 168,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 13576,
+    "Recovered": 10546,
+    "Deceased": 173,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 13876,
+    "Recovered": 10853,
+    "Deceased": 176,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 14035,
+    "Recovered": 11058,
+    "Deceased": 179,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 14296,
+    "Recovered": 11321,
+    "Deceased": 186,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 14548,
+    "Recovered": 11761,
+    "Deceased": 189,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 14842,
+    "Recovered": 12074,
+    "Deceased": 193,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 15031,
+    "Recovered": 12413,
+    "Deceased": 200,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 15289,
+    "Recovered": 12775,
+    "Deceased": 201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 15514,
+    "Recovered": 13013,
+    "Deceased": 204,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 15742,
+    "Recovered": 13324,
+    "Deceased": 212,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 15960,
+    "Recovered": 13594,
+    "Deceased": 216,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 16295,
+    "Recovered": 13813,
+    "Deceased": 225,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 16530,
+    "Recovered": 14006,
+    "Deceased": 228,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 16703,
+    "Recovered": 14233,
+    "Deceased": 229,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 16950,
+    "Recovered": 14712,
+    "Deceased": 235,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 17155,
+    "Recovered": 14935,
+    "Deceased": 241,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "31-08-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 17351,
+    "Recovered": 15194,
+    "Deceased": 249,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 17526,
+    "Recovered": 15418,
+    "Deceased": 251,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 17663,
+    "Recovered": 15648,
+    "Deceased": 256,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 17818,
+    "Recovered": 15849,
+    "Deceased": 258,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 17973,
+    "Recovered": 16179,
+    "Deceased": 262,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 18125,
+    "Recovered": 16419,
+    "Deceased": 263,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 18311,
+    "Recovered": 16617,
+    "Deceased": 266,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 18501,
+    "Recovered": 16862,
+    "Deceased": 270,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 18628,
+    "Recovered": 17056,
+    "Deceased": 275,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 18799,
+    "Recovered": 17238,
+    "Deceased": 277,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 18967,
+    "Recovered": 17440,
+    "Deceased": 278,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 19099,
+    "Recovered": 17567,
+    "Deceased": 280,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 19235,
+    "Recovered": 17718,
+    "Deceased": 287,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 19425,
+    "Recovered": 17863,
+    "Deceased": 289,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 19570,
+    "Recovered": 18018,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 19768,
+    "Recovered": 18170,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 19959,
+    "Recovered": 18339,
+    "Deceased": 288,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 20079,
+    "Recovered": 18525,
+    "Deceased": 291,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 20205,
+    "Recovered": 18699,
+    "Deceased": 291,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 20383,
+    "Recovered": 18929,
+    "Deceased": 292,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 20477,
+    "Recovered": 19064,
+    "Deceased": 294,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 20594,
+    "Recovered": 19235,
+    "Deceased": 298,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 20803,
+    "Recovered": 19396,
+    "Deceased": 302,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 21008,
+    "Recovered": 19514,
+    "Deceased": 303,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 21204,
+    "Recovered": 19612,
+    "Deceased": 304,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 21383,
+    "Recovered": 19712,
+    "Deceased": 306,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 21537,
+    "Recovered": 20052,
+    "Deceased": 307,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 21593,
+    "Recovered": 20340,
+    "Deceased": 309,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 21693,
+    "Recovered": 20484,
+    "Deceased": 314,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 21806,
+    "Recovered": 20604,
+    "Deceased": 315,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-09-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 21969,
+    "Recovered": 20765,
+    "Deceased": 317,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 22122,
+    "Recovered": 20917,
+    "Deceased": 318,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 22262,
+    "Recovered": 21065,
+    "Deceased": 322,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 22417,
+    "Recovered": 21217,
+    "Deceased": 325,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 22536,
+    "Recovered": 21317,
+    "Deceased": 326,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 22691,
+    "Recovered": 21486,
+    "Deceased": 329,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 22851,
+    "Recovered": 21629,
+    "Deceased": 336,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 23016,
+    "Recovered": 21781,
+    "Deceased": 340,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 23120,
+    "Recovered": 21899,
+    "Deceased": 341,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 23246,
+    "Recovered": 22036,
+    "Deceased": 343,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 23414,
+    "Recovered": 22179,
+    "Deceased": 344,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 23563,
+    "Recovered": 22320,
+    "Deceased": 347,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 23662,
+    "Recovered": 22484,
+    "Deceased": 349,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 23799,
+    "Recovered": 22630,
+    "Deceased": 351,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 23957,
+    "Recovered": 22754,
+    "Deceased": 353,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 24073,
+    "Recovered": 22891,
+    "Deceased": 356,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 24166,
+    "Recovered": 22990,
+    "Deceased": 357,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 24283,
+    "Recovered": 23109,
+    "Deceased": 359,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 24421,
+    "Recovered": 23221,
+    "Deceased": 361,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 24473,
+    "Recovered": 23372,
+    "Deceased": 362,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 24575,
+    "Recovered": 23515,
+    "Deceased": 366,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 24664,
+    "Recovered": 23639,
+    "Deceased": 369,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 24772,
+    "Recovered": 23772,
+    "Deceased": 370,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 24873,
+    "Recovered": 23917,
+    "Deceased": 373,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25026,
+    "Recovered": 24052,
+    "Deceased": 377,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25056,
+    "Recovered": 24188,
+    "Deceased": 377,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25182,
+    "Recovered": 24345,
+    "Deceased": 377,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25284,
+    "Recovered": 24458,
+    "Deceased": 377,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25322,
+    "Recovered": 24546,
+    "Deceased": 378,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25420,
+    "Recovered": 24605,
+    "Deceased": 380,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25523,
+    "Recovered": 24655,
+    "Deceased": 381,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "31-10-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25586,
+    "Recovered": 24710,
+    "Deceased": 382,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25629,
+    "Recovered": 24820,
+    "Deceased": 387,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25691,
+    "Recovered": 24911,
+    "Deceased": 393,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25783,
+    "Recovered": 24970,
+    "Deceased": 395,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 25907,
+    "Recovered": 25032,
+    "Deceased": 399,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26020,
+    "Recovered": 25135,
+    "Deceased": 401,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26032,
+    "Recovered": 25229,
+    "Deceased": 401,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26121,
+    "Recovered": 25307,
+    "Deceased": 403,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26216,
+    "Recovered": 25372,
+    "Deceased": 404,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26269,
+    "Recovered": 25446,
+    "Deceased": 405,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26358,
+    "Recovered": 25502,
+    "Deceased": 406,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26452,
+    "Recovered": 25552,
+    "Deceased": 406,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26553,
+    "Recovered": 25599,
+    "Deceased": 411,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26610,
+    "Recovered": 25669,
+    "Deceased": 411,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26700,
+    "Recovered": 25740,
+    "Deceased": 411,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26750,
+    "Recovered": 25846,
+    "Deceased": 412,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26822,
+    "Recovered": 25926,
+    "Deceased": 413,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26899,
+    "Recovered": 26007,
+    "Deceased": 413,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 26992,
+    "Recovered": 26088,
+    "Deceased": 415,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27051,
+    "Recovered": 26130,
+    "Deceased": 416,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27139,
+    "Recovered": 26234,
+    "Deceased": 417,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27199,
+    "Recovered": 26315,
+    "Deceased": 417,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27285,
+    "Recovered": 26411,
+    "Deceased": 417,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27327,
+    "Recovered": 26504,
+    "Deceased": 419,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27375,
+    "Recovered": 26589,
+    "Deceased": 419,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27414,
+    "Recovered": 26681,
+    "Deceased": 422,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27462,
+    "Recovered": 26757,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27510,
+    "Recovered": 26810,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27569,
+    "Recovered": 26864,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27628,
+    "Recovered": 26941,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-11-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27663,
+    "Recovered": 26978,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27720,
+    "Recovered": 27016,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27758,
+    "Recovered": 27062,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27790,
+    "Recovered": 27082,
+    "Deceased": 423,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27814,
+    "Recovered": 27129,
+    "Deceased": 425,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27844,
+    "Recovered": 27150,
+    "Deceased": 426,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27886,
+    "Recovered": 27192,
+    "Deceased": 426,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27912,
+    "Recovered": 27234,
+    "Deceased": 427,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27947,
+    "Recovered": 27287,
+    "Deceased": 428,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 27985,
+    "Recovered": 27330,
+    "Deceased": 428,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28041,
+    "Recovered": 27381,
+    "Deceased": 428,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28082,
+    "Recovered": 27427,
+    "Deceased": 429,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28117,
+    "Recovered": 27463,
+    "Deceased": 430,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28160,
+    "Recovered": 27496,
+    "Deceased": 430,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28183,
+    "Recovered": 27527,
+    "Deceased": 431,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28218,
+    "Recovered": 27560,
+    "Deceased": 432,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28260,
+    "Recovered": 27595,
+    "Deceased": 432,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28291,
+    "Recovered": 27628,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28321,
+    "Recovered": 27657,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28350,
+    "Recovered": 27680,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28382,
+    "Recovered": 27710,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28411,
+    "Recovered": 27730,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28449,
+    "Recovered": 27746,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28478,
+    "Recovered": 27763,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28496,
+    "Recovered": 27779,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28534,
+    "Recovered": 27803,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28574,
+    "Recovered": 27832,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28606,
+    "Recovered": 27858,
+    "Deceased": 433,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28646,
+    "Recovered": 27885,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28671,
+    "Recovered": 27917,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28697,
+    "Recovered": 27965,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "31-12-2020",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28703,
+    "Recovered": 28011,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28732,
+    "Recovered": 28041,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28762,
+    "Recovered": 28065,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28794,
+    "Recovered": 28093,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28818,
+    "Recovered": 28124,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28837,
+    "Recovered": 28154,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28858,
+    "Recovered": 28179,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28873,
+    "Recovered": 28209,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28904,
+    "Recovered": 28235,
+    "Deceased": 434,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28926,
+    "Recovered": 28256,
+    "Deceased": 435,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28946,
+    "Recovered": 28285,
+    "Deceased": 435,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28970,
+    "Recovered": 28317,
+    "Deceased": 435,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 28990,
+    "Recovered": 28355,
+    "Deceased": 436,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29004,
+    "Recovered": 28383,
+    "Deceased": 436,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29018,
+    "Recovered": 28413,
+    "Deceased": 436,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29040,
+    "Recovered": 28432,
+    "Deceased": 436,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29057,
+    "Recovered": 28457,
+    "Deceased": 437,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29070,
+    "Recovered": 28485,
+    "Deceased": 437,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29082,
+    "Recovered": 28512,
+    "Deceased": 437,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29089,
+    "Recovered": 28527,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29101,
+    "Recovered": 28536,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29119,
+    "Recovered": 28548,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29134,
+    "Recovered": 28561,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29150,
+    "Recovered": 28575,
+    "Deceased": 438,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29162,
+    "Recovered": 28588,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29179,
+    "Recovered": 28600,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29190,
+    "Recovered": 28614,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29211,
+    "Recovered": 28629,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29221,
+    "Recovered": 28643,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29235,
+    "Recovered": 28656,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29245,
+    "Recovered": 28670,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "31-01-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29263,
+    "Recovered": 28682,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29265,
+    "Recovered": 28693,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29281,
+    "Recovered": 28708,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29288,
+    "Recovered": 28728,
+    "Deceased": 439,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29299,
+    "Recovered": 28755,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29314,
+    "Recovered": 28763,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29320,
+    "Recovered": 28770,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29325,
+    "Recovered": 28778,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29328,
+    "Recovered": 28785,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29342,
+    "Recovered": 28795,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29344,
+    "Recovered": 28804,
+    "Deceased": 440,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29348,
+    "Recovered": 28817,
+    "Deceased": 441,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29362,
+    "Recovered": 28832,
+    "Deceased": 441,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29368,
+    "Recovered": 28844,
+    "Deceased": 441,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29379,
+    "Recovered": 28854,
+    "Deceased": 442,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29402,
+    "Recovered": 28862,
+    "Deceased": 442,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29410,
+    "Recovered": 28876,
+    "Deceased": 442,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29432,
+    "Recovered": 28888,
+    "Deceased": 444,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29405,
+    "Recovered": 28897,
+    "Deceased": 444,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29421,
+    "Recovered": 28910,
+    "Deceased": 445,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29444,
+    "Recovered": 28919,
+    "Deceased": 445,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29462,
+    "Recovered": 28930,
+    "Deceased": 445,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29467,
+    "Recovered": 28942,
+    "Deceased": 445,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29477,
+    "Recovered": 28957,
+    "Deceased": 446,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29490,
+    "Recovered": 28973,
+    "Deceased": 446,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29502,
+    "Recovered": 28986,
+    "Deceased": 446,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29508,
+    "Recovered": 28997,
+    "Deceased": 447,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29524,
+    "Recovered": 29006,
+    "Deceased": 447,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-02-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29544,
+    "Recovered": 29020,
+    "Deceased": 447,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29551,
+    "Recovered": 29032,
+    "Deceased": 448,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29568,
+    "Recovered": 29042,
+    "Deceased": 448,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29574,
+    "Recovered": 29053,
+    "Deceased": 448,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29588,
+    "Recovered": 29062,
+    "Deceased": 448,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29608,
+    "Recovered": 29079,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29633,
+    "Recovered": 29086,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29648,
+    "Recovered": 29091,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29660,
+    "Recovered": 29099,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29631,
+    "Recovered": 29105,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29656,
+    "Recovered": 29113,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29670,
+    "Recovered": 29119,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29686,
+    "Recovered": 29128,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29710,
+    "Recovered": 29136,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29738,
+    "Recovered": 29143,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29755,
+    "Recovered": 29151,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29778,
+    "Recovered": 29160,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29808,
+    "Recovered": 29168,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29847,
+    "Recovered": 29182,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29872,
+    "Recovered": 29194,
+    "Deceased": 449,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29908,
+    "Recovered": 29217,
+    "Deceased": 450,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29941,
+    "Recovered": 29236,
+    "Deceased": 451,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 29980,
+    "Recovered": 29254,
+    "Deceased": 451,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30031,
+    "Recovered": 29294,
+    "Deceased": 451,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30075,
+    "Recovered": 29319,
+    "Deceased": 453,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30141,
+    "Recovered": 29348,
+    "Deceased": 454,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30211,
+    "Recovered": 29393,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30288,
+    "Recovered": 29435,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30358,
+    "Recovered": 29483,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30420,
+    "Recovered": 29536,
+    "Deceased": 455,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30483,
+    "Recovered": 29596,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "31-03-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30584,
+    "Recovered": 29652,
+    "Deceased": 457,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30704,
+    "Recovered": 29743,
+    "Deceased": 460,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30818,
+    "Recovered": 29844,
+    "Deceased": 461,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 30959,
+    "Recovered": 29938,
+    "Deceased": 462,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 31058,
+    "Recovered": 29993,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 31148,
+    "Recovered": 30090,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 31234,
+    "Recovered": 30157,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 31287,
+    "Recovered": 30221,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 31402,
+    "Recovered": 30271,
+    "Deceased": 464,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 31555,
+    "Recovered": 30296,
+    "Deceased": 465,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 31720,
+    "Recovered": 30360,
+    "Deceased": 467,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 31943,
+    "Recovered": 30446,
+    "Deceased": 467,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 32230,
+    "Recovered": 30500,
+    "Deceased": 467,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 32350,
+    "Recovered": 30526,
+    "Deceased": 468,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 32485,
+    "Recovered": 30579,
+    "Deceased": 469,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 32677,
+    "Recovered": 30712,
+    "Deceased": 473,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 32990,
+    "Recovered": 30849,
+    "Deceased": 475,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 33238,
+    "Recovered": 31004,
+    "Deceased": 476,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 33544,
+    "Recovered": 31179,
+    "Deceased": 480,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 33800,
+    "Recovered": 31279,
+    "Deceased": 483,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 34075,
+    "Recovered": 31407,
+    "Deceased": 486,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 34330,
+    "Recovered": 31753,
+    "Deceased": 492,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 34694,
+    "Recovered": 32081,
+    "Deceased": 492,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 35059,
+    "Recovered": 32263,
+    "Deceased": 496,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 35500,
+    "Recovered": 32363,
+    "Deceased": 498,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 36058,
+    "Recovered": 32655,
+    "Deceased": 499,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 36491,
+    "Recovered": 33190,
+    "Deceased": 508,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 36790,
+    "Recovered": 33465,
+    "Deceased": 515,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 37218,
+    "Recovered": 33786,
+    "Deceased": 521,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 37578,
+    "Recovered": 34142,
+    "Deceased": 532,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-04-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 38065,
+    "Recovered": 34522,
+    "Deceased": 535,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 38359,
+    "Recovered": 34995,
+    "Deceased": 541,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 38822,
+    "Recovered": 35543,
+    "Deceased": 554,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 39615,
+    "Recovered": 36025,
+    "Deceased": 564,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 40163,
+    "Recovered": 36566,
+    "Deceased": 572,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 40805,
+    "Recovered": 37141,
+    "Deceased": 576,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 41668,
+    "Recovered": 37680,
+    "Deceased": 589,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 42519,
+    "Recovered": 38017,
+    "Deceased": 598,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 43439,
+    "Recovered": 38512,
+    "Deceased": 612,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 44487,
+    "Recovered": 39000,
+    "Deceased": 631,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 45034,
+    "Recovered": 39913,
+    "Deceased": 644,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 45718,
+    "Recovered": 40369,
+    "Deceased": 653,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 46410,
+    "Recovered": 41062,
+    "Deceased": 666,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 47085,
+    "Recovered": 41757,
+    "Deceased": 679,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 47967,
+    "Recovered": 42386,
+    "Deceased": 695,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 49459,
+    "Recovered": 42966,
+    "Deceased": 704,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 50601,
+    "Recovered": 44125,
+    "Deceased": 712,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 51848,
+    "Recovered": 45005,
+    "Deceased": 724,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 52653,
+    "Recovered": 45305,
+    "Deceased": 743,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 53480,
+    "Recovered": 46072,
+    "Deceased": 751,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 54373,
+    "Recovered": 46764,
+    "Deceased": 775,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 55543,
+    "Recovered": 47631,
+    "Deceased": 787,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 56574,
+    "Recovered": 48671,
+    "Deceased": 802,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 57469,
+    "Recovered": 49509,
+    "Deceased": 817,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 58300,
+    "Recovered": 50316,
+    "Deceased": 831,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 59200,
+    "Recovered": 51393,
+    "Deceased": 856,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 60102,
+    "Recovered": 52188,
+    "Deceased": 870,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 60789,
+    "Recovered": 52908,
+    "Deceased": 891,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 61593,
+    "Recovered": 53695,
+    "Deceased": 905,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 62296,
+    "Recovered": 54462,
+    "Deceased": 932,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 62912,
+    "Recovered": 55350,
+    "Deceased": 948,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "31-05-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 63402,
+    "Recovered": 56582,
+    "Deceased": 969,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 63865,
+    "Recovered": 57315,
+    "Deceased": 983,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 64396,
+    "Recovered": 58517,
+    "Deceased": 1003,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 64870,
+    "Recovered": 59637,
+    "Deceased": 1012,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 65258,
+    "Recovered": 60357,
+    "Deceased": 1022,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 65630,
+    "Recovered": 61224,
+    "Deceased": 1031,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 66002,
+    "Recovered": 61789,
+    "Deceased": 1045,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 66304,
+    "Recovered": 62459,
+    "Deceased": 1060,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 66589,
+    "Recovered": 62967,
+    "Deceased": 1064,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 66898,
+    "Recovered": 63493,
+    "Deceased": 1077,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 67243,
+    "Recovered": 63948,
+    "Deceased": 1082,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 67573,
+    "Recovered": 64552,
+    "Deceased": 1090,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 67880,
+    "Recovered": 64918,
+    "Deceased": 1096,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 68174,
+    "Recovered": 65318,
+    "Deceased": 1110,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 68379,
+    "Recovered": 65674,
+    "Deceased": 1121,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 68597,
+    "Recovered": 65985,
+    "Deceased": 1126,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 68772,
+    "Recovered": 66275,
+    "Deceased": 1129,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 68929,
+    "Recovered": 66562,
+    "Deceased": 1135,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 69078,
+    "Recovered": 66919,
+    "Deceased": 1143,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 69210,
+    "Recovered": 67246,
+    "Deceased": 1147,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 69331,
+    "Recovered": 67552,
+    "Deceased": 1149,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 69434,
+    "Recovered": 67840,
+    "Deceased": 1153,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 69544,
+    "Recovered": 67970,
+    "Deceased": 1156,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 69630,
+    "Recovered": 68082,
+    "Deceased": 1158,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 69714,
+    "Recovered": 68156,
+    "Deceased": 1165,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 69799,
+    "Recovered": 68222,
+    "Deceased": 1166,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 69924,
+    "Recovered": 68274,
+    "Deceased": 1167,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70001,
+    "Recovered": 68322,
+    "Deceased": 1168,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70087,
+    "Recovered": 68353,
+    "Deceased": 1171,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70164,
+    "Recovered": 68394,
+    "Deceased": 1173,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-06-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70232,
+    "Recovered": 68428,
+    "Deceased": 1176,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70342,
+    "Recovered": 68460,
+    "Deceased": 1178,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70410,
+    "Recovered": 68517,
+    "Deceased": 1180,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70472,
+    "Recovered": 68606,
+    "Deceased": 1181,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70531,
+    "Recovered": 68700,
+    "Deceased": 1184,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70584,
+    "Recovered": 68792,
+    "Deceased": 1185,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70632,
+    "Recovered": 68879,
+    "Deceased": 1187,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70683,
+    "Recovered": 68960,
+    "Deceased": 1190,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70732,
+    "Recovered": 69018,
+    "Deceased": 1190,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70779,
+    "Recovered": 69067,
+    "Deceased": 1192,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70841,
+    "Recovered": 69125,
+    "Deceased": 1193,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70885,
+    "Recovered": 69182,
+    "Deceased": 1194,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70921,
+    "Recovered": 69235,
+    "Deceased": 1195,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70956,
+    "Recovered": 69286,
+    "Deceased": 1198,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 70990,
+    "Recovered": 69334,
+    "Deceased": 1199,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71035,
+    "Recovered": 69380,
+    "Deceased": 1200,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71078,
+    "Recovered": 69429,
+    "Deceased": 1200,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71117,
+    "Recovered": 69476,
+    "Deceased": 1200,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71164,
+    "Recovered": 69517,
+    "Deceased": 1201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71208,
+    "Recovered": 69556,
+    "Deceased": 1201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71247,
+    "Recovered": 69598,
+    "Deceased": 1200,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71293,
+    "Recovered": 69635,
+    "Deceased": 1201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71335,
+    "Recovered": 69674,
+    "Deceased": 1201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71379,
+    "Recovered": 69722,
+    "Deceased": 1201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71419,
+    "Recovered": 69766,
+    "Deceased": 1201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71457,
+    "Recovered": 69807,
+    "Deceased": 1201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71492,
+    "Recovered": 69844,
+    "Deceased": 1201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71536,
+    "Recovered": 69885,
+    "Deceased": 1201,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71575,
+    "Recovered": 69930,
+    "Deceased": 1202,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71619,
+    "Recovered": 69970,
+    "Deceased": 1202,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71663,
+    "Recovered": 70016,
+    "Deceased": 1203,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "31-07-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71706,
+    "Recovered": 70065,
+    "Deceased": 1203,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71751,
+    "Recovered": 70112,
+    "Deceased": 1204,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71797,
+    "Recovered": 70154,
+    "Deceased": 1204,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71839,
+    "Recovered": 70188,
+    "Deceased": 1206,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71878,
+    "Recovered": 70226,
+    "Deceased": 1206,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71919,
+    "Recovered": 70271,
+    "Deceased": 1207,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71952,
+    "Recovered": 70315,
+    "Deceased": 1209,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 71993,
+    "Recovered": 70353,
+    "Deceased": 1210,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72033,
+    "Recovered": 70388,
+    "Deceased": 1212,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72066,
+    "Recovered": 70419,
+    "Deceased": 1212,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72102,
+    "Recovered": 70447,
+    "Deceased": 1212,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72144,
+    "Recovered": 70483,
+    "Deceased": 1213,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72188,
+    "Recovered": 70529,
+    "Deceased": 1213,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72220,
+    "Recovered": 70578,
+    "Deceased": 1215,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72248,
+    "Recovered": 70629,
+    "Deceased": 1215,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72279,
+    "Recovered": 70677,
+    "Deceased": 1215,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72312,
+    "Recovered": 70709,
+    "Deceased": 1216,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72342,
+    "Recovered": 70747,
+    "Deceased": 1218,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72386,
+    "Recovered": 70791,
+    "Deceased": 1220,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72421,
+    "Recovered": 70840,
+    "Deceased": 1221,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72452,
+    "Recovered": 70888,
+    "Deceased": 1221,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72483,
+    "Recovered": 70934,
+    "Deceased": 1221,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72519,
+    "Recovered": 70968,
+    "Deceased": 1221,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72553,
+    "Recovered": 71000,
+    "Deceased": 1223,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72589,
+    "Recovered": 71036,
+    "Deceased": 1223,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72623,
+    "Recovered": 71068,
+    "Deceased": 1224,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72657,
+    "Recovered": 71094,
+    "Deceased": 1227,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72692,
+    "Recovered": 71126,
+    "Deceased": 1229,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72724,
+    "Recovered": 71147,
+    "Deceased": 1230,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72758,
+    "Recovered": 71166,
+    "Deceased": 1230,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72790,
+    "Recovered": 71188,
+    "Deceased": 1230,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "31-08-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72830,
+    "Recovered": 71227,
+    "Deceased": 1231,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72876,
+    "Recovered": 71270,
+    "Deceased": 1231,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72915,
+    "Recovered": 71317,
+    "Deceased": 1231,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72953,
+    "Recovered": 71358,
+    "Deceased": 1231,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 72987,
+    "Recovered": 71395,
+    "Deceased": 1231,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73021,
+    "Recovered": 71425,
+    "Deceased": 1230,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73053,
+    "Recovered": 71453,
+    "Deceased": 1230,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73093,
+    "Recovered": 71478,
+    "Deceased": 1230,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73129,
+    "Recovered": 71500,
+    "Deceased": 1231,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73158,
+    "Recovered": 71532,
+    "Deceased": 1231,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73189,
+    "Recovered": 71567,
+    "Deceased": 1232,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73221,
+    "Recovered": 71608,
+    "Deceased": 1234,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73250,
+    "Recovered": 71646,
+    "Deceased": 1234,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73283,
+    "Recovered": 71689,
+    "Deceased": 1235,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73321,
+    "Recovered": 71736,
+    "Deceased": 1236,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73366,
+    "Recovered": 71785,
+    "Deceased": 1238,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73402,
+    "Recovered": 71823,
+    "Deceased": 1237,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73435,
+    "Recovered": 71855,
+    "Deceased": 1237,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73474,
+    "Recovered": 71891,
+    "Deceased": 1239,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73520,
+    "Recovered": 71930,
+    "Deceased": 1240,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73563,
+    "Recovered": 71968,
+    "Deceased": 1240,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73607,
+    "Recovered": 72002,
+    "Deceased": 1242,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73648,
+    "Recovered": 72031,
+    "Deceased": 1243,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73687,
+    "Recovered": 72059,
+    "Deceased": 1244,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73720,
+    "Recovered": 72079,
+    "Deceased": 1244,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73757,
+    "Recovered": 72101,
+    "Deceased": 1244,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73792,
+    "Recovered": 72126,
+    "Deceased": 1244,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73833,
+    "Recovered": 72159,
+    "Deceased": 1245,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73873,
+    "Recovered": 72202,
+    "Deceased": 1245,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73914,
+    "Recovered": 72254,
+    "Deceased": 1246,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-09-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73951,
+    "Recovered": 72308,
+    "Deceased": 1247,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "01-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 73992,
+    "Recovered": 72359,
+    "Deceased": 1248,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "02-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74023,
+    "Recovered": 72406,
+    "Deceased": 1251,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "03-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74056,
+    "Recovered": 72445,
+    "Deceased": 1252,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "04-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74089,
+    "Recovered": 72481,
+    "Deceased": 1252,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "05-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74123,
+    "Recovered": 72515,
+    "Deceased": 1253,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "06-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74156,
+    "Recovered": 72543,
+    "Deceased": 1252,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "07-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74187,
+    "Recovered": 72569,
+    "Deceased": 1252,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "08-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74216,
+    "Recovered": 72590,
+    "Deceased": 1252,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "09-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74243,
+    "Recovered": 72614,
+    "Deceased": 1252,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "10-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74278,
+    "Recovered": 72642,
+    "Deceased": 1252,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "11-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74311,
+    "Recovered": 72673,
+    "Deceased": 1252,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "12-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74348,
+    "Recovered": 72710,
+    "Deceased": 1252,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "13-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74384,
+    "Recovered": 72749,
+    "Deceased": 1253,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "14-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74419,
+    "Recovered": 72787,
+    "Deceased": 1254,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "15-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74454,
+    "Recovered": 72827,
+    "Deceased": 1254,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "16-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74485,
+    "Recovered": 72865,
+    "Deceased": 1254,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "17-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74515,
+    "Recovered": 72899,
+    "Deceased": 1254,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "18-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74545,
+    "Recovered": 72937,
+    "Deceased": 1254,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "19-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74580,
+    "Recovered": 72973,
+    "Deceased": 1254,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "20-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74629,
+    "Recovered": 73008,
+    "Deceased": 1255,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "21-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74646,
+    "Recovered": 73036,
+    "Deceased": 1256,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "22-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74678,
+    "Recovered": 73068,
+    "Deceased": 1256,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "23-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74711,
+    "Recovered": 73096,
+    "Deceased": 1256,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "24-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74745,
+    "Recovered": 73127,
+    "Deceased": 1256,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "25-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74781,
+    "Recovered": 73163,
+    "Deceased": 1256,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "26-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74815,
+    "Recovered": 73201,
+    "Deceased": 1256,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "27-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74844,
+    "Recovered": 73237,
+    "Deceased": 1257,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "28-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74873,
+    "Recovered": 73276,
+    "Deceased": 1257,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "29-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74910,
+    "Recovered": 73310,
+    "Deceased": 1257,
+    "Other": 0,
+    "Tested": 37505
+  },
+  {
+    "Date": "30-10-2021",
+    "State": "Tamil Nadu",
+    "country": "Kancheepuram",
+    "cases": 74940,
+    "Recovered": 73349,
+    "Deceased": 1258,
+    "Other": 0,
+    "Tested": 37505
+  }
+]
