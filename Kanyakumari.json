@@ -5527,6 +5527,7 @@
     "Recovered": 61100,
     "Deceased": 1048,
     "Other": 0,
-    "Tested": 79600
+    "Tested": 79600,
+    "Lastupdated" : 62345
   }
 ]
