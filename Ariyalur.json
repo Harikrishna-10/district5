@@ -1,5 +1,6 @@
 [
   {
+    "district":"Ariyalur",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Ariyalur",
@@ -5528,6 +5529,7 @@
     "Deceased": 261,
     "Other": 0,
     "Tested": 18285,
-    "Lastupdated" : 16849
+    "Lastupdated" : 16849,
+    "recover" : 16545
   }
 ]
