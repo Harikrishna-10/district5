@@ -1,5 +1,6 @@
 [
   {
+    "district":"Sivaganga",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Sivaganga",
@@ -5528,6 +5529,7 @@
     "Deceased": 206,
     "Other": 0,
     "Tested": 25824,
-    "Lastupdated":20182
+    "Lastupdated":20182,
+    "recover":19845
   }
 ]
