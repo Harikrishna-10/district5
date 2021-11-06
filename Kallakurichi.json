@@ -1,5 +1,6 @@
 [
   {
+    "district":"Kallakurichi",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Kallakurichi",
@@ -5528,6 +5529,7 @@
     "Deceased": 210,
     "Other": 0,
     "Tested": 28314,
-    "Lastupdated" : 31350
+    "Lastupdated" : 31350,
+    "recover":31033
   }
 ]
