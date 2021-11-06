@@ -1,5 +1,6 @@
 [
   {
+    "district": "Dharmapuri",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Dharmapuri",
@@ -5528,6 +5529,7 @@
     "Deceased": 274,
     "Other": 0,
     "Tested": 163803,
-    "Lastupdated" : 28409
+    "Lastupdated" : 28409,
+    "recover":27936
   }
 ]
