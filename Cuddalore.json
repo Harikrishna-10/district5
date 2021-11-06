@@ -1,5 +1,6 @@
 [
   {
+    "district":"Cuddalore",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Cuddalore",
@@ -5528,6 +5529,7 @@
     "Deceased": 867,
     "Other": 0,
     "Tested": 36434,
-    "Lastupdated" : 64069
+    "Lastupdated" : 64069,
+    "recover":62979
   }
 ]
