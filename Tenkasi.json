@@ -1,5 +1,6 @@
 [
   {
+    "district":"Tenkasi",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Tenkasi",
@@ -5528,6 +5529,7 @@
     "Deceased": 484,
     "Other": 0,
     "Tested": 26338,
-    "Lastupdated":27353
+    "Lastupdated":27353,
+    "recover":26830
   }
 ]
