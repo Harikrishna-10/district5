@@ -1,5 +1,6 @@
 [
   {
+    "district":"Nagapattinam",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Nagapattinam",
@@ -5528,6 +5529,7 @@
     "Deceased": 345,
     "Other": 0,
     "Tested": 20984,
-    "Lastupdated" : 21058
+    "Lastupdated" : 21058,
+    "recover":20541
   }
 ]
