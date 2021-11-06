@@ -1,5 +1,6 @@
 [
   {
+    "district":"Virudhunagar",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Virudhunagar",
@@ -5529,6 +5530,7 @@
     "Other": 0,
     "Tested": 28620,
     "Lastupdated":46289,
-    "District":"Virudhunagar"
+    "District":"Virudhunagar",
+    "recover":45679
   }
 ]
