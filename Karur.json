@@ -1,5 +1,6 @@
 [
   {
+    "district":"Karur",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Karur",
@@ -5528,6 +5529,7 @@
     "Deceased": 356,
     "Other": 0,
     "Tested": 17190,
-    "Lastupdated" : 24071
+    "Lastupdated" : 24071,
+    "recover": 23507
   }
 ]
