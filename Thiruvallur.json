@@ -1,5 +1,6 @@
 [
   {
+    "district":"Thiruvallur",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Thiruvallur",
@@ -5528,6 +5529,7 @@
     "Deceased": 1842,
     "Other": 0,
     "Tested": 67948,
-    "Lastupdated":119342
+    "Lastupdated":119342,
+    "recover":117083
   }
 ]
