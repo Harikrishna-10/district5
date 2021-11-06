@@ -1,5 +1,6 @@
 [
   {
+    "district":"Viluppuram",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Viluppuram",
@@ -5528,6 +5529,7 @@
     "Deceased": 356,
     "Other": 0,
     "Tested": 52064,
-    "Lastupdated":45847
+    "Lastupdated":45847,
+    "recover":  45371
   }
 ]
