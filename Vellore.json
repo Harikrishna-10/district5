@@ -1,5 +1,6 @@
 [
   {
+    "district":"Vellore",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Vellore",
@@ -5528,6 +5529,7 @@
     "Deceased": 1131,
     "Other": 0,
     "Tested": 47936,
-    "Lastupdated":49852
+    "Lastupdated":49852,
+    "recover":48549
   }
 ]
