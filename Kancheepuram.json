@@ -1,5 +1,6 @@
 [
   {
+    "district": "Kancheepuram",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Kancheepuram",
@@ -5528,6 +5529,7 @@
     "Deceased": 1258,
     "Other": 0,
     "Tested": 37505,
-    "Lastupdated" : 74940
+    "Lastupdated" : 74940,
+    "recover": 73349
   }
 ]
