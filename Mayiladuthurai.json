@@ -1,5 +1,6 @@
 [
   {
+    "district":"Mayiladuthurai",
     "Date": "29-06-2021",
     "State": "Tamil Nadu",
     "country": "Mayiladuthurai",
@@ -1238,6 +1239,7 @@
     "Deceased": 316,
     "Other": 0,
     "Tested": "",
-    "Lastupdated" : 23277
+    "Lastupdated" : 23277,
+    "recover":22868
   }
 ]
