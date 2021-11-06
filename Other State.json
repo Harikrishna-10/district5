@@ -1,5 +1,6 @@
 [
   {
+    "district":"Other State",
     "Date": "16-05-2020",
     "State": "Tamil Nadu",
     "country": "Other State",
@@ -3658,6 +3659,7 @@
     "Deceased": 3,
     "Other": 0,
     "Tested": "",
-    "Lastupdated" : 0
+    "Lastupdated" : 0,
+    "recover":0
   }
 ]
