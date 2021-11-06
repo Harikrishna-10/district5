@@ -1,5 +1,6 @@
 [
   {
+    "district":"Tirupathur",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Tirupathur",
@@ -5528,6 +5529,7 @@
     "Deceased": 625,
     "Other": 0,
     "Tested": 23998,
-    "Lastupdated":29291
+    "Lastupdated":29291,
+    "recover":28592
   }
 ]
