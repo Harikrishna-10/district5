@@ -1,5 +1,6 @@
 [
   {
+    "district":"Chennai",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Chennai",
@@ -5528,6 +5529,7 @@
     "Deceased": 8542,
     "Other": 0,
     "Tested": 2667777,
-    "Lastupdated" : 554554
+    "Lastupdated" : 554554,
+    "recover" : 544558
   }
 ]
