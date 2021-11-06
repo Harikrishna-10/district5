@@ -1,5 +1,6 @@
 [
   {
+    "district": "Theni",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Theni",
@@ -5528,6 +5529,7 @@
     "Deceased": 520,
     "Other": 0,
     "Tested": 45839,
-    "Lastupdated" : 43570
+    "Lastupdated" : 43570,
+    "recover":43013
   }
 ]
