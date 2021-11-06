@@ -1,5 +1,6 @@
 [
   {
+    "district":"Erode",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Erode",
@@ -5528,6 +5529,7 @@
     "Deceased": 684,
     "Other": 0,
     "Tested": 66240,
-    "Lastupdated" : 104235
+    "Lastupdated" : 104235,
+    "recover":102742
   }
 ]
