@@ -1,5 +1,6 @@
 [
   {
+    "district":"Chengalpattu",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Chengalpattu",
@@ -5528,6 +5529,7 @@
     "Deceased": 2504,
     "Other": 0,
     "Tested": 51771,
-    "Lastupdated" : 171694
+    "Lastupdated" : 171694,
+    "recover" : 168234
   }
 ]
