@@ -1,5 +1,6 @@
 [
   {
+    "district": "Ranipet",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Ranipet",
@@ -5528,6 +5529,7 @@
     "Deceased": 775,
     "Other": 0,
     "Tested": 20118,
-    "Lastupdated":43422
+    "Lastupdated":43422,
+    "recover":42543
   }
 ]
