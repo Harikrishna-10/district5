@@ -1,5 +1,6 @@
 [
   {
+    "district": "Perambalur",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Perambalur",
@@ -5528,6 +5529,7 @@
     "Deceased": 243,
     "Other": 0,
     "Tested": 7981,
-    "Lastupdated" : 12065
+    "Lastupdated" : 12065,
+    "recover":11785
   }
 ]
