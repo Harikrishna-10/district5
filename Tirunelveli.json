@@ -1,5 +1,6 @@
 [
   {
+    "district":"Tirunelveli",
     "Date": "26-04-2020",
     "State": "Tamil Nadu",
     "country": "Tirunelveli",
@@ -5528,6 +5529,7 @@
     "Deceased": 431,
     "Other": 0,
     "Tested": 54208,
-    "Lastupdated":49363
+    "Lastupdated":49363,
+    "recover":48799
   }
 ]
